@@ -71,17 +71,17 @@ class TvStatusTest(unittest.TestCase):
 class CurrentClubTest(unittest.TestCase):
     def row(self, club, start=None):
         r = {"player": {"value": "http://www.wikidata.org/entity/Q1"}, "playerSv": {"value": "P"},
-             "clubLabelEn": {"value": club}}
+             "club": {"value": "http://www.wikidata.org/entity/" + club}}
         if start:
             r["start"] = {"value": start}
         return r
 
     def test_keeps_latest_open_club(self):
-        rows = [self.row("Old FC", "2020-01-01T00:00:00Z"), self.row("New FC", "2025-07-01T00:00:00Z")]
-        self.assertEqual([p["club"] for p in current_clubs(rows)], ["New FC"])
+        rows = [self.row("Q1", "2020-01-01T00:00:00Z"), self.row("Q2", "2025-07-01T00:00:00Z")]
+        self.assertEqual(current_clubs(rows), [("Q1", "P", "Q2")])
 
     def test_keeps_all_when_no_dates(self):
-        self.assertEqual(len(current_clubs([self.row("A"), self.row("B")])), 2)
+        self.assertEqual(len(current_clubs([self.row("Q5"), self.row("Q6")])), 2)
 
 
 if __name__ == "__main__":
