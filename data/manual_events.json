@@ -1,0 +1,13 @@
+{
+  "_info": "Händelser som inte kommer från football-data.org: landslaget, NHL, skidor, golf, Duplantis m.m. Tid i UTC (ISO 8601). Lägg bara in sådant du kontrollerat.",
+  "_example": {
+    "id": "nhl-2026-10-10-tor-det",
+    "sport": "Ishockey",
+    "competition": "NHL",
+    "start": "2026-10-10T23:00:00Z",
+    "title": "Toronto Maple Leafs – Detroit Red Wings",
+    "swedes": [{"name": "William Nylander", "team": "Toronto Maple Leafs"}],
+    "tv": {"status": "confirmed", "service": "Viaplay", "channel": null, "source": "https://..."}
+  },
+  "events": []
+}

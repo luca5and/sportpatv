@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sport på TV – Svenskar på TV</title>
+  <meta name="description" content="Se var du kan titta på svenska idrottare idag – utan reklam.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📺</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1 class="logo">Sport<span>på</span>TV</h1>
+      <nav class="tabs" aria-label="Flikar">
+        <a class="tab active" href="#" aria-current="page">🇸🇪 Svenskar på TV</a>
+        <span class="tab disabled" title="Kommer snart">All sport <small>snart</small></span>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="days" id="days" role="tablist" aria-label="Välj dag"></div>
+    <div class="filters" id="filters" aria-label="Filtrera sport"></div>
+
+    <ol class="list" id="list" aria-live="polite"></ol>
+    <p class="empty" id="empty" hidden></p>
+
+    <details class="legend">
+      <summary>Vad betyder märkningarna?</summary>
+      <dl>
+        <dt><span class="badge confirmed">Viaplay</span></dt>
+        <dd><b>Bekräftad</b> – vi har hittat matchen i kanalens egen tablå.</dd>
+        <dt><span class="badge likely">Viaplay</span></dt>
+        <dd><b>Bör sändas</b> – kanalen visar alla matcher i turneringen, men just den här matchen är inte kontrollerad.</dd>
+        <dt><span class="badge unknown">Ej bekräftat</span></dt>
+        <dd>Vi vet inte säkert om matchen sänds i Sverige. Vi gissar hellre inte än skickar dig fel.</dd>
+      </dl>
+    </details>
+  </main>
+
+  <footer class="wrap foot">
+    <p>Ingen reklam. Fotbollsdata från <a href="https://www.football-data.org/">football-data.org</a>,
+      spelardata från <a href="https://www.wikidata.org/">Wikidata</a>.
+      <span id="updated"></span></p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

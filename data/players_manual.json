@@ -1,0 +1,8 @@
+{
+  "_info": "Rättelser till Wikidata. 'add' lägger till en svensk spelare i ett lag (lagnamnet som football-data.org skriver det). 'remove' tar bort en spelare helt, t.ex. om Wikidata har ett gammalt klubbyte.",
+  "add": [],
+  "remove": [],
+  "club_aliases": {
+    "_example_football_data_name": ["Namn som Wikidata använder"]
+  }
+}
