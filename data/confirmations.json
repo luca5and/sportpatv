@@ -1,0 +1,12 @@
+{
+  "_info": "Bekräftade sändningar per match. Nyckel = match-id från football-data.org (fotboll) eller id i manual_events.json. Lägg bara in en rad när sändningen hittats hos kanalen själv, och spara länken i source.",
+  "_example": {
+    "537000": {
+      "service": "Viaplay",
+      "channel": "V Sport Premium",
+      "source": "https://viaplay.se/...",
+      "checked": "2026-10-08"
+    }
+  },
+  "matches": {}
+}

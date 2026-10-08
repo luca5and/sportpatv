@@ -1,0 +1,86 @@
+{
+  "_info": "Svenska TV-rättigheter per turnering. coverage: 'all' = alla matcher sänds hos tjänsten, 'split' = delas mellan flera tjänster (måste bekräftas per match), 'selected' = bara utvalda matcher, 'unknown' = ej kontrollerat. Kontrollera varje rad mot källan inför varje säsong och sätt verified till datumet du kontrollerade.",
+  "season": "2026/27",
+  "competitions": {
+    "PL": {
+      "name": "Premier League",
+      "services": ["Viaplay", "Prime Video"],
+      "coverage": "split",
+      "note": "Viaplay 342 matcher, Prime Video 38 exklusiva",
+      "source": "https://hurbra.se/premier-league-pa-tv-2026-2027/",
+      "verified": null
+    },
+    "ELC": {
+      "name": "Championship",
+      "services": ["Viaplay"],
+      "coverage": "all",
+      "note": "Avtal t.o.m. 2027/28 enligt SportBusiness",
+      "source": "https://www.sportbusiness.com/geography/sweden/",
+      "verified": null
+    },
+    "SA": {
+      "name": "Serie A",
+      "services": ["TV4 Play"],
+      "coverage": "all",
+      "note": "Kräver TV4 Play Sport",
+      "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
+      "verified": null
+    },
+    "BL1": {
+      "name": "Bundesliga",
+      "services": ["Viaplay"],
+      "coverage": "all",
+      "note": "Avtal till 2029",
+      "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
+      "verified": null
+    },
+    "PD": {
+      "name": "La Liga",
+      "services": ["Disney+"],
+      "coverage": "all",
+      "note": "Sänds under ESPN-varumärket i Disney+, 2026/27–2029/30",
+      "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
+      "verified": null
+    },
+    "FL1": {
+      "name": "Ligue 1",
+      "services": ["Viaplay"],
+      "coverage": "unknown",
+      "note": "Uppgift från bettingsajt, ej officiell källa",
+      "source": "https://news.bet365.com/sv-sv/article/ligue-1-2026-27-tv-kanal-streaming-datum-spelschema-lag/2026072711302616051",
+      "verified": null
+    },
+    "DED": {
+      "name": "Eredivisie",
+      "services": ["Viaplay"],
+      "coverage": "unknown",
+      "note": "Svag källa, kontrollera hos Viaplay",
+      "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27",
+      "verified": null
+    },
+    "CL": {
+      "name": "Champions League",
+      "services": ["Viaplay"],
+      "coverage": "unknown",
+      "note": "Viaplay har rättigheterna t.o.m. maj 2027. Oklart om alla matcher sänds",
+      "source": "https://www.tv4.se/artikel/tt-260430-champtvrattigheter1-fdc4a6fd/viaplay-forlorar-cl-fotbollen-kan-ga-till-disney",
+      "verified": null
+    },
+    "PPL": {
+      "name": "Primeira Liga",
+      "services": [],
+      "coverage": "unknown",
+      "note": "Ej kontrollerat",
+      "source": null,
+      "verified": null
+    },
+    "BSA": {
+      "name": "Brasileirão",
+      "services": [],
+      "coverage": "unknown",
+      "note": "Ej kontrollerat",
+      "source": null,
+      "verified": null
+    }
+  }
+}
