@@ -19,10 +19,10 @@ ENDPOINT = "https://query.wikidata.org/sparql"
 USER_AGENT = "sportpatv/0.1 (https://github.com/luca5and/sportpatv)"
 
 # Svenska medborgare (Q34), fotbollsspelare (Q937857), män (Q6581097),
-# födda efter 1984. Klubbtillhörighet (P54) utan sluttid (P582) till en
-# fotbollsklubb (Q476028), dvs. inte landslag.
+# födda efter 1984. Alla klubbtillhörigheter (P54) till en fotbollsklubb
+# (Q476028), dvs. inte landslag, med start- och sluttid.
 PLAYERS_QUERY = """
-SELECT ?player ?playerSv ?playerEn ?club ?start WHERE {
+SELECT ?player ?playerSv ?playerEn ?club ?start ?end WHERE {
   ?player wdt:P27 wd:Q34;
           wdt:P106 wd:Q937857;
           wdt:P21 wd:Q6581097;
@@ -30,8 +30,8 @@ SELECT ?player ?playerSv ?playerEn ?club ?start WHERE {
   FILTER(?born > "1984-01-01T00:00:00Z"^^xsd:dateTime)
   ?player p:P54 ?st.
   ?st ps:P54 ?club.
-  FILTER NOT EXISTS { ?st pq:P582 [] }
   OPTIONAL { ?st pq:P580 ?start }
+  OPTIONAL { ?st pq:P582 ?end }
   ?club wdt:P31 wd:Q476028.
   OPTIONAL { ?player rdfs:label ?playerSv FILTER(LANG(?playerSv) = "sv") }
   OPTIONAL { ?player rdfs:label ?playerEn FILTER(LANG(?playerEn) = "en") }
@@ -84,9 +84,11 @@ def fetch_club_names(club_ids, chunk=200):
 
 
 def current_clubs(rows):
-    """En spelare kan ha flera öppna klubbrader i Wikidata (gamla som ingen
-    stängt). Behåll bara raden med senast starttid; saknas starttid helt
-    behålls alla. Returnerar [(spelar-id, namn, klubb-id)]."""
+    """Wikidata har många gamla klubbar som ingen har stängt. Därför räknas
+    bara klubben spelaren gick till senast: har den en sluttid har spelaren
+    ingen känd klubb nu (slutat, eller nytt klubbyte saknas). Har ingen rad
+    starttid godtas en öppen klubb bara om den är den enda.
+    Returnerar [(spelar-id, namn, klubb-id)]."""
     by_player = {}
     for row in rows:
         by_player.setdefault(val(row, "player"), []).append(row)
@@ -94,7 +96,12 @@ def current_clubs(rows):
     result = set()
     for pid, prow in by_player.items():
         dated = [r for r in prow if val(r, "start")]
-        keep = [max(dated, key=lambda r: val(r, "start"))] if dated else prow
+        if dated:
+            latest = max(val(r, "start") for r in dated)
+            keep = [r for r in dated if val(r, "start") == latest and not val(r, "end")]
+        else:
+            open_rows = [r for r in prow if not val(r, "end")]
+            keep = open_rows if len({val(r, "club") for r in open_rows}) == 1 else []
         for r in keep:
             name = val(r, "playerSv") or val(r, "playerEn") or qid(pid)
             result.add((qid(pid), name, qid(val(r, "club"))))

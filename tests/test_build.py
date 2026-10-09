@@ -69,19 +69,26 @@ class TvStatusTest(unittest.TestCase):
 
 
 class CurrentClubTest(unittest.TestCase):
-    def row(self, club, start=None):
+    def row(self, club, start=None, end=None):
         r = {"player": {"value": "http://www.wikidata.org/entity/Q1"}, "playerSv": {"value": "P"},
              "club": {"value": "http://www.wikidata.org/entity/" + club}}
         if start:
             r["start"] = {"value": start}
+        if end:
+            r["end"] = {"value": end}
         return r
 
-    def test_keeps_latest_open_club(self):
-        rows = [self.row("Q1", "2020-01-01T00:00:00Z"), self.row("Q2", "2025-07-01T00:00:00Z")]
+    def test_latest_club_wins_over_old_unclosed_club(self):
+        rows = [self.row("Q1", "2010-01-01T00:00:00Z"), self.row("Q2", "2025-07-01T00:00:00Z")]
         self.assertEqual(current_clubs(rows), [("Q1", "P", "Q2")])
 
-    def test_keeps_all_when_no_dates(self):
-        self.assertEqual(len(current_clubs([self.row("Q5"), self.row("Q6")])), 2)
+    def test_player_whose_latest_club_ended_has_no_club(self):
+        rows = [self.row("Q1", "2011-01-01T00:00:00Z"), self.row("Q2", "2022-01-01T00:00:00Z", "2023-12-31T00:00:00Z")]
+        self.assertEqual(current_clubs(rows), [])
+
+    def test_undated_open_club_only_if_single(self):
+        self.assertEqual(current_clubs([self.row("Q5"), self.row("Q6", end="2020-01-01T00:00:00Z")]), [("Q1", "P", "Q5")])
+        self.assertEqual(current_clubs([self.row("Q5"), self.row("Q6")]), [])
 
 
 if __name__ == "__main__":
