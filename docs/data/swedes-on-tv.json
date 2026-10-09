@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-09T05:11+00:00",
+ "generated": "2026-10-09T05:13+00:00",
  "events": [
+  {
+   "id": "567327",
+   "sport": "Fotboll",
+   "competition": "Primeira Liga",
+   "start": "2026-10-09T17:45:00Z",
+   "title": "Moreirense – Gil Vicente",
+   "swedes": [
+    {
+     "name": "Andre Picornell",
+     "team": "Gil Vicente"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": null
+   }
+  },
   {
    "id": "558881",
    "sport": "Fotboll",
@@ -9,23 +29,7 @@
    "title": "PSV – Heerenveen",
    "swedes": [
     {
-     "name": "Ramon Pascal Lundqvist",
-     "team": "PSV"
-    },
-    {
-     "name": "Arber Zeneli",
-     "team": "Heerenveen"
-    },
-    {
      "name": "Marcus Linday",
-     "team": "Heerenveen"
-    },
-    {
-     "name": "Rami Al Hajj",
-     "team": "Heerenveen"
-    },
-    {
-     "name": "Sam Larsson",
      "team": "Heerenveen"
     }
    ],
@@ -58,6 +62,66 @@
    }
   },
   {
+   "id": "564706",
+   "sport": "Fotboll",
+   "competition": "Primera Division",
+   "start": "2026-10-09T19:00:00Z",
+   "title": "Málaga – Espanyol",
+   "swedes": [
+    {
+     "name": "Jens Cajuste",
+     "team": "Málaga"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "Disney+",
+    "channel": null,
+    "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
+    "note": null
+   }
+  },
+  {
+   "id": "561862",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-10-09T19:00:00Z",
+   "title": "West Ham – QPR",
+   "swedes": [
+    {
+     "name": "Isak Alemayehu Mulugeta",
+     "team": "QPR"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": null
+   }
+  },
+  {
+   "id": "567326",
+   "sport": "Fotboll",
+   "competition": "Primeira Liga",
+   "start": "2026-10-09T19:15:00Z",
+   "title": "Braga – Sporting CP",
+   "swedes": [
+    {
+     "name": "Gustaf Lagerbielke",
+     "team": "Braga"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": null
+   }
+  },
+  {
    "id": "560593",
    "sport": "Fotboll",
    "competition": "Premier League",
@@ -67,6 +131,10 @@
     {
      "name": "Viktor Gyökeres",
      "team": "Arsenal"
+    },
+    {
+     "name": "Gabriel Gudmundsson",
+     "team": "Leeds United"
     }
    ],
    "tv": {
@@ -78,6 +146,26 @@
    }
   },
   {
+   "id": "561863",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-10-10T11:30:00Z",
+   "title": "Charlton – Bristol City",
+   "swedes": [
+    {
+     "name": "Noah Eile",
+     "team": "Bristol City"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": null
+   }
+  },
+  {
    "id": "561860",
    "sport": "Fotboll",
    "competition": "Championship",
@@ -85,11 +173,11 @@
    "title": "Swansea – Norwich",
    "swedes": [
     {
-     "name": "Adnan Marić",
+     "name": "Melker Widell",
      "team": "Swansea"
     },
     {
-     "name": "Kristoffer Nordfeldt",
+     "name": "Zeidane Inoussa",
      "team": "Swansea"
     }
    ],
@@ -102,22 +190,22 @@
    }
   },
   {
-   "id": "565818",
+   "id": "558588",
    "sport": "Fotboll",
-   "competition": "Bundesliga",
-   "start": "2026-10-10T13:30:00Z",
-   "title": "Hoffenheim – HSV",
+   "competition": "Serie A",
+   "start": "2026-10-10T13:00:00Z",
+   "title": "Genoa – Fiorentina",
    "swedes": [
     {
-     "name": "Jiloan Hamad",
-     "team": "Hoffenheim"
+     "name": "Alieu Njie",
+     "team": "Fiorentina"
     }
    ],
    "tv": {
     "status": "likely",
-    "service": "Viaplay",
+    "service": "TV4 Play",
     "channel": null,
-    "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
+    "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
     "note": null
    }
   },
@@ -129,12 +217,8 @@
    "title": "Aston Villa – Brentford",
    "swedes": [
     {
-     "name": "Victor Nilsson Lindelöf",
+     "name": "Victor Nilsson-Lindelöf",
      "team": "Aston Villa"
-    },
-    {
-     "name": "Saman Ghoddos",
-     "team": "Brentford"
     }
    ],
    "tv": {
@@ -146,26 +230,6 @@
    }
   },
   {
-   "id": "561865",
-   "sport": "Fotboll",
-   "competition": "Championship",
-   "start": "2026-10-10T14:00:00Z",
-   "title": "Blackburn – Cardiff",
-   "swedes": [
-    {
-     "name": "Axel Henriksson",
-     "team": "Blackburn"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
-   }
-  },
-  {
    "id": "561866",
    "sport": "Fotboll",
    "competition": "Championship",
@@ -173,7 +237,11 @@
    "title": "Bolton – Stoke",
    "swedes": [
     {
-     "name": "Sead Haksabanovic",
+     "name": "Svante Ingelsson",
+     "team": "Stoke"
+    },
+    {
+     "name": "Viktor Johansson",
      "team": "Stoke"
     }
    ],
@@ -195,10 +263,70 @@
     {
      "name": "Jacob Widell Zetterström",
      "team": "Derby County"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": null
+   }
+  },
+  {
+   "id": "560599",
+   "sport": "Fotboll",
+   "competition": "Premier League",
+   "start": "2026-10-10T14:00:00Z",
+   "title": "Ipswich Town – Fulham",
+   "swedes": [
+    {
+     "name": "Hugo Larsson",
+     "team": "Fulham"
     },
     {
-     "name": "Marcus Olsson",
-     "team": "Derby County"
+     "name": "Jonah Kusi-Asare",
+     "team": "Fulham"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Prime Video"
+   }
+  },
+  {
+   "id": "561867",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-10-10T14:00:00Z",
+   "title": "Preston NE – Millwall",
+   "swedes": [
+    {
+     "name": "Jusef Erabi",
+     "team": "Preston NE"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": null
+   }
+  },
+  {
+   "id": "561858",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-10-10T14:00:00Z",
+   "title": "Sheffield Utd – Lincoln City",
+   "swedes": [
+    {
+     "name": "Nils Zätterström",
+     "team": "Sheffield Utd"
     }
    ],
    "tv": {
@@ -216,6 +344,10 @@
    "start": "2026-10-10T14:00:00Z",
    "title": "Sunderland – Brighton Hove",
    "swedes": [
+    {
+     "name": "Melker Ellborg",
+     "team": "Sunderland"
+    },
     {
      "name": "Yasin Ayari",
      "team": "Brighton Hove"
@@ -237,10 +369,6 @@
    "title": "Watford – Burnley",
    "swedes": [
     {
-     "name": "Joel Ekstrand",
-     "team": "Watford"
-    },
-    {
      "name": "Hjalmar Ekdal",
      "team": "Burnley"
     }
@@ -250,6 +378,66 @@
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": null
+   }
+  },
+  {
+   "id": "558880",
+   "sport": "Fotboll",
+   "competition": "Eredivisie",
+   "start": "2026-10-10T14:30:00Z",
+   "title": "Go Ahead – Sparta",
+   "swedes": [
+    {
+     "name": "Victor Edvardsen",
+     "team": "Go Ahead"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay"
+   }
+  },
+  {
+   "id": "558582",
+   "sport": "Fotboll",
+   "competition": "Serie A",
+   "start": "2026-10-10T16:00:00Z",
+   "title": "Inter – Parma",
+   "swedes": [
+    {
+     "name": "Pontus Almqvist",
+     "team": "Parma"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "TV4 Play",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
+    "note": null
+   }
+  },
+  {
+   "id": "564700",
+   "sport": "Fotboll",
+   "competition": "Primera Division",
+   "start": "2026-10-10T16:30:00Z",
+   "title": "Barça – Getafe",
+   "swedes": [
+    {
+     "name": "Roony Bardghji",
+     "team": "Barça"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "Disney+",
+    "channel": null,
+    "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
     "note": null
    }
   },
@@ -285,7 +473,7 @@
    "title": "RB Leipzig – Frankfurt",
    "swedes": [
     {
-     "name": "Branimir Hrgota",
+     "name": "Love Arrhov",
      "team": "Frankfurt"
     }
    ],
@@ -298,23 +486,15 @@
    }
   },
   {
-   "id": "558879",
+   "id": "558877",
    "sport": "Fotboll",
    "competition": "Eredivisie",
-   "start": "2026-10-10T16:45:00Z",
-   "title": "Feyenoord – AZ",
+   "start": "2026-10-10T18:00:00Z",
+   "title": "Sittard – Twente",
    "swedes": [
     {
-     "name": "Simon Gustafsson",
-     "team": "Feyenoord"
-    },
-    {
-     "name": "Mattias Johansson",
-     "team": "AZ"
-    },
-    {
-     "name": "Muamer Tanković",
-     "team": "AZ"
+     "name": "Kristoffer Peterson",
+     "team": "Sittard"
     }
    ],
    "tv": {
@@ -333,7 +513,7 @@
    "title": "Monaco – Toulouse",
    "swedes": [
     {
-     "name": "Isak Pettersson",
+     "name": "Sion Oppong",
      "team": "Toulouse"
     }
    ],
@@ -346,23 +526,15 @@
    }
   },
   {
-   "id": "558878",
+   "id": "558876",
    "sport": "Fotboll",
    "competition": "Eredivisie",
-   "start": "2026-10-10T19:00:00Z",
-   "title": "Ajax – NEC",
+   "start": "2026-10-11T10:15:00Z",
+   "title": "Utrecht – Willem II",
    "swedes": [
     {
-     "name": "Maximilian Ibrahimović",
-     "team": "Ajax"
-    },
-    {
-     "name": "Mikael Dyrestam",
-     "team": "NEC"
-    },
-    {
-     "name": "Sam Lundholm",
-     "team": "NEC"
+     "name": "Armin Ćulum",
+     "team": "Willem II"
     }
    ],
    "tv": {
@@ -374,15 +546,59 @@
    }
   },
   {
-   "id": "558874",
+   "id": "558585",
    "sport": "Fotboll",
-   "competition": "Eredivisie",
-   "start": "2026-10-11T12:30:00Z",
-   "title": "Zwolle – Cambuur",
+   "competition": "Serie A",
+   "start": "2026-10-11T10:30:00Z",
+   "title": "Como 1907 – Roma",
    "swedes": [
     {
-     "name": "Erik Israelsson",
-     "team": "Zwolle"
+     "name": "Adrian Lahdo",
+     "team": "Como 1907"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "TV4 Play",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
+    "note": null
+   }
+  },
+  {
+   "id": "564703",
+   "sport": "Fotboll",
+   "competition": "Primera Division",
+   "start": "2026-10-11T12:00:00Z",
+   "title": "Elche – Celta",
+   "swedes": [
+    {
+     "name": "Carl Starfelt",
+     "team": "Celta"
+    },
+    {
+     "name": "Williot Swedberg",
+     "team": "Celta"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "Disney+",
+    "channel": null,
+    "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
+    "note": null
+   }
+  },
+  {
+   "id": "560594",
+   "sport": "Fotboll",
+   "competition": "Premier League",
+   "start": "2026-10-11T13:00:00Z",
+   "title": "Hull City – Everton",
+   "swedes": [
+    {
+     "name": "Elliot Stroud",
+     "team": "Hull City"
     }
    ],
    "tv": {
@@ -390,7 +606,27 @@
     "service": null,
     "channel": null,
     "source": null,
-    "note": "Troligen Viaplay"
+    "note": "Troligen Viaplay eller Prime Video"
+   }
+  },
+  {
+   "id": "558583",
+   "sport": "Fotboll",
+   "competition": "Serie A",
+   "start": "2026-10-11T13:00:00Z",
+   "title": "Lazio – Monza",
+   "swedes": [
+    {
+     "name": "Noel Törnqvist",
+     "team": "Monza"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "TV4 Play",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
+    "note": null
    }
   },
   {
@@ -401,8 +637,12 @@
    "title": "Lecce – Bologna",
    "swedes": [
     {
-     "name": "Joel Voelkerling Persson",
-     "team": "Lecce"
+     "name": "Emil Holm",
+     "team": "Bologna"
+    },
+    {
+     "name": "Jesper Karlsson",
+     "team": "Bologna"
     }
    ],
    "tv": {
@@ -421,8 +661,16 @@
    "title": "Nice – Strasbourg",
    "swedes": [
     {
-     "name": "Niklas Hult",
+     "name": "Isak Jansson",
      "team": "Nice"
+    },
+    {
+     "name": "Benjamin Brantlind",
+     "team": "Strasbourg"
+    },
+    {
+     "name": "Sebastian Nanasi",
+     "team": "Strasbourg"
     }
    ],
    "tv": {
@@ -445,7 +693,7 @@
      "team": "M'gladbach"
     },
     {
-     "name": "Oscar Wendt",
+     "name": "Isac Lidberg",
      "team": "M'gladbach"
     }
    ],
@@ -465,19 +713,27 @@
    "title": "Excelsior – Groningen",
    "swedes": [
     {
-     "name": "Adam Carlén",
+     "name": "Casper Widell",
      "team": "Excelsior"
     },
     {
-     "name": "Alex Mortensen",
+     "name": "Yacqub Finey",
+     "team": "Excelsior"
+    },
+    {
+     "name": "Alvin Nordin",
      "team": "Groningen"
     },
     {
-     "name": "Dino Islamovic",
+     "name": "Elvis Van Der Laan",
      "team": "Groningen"
     },
     {
-     "name": "Rasmus Lindgren",
+     "name": "Jacob Ondrejka",
+     "team": "Groningen"
+    },
+    {
+     "name": "Malcolm Jeng",
      "team": "Groningen"
     }
    ],
@@ -510,6 +766,70 @@
    }
   },
   {
+   "id": "567320",
+   "sport": "Fotboll",
+   "competition": "Primeira Liga",
+   "start": "2026-10-11T17:00:00Z",
+   "title": "SL Benfica – Vitória SC",
+   "swedes": [
+    {
+     "name": "Samuel Dahl",
+     "team": "SL Benfica"
+    },
+    {
+     "name": "Victor Andersson",
+     "team": "Vitória SC"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": null
+   }
+  },
+  {
+   "id": "564705",
+   "sport": "Fotboll",
+   "competition": "Primera Division",
+   "start": "2026-10-11T19:00:00Z",
+   "title": "Santander – Valencia",
+   "swedes": [
+    {
+     "name": "Simon Eriksson",
+     "team": "Santander"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "Disney+",
+    "channel": null,
+    "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
+    "note": null
+   }
+  },
+  {
+   "id": "558579",
+   "sport": "Fotboll",
+   "competition": "Serie A",
+   "start": "2026-10-12T16:30:00Z",
+   "title": "Atalanta – Venezia FC",
+   "swedes": [
+    {
+     "name": "Isak Hien",
+     "team": "Atalanta"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "TV4 Play",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
+    "note": null
+   }
+  },
+  {
    "id": "558587",
    "sport": "Fotboll",
    "competition": "Serie A",
@@ -517,12 +837,8 @@
    "title": "Torino – Udinese",
    "swedes": [
     {
-     "name": "Alexander Farnerud",
-     "team": "Torino"
-    },
-    {
-     "name": "Pontus Jansson",
-     "team": "Torino"
+     "name": "Jesper Karlström",
+     "team": "Udinese"
     }
    ],
    "tv": {
@@ -540,10 +856,6 @@
    "start": "2026-10-12T19:00:00Z",
    "title": "Coventry City – Newcastle",
    "swedes": [
-    {
-     "name": "Martin Lorentzson",
-     "team": "Coventry City"
-    },
     {
      "name": "Anthony Elanga",
      "team": "Newcastle"
@@ -565,8 +877,8 @@
    "title": "Bristol City – Blackburn",
    "swedes": [
     {
-     "name": "Axel Henriksson",
-     "team": "Blackburn"
+     "name": "Noah Eile",
+     "team": "Bristol City"
     }
    ],
    "tv": {
@@ -598,26 +910,6 @@
    }
   },
   {
-   "id": "561872",
-   "sport": "Fotboll",
-   "competition": "Championship",
-   "start": "2026-10-13T18:45:00Z",
-   "title": "Cardiff – Watford",
-   "swedes": [
-    {
-     "name": "Joel Ekstrand",
-     "team": "Watford"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
-   }
-  },
-  {
    "id": "561871",
    "sport": "Fotboll",
    "competition": "Championship",
@@ -625,11 +917,11 @@
    "title": "Millwall – Swansea",
    "swedes": [
     {
-     "name": "Adnan Marić",
+     "name": "Melker Widell",
      "team": "Swansea"
     },
     {
-     "name": "Kristoffer Nordfeldt",
+     "name": "Zeidane Inoussa",
      "team": "Swansea"
     }
    ],
@@ -662,6 +954,26 @@
    }
   },
   {
+   "id": "561875",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-10-13T19:00:00Z",
+   "title": "Birmingham – Preston NE",
+   "swedes": [
+    {
+     "name": "Jusef Erabi",
+     "team": "Preston NE"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": null
+   }
+  },
+  {
    "id": "575344",
    "sport": "Fotboll",
    "competition": "UEFA Champions League",
@@ -671,6 +983,10 @@
     {
      "name": "Deniz Gül",
      "team": "Galatasaray"
+    },
+    {
+     "name": "Roony Bardghji",
+     "team": "Barça"
     }
    ],
    "tv": {
@@ -702,26 +1018,6 @@
    }
   },
   {
-   "id": "575348",
-   "sport": "Fotboll",
-   "competition": "UEFA Champions League",
-   "start": "2026-10-13T19:00:00Z",
-   "title": "RB Leipzig – PSV",
-   "swedes": [
-    {
-     "name": "Ramon Pascal Lundqvist",
-     "team": "PSV"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay"
-   }
-  },
-  {
    "id": "561876",
    "sport": "Fotboll",
    "competition": "Championship",
@@ -729,7 +1025,11 @@
    "title": "Stoke – Middlesbrough",
    "swedes": [
     {
-     "name": "Sead Haksabanovic",
+     "name": "Svante Ingelsson",
+     "team": "Stoke"
+    },
+    {
+     "name": "Viktor Johansson",
      "team": "Stoke"
     }
    ],
@@ -749,8 +1049,8 @@
    "title": "Feyenoord – Como 1907",
    "swedes": [
     {
-     "name": "Simon Gustafsson",
-     "team": "Feyenoord"
+     "name": "Adrian Lahdo",
+     "team": "Como 1907"
     }
    ],
    "tv": {
@@ -782,6 +1082,26 @@
    }
   },
   {
+   "id": "561877",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-10-14T18:45:00Z",
+   "title": "Portsmouth – Sheffield Utd",
+   "swedes": [
+    {
+     "name": "Nils Zätterström",
+     "team": "Sheffield Utd"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": null
+   }
+  },
+  {
    "id": "561880",
    "sport": "Fotboll",
    "competition": "Championship",
@@ -789,11 +1109,11 @@
    "title": "QPR – Derby County",
    "swedes": [
     {
-     "name": "Jacob Widell Zetterström",
-     "team": "Derby County"
+     "name": "Isak Alemayehu Mulugeta",
+     "team": "QPR"
     },
     {
-     "name": "Marcus Olsson",
+     "name": "Jacob Widell Zetterström",
      "team": "Derby County"
     }
    ],
@@ -813,7 +1133,7 @@
    "title": "Aston Villa – Fenerbahçe",
    "swedes": [
     {
-     "name": "Victor Nilsson Lindelöf",
+     "name": "Victor Nilsson-Lindelöf",
      "team": "Aston Villa"
     }
    ],
