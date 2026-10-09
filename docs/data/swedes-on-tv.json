@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T15:53+00:00",
+ "generated": "2026-10-09T18:19+00:00",
  "events": [
   {
    "id": "567327",
@@ -1243,6 +1243,12 @@
      "page": "spelare/jacob-markstrom/"
     },
     {
+     "name": "Filip Gustavsson",
+     "team": "Wild",
+     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson",
+     "page": "spelare/filip-gustavsson/"
+    },
+    {
      "name": "Jesper Wallstedt",
      "team": "Wild",
      "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
@@ -1259,12 +1265,6 @@
      "team": "Wild",
      "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin",
      "page": "spelare/jonas-brodin/"
-    },
-    {
-     "name": "Viking Gustafsson Nyberg",
-     "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Viking_Gustafsson_Nyberg",
-     "page": "spelare/viking-gustafsson-nyberg/"
     }
    ],
    "tv": {
@@ -2661,6 +2661,12 @@
    "title": "Minnesota Wild – Vegas Golden Knights",
    "swedes": [
     {
+     "name": "Filip Gustavsson",
+     "team": "Wild",
+     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson",
+     "page": "spelare/filip-gustavsson/"
+    },
+    {
      "name": "Jesper Wallstedt",
      "team": "Wild",
      "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
@@ -2677,12 +2683,6 @@
      "team": "Wild",
      "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin",
      "page": "spelare/jonas-brodin/"
-    },
-    {
-     "name": "Viking Gustafsson Nyberg",
-     "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Viking_Gustafsson_Nyberg",
-     "page": "spelare/viking-gustafsson-nyberg/"
     },
     {
      "name": "Rasmus Andersson",
@@ -3525,6 +3525,12 @@
      "page": "spelare/viggo-bjorck/"
     },
     {
+     "name": "Filip Gustavsson",
+     "team": "Wild",
+     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson",
+     "page": "spelare/filip-gustavsson/"
+    },
+    {
      "name": "Jesper Wallstedt",
      "team": "Wild",
      "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
@@ -3541,12 +3547,6 @@
      "team": "Wild",
      "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin",
      "page": "spelare/jonas-brodin/"
-    },
-    {
-     "name": "Viking Gustafsson Nyberg",
-     "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Viking_Gustafsson_Nyberg",
-     "page": "spelare/viking-gustafsson-nyberg/"
     }
    ],
    "tv": {
@@ -4595,6 +4595,12 @@
    "title": "Minnesota Wild – St. Louis Blues",
    "swedes": [
     {
+     "name": "Filip Gustavsson",
+     "team": "Wild",
+     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson",
+     "page": "spelare/filip-gustavsson/"
+    },
+    {
      "name": "Jesper Wallstedt",
      "team": "Wild",
      "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
@@ -4611,12 +4617,6 @@
      "team": "Wild",
      "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin",
      "page": "spelare/jonas-brodin/"
-    },
-    {
-     "name": "Viking Gustafsson Nyberg",
-     "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Viking_Gustafsson_Nyberg",
-     "page": "spelare/viking-gustafsson-nyberg/"
     },
     {
      "name": "Jonatan Berggren",

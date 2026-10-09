@@ -2401,6 +2401,11 @@
     "name": "Erik Haula"
    },
    {
+    "born": "2002-11-22",
+    "country": "USA",
+    "name": "Jared Wright"
+   },
+   {
     "born": "1993-05-31",
     "country": "FIN",
     "name": "Joel Armia"
@@ -2483,6 +2488,11 @@
     "name": "David Spacek"
    },
    {
+    "born": "1998-06-07",
+    "country": "SWE",
+    "name": "Filip Gustavsson"
+   },
+   {
     "born": "1989-11-29",
     "country": "CAN",
     "name": "Jared Spurgeon"
@@ -2556,11 +2566,6 @@
     "born": "1994-09-20",
     "country": "USA",
     "name": "Ryan Hartman"
-   },
-   {
-    "born": "2003-09-21",
-    "country": "SWE",
-    "name": "Viking Gustafsson Nyberg"
    },
    {
     "born": "1997-01-13",
@@ -4117,6 +4122,11 @@
     "born": "2000-07-21",
     "country": "RUS",
     "name": "Kirill Marchenko"
+   },
+   {
+    "born": "1995-09-13",
+    "country": "USA",
+    "name": "Miles Wood"
    },
    {
     "born": "1994-03-09",
