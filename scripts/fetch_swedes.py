@@ -149,32 +149,41 @@ def current_clubs(rows):
     return sorted(result)
 
 
-def main():
-    try:
-        rows = sparql(PLAYERS_QUERY)
-        picks = current_clubs(rows)
-        club_names = fetch_club_names({club for _, _, club in picks})
-    except Exception as exc:  # nätverksfel, timeout, ändrat format
-        print(f"Wikidata misslyckades, behåller gammal fil: {exc}", file=sys.stderr)
-        return 0
-
+def fetch_players():
+    rows = sparql(PLAYERS_QUERY)
+    picks = current_clubs(rows)
+    club_names = fetch_club_names({club for _, _, club in picks})
     players = []
     for pid, name, club in picks:
         names = sorted(club_names.get(club, []))
-        if not names:
-            continue
-        players.append({"id": pid, "name": name, "club": names[0], "club_id": club, "club_names": names})
-    players.sort(key=lambda p: (p["club"], p["name"]))
+        if names:
+            players.append({"id": pid, "name": name, "club": names[0], "club_id": club, "club_names": names})
+    return sorted(players, key=lambda p: (p["club"], p["name"]))
+
+
+def main():
+    """Spelare och Wikipedia-länkar hämtas var för sig; misslyckas en del
+    behålls den delen från förra körningen."""
+    try:
+        old = json.loads(OUT.read_text())
+    except (FileNotFoundError, ValueError):
+        old = {}
+
+    try:
+        players = fetch_players()
+    except Exception as exc:  # nätverksfel, timeout, ändrat format
+        print(f"Wikidata (spelare) misslyckades, behåller gamla: {exc}", file=sys.stderr)
+        players = old.get("players", [])
 
     try:
         people = people_index({lang: sparql(ARTICLES_QUERY % lang) for lang in ("sv", "en")})
-    except Exception as exc:  # länkar är en bonus; spelarlistan sparas ändå
-        print(f"Wikipedia-länkar misslyckades: {exc}", file=sys.stderr)
-        people = {}
+    except Exception as exc:
+        print(f"Wikidata (Wikipedia-länkar) misslyckades, behåller gamla: {exc}", file=sys.stderr)
+        people = old.get("people", {})
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"players": players, "people": people}, ensure_ascii=False, indent=1) + "\n")
-    print(f"{len(players)} svenska spelare sparade, {len(people)} namn med Wikipedia-länk")
+    print(f"{len(players)} svenska spelare, {len(people)} namn med Wikipedia-länk")
     return 0
 
 

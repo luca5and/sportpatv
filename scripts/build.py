@@ -159,7 +159,10 @@ def build(now=None):
     matches = (load(DATA / "generated" / "matches.json", {}) or {}).get("matches", [])
     swedes_data = load(DATA / "generated" / "swedes.json", {}) or {}
     players = swedes_data.get("players", [])
-    people = swedes_data.get("people", {})
+    people = {}
+    for name, entries in swedes_data.get("people", {}).items():  # nyckla om med dagens normalisering
+        merged = people.setdefault(person_key(name), [])
+        merged.extend(e for e in entries if e not in merged)
     players_by_id = {p["id"]: p for p in players if "id" in p}
     rights = load(DATA / "broadcasters.json", {}).get("competitions", {})
     confirmations = load(DATA / "confirmations.json", {}).get("matches", {})
