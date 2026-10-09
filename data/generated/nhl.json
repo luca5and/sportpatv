@@ -2304,6 +2304,11 @@
     "name": "Sam Bennett"
    },
    {
+    "born": "1995-03-06",
+    "country": "USA",
+    "name": "Sam Lafferty"
+   },
+   {
     "born": "1995-11-06",
     "country": "CAN",
     "name": "Sam Reinhart"
@@ -2543,14 +2548,14 @@
     "name": "Quinn Hughes"
    },
    {
+    "born": "2004-03-30",
+    "country": "CAN",
+    "name": "Rieger Lorenz"
+   },
+   {
     "born": "1994-09-20",
     "country": "USA",
     "name": "Ryan Hartman"
-   },
-   {
-    "born": "1991-11-01",
-    "country": "USA",
-    "name": "Tyler Pitlick"
    },
    {
     "born": "2003-09-21",
