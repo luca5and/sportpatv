@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T06:08+00:00",
+ "generated": "2026-10-09T06:11+00:00",
  "events": [
   {
    "id": "567327",
@@ -11,7 +11,7 @@
     {
      "name": "Andre Picornell",
      "team": "Gil Vicente",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Picornell"
     }
    ],
    "tv": {
@@ -32,7 +32,7 @@
     {
      "name": "Marcus Linday",
      "team": "Heerenveen",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Marcus_Linday"
     }
    ],
    "tv": {
@@ -53,7 +53,7 @@
     {
      "name": "Daniel Svensson",
      "team": "Dortmund",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Daniel_Svensson_(fotbollsspelare_f%C3%B6dd_2002)"
     }
    ],
    "tv": {
@@ -74,7 +74,7 @@
     {
      "name": "Jens Cajuste",
      "team": "Málaga",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Jens_Cajuste"
     }
    ],
    "tv": {
@@ -95,7 +95,7 @@
     {
      "name": "Isak Alemayehu Mulugeta",
      "team": "QPR",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Isak_Alemayehu"
     }
    ],
    "tv": {
@@ -116,7 +116,7 @@
     {
      "name": "Gustaf Lagerbielke",
      "team": "Braga",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Gustaf_Lagerbielke_(fotbollsspelare)"
     }
    ],
    "tv": {
@@ -137,12 +137,12 @@
     {
      "name": "Viktor Gyökeres",
      "team": "Arsenal",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Gy%C3%B6keres"
     },
     {
      "name": "Gabriel Gudmundsson",
      "team": "Leeds United",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Gabriel_Gudmundsson"
     }
    ],
    "tv": {
@@ -163,7 +163,7 @@
     {
      "name": "Noah Eile",
      "team": "Bristol City",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Noah_Eile"
     }
    ],
    "tv": {
@@ -184,12 +184,12 @@
     {
      "name": "Melker Widell",
      "team": "Swansea",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Melker_Widell"
     },
     {
      "name": "Zeidane Inoussa",
      "team": "Swansea",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Zeidane_Inoussa"
     }
    ],
    "tv": {
@@ -252,12 +252,12 @@
     {
      "name": "Svante Ingelsson",
      "team": "Stoke",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Svante_Ingelsson"
     },
     {
      "name": "Viktor Johansson",
      "team": "Stoke",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Johansson_(fotbollsspelare)"
     }
    ],
    "tv": {
@@ -278,7 +278,7 @@
     {
      "name": "Jacob Widell Zetterström",
      "team": "Derby County",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Widell_Zetterstr%C3%B6m"
     }
    ],
    "tv": {
@@ -299,12 +299,12 @@
     {
      "name": "Hugo Larsson",
      "team": "Fulham",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Hugo_Larsson_(fotbollsspelare)"
     },
     {
      "name": "Jonah Kusi-Asare",
      "team": "Fulham",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Jonah_Kusi-Asare"
     }
    ],
    "tv": {
@@ -325,7 +325,7 @@
     {
      "name": "Jusef Erabi",
      "team": "Preston NE",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Jusef_Erabi"
     }
    ],
    "tv": {
@@ -346,7 +346,7 @@
     {
      "name": "Nils Zätterström",
      "team": "Sheffield Utd",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Nils_Z%C3%A4tterstr%C3%B6m"
     }
    ],
    "tv": {
@@ -367,12 +367,12 @@
     {
      "name": "Melker Ellborg",
      "team": "Sunderland",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Melker_Ellborg"
     },
     {
      "name": "Yasin Ayari",
      "team": "Brighton Hove",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Yasin_Ayari"
     }
    ],
    "tv": {
@@ -393,7 +393,7 @@
     {
      "name": "Hjalmar Ekdal",
      "team": "Burnley",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Hjalmar_Ekdal"
     }
    ],
    "tv": {
@@ -414,7 +414,7 @@
     {
      "name": "Victor Edvardsen",
      "team": "Go Ahead",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Victor_Edvardsen"
     }
    ],
    "tv": {
@@ -435,7 +435,7 @@
     {
      "name": "Pontus Almqvist",
      "team": "Parma",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Pontus_Almqvist"
     }
    ],
    "tv": {
@@ -456,7 +456,7 @@
     {
      "name": "Roony Bardghji",
      "team": "Barça",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Roony_Bardghji"
     }
    ],
    "tv": {
@@ -477,12 +477,12 @@
     {
      "name": "Dejan Kulusevski",
      "team": "Tottenham",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Dejan_Kulusevski"
     },
     {
      "name": "Lucas Bergvall",
      "team": "Tottenham",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Lucas_Bergvall"
     }
    ],
    "tv": {
@@ -503,7 +503,7 @@
     {
      "name": "Love Arrhov",
      "team": "Frankfurt",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Love_Arrhov"
     }
    ],
    "tv": {
@@ -524,7 +524,7 @@
     {
      "name": "Kristoffer Peterson",
      "team": "Sittard",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Kristoffer_Peterson"
     }
    ],
    "tv": {
@@ -545,7 +545,7 @@
     {
      "name": "Sion Oppong",
      "team": "Toulouse",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Sion_Oppong"
     }
    ],
    "tv": {
@@ -587,7 +587,7 @@
     {
      "name": "Adrian Lahdo",
      "team": "Como 1907",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Adrian_Lahdo"
     }
    ],
    "tv": {
@@ -608,12 +608,12 @@
     {
      "name": "Carl Starfelt",
      "team": "Celta",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Carl_Starfelt"
     },
     {
      "name": "Williot Swedberg",
      "team": "Celta",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Williot_Swedberg"
     }
    ],
    "tv": {
@@ -634,7 +634,7 @@
     {
      "name": "Elliot Stroud",
      "team": "Hull City",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Elliot_Stroud"
     }
    ],
    "tv": {
@@ -655,7 +655,7 @@
     {
      "name": "Noel Törnqvist",
      "team": "Monza",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Noel_T%C3%B6rnqvist"
     }
    ],
    "tv": {
@@ -676,12 +676,12 @@
     {
      "name": "Emil Holm",
      "team": "Bologna",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Emil_Holm"
     },
     {
      "name": "Jesper Karlsson",
      "team": "Bologna",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Karlsson"
     }
    ],
    "tv": {
@@ -702,17 +702,17 @@
     {
      "name": "Isak Jansson",
      "team": "Nice",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Isak_Jansson_(fotbollsspelare)"
     },
     {
      "name": "Benjamin Brantlind",
      "team": "Strasbourg",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Benjamin_Brantlind"
     },
     {
      "name": "Sebastian Nanasi",
      "team": "Strasbourg",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Sebastian_Nanasi"
     }
    ],
    "tv": {
@@ -733,12 +733,12 @@
     {
      "name": "Hugo Bolin",
      "team": "M'gladbach",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Hugo_Bolin"
     },
     {
      "name": "Isac Lidberg",
      "team": "M'gladbach",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Isac_Lidberg"
     }
    ],
    "tv": {
@@ -759,7 +759,7 @@
     {
      "name": "Casper Widell",
      "team": "Excelsior",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Casper_Widell"
     },
     {
      "name": "Yacqub Finey",
@@ -774,17 +774,17 @@
     {
      "name": "Elvis Van Der Laan",
      "team": "Groningen",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Elvis_van_der_Laan"
     },
     {
      "name": "Jacob Ondrejka",
      "team": "Groningen",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Ondrejka"
     },
     {
      "name": "Malcolm Jeng",
      "team": "Groningen",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Malcolm_Jeng"
     }
    ],
    "tv": {
@@ -805,7 +805,7 @@
     {
      "name": "Alexander Isak",
      "team": "Liverpool",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Alexander_Isak"
     }
    ],
    "tv": {
@@ -826,12 +826,12 @@
     {
      "name": "Samuel Dahl",
      "team": "SL Benfica",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Samuel_Dahl"
     },
     {
      "name": "Victor Andersson",
      "team": "Vitória SC",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Victor_Andersson_(fotbollsspelare)"
     }
    ],
    "tv": {
@@ -852,7 +852,7 @@
     {
      "name": "Simon Eriksson",
      "team": "Santander",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Simon_Eriksson_(fotbollsspelare)"
     }
    ],
    "tv": {
@@ -873,7 +873,7 @@
     {
      "name": "Isak Hien",
      "team": "Atalanta",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Isak_Hien"
     }
    ],
    "tv": {
@@ -894,7 +894,7 @@
     {
      "name": "Jesper Karlström",
      "team": "Udinese",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Karlstr%C3%B6m"
     }
    ],
    "tv": {
@@ -915,7 +915,7 @@
     {
      "name": "Anthony Elanga",
      "team": "Newcastle",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Anthony_Elanga"
     }
    ],
    "tv": {
@@ -936,7 +936,7 @@
     {
      "name": "Noah Eile",
      "team": "Bristol City",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Noah_Eile"
     }
    ],
    "tv": {
@@ -957,7 +957,7 @@
     {
      "name": "Hjalmar Ekdal",
      "team": "Burnley",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Hjalmar_Ekdal"
     }
    ],
    "tv": {
@@ -978,12 +978,12 @@
     {
      "name": "Melker Widell",
      "team": "Swansea",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Melker_Widell"
     },
     {
      "name": "Zeidane Inoussa",
      "team": "Swansea",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Zeidane_Inoussa"
     }
    ],
    "tv": {
@@ -1004,7 +1004,7 @@
     {
      "name": "Viktor Gyökeres",
      "team": "Arsenal",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Gy%C3%B6keres"
     }
    ],
    "tv": {
@@ -1025,7 +1025,7 @@
     {
      "name": "Jusef Erabi",
      "team": "Preston NE",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Jusef_Erabi"
     }
    ],
    "tv": {
@@ -1046,12 +1046,12 @@
     {
      "name": "Deniz Gül",
      "team": "Galatasaray",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Deniz_G%C3%BCl"
     },
     {
      "name": "Roony Bardghji",
      "team": "Barça",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Roony_Bardghji"
     }
    ],
    "tv": {
@@ -1072,7 +1072,7 @@
     {
      "name": "Gustaf Nilsson",
      "team": "Club Brugge",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Gustaf_Nilsson_(fotbollsspelare_f%C3%B6dd_1997)"
     }
    ],
    "tv": {
@@ -1093,12 +1093,12 @@
     {
      "name": "Svante Ingelsson",
      "team": "Stoke",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Svante_Ingelsson"
     },
     {
      "name": "Viktor Johansson",
      "team": "Stoke",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Johansson_(fotbollsspelare)"
     }
    ],
    "tv": {
@@ -1119,7 +1119,7 @@
     {
      "name": "Adrian Lahdo",
      "team": "Como 1907",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Adrian_Lahdo"
     }
    ],
    "tv": {
@@ -1140,7 +1140,7 @@
     {
      "name": "Alexander Isak",
      "team": "Liverpool",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Alexander_Isak"
     }
    ],
    "tv": {
@@ -1161,7 +1161,7 @@
     {
      "name": "Nils Zätterström",
      "team": "Sheffield Utd",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Nils_Z%C3%A4tterstr%C3%B6m"
     }
    ],
    "tv": {
@@ -1182,12 +1182,12 @@
     {
      "name": "Isak Alemayehu Mulugeta",
      "team": "QPR",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Isak_Alemayehu"
     },
     {
      "name": "Jacob Widell Zetterström",
      "team": "Derby County",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Widell_Zetterstr%C3%B6m"
     }
    ],
    "tv": {
@@ -1229,7 +1229,7 @@
     {
      "name": "Daniel Svensson",
      "team": "Dortmund",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Daniel_Svensson_(fotbollsspelare_f%C3%B6dd_2002)"
     }
    ],
    "tv": {
