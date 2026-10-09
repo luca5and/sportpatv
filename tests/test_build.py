@@ -80,6 +80,21 @@ class TvStatusTest(unittest.TestCase):
         "CL": {"services": ["Viaplay"], "coverage": "unknown"},
     }
 
+    def test_split_league_likely_once_round_exception_confirmed(self):
+        rights = {"PL": {"services": ["Viaplay", "Prime Video"], "coverage": "split",
+                         "default": "Viaplay", "per_round_exception": "Prime Video"}}
+        conf = {"1": {"service": "Prime Video"}}
+        matches = [
+            {"id": "1", "competition": {"code": "PL"}, "matchday": 6},
+            {"id": "2", "competition": {"code": "PL"}, "matchday": 6},
+            {"id": "3", "competition": {"code": "PL"}, "matchday": 7},
+        ]
+        rounds = build.rounds_with_exception(matches, rights, conf)
+        self.assertEqual(rounds, {("PL", 6)})
+        same_round = build.tv_status("2", "PL", rights, conf, ("PL", 6) in rounds)
+        self.assertEqual((same_round["status"], same_round["service"]), ("likely", "Viaplay"))
+        self.assertEqual(build.tv_status("3", "PL", rights, conf, ("PL", 7) in rounds)["status"], "unknown")
+
     def test_confirmation_wins(self):
         tv = build.tv_status("1", "PL", self.rights, {"1": {"service": "Prime Video", "source": "u"}})
         self.assertEqual((tv["status"], tv["service"]), ("confirmed", "Prime Video"))

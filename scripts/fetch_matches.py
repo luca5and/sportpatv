@@ -38,6 +38,7 @@ def main():
             "id": str(m["id"]),
             "start": m["utcDate"],
             "status": m["status"],
+            "matchday": m.get("matchday"),
             "competition": {"code": m["competition"]["code"], "name": m["competition"]["name"]},
             "home": {k: m["homeTeam"].get(k) for k in ("id", "name", "shortName", "tla")},
             "away": {k: m["awayTeam"].get(k) for k in ("id", "name", "shortName", "tla")},

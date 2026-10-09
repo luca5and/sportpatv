@@ -4,15 +4,22 @@
   "competitions": {
     "PL": {
       "name": "Premier League",
-      "services": ["Viaplay", "Prime Video"],
+      "services": [
+        "Viaplay",
+        "Prime Video"
+      ],
       "coverage": "split",
-      "note": "Viaplay 342 matcher, Prime Video 38 exklusiva",
-      "source": "https://hurbra.se/premier-league-pa-tv-2026-2027/",
-      "verified": null
+      "note": "Viaplay 342 matcher, Prime Video 38 exklusiva (en per omgång, oftast lördag 13.30). När omgångens Prime-match är bekräftad räknas resten som Viaplay.",
+      "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+      "verified": null,
+      "default": "Viaplay",
+      "per_round_exception": "Prime Video"
     },
     "ELC": {
       "name": "Championship",
-      "services": ["Viaplay"],
+      "services": [
+        "Viaplay"
+      ],
       "coverage": "all",
       "note": "Avtal t.o.m. 2027/28 enligt SportBusiness",
       "source": "https://www.sportbusiness.com/geography/sweden/",
@@ -20,7 +27,9 @@
     },
     "SA": {
       "name": "Serie A",
-      "services": ["TV4 Play"],
+      "services": [
+        "TV4 Play"
+      ],
       "coverage": "all",
       "note": "Kräver TV4 Play Sport",
       "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
@@ -28,7 +37,9 @@
     },
     "BL1": {
       "name": "Bundesliga",
-      "services": ["Viaplay"],
+      "services": [
+        "Viaplay"
+      ],
       "coverage": "all",
       "note": "Avtal till 2029",
       "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
@@ -36,7 +47,9 @@
     },
     "PD": {
       "name": "La Liga",
-      "services": ["Disney+"],
+      "services": [
+        "Disney+"
+      ],
       "coverage": "all",
       "note": "Sänds under ESPN-varumärket i Disney+, 2026/27–2029/30",
       "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
@@ -44,33 +57,37 @@
     },
     "FL1": {
       "name": "Ligue 1",
-      "services": ["Viaplay"],
-      "coverage": "unknown",
-      "note": "Uppgift från bettingsajt, ej officiell källa",
-      "source": "https://news.bet365.com/sv-sv/article/ligue-1-2026-27-tv-kanal-streaming-datum-spelschema-lag/2026072711302616051",
+      "services": [
+        "Viaplay"
+      ],
+      "coverage": "all",
+      "note": "Exklusivt i Norden t.o.m. 2028/29, alla matcher i streamingtjänsten (Live Soccer TV). En guide anger SportExpressen Play – avvikande.",
+      "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
       "verified": null
     },
     "DED": {
       "name": "Eredivisie",
-      "services": ["Viaplay"],
+      "services": [],
       "coverage": "unknown",
-      "note": "Svag källa, kontrollera hos Viaplay",
-      "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27",
+      "note": "Motstridigt: Viaplay enligt bredbandsval.se, Mola enligt tv-app.se. Ej fastställt.",
+      "source": "https://tv-app.se/tv-idag/sport/fotboll/eredivisie/",
       "verified": null
     },
     "CL": {
       "name": "Champions League",
-      "services": ["Viaplay"],
-      "coverage": "unknown",
-      "note": "Viaplay har rättigheterna t.o.m. maj 2027. Oklart om alla matcher sänds",
-      "source": "https://www.tv4.se/artikel/tt-260430-champtvrattigheter1-fdc4a6fd/viaplay-forlorar-cl-fotbollen-kan-ga-till-disney",
+      "services": [
+        "Viaplay"
+      ],
+      "coverage": "all",
+      "note": "Viaplay sänder alla matcher 2026/27, sista säsongen. Disney+ tar över 2027/28.",
+      "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
       "verified": null
     },
     "PPL": {
       "name": "Primeira Liga",
       "services": [],
       "coverage": "unknown",
-      "note": "Ej kontrollerat",
+      "note": "En källa säger TV4 Play, tre matcher per omgång. Ej bekräftat av en andra källa.",
       "source": null,
       "verified": null
     },
@@ -78,7 +95,7 @@
       "name": "Brasileirão",
       "services": [],
       "coverage": "unknown",
-      "note": "Ej kontrollerat",
+      "note": "Ingen svensk rättighetshavare hittad.",
       "source": null,
       "verified": null
     }
