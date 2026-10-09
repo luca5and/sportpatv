@@ -39,8 +39,8 @@ def main():
             "start": m["utcDate"],
             "status": m["status"],
             "competition": {"code": m["competition"]["code"], "name": m["competition"]["name"]},
-            "home": {k: m["homeTeam"].get(k) for k in ("name", "shortName", "tla")},
-            "away": {k: m["awayTeam"].get(k) for k in ("name", "shortName", "tla")},
+            "home": {k: m["homeTeam"].get(k) for k in ("id", "name", "shortName", "tla")},
+            "away": {k: m["awayTeam"].get(k) for k in ("id", "name", "shortName", "tla")},
         }
         for m in data.get("matches", [])
     ]
