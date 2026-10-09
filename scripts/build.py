@@ -97,7 +97,7 @@ def swedes_in(team, index, manual, aliases, squads=None):
     return sorted((v for k, v in found.items() if k not in removed), key=lambda s: s["name"])
 
 
-def tv_status(match_id, competition_code, rights, confirmations, round_count=0):
+def tv_status(match_id, competition_code, rights, confirmations, round_count=0, start=None):
     """Status per match:
     confirmed = matchen är kontrollerad, eller hela turneringen sänds hos en tjänst
     likely    = slutsats från omgången (Premier League: omgångens Prime-match är en annan)
@@ -105,13 +105,18 @@ def tv_status(match_id, competition_code, rights, confirmations, round_count=0):
     unknown   = vi vet inte. Vi gissar aldrig.
 
     round_count = antal bekräftade matcher i samma omgång hos omgångsundantaget
-    (split) eller hos tjänsten med utvalda matcher (selected)."""
+    (split) eller hos tjänsten med utvalda matcher (selected).
+
+    En bekräftelse med single_source (bara en källa) blir likely. En delad liga
+    med default och exceptions_known_until (NHL: Disney+ har publicerat sina
+    exklusiva matcher t.o.m. ett datum) blir likely för default fram till dess."""
     conf = confirmations.get(match_id)
     if conf:
         if not conf.get("service"):
             return {"status": "none", "service": None, "channel": None, "source": conf.get("source"),
                     "note": "Sänds inte i Sverige"}
-        return {"status": "confirmed", "service": conf.get("service"), "channel": conf.get("channel"),
+        status = "likely" if conf.get("single_source") else "confirmed"
+        return {"status": status, "service": conf.get("service"), "channel": conf.get("channel"),
                 "source": conf.get("source"), "note": None}
     r = rights.get(competition_code) or {}
     services = r.get("services") or []
@@ -119,6 +124,10 @@ def tv_status(match_id, competition_code, rights, confirmations, round_count=0):
     if coverage == "all" and len(services) == 1:
         return {"status": "confirmed", "service": services[0], "channel": None,
                 "source": r.get("source"), "note": "Alla matcher i turneringen sänds här"}
+    known_until = r.get("exceptions_known_until")
+    if coverage == "split" and r.get("default") and known_until and start and start[:10] <= known_until:
+        return {"status": "likely", "service": r["default"], "channel": None, "source": r.get("source"),
+                "note": None}
     if coverage == "split" and r.get("default") and round_count >= 1:
         return {"status": "likely", "service": r["default"], "channel": None, "source": r.get("source"),
                 "note": None}
@@ -184,7 +193,7 @@ def nhl_events(nhl, rights, confirmations, people, removed=()):
             "start": g["start"],
             "title": f'{g["home"]["name"]} – {g["away"]["name"]}',
             "swedes": swedes,
-            "tv": tv_status(eid, "NHL", rights, confirmations),
+            "tv": tv_status(eid, "NHL", rights, confirmations, start=g["start"]),
         })
     return events
 

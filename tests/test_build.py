@@ -159,6 +159,17 @@ class TvStatusTest(unittest.TestCase):
         tv = build.tv_status("1", "PL", self.rights, {"1": {"service": "Prime Video", "source": "u"}})
         self.assertEqual((tv["status"], tv["service"]), ("confirmed", "Prime Video"))
 
+    def test_single_source_confirmation_is_likely(self):
+        tv = build.tv_status("1", "NHL", self.rights, {"1": {"service": "Disney+", "single_source": True}})
+        self.assertEqual((tv["status"], tv["service"]), ("likely", "Disney+"))
+
+    def test_split_default_until_exceptions_known(self):
+        rights = {"NHL": {"services": ["Viaplay", "Disney+"], "coverage": "split",
+                          "default": "Viaplay", "exceptions_known_until": "2026-10-31"}}
+        inside = build.tv_status("2", "NHL", rights, {}, start="2026-10-20T23:00:00Z")
+        self.assertEqual((inside["status"], inside["service"]), ("likely", "Viaplay"))
+        self.assertEqual(build.tv_status("3", "NHL", rights, {}, start="2026-11-02T23:00:00Z")["status"], "unknown")
+
     def test_confirmed_not_broadcast(self):
         self.assertEqual(build.tv_status("1", "PPL", self.rights, {"1": {"service": None}})["status"], "none")
 
