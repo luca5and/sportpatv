@@ -1,0 +1,1824 @@
+{
+ "players": {
+  "adam-edstrom": {
+   "key": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
+   "last_seen": "2026-10-09",
+   "name": "Adam Edstrom",
+   "sport": "Ishockey",
+   "team": "Predators",
+   "wiki": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m"
+  },
+  "adam-engstrom": {
+   "key": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
+   "last_seen": "2026-10-09",
+   "name": "Adam Engstrom",
+   "sport": "Ishockey",
+   "team": "Canadiens",
+   "wiki": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m"
+  },
+  "adam-larsson": {
+   "key": "Adam Larsson|Kraken",
+   "last_seen": "2026-10-09",
+   "name": "Adam Larsson",
+   "sport": "Ishockey",
+   "team": "Kraken",
+   "wiki": null
+  },
+  "adam-wilsby": {
+   "key": "https://sv.wikipedia.org/wiki/Adam_Wilsby",
+   "last_seen": "2026-10-09",
+   "name": "Adam Wilsby",
+   "sport": "Ishockey",
+   "team": "Predators",
+   "wiki": "https://sv.wikipedia.org/wiki/Adam_Wilsby"
+  },
+  "adrian-kempe": {
+   "key": "https://sv.wikipedia.org/wiki/Adrian_Kempe",
+   "last_seen": "2026-10-09",
+   "name": "Adrian Kempe",
+   "sport": "Ishockey",
+   "team": "Kings",
+   "wiki": "https://sv.wikipedia.org/wiki/Adrian_Kempe"
+  },
+  "adrian-lahdo": {
+   "key": "https://sv.wikipedia.org/wiki/Adrian_Lahdo",
+   "last_seen": "2026-10-09",
+   "name": "Adrian Lahdo",
+   "sport": "Fotboll",
+   "team": "Como 1907",
+   "wiki": "https://sv.wikipedia.org/wiki/Adrian_Lahdo"
+  },
+  "albert-johansson": {
+   "key": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)",
+   "last_seen": "2026-10-09",
+   "name": "Albert Johansson",
+   "sport": "Ishockey",
+   "team": "Red Wings",
+   "wiki": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)"
+  },
+  "alexander-isak": {
+   "key": "https://sv.wikipedia.org/wiki/Alexander_Isak",
+   "last_seen": "2026-10-09",
+   "name": "Alexander Isak",
+   "sport": "Fotboll",
+   "team": "Liverpool",
+   "wiki": "https://sv.wikipedia.org/wiki/Alexander_Isak"
+  },
+  "alexander-wennberg": {
+   "key": "https://sv.wikipedia.org/wiki/Alexander_Wennberg",
+   "last_seen": "2026-10-09",
+   "name": "Alexander Wennberg",
+   "sport": "Ishockey",
+   "team": "Sharks",
+   "wiki": "https://sv.wikipedia.org/wiki/Alexander_Wennberg"
+  },
+  "alieu-njie": {
+   "key": "https://sv.wikipedia.org/wiki/Alieu_Njie",
+   "last_seen": "2026-10-09",
+   "name": "Alieu Njie",
+   "sport": "Fotboll",
+   "team": "Fiorentina",
+   "wiki": "https://sv.wikipedia.org/wiki/Alieu_Njie"
+  },
+  "alvin-nordin": {
+   "key": "https://sv.wikipedia.org/wiki/Alvin_Nordin",
+   "last_seen": "2026-10-09",
+   "name": "Alvin Nordin",
+   "sport": "Fotboll",
+   "team": "Groningen",
+   "wiki": "https://sv.wikipedia.org/wiki/Alvin_Nordin"
+  },
+  "andre-lee": {
+   "key": "https://sv.wikipedia.org/wiki/Andre_Lee",
+   "last_seen": "2026-10-09",
+   "name": "Andre Lee",
+   "sport": "Ishockey",
+   "team": "Kings",
+   "wiki": "https://sv.wikipedia.org/wiki/Andre_Lee"
+  },
+  "andre-picornell": {
+   "key": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Picornell",
+   "last_seen": "2026-10-09",
+   "name": "Andre Picornell",
+   "sport": "Fotboll",
+   "team": "Gil Vicente",
+   "wiki": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Picornell"
+  },
+  "andreas-englund": {
+   "key": "https://sv.wikipedia.org/wiki/Andreas_Englund",
+   "last_seen": "2026-10-09",
+   "name": "Andreas Englund",
+   "sport": "Ishockey",
+   "team": "Red Wings",
+   "wiki": "https://sv.wikipedia.org/wiki/Andreas_Englund"
+  },
+  "anthony-elanga": {
+   "key": "https://sv.wikipedia.org/wiki/Anthony_Elanga",
+   "last_seen": "2026-10-09",
+   "name": "Anthony Elanga",
+   "sport": "Fotboll",
+   "team": "Newcastle",
+   "wiki": "https://sv.wikipedia.org/wiki/Anthony_Elanga"
+  },
+  "anton-forsberg": {
+   "key": "https://sv.wikipedia.org/wiki/Anton_Forsberg",
+   "last_seen": "2026-10-09",
+   "name": "Anton Forsberg",
+   "sport": "Ishockey",
+   "team": "Kings",
+   "wiki": "https://sv.wikipedia.org/wiki/Anton_Forsberg"
+  },
+  "anton-frondell": {
+   "key": "https://sv.wikipedia.org/wiki/Anton_Frondell",
+   "last_seen": "2026-10-09",
+   "name": "Anton Frondell",
+   "sport": "Ishockey",
+   "team": "Blackhawks",
+   "wiki": "https://sv.wikipedia.org/wiki/Anton_Frondell"
+  },
+  "anton-johansson": {
+   "key": "Anton Johansson|Red Wings",
+   "last_seen": "2026-10-09",
+   "name": "Anton Johansson",
+   "sport": "Ishockey",
+   "team": "Red Wings",
+   "wiki": null
+  },
+  "armin-culum": {
+   "key": "https://en.wikipedia.org/wiki/Armin_%C4%86ulum",
+   "last_seen": "2026-10-09",
+   "name": "Armin Ćulum",
+   "sport": "Fotboll",
+   "team": "Willem II",
+   "wiki": "https://en.wikipedia.org/wiki/Armin_%C4%86ulum"
+  },
+  "arvid-soderblom": {
+   "key": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom",
+   "last_seen": "2026-10-09",
+   "name": "Arvid Soderblom",
+   "sport": "Ishockey",
+   "team": "Blackhawks",
+   "wiki": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom"
+  },
+  "axel-sandin-pellikka": {
+   "key": "https://sv.wikipedia.org/wiki/Axel_Sandin_Pellikka",
+   "last_seen": "2026-10-09",
+   "name": "Axel Sandin-Pellikka",
+   "sport": "Ishockey",
+   "team": "Red Wings",
+   "wiki": "https://sv.wikipedia.org/wiki/Axel_Sandin_Pellikka"
+  },
+  "benjamin-brantlind": {
+   "key": "https://sv.wikipedia.org/wiki/Benjamin_Brantlind",
+   "last_seen": "2026-10-09",
+   "name": "Benjamin Brantlind",
+   "sport": "Fotboll",
+   "team": "Strasbourg",
+   "wiki": "https://sv.wikipedia.org/wiki/Benjamin_Brantlind"
+  },
+  "carl-grundstrom": {
+   "key": "https://sv.wikipedia.org/wiki/Carl_Grundstr%C3%B6m",
+   "last_seen": "2026-10-09",
+   "name": "Carl Grundstrom",
+   "sport": "Ishockey",
+   "team": "Flyers",
+   "wiki": "https://sv.wikipedia.org/wiki/Carl_Grundstr%C3%B6m"
+  },
+  "carl-starfelt": {
+   "key": "https://sv.wikipedia.org/wiki/Carl_Starfelt",
+   "last_seen": "2026-10-09",
+   "name": "Carl Starfelt",
+   "sport": "Fotboll",
+   "team": "Celta",
+   "wiki": "https://sv.wikipedia.org/wiki/Carl_Starfelt"
+  },
+  "casper-widell": {
+   "key": "https://sv.wikipedia.org/wiki/Casper_Widell",
+   "last_seen": "2026-10-09",
+   "name": "Casper Widell",
+   "sport": "Fotboll",
+   "team": "Excelsior",
+   "wiki": "https://sv.wikipedia.org/wiki/Casper_Widell"
+  },
+  "daniel-svensson": {
+   "key": "https://sv.wikipedia.org/wiki/Daniel_Svensson_(fotbollsspelare_f%C3%B6dd_2002)",
+   "last_seen": "2026-10-09",
+   "name": "Daniel Svensson",
+   "sport": "Fotboll",
+   "team": "Dortmund",
+   "wiki": "https://sv.wikipedia.org/wiki/Daniel_Svensson_(fotbollsspelare_f%C3%B6dd_2002)"
+  },
+  "dejan-kulusevski": {
+   "key": "https://sv.wikipedia.org/wiki/Dejan_Kulusevski",
+   "last_seen": "2026-10-09",
+   "name": "Dejan Kulusevski",
+   "sport": "Fotboll",
+   "team": "Tottenham",
+   "wiki": "https://sv.wikipedia.org/wiki/Dejan_Kulusevski"
+  },
+  "deniz-gul": {
+   "key": "https://sv.wikipedia.org/wiki/Deniz_G%C3%BCl",
+   "last_seen": "2026-10-09",
+   "name": "Deniz Gül",
+   "sport": "Fotboll",
+   "team": "Galatasaray",
+   "wiki": "https://sv.wikipedia.org/wiki/Deniz_G%C3%BCl"
+  },
+  "dennis-hildeby": {
+   "key": "https://sv.wikipedia.org/wiki/Dennis_Hildeby",
+   "last_seen": "2026-10-09",
+   "name": "Dennis Hildeby",
+   "sport": "Ishockey",
+   "team": "Lightning",
+   "wiki": "https://sv.wikipedia.org/wiki/Dennis_Hildeby"
+  },
+  "elias-lindholm": {
+   "key": "https://sv.wikipedia.org/wiki/Elias_Lindholm",
+   "last_seen": "2026-10-09",
+   "name": "Elias Lindholm",
+   "sport": "Ishockey",
+   "team": "Bruins",
+   "wiki": "https://sv.wikipedia.org/wiki/Elias_Lindholm"
+  },
+  "elias-pettersson-25": {
+   "key": "Elias Pettersson #25|Canucks",
+   "last_seen": "2026-10-09",
+   "name": "Elias Pettersson #25",
+   "sport": "Ishockey",
+   "team": "Canucks",
+   "wiki": null
+  },
+  "elias-pettersson-40": {
+   "key": "Elias Pettersson #40|Canucks",
+   "last_seen": "2026-10-09",
+   "name": "Elias Pettersson #40",
+   "sport": "Ishockey",
+   "team": "Canucks",
+   "wiki": null
+  },
+  "elliot-stroud": {
+   "key": "https://sv.wikipedia.org/wiki/Elliot_Stroud",
+   "last_seen": "2026-10-09",
+   "name": "Elliot Stroud",
+   "sport": "Fotboll",
+   "team": "Hull City",
+   "wiki": "https://sv.wikipedia.org/wiki/Elliot_Stroud"
+  },
+  "elmer-soderblom": {
+   "key": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom",
+   "last_seen": "2026-10-09",
+   "name": "Elmer Soderblom",
+   "sport": "Ishockey",
+   "team": "Penguins",
+   "wiki": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom"
+  },
+  "elvis-van-der-laan": {
+   "key": "https://sv.wikipedia.org/wiki/Elvis_van_der_Laan",
+   "last_seen": "2026-10-09",
+   "name": "Elvis Van Der Laan",
+   "sport": "Fotboll",
+   "team": "Groningen",
+   "wiki": "https://sv.wikipedia.org/wiki/Elvis_van_der_Laan"
+  },
+  "emil-andrae": {
+   "key": "https://sv.wikipedia.org/wiki/Emil_Andrae",
+   "last_seen": "2026-10-09",
+   "name": "Emil Andrae",
+   "sport": "Ishockey",
+   "team": "Blue Jackets",
+   "wiki": "https://sv.wikipedia.org/wiki/Emil_Andrae"
+  },
+  "emil-heineman": {
+   "key": "https://sv.wikipedia.org/wiki/Emil_Heineman",
+   "last_seen": "2026-10-09",
+   "name": "Emil Heineman",
+   "sport": "Ishockey",
+   "team": "Islanders",
+   "wiki": "https://sv.wikipedia.org/wiki/Emil_Heineman"
+  },
+  "emil-holm": {
+   "key": "https://sv.wikipedia.org/wiki/Emil_Holm",
+   "last_seen": "2026-10-09",
+   "name": "Emil Holm",
+   "sport": "Fotboll",
+   "team": "Bologna",
+   "wiki": "https://sv.wikipedia.org/wiki/Emil_Holm"
+  },
+  "erik-gustafsson": {
+   "key": "Erik Gustafsson|Kings",
+   "last_seen": "2026-10-09",
+   "name": "Erik Gustafsson",
+   "sport": "Ishockey",
+   "team": "Kings",
+   "wiki": null
+  },
+  "erik-karlsson": {
+   "key": "Erik Karlsson|Penguins",
+   "last_seen": "2026-10-09",
+   "name": "Erik Karlsson",
+   "sport": "Ishockey",
+   "team": "Penguins",
+   "wiki": null
+  },
+  "fabian-zetterlund": {
+   "key": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund",
+   "last_seen": "2026-10-09",
+   "name": "Fabian Zetterlund",
+   "sport": "Ishockey",
+   "team": "Senators",
+   "wiki": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund"
+  },
+  "filip-forsberg": {
+   "key": "https://sv.wikipedia.org/wiki/Filip_Forsberg",
+   "last_seen": "2026-10-09",
+   "name": "Filip Forsberg",
+   "sport": "Ishockey",
+   "team": "Predators",
+   "wiki": "https://sv.wikipedia.org/wiki/Filip_Forsberg"
+  },
+  "filip-hallander": {
+   "key": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
+   "last_seen": "2026-10-09",
+   "name": "Filip Hallander",
+   "sport": "Ishockey",
+   "team": "Oilers",
+   "wiki": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander"
+  },
+  "gabriel-gudmundsson": {
+   "key": "https://sv.wikipedia.org/wiki/Gabriel_Gudmundsson",
+   "last_seen": "2026-10-09",
+   "name": "Gabriel Gudmundsson",
+   "sport": "Fotboll",
+   "team": "Leeds United",
+   "wiki": "https://sv.wikipedia.org/wiki/Gabriel_Gudmundsson"
+  },
+  "gabriel-landeskog": {
+   "key": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog",
+   "last_seen": "2026-10-09",
+   "name": "Gabriel Landeskog",
+   "sport": "Ishockey",
+   "team": "Avalanche",
+   "wiki": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog"
+  },
+  "gustaf-lagerbielke": {
+   "key": "https://sv.wikipedia.org/wiki/Gustaf_Lagerbielke_(fotbollsspelare)",
+   "last_seen": "2026-10-09",
+   "name": "Gustaf Lagerbielke",
+   "sport": "Fotboll",
+   "team": "Braga",
+   "wiki": "https://sv.wikipedia.org/wiki/Gustaf_Lagerbielke_(fotbollsspelare)"
+  },
+  "gustaf-nilsson": {
+   "key": "https://sv.wikipedia.org/wiki/Gustaf_Nilsson_(fotbollsspelare_f%C3%B6dd_1997)",
+   "last_seen": "2026-10-09",
+   "name": "Gustaf Nilsson",
+   "sport": "Fotboll",
+   "team": "Club Brugge",
+   "wiki": "https://sv.wikipedia.org/wiki/Gustaf_Nilsson_(fotbollsspelare_f%C3%B6dd_1997)"
+  },
+  "gustav-forsling": {
+   "key": "https://sv.wikipedia.org/wiki/Gustav_Forsling",
+   "last_seen": "2026-10-09",
+   "name": "Gustav Forsling",
+   "sport": "Ishockey",
+   "team": "Panthers",
+   "wiki": "https://sv.wikipedia.org/wiki/Gustav_Forsling"
+  },
+  "hampus-lindholm": {
+   "key": "https://sv.wikipedia.org/wiki/Hampus_Lindholm",
+   "last_seen": "2026-10-09",
+   "name": "Hampus Lindholm",
+   "sport": "Ishockey",
+   "team": "Bruins",
+   "wiki": "https://sv.wikipedia.org/wiki/Hampus_Lindholm"
+  },
+  "hjalmar-ekdal": {
+   "key": "https://sv.wikipedia.org/wiki/Hjalmar_Ekdal",
+   "last_seen": "2026-10-09",
+   "name": "Hjalmar Ekdal",
+   "sport": "Fotboll",
+   "team": "Burnley",
+   "wiki": "https://sv.wikipedia.org/wiki/Hjalmar_Ekdal"
+  },
+  "hugo-bolin": {
+   "key": "https://sv.wikipedia.org/wiki/Hugo_Bolin",
+   "last_seen": "2026-10-09",
+   "name": "Hugo Bolin",
+   "sport": "Fotboll",
+   "team": "M'gladbach",
+   "wiki": "https://sv.wikipedia.org/wiki/Hugo_Bolin"
+  },
+  "hugo-larsson": {
+   "key": "https://sv.wikipedia.org/wiki/Hugo_Larsson_(fotbollsspelare)",
+   "last_seen": "2026-10-09",
+   "name": "Hugo Larsson",
+   "sport": "Fotboll",
+   "team": "Fulham",
+   "wiki": "https://sv.wikipedia.org/wiki/Hugo_Larsson_(fotbollsspelare)"
+  },
+  "isac-lidberg": {
+   "key": "https://sv.wikipedia.org/wiki/Isac_Lidberg",
+   "last_seen": "2026-10-09",
+   "name": "Isac Lidberg",
+   "sport": "Fotboll",
+   "team": "M'gladbach",
+   "wiki": "https://sv.wikipedia.org/wiki/Isac_Lidberg"
+  },
+  "isak-alemayehu-mulugeta": {
+   "key": "https://sv.wikipedia.org/wiki/Isak_Alemayehu",
+   "last_seen": "2026-10-09",
+   "name": "Isak Alemayehu Mulugeta",
+   "sport": "Fotboll",
+   "team": "QPR",
+   "wiki": "https://sv.wikipedia.org/wiki/Isak_Alemayehu"
+  },
+  "isak-hien": {
+   "key": "https://sv.wikipedia.org/wiki/Isak_Hien",
+   "last_seen": "2026-10-09",
+   "name": "Isak Hien",
+   "sport": "Fotboll",
+   "team": "Atalanta",
+   "wiki": "https://sv.wikipedia.org/wiki/Isak_Hien"
+  },
+  "isak-jansson": {
+   "key": "https://sv.wikipedia.org/wiki/Isak_Jansson_(fotbollsspelare)",
+   "last_seen": "2026-10-09",
+   "name": "Isak Jansson",
+   "sport": "Fotboll",
+   "team": "Nice",
+   "wiki": "https://sv.wikipedia.org/wiki/Isak_Jansson_(fotbollsspelare)"
+  },
+  "isak-rosen": {
+   "key": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
+   "last_seen": "2026-10-09",
+   "name": "Isak Rosen",
+   "sport": "Ishockey",
+   "team": "Jets",
+   "wiki": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n"
+  },
+  "ivar-stenberg": {
+   "key": "https://sv.wikipedia.org/wiki/Ivar_Stenberg",
+   "last_seen": "2026-10-09",
+   "name": "Ivar Stenberg",
+   "sport": "Ishockey",
+   "team": "Sharks",
+   "wiki": "https://sv.wikipedia.org/wiki/Ivar_Stenberg"
+  },
+  "jacob-markstrom": {
+   "key": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
+   "last_seen": "2026-10-09",
+   "name": "Jacob Markstrom",
+   "sport": "Ishockey",
+   "team": "Panthers",
+   "wiki": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m"
+  },
+  "jacob-ondrejka": {
+   "key": "https://sv.wikipedia.org/wiki/Jacob_Ondrejka",
+   "last_seen": "2026-10-09",
+   "name": "Jacob Ondrejka",
+   "sport": "Fotboll",
+   "team": "Groningen",
+   "wiki": "https://sv.wikipedia.org/wiki/Jacob_Ondrejka"
+  },
+  "jacob-widell-zetterstrom": {
+   "key": "https://sv.wikipedia.org/wiki/Jacob_Widell_Zetterstr%C3%B6m",
+   "last_seen": "2026-10-09",
+   "name": "Jacob Widell Zetterström",
+   "sport": "Fotboll",
+   "team": "Derby County",
+   "wiki": "https://sv.wikipedia.org/wiki/Jacob_Widell_Zetterstr%C3%B6m"
+  },
+  "jens-cajuste": {
+   "key": "https://sv.wikipedia.org/wiki/Jens_Cajuste",
+   "last_seen": "2026-10-09",
+   "name": "Jens Cajuste",
+   "sport": "Fotboll",
+   "team": "Málaga",
+   "wiki": "https://sv.wikipedia.org/wiki/Jens_Cajuste"
+  },
+  "jesper-boqvist": {
+   "key": "https://sv.wikipedia.org/wiki/Jesper_Boqvist",
+   "last_seen": "2026-10-09",
+   "name": "Jesper Boqvist",
+   "sport": "Ishockey",
+   "team": "Devils",
+   "wiki": "https://sv.wikipedia.org/wiki/Jesper_Boqvist"
+  },
+  "jesper-bratt": {
+   "key": "https://sv.wikipedia.org/wiki/Jesper_Bratt",
+   "last_seen": "2026-10-09",
+   "name": "Jesper Bratt",
+   "sport": "Ishockey",
+   "team": "Devils",
+   "wiki": "https://sv.wikipedia.org/wiki/Jesper_Bratt"
+  },
+  "jesper-karlsson": {
+   "key": "https://sv.wikipedia.org/wiki/Jesper_Karlsson",
+   "last_seen": "2026-10-09",
+   "name": "Jesper Karlsson",
+   "sport": "Fotboll",
+   "team": "Bologna",
+   "wiki": "https://sv.wikipedia.org/wiki/Jesper_Karlsson"
+  },
+  "jesper-karlstrom": {
+   "key": "https://sv.wikipedia.org/wiki/Jesper_Karlstr%C3%B6m",
+   "last_seen": "2026-10-09",
+   "name": "Jesper Karlström",
+   "sport": "Fotboll",
+   "team": "Udinese",
+   "wiki": "https://sv.wikipedia.org/wiki/Jesper_Karlstr%C3%B6m"
+  },
+  "jesper-wallstedt": {
+   "key": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
+   "last_seen": "2026-10-09",
+   "name": "Jesper Wallstedt",
+   "sport": "Ishockey",
+   "team": "Wild",
+   "wiki": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt"
+  },
+  "joel-eriksson-ek": {
+   "key": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek",
+   "last_seen": "2026-10-09",
+   "name": "Joel Eriksson Ek",
+   "sport": "Ishockey",
+   "team": "Wild",
+   "wiki": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek"
+  },
+  "jonah-kusi-asare": {
+   "key": "https://sv.wikipedia.org/wiki/Jonah_Kusi-Asare",
+   "last_seen": "2026-10-09",
+   "name": "Jonah Kusi-Asare",
+   "sport": "Fotboll",
+   "team": "Fulham",
+   "wiki": "https://sv.wikipedia.org/wiki/Jonah_Kusi-Asare"
+  },
+  "jonas-brodin": {
+   "key": "https://sv.wikipedia.org/wiki/Jonas_Brodin",
+   "last_seen": "2026-10-09",
+   "name": "Jonas Brodin",
+   "sport": "Ishockey",
+   "team": "Wild",
+   "wiki": "https://sv.wikipedia.org/wiki/Jonas_Brodin"
+  },
+  "jonatan-berggren": {
+   "key": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
+   "last_seen": "2026-10-09",
+   "name": "Jonatan Berggren",
+   "sport": "Ishockey",
+   "team": "Blues",
+   "wiki": "https://sv.wikipedia.org/wiki/Jonatan_Berggren"
+  },
+  "jonathan-lekkerimaki": {
+   "key": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
+   "last_seen": "2026-10-09",
+   "name": "Jonathan Lekkerimäki",
+   "sport": "Ishockey",
+   "team": "Canucks",
+   "wiki": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki"
+  },
+  "jusef-erabi": {
+   "key": "https://sv.wikipedia.org/wiki/Jusef_Erabi",
+   "last_seen": "2026-10-09",
+   "name": "Jusef Erabi",
+   "sport": "Fotboll",
+   "team": "Preston NE",
+   "wiki": "https://sv.wikipedia.org/wiki/Jusef_Erabi"
+  },
+  "kevin-stenlund": {
+   "key": "https://sv.wikipedia.org/wiki/Kevin_Stenlund",
+   "last_seen": "2026-10-09",
+   "name": "Kevin Stenlund",
+   "sport": "Ishockey",
+   "team": "Mammoth",
+   "wiki": "https://sv.wikipedia.org/wiki/Kevin_Stenlund"
+  },
+  "kristoffer-peterson": {
+   "key": "https://sv.wikipedia.org/wiki/Kristoffer_Peterson",
+   "last_seen": "2026-10-09",
+   "name": "Kristoffer Peterson",
+   "sport": "Fotboll",
+   "team": "Sittard",
+   "wiki": "https://sv.wikipedia.org/wiki/Kristoffer_Peterson"
+  },
+  "leo-carlsson": {
+   "key": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
+   "last_seen": "2026-10-09",
+   "name": "Leo Carlsson",
+   "sport": "Ishockey",
+   "team": "Ducks",
+   "wiki": "https://sv.wikipedia.org/wiki/Leo_Carlsson"
+  },
+  "liam-ohgren": {
+   "key": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
+   "last_seen": "2026-10-09",
+   "name": "Liam Ohgren",
+   "sport": "Ishockey",
+   "team": "Canucks",
+   "wiki": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren"
+  },
+  "linus-karlsson": {
+   "key": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
+   "last_seen": "2026-10-09",
+   "name": "Linus Karlsson",
+   "sport": "Ishockey",
+   "team": "Canucks",
+   "wiki": "https://sv.wikipedia.org/wiki/Linus_Karlsson"
+  },
+  "linus-ullmark": {
+   "key": "https://sv.wikipedia.org/wiki/Linus_Ullmark",
+   "last_seen": "2026-10-09",
+   "name": "Linus Ullmark",
+   "sport": "Ishockey",
+   "team": "Senators",
+   "wiki": "https://sv.wikipedia.org/wiki/Linus_Ullmark"
+  },
+  "love-arrhov": {
+   "key": "https://sv.wikipedia.org/wiki/Love_Arrhov",
+   "last_seen": "2026-10-09",
+   "name": "Love Arrhov",
+   "sport": "Fotboll",
+   "team": "Frankfurt",
+   "wiki": "https://sv.wikipedia.org/wiki/Love_Arrhov"
+  },
+  "lucas-bergvall": {
+   "key": "https://sv.wikipedia.org/wiki/Lucas_Bergvall",
+   "last_seen": "2026-10-09",
+   "name": "Lucas Bergvall",
+   "sport": "Fotboll",
+   "team": "Tottenham",
+   "wiki": "https://sv.wikipedia.org/wiki/Lucas_Bergvall"
+  },
+  "lucas-raymond": {
+   "key": "https://sv.wikipedia.org/wiki/Lucas_Raymond",
+   "last_seen": "2026-10-09",
+   "name": "Lucas Raymond",
+   "sport": "Ishockey",
+   "team": "Red Wings",
+   "wiki": "https://sv.wikipedia.org/wiki/Lucas_Raymond"
+  },
+  "malcolm-jeng": {
+   "key": "https://sv.wikipedia.org/wiki/Malcolm_Jeng",
+   "last_seen": "2026-10-09",
+   "name": "Malcolm Jeng",
+   "sport": "Fotboll",
+   "team": "Groningen",
+   "wiki": "https://sv.wikipedia.org/wiki/Malcolm_Jeng"
+  },
+  "marcus-linday": {
+   "key": "https://sv.wikipedia.org/wiki/Marcus_Linday",
+   "last_seen": "2026-10-09",
+   "name": "Marcus Linday",
+   "sport": "Fotboll",
+   "team": "Heerenveen",
+   "wiki": "https://sv.wikipedia.org/wiki/Marcus_Linday"
+  },
+  "marcus-pettersson": {
+   "key": "https://sv.wikipedia.org/wiki/Marcus_Pettersson",
+   "last_seen": "2026-10-09",
+   "name": "Marcus Pettersson",
+   "sport": "Ishockey",
+   "team": "Rangers",
+   "wiki": "https://sv.wikipedia.org/wiki/Marcus_Pettersson"
+  },
+  "mattias-ekholm": {
+   "key": "https://sv.wikipedia.org/wiki/Mattias_Ekholm",
+   "last_seen": "2026-10-09",
+   "name": "Mattias Ekholm",
+   "sport": "Ishockey",
+   "team": "Oilers",
+   "wiki": "https://sv.wikipedia.org/wiki/Mattias_Ekholm"
+  },
+  "mattias-janmark": {
+   "key": "https://sv.wikipedia.org/wiki/Mattias_Janmark",
+   "last_seen": "2026-10-09",
+   "name": "Mattias Janmark",
+   "sport": "Ishockey",
+   "team": "Oilers",
+   "wiki": "https://sv.wikipedia.org/wiki/Mattias_Janmark"
+  },
+  "melker-ellborg": {
+   "key": "https://sv.wikipedia.org/wiki/Melker_Ellborg",
+   "last_seen": "2026-10-09",
+   "name": "Melker Ellborg",
+   "sport": "Fotboll",
+   "team": "Sunderland",
+   "wiki": "https://sv.wikipedia.org/wiki/Melker_Ellborg"
+  },
+  "melker-widell": {
+   "key": "https://sv.wikipedia.org/wiki/Melker_Widell",
+   "last_seen": "2026-10-09",
+   "name": "Melker Widell",
+   "sport": "Fotboll",
+   "team": "Swansea",
+   "wiki": "https://sv.wikipedia.org/wiki/Melker_Widell"
+  },
+  "mika-zibanejad": {
+   "key": "https://sv.wikipedia.org/wiki/Mika_Zibanejad",
+   "last_seen": "2026-10-09",
+   "name": "Mika Zibanejad",
+   "sport": "Ishockey",
+   "team": "Rangers",
+   "wiki": "https://sv.wikipedia.org/wiki/Mika_Zibanejad"
+  },
+  "mikael-backlund": {
+   "key": "https://sv.wikipedia.org/wiki/Mikael_Backlund",
+   "last_seen": "2026-10-09",
+   "name": "Mikael Backlund",
+   "sport": "Ishockey",
+   "team": "Flames",
+   "wiki": "https://sv.wikipedia.org/wiki/Mikael_Backlund"
+  },
+  "nils-hoglander": {
+   "key": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
+   "last_seen": "2026-10-09",
+   "name": "Nils Hoglander",
+   "sport": "Ishockey",
+   "team": "Predators",
+   "wiki": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander"
+  },
+  "nils-lundkvist": {
+   "key": "https://sv.wikipedia.org/wiki/Nils_Lundkvist",
+   "last_seen": "2026-10-09",
+   "name": "Nils Lundkvist",
+   "sport": "Ishockey",
+   "team": "Stars",
+   "wiki": "https://sv.wikipedia.org/wiki/Nils_Lundkvist"
+  },
+  "nils-zatterstrom": {
+   "key": "https://sv.wikipedia.org/wiki/Nils_Z%C3%A4tterstr%C3%B6m",
+   "last_seen": "2026-10-09",
+   "name": "Nils Zätterström",
+   "sport": "Fotboll",
+   "team": "Sheffield Utd",
+   "wiki": "https://sv.wikipedia.org/wiki/Nils_Z%C3%A4tterstr%C3%B6m"
+  },
+  "noah-eile": {
+   "key": "https://sv.wikipedia.org/wiki/Noah_Eile",
+   "last_seen": "2026-10-09",
+   "name": "Noah Eile",
+   "sport": "Fotboll",
+   "team": "Bristol City",
+   "wiki": "https://sv.wikipedia.org/wiki/Noah_Eile"
+  },
+  "noah-ostlund": {
+   "key": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
+   "last_seen": "2026-10-09",
+   "name": "Noah Ostlund",
+   "sport": "Ishockey",
+   "team": "Sabres",
+   "wiki": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund"
+  },
+  "noel-tornqvist": {
+   "key": "https://sv.wikipedia.org/wiki/Noel_T%C3%B6rnqvist",
+   "last_seen": "2026-10-09",
+   "name": "Noel Törnqvist",
+   "sport": "Fotboll",
+   "team": "Monza",
+   "wiki": "https://sv.wikipedia.org/wiki/Noel_T%C3%B6rnqvist"
+  },
+  "oliver-ekman-larsson": {
+   "key": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson",
+   "last_seen": "2026-10-09",
+   "name": "Oliver Ekman-Larsson",
+   "sport": "Ishockey",
+   "team": "Maple Leafs",
+   "wiki": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson"
+  },
+  "oliver-kapanen": {
+   "key": "Oliver Kapanen|Canadiens",
+   "last_seen": "2026-10-09",
+   "name": "Oliver Kapanen",
+   "sport": "Ishockey",
+   "team": "Canadiens",
+   "wiki": null
+  },
+  "oskar-back": {
+   "key": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck",
+   "last_seen": "2026-10-09",
+   "name": "Oskar Bäck",
+   "sport": "Ishockey",
+   "team": "Stars",
+   "wiki": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck"
+  },
+  "philip-broberg": {
+   "key": "https://sv.wikipedia.org/wiki/Philip_Broberg",
+   "last_seen": "2026-10-09",
+   "name": "Philip Broberg",
+   "sport": "Ishockey",
+   "team": "Blues",
+   "wiki": "https://sv.wikipedia.org/wiki/Philip_Broberg"
+  },
+  "pontus-almqvist": {
+   "key": "https://sv.wikipedia.org/wiki/Pontus_Almqvist",
+   "last_seen": "2026-10-09",
+   "name": "Pontus Almqvist",
+   "sport": "Fotboll",
+   "team": "Parma",
+   "wiki": "https://sv.wikipedia.org/wiki/Pontus_Almqvist"
+  },
+  "pontus-holmberg": {
+   "key": "https://sv.wikipedia.org/wiki/Pontus_Holmberg",
+   "last_seen": "2026-10-09",
+   "name": "Pontus Holmberg",
+   "sport": "Ishockey",
+   "team": "Lightning",
+   "wiki": "https://sv.wikipedia.org/wiki/Pontus_Holmberg"
+  },
+  "rasmus-andersson": {
+   "key": "Rasmus Andersson|Golden Knights",
+   "last_seen": "2026-10-09",
+   "name": "Rasmus Andersson",
+   "sport": "Ishockey",
+   "team": "Golden Knights",
+   "wiki": null
+  },
+  "rasmus-dahlin": {
+   "key": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
+   "last_seen": "2026-10-09",
+   "name": "Rasmus Dahlin",
+   "sport": "Ishockey",
+   "team": "Sabres",
+   "wiki": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin"
+  },
+  "rickard-rakell": {
+   "key": "https://sv.wikipedia.org/wiki/Rickard_Rakell",
+   "last_seen": "2026-10-09",
+   "name": "Rickard Rakell",
+   "sport": "Ishockey",
+   "team": "Penguins",
+   "wiki": "https://sv.wikipedia.org/wiki/Rickard_Rakell"
+  },
+  "roony-bardghji": {
+   "key": "https://sv.wikipedia.org/wiki/Roony_Bardghji",
+   "last_seen": "2026-10-09",
+   "name": "Roony Bardghji",
+   "sport": "Fotboll",
+   "team": "Barça",
+   "wiki": "https://sv.wikipedia.org/wiki/Roony_Bardghji"
+  },
+  "samuel-dahl": {
+   "key": "https://sv.wikipedia.org/wiki/Samuel_Dahl",
+   "last_seen": "2026-10-09",
+   "name": "Samuel Dahl",
+   "sport": "Fotboll",
+   "team": "SL Benfica",
+   "wiki": "https://sv.wikipedia.org/wiki/Samuel_Dahl"
+  },
+  "samuel-ersson": {
+   "key": "https://sv.wikipedia.org/wiki/Samuel_Ersson",
+   "last_seen": "2026-10-09",
+   "name": "Samuel Ersson",
+   "sport": "Ishockey",
+   "team": "Senators",
+   "wiki": "https://sv.wikipedia.org/wiki/Samuel_Ersson"
+  },
+  "sebastian-nanasi": {
+   "key": "https://sv.wikipedia.org/wiki/Sebastian_Nanasi",
+   "last_seen": "2026-10-09",
+   "name": "Sebastian Nanasi",
+   "sport": "Fotboll",
+   "team": "Strasbourg",
+   "wiki": "https://sv.wikipedia.org/wiki/Sebastian_Nanasi"
+  },
+  "simon-eriksson": {
+   "key": "Simon Eriksson|Santander",
+   "last_seen": "2026-10-09",
+   "name": "Simon Eriksson",
+   "sport": "Fotboll",
+   "team": "Santander",
+   "wiki": null
+  },
+  "simon-holmstrom": {
+   "key": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m",
+   "last_seen": "2026-10-09",
+   "name": "Simon Holmstrom",
+   "sport": "Ishockey",
+   "team": "Islanders",
+   "wiki": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m"
+  },
+  "sion-oppong": {
+   "key": "https://sv.wikipedia.org/wiki/Sion_Oppong",
+   "last_seen": "2026-10-09",
+   "name": "Sion Oppong",
+   "sport": "Fotboll",
+   "team": "Toulouse",
+   "wiki": "https://sv.wikipedia.org/wiki/Sion_Oppong"
+  },
+  "svante-ingelsson": {
+   "key": "https://sv.wikipedia.org/wiki/Svante_Ingelsson",
+   "last_seen": "2026-10-09",
+   "name": "Svante Ingelsson",
+   "sport": "Fotboll",
+   "team": "Stoke",
+   "wiki": "https://sv.wikipedia.org/wiki/Svante_Ingelsson"
+  },
+  "theo-lindstein": {
+   "key": "https://sv.wikipedia.org/wiki/Theo_Lindstein",
+   "last_seen": "2026-10-09",
+   "name": "Theo Lindstein",
+   "sport": "Ishockey",
+   "team": "Blues",
+   "wiki": "https://sv.wikipedia.org/wiki/Theo_Lindstein"
+  },
+  "timothy-liljegren": {
+   "key": "https://sv.wikipedia.org/wiki/Timothy_Liljegren",
+   "last_seen": "2026-10-09",
+   "name": "Timothy Liljegren",
+   "sport": "Ishockey",
+   "team": "Capitals",
+   "wiki": "https://sv.wikipedia.org/wiki/Timothy_Liljegren"
+  },
+  "tom-willander": {
+   "key": "https://sv.wikipedia.org/wiki/Tom_Willander",
+   "last_seen": "2026-10-09",
+   "name": "Tom Willander",
+   "sport": "Ishockey",
+   "team": "Canucks",
+   "wiki": "https://sv.wikipedia.org/wiki/Tom_Willander"
+  },
+  "victor-andersson": {
+   "key": "https://sv.wikipedia.org/wiki/Victor_Andersson_(fotbollsspelare)",
+   "last_seen": "2026-10-09",
+   "name": "Victor Andersson",
+   "sport": "Fotboll",
+   "team": "Vitória SC",
+   "wiki": "https://sv.wikipedia.org/wiki/Victor_Andersson_(fotbollsspelare)"
+  },
+  "victor-edvardsen": {
+   "key": "https://sv.wikipedia.org/wiki/Victor_Edvardsen",
+   "last_seen": "2026-10-09",
+   "name": "Victor Edvardsen",
+   "sport": "Fotboll",
+   "team": "Go Ahead",
+   "wiki": "https://sv.wikipedia.org/wiki/Victor_Edvardsen"
+  },
+  "victor-eklund": {
+   "key": "https://sv.wikipedia.org/wiki/Victor_Eklund",
+   "last_seen": "2026-10-09",
+   "name": "Victor Eklund",
+   "sport": "Ishockey",
+   "team": "Islanders",
+   "wiki": "https://sv.wikipedia.org/wiki/Victor_Eklund"
+  },
+  "victor-hedman": {
+   "key": "https://sv.wikipedia.org/wiki/Victor_Hedman",
+   "last_seen": "2026-10-09",
+   "name": "Victor Hedman",
+   "sport": "Ishockey",
+   "team": "Lightning",
+   "wiki": "https://sv.wikipedia.org/wiki/Victor_Hedman"
+  },
+  "victor-nilsson-lindelof": {
+   "key": "https://sv.wikipedia.org/wiki/Victor_Nilsson_Lindel%C3%B6f",
+   "last_seen": "2026-10-09",
+   "name": "Victor Nilsson-Lindelöf",
+   "sport": "Fotboll",
+   "team": "Aston Villa",
+   "wiki": "https://sv.wikipedia.org/wiki/Victor_Nilsson_Lindel%C3%B6f"
+  },
+  "victor-olofsson": {
+   "key": "https://sv.wikipedia.org/wiki/Victor_Olofsson",
+   "last_seen": "2026-10-09",
+   "name": "Victor Olofsson",
+   "sport": "Ishockey",
+   "team": "Golden Knights",
+   "wiki": "https://sv.wikipedia.org/wiki/Victor_Olofsson"
+  },
+  "viggo-bjorck": {
+   "key": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck",
+   "last_seen": "2026-10-09",
+   "name": "Viggo Björck",
+   "sport": "Ishockey",
+   "team": "Jets",
+   "wiki": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck"
+  },
+  "viking-gustafsson-nyberg": {
+   "key": "https://sv.wikipedia.org/wiki/Viking_Gustafsson_Nyberg",
+   "last_seen": "2026-10-09",
+   "name": "Viking Gustafsson Nyberg",
+   "sport": "Ishockey",
+   "team": "Wild",
+   "wiki": "https://sv.wikipedia.org/wiki/Viking_Gustafsson_Nyberg"
+  },
+  "viktor-arvidsson": {
+   "key": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson",
+   "last_seen": "2026-10-09",
+   "name": "Viktor Arvidsson",
+   "sport": "Ishockey",
+   "team": "Red Wings",
+   "wiki": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson"
+  },
+  "viktor-gyokeres": {
+   "key": "https://sv.wikipedia.org/wiki/Viktor_Gy%C3%B6keres",
+   "last_seen": "2026-10-09",
+   "name": "Viktor Gyökeres",
+   "sport": "Fotboll",
+   "team": "Arsenal",
+   "wiki": "https://sv.wikipedia.org/wiki/Viktor_Gy%C3%B6keres"
+  },
+  "viktor-johansson": {
+   "key": "https://sv.wikipedia.org/wiki/Viktor_Johansson_(fotbollsspelare)",
+   "last_seen": "2026-10-09",
+   "name": "Viktor Johansson",
+   "sport": "Fotboll",
+   "team": "Stoke",
+   "wiki": "https://sv.wikipedia.org/wiki/Viktor_Johansson_(fotbollsspelare)"
+  },
+  "william-eklund": {
+   "key": "https://sv.wikipedia.org/wiki/William_Eklund",
+   "last_seen": "2026-10-09",
+   "name": "William Eklund",
+   "sport": "Ishockey",
+   "team": "Senators",
+   "wiki": "https://sv.wikipedia.org/wiki/William_Eklund"
+  },
+  "william-karlsson": {
+   "key": "https://sv.wikipedia.org/wiki/William_Karlsson",
+   "last_seen": "2026-10-09",
+   "name": "William Karlsson",
+   "sport": "Ishockey",
+   "team": "Golden Knights",
+   "wiki": "https://sv.wikipedia.org/wiki/William_Karlsson"
+  },
+  "william-wallinder": {
+   "key": "https://sv.wikipedia.org/wiki/William_Wallinder",
+   "last_seen": "2026-10-09",
+   "name": "William Wallinder",
+   "sport": "Ishockey",
+   "team": "Red Wings",
+   "wiki": "https://sv.wikipedia.org/wiki/William_Wallinder"
+  },
+  "williot-swedberg": {
+   "key": "https://sv.wikipedia.org/wiki/Williot_Swedberg",
+   "last_seen": "2026-10-09",
+   "name": "Williot Swedberg",
+   "sport": "Fotboll",
+   "team": "Celta",
+   "wiki": "https://sv.wikipedia.org/wiki/Williot_Swedberg"
+  },
+  "yacqub-finey": {
+   "key": "Yacqub Finey|Excelsior",
+   "last_seen": "2026-10-09",
+   "name": "Yacqub Finey",
+   "sport": "Fotboll",
+   "team": "Excelsior",
+   "wiki": null
+  },
+  "yasin-ayari": {
+   "key": "https://sv.wikipedia.org/wiki/Yasin_Ayari",
+   "last_seen": "2026-10-09",
+   "name": "Yasin Ayari",
+   "sport": "Fotboll",
+   "team": "Brighton Hove",
+   "wiki": "https://sv.wikipedia.org/wiki/Yasin_Ayari"
+  },
+  "zeidane-inoussa": {
+   "key": "https://sv.wikipedia.org/wiki/Zeidane_Inoussa",
+   "last_seen": "2026-10-09",
+   "name": "Zeidane Inoussa",
+   "sport": "Fotboll",
+   "team": "Swansea",
+   "wiki": "https://sv.wikipedia.org/wiki/Zeidane_Inoussa"
+  }
+ },
+ "teams": {
+  "1-fc-koln": {
+   "key": "Fotboll|1. FC Köln",
+   "last_seen": "2026-10-09",
+   "name": "1. FC Köln",
+   "sport": "Fotboll"
+  },
+  "anaheim-ducks": {
+   "key": "Ishockey|Anaheim Ducks",
+   "last_seen": "2026-10-09",
+   "name": "Anaheim Ducks",
+   "sport": "Ishockey"
+  },
+  "arsenal": {
+   "key": "Fotboll|Arsenal",
+   "last_seen": "2026-10-09",
+   "name": "Arsenal",
+   "sport": "Fotboll"
+  },
+  "aston-villa": {
+   "key": "Fotboll|Aston Villa",
+   "last_seen": "2026-10-09",
+   "name": "Aston Villa",
+   "sport": "Fotboll"
+  },
+  "atalanta": {
+   "key": "Fotboll|Atalanta",
+   "last_seen": "2026-10-09",
+   "name": "Atalanta",
+   "sport": "Fotboll"
+  },
+  "barca": {
+   "key": "Fotboll|Barça",
+   "last_seen": "2026-10-09",
+   "name": "Barça",
+   "sport": "Fotboll"
+  },
+  "birmingham": {
+   "key": "Fotboll|Birmingham",
+   "last_seen": "2026-10-09",
+   "name": "Birmingham",
+   "sport": "Fotboll"
+  },
+  "blackburn": {
+   "key": "Fotboll|Blackburn",
+   "last_seen": "2026-10-09",
+   "name": "Blackburn",
+   "sport": "Fotboll"
+  },
+  "bodo-glimt": {
+   "key": "Fotboll|Bodø/Glimt",
+   "last_seen": "2026-10-09",
+   "name": "Bodø/Glimt",
+   "sport": "Fotboll"
+  },
+  "bologna": {
+   "key": "Fotboll|Bologna",
+   "last_seen": "2026-10-09",
+   "name": "Bologna",
+   "sport": "Fotboll"
+  },
+  "bolton": {
+   "key": "Fotboll|Bolton",
+   "last_seen": "2026-10-09",
+   "name": "Bolton",
+   "sport": "Fotboll"
+  },
+  "boston-bruins": {
+   "key": "Ishockey|Boston Bruins",
+   "last_seen": "2026-10-09",
+   "name": "Boston Bruins",
+   "sport": "Ishockey"
+  },
+  "braga": {
+   "key": "Fotboll|Braga",
+   "last_seen": "2026-10-09",
+   "name": "Braga",
+   "sport": "Fotboll"
+  },
+  "bremen": {
+   "key": "Fotboll|Bremen",
+   "last_seen": "2026-10-09",
+   "name": "Bremen",
+   "sport": "Fotboll"
+  },
+  "brentford": {
+   "key": "Fotboll|Brentford",
+   "last_seen": "2026-10-09",
+   "name": "Brentford",
+   "sport": "Fotboll"
+  },
+  "brighton-hove": {
+   "key": "Fotboll|Brighton Hove",
+   "last_seen": "2026-10-09",
+   "name": "Brighton Hove",
+   "sport": "Fotboll"
+  },
+  "bristol-city": {
+   "key": "Fotboll|Bristol City",
+   "last_seen": "2026-10-09",
+   "name": "Bristol City",
+   "sport": "Fotboll"
+  },
+  "buffalo-sabres": {
+   "key": "Ishockey|Buffalo Sabres",
+   "last_seen": "2026-10-09",
+   "name": "Buffalo Sabres",
+   "sport": "Ishockey"
+  },
+  "burnley": {
+   "key": "Fotboll|Burnley",
+   "last_seen": "2026-10-09",
+   "name": "Burnley",
+   "sport": "Fotboll"
+  },
+  "calgary-flames": {
+   "key": "Ishockey|Calgary Flames",
+   "last_seen": "2026-10-09",
+   "name": "Calgary Flames",
+   "sport": "Ishockey"
+  },
+  "carolina-hurricanes": {
+   "key": "Ishockey|Carolina Hurricanes",
+   "last_seen": "2026-10-09",
+   "name": "Carolina Hurricanes",
+   "sport": "Ishockey"
+  },
+  "celta": {
+   "key": "Fotboll|Celta",
+   "last_seen": "2026-10-09",
+   "name": "Celta",
+   "sport": "Fotboll"
+  },
+  "charlton": {
+   "key": "Fotboll|Charlton",
+   "last_seen": "2026-10-09",
+   "name": "Charlton",
+   "sport": "Fotboll"
+  },
+  "chicago-blackhawks": {
+   "key": "Ishockey|Chicago Blackhawks",
+   "last_seen": "2026-10-09",
+   "name": "Chicago Blackhawks",
+   "sport": "Ishockey"
+  },
+  "club-brugge": {
+   "key": "Fotboll|Club Brugge",
+   "last_seen": "2026-10-09",
+   "name": "Club Brugge",
+   "sport": "Fotboll"
+  },
+  "colorado-avalanche": {
+   "key": "Ishockey|Colorado Avalanche",
+   "last_seen": "2026-10-09",
+   "name": "Colorado Avalanche",
+   "sport": "Ishockey"
+  },
+  "columbus-blue-jackets": {
+   "key": "Ishockey|Columbus Blue Jackets",
+   "last_seen": "2026-10-09",
+   "name": "Columbus Blue Jackets",
+   "sport": "Ishockey"
+  },
+  "como-1907": {
+   "key": "Fotboll|Como 1907",
+   "last_seen": "2026-10-09",
+   "name": "Como 1907",
+   "sport": "Fotboll"
+  },
+  "coventry-city": {
+   "key": "Fotboll|Coventry City",
+   "last_seen": "2026-10-09",
+   "name": "Coventry City",
+   "sport": "Fotboll"
+  },
+  "dallas-stars": {
+   "key": "Ishockey|Dallas Stars",
+   "last_seen": "2026-10-09",
+   "name": "Dallas Stars",
+   "sport": "Ishockey"
+  },
+  "derby-county": {
+   "key": "Fotboll|Derby County",
+   "last_seen": "2026-10-09",
+   "name": "Derby County",
+   "sport": "Fotboll"
+  },
+  "detroit-red-wings": {
+   "key": "Ishockey|Detroit Red Wings",
+   "last_seen": "2026-10-09",
+   "name": "Detroit Red Wings",
+   "sport": "Ishockey"
+  },
+  "dortmund": {
+   "key": "Fotboll|Dortmund",
+   "last_seen": "2026-10-09",
+   "name": "Dortmund",
+   "sport": "Fotboll"
+  },
+  "edmonton-oilers": {
+   "key": "Ishockey|Edmonton Oilers",
+   "last_seen": "2026-10-09",
+   "name": "Edmonton Oilers",
+   "sport": "Ishockey"
+  },
+  "elche": {
+   "key": "Fotboll|Elche",
+   "last_seen": "2026-10-09",
+   "name": "Elche",
+   "sport": "Fotboll"
+  },
+  "espanyol": {
+   "key": "Fotboll|Espanyol",
+   "last_seen": "2026-10-09",
+   "name": "Espanyol",
+   "sport": "Fotboll"
+  },
+  "everton": {
+   "key": "Fotboll|Everton",
+   "last_seen": "2026-10-09",
+   "name": "Everton",
+   "sport": "Fotboll"
+  },
+  "excelsior": {
+   "key": "Fotboll|Excelsior",
+   "last_seen": "2026-10-09",
+   "name": "Excelsior",
+   "sport": "Fotboll"
+  },
+  "fenerbahce": {
+   "key": "Fotboll|Fenerbahçe",
+   "last_seen": "2026-10-09",
+   "name": "Fenerbahçe",
+   "sport": "Fotboll"
+  },
+  "feyenoord": {
+   "key": "Fotboll|Feyenoord",
+   "last_seen": "2026-10-09",
+   "name": "Feyenoord",
+   "sport": "Fotboll"
+  },
+  "fiorentina": {
+   "key": "Fotboll|Fiorentina",
+   "last_seen": "2026-10-09",
+   "name": "Fiorentina",
+   "sport": "Fotboll"
+  },
+  "florida-panthers": {
+   "key": "Ishockey|Florida Panthers",
+   "last_seen": "2026-10-09",
+   "name": "Florida Panthers",
+   "sport": "Ishockey"
+  },
+  "frankfurt": {
+   "key": "Fotboll|Frankfurt",
+   "last_seen": "2026-10-09",
+   "name": "Frankfurt",
+   "sport": "Fotboll"
+  },
+  "fulham": {
+   "key": "Fotboll|Fulham",
+   "last_seen": "2026-10-09",
+   "name": "Fulham",
+   "sport": "Fotboll"
+  },
+  "galatasaray": {
+   "key": "Fotboll|Galatasaray",
+   "last_seen": "2026-10-09",
+   "name": "Galatasaray",
+   "sport": "Fotboll"
+  },
+  "genoa": {
+   "key": "Fotboll|Genoa",
+   "last_seen": "2026-10-09",
+   "name": "Genoa",
+   "sport": "Fotboll"
+  },
+  "getafe": {
+   "key": "Fotboll|Getafe",
+   "last_seen": "2026-10-09",
+   "name": "Getafe",
+   "sport": "Fotboll"
+  },
+  "gil-vicente": {
+   "key": "Fotboll|Gil Vicente",
+   "last_seen": "2026-10-09",
+   "name": "Gil Vicente",
+   "sport": "Fotboll"
+  },
+  "go-ahead": {
+   "key": "Fotboll|Go Ahead",
+   "last_seen": "2026-10-09",
+   "name": "Go Ahead",
+   "sport": "Fotboll"
+  },
+  "groningen": {
+   "key": "Fotboll|Groningen",
+   "last_seen": "2026-10-09",
+   "name": "Groningen",
+   "sport": "Fotboll"
+  },
+  "heerenveen": {
+   "key": "Fotboll|Heerenveen",
+   "last_seen": "2026-10-09",
+   "name": "Heerenveen",
+   "sport": "Fotboll"
+  },
+  "hull-city": {
+   "key": "Fotboll|Hull City",
+   "last_seen": "2026-10-09",
+   "name": "Hull City",
+   "sport": "Fotboll"
+  },
+  "inter": {
+   "key": "Fotboll|Inter",
+   "last_seen": "2026-10-09",
+   "name": "Inter",
+   "sport": "Fotboll"
+  },
+  "ipswich-town": {
+   "key": "Fotboll|Ipswich Town",
+   "last_seen": "2026-10-09",
+   "name": "Ipswich Town",
+   "sport": "Fotboll"
+  },
+  "lask": {
+   "key": "Fotboll|LASK",
+   "last_seen": "2026-10-09",
+   "name": "LASK",
+   "sport": "Fotboll"
+  },
+  "lazio": {
+   "key": "Fotboll|Lazio",
+   "last_seen": "2026-10-09",
+   "name": "Lazio",
+   "sport": "Fotboll"
+  },
+  "lecce": {
+   "key": "Fotboll|Lecce",
+   "last_seen": "2026-10-09",
+   "name": "Lecce",
+   "sport": "Fotboll"
+  },
+  "leeds-united": {
+   "key": "Fotboll|Leeds United",
+   "last_seen": "2026-10-09",
+   "name": "Leeds United",
+   "sport": "Fotboll"
+  },
+  "lille": {
+   "key": "Fotboll|Lille",
+   "last_seen": "2026-10-09",
+   "name": "Lille",
+   "sport": "Fotboll"
+  },
+  "lincoln-city": {
+   "key": "Fotboll|Lincoln City",
+   "last_seen": "2026-10-09",
+   "name": "Lincoln City",
+   "sport": "Fotboll"
+  },
+  "liverpool": {
+   "key": "Fotboll|Liverpool",
+   "last_seen": "2026-10-09",
+   "name": "Liverpool",
+   "sport": "Fotboll"
+  },
+  "los-angeles-kings": {
+   "key": "Ishockey|Los Angeles Kings",
+   "last_seen": "2026-10-09",
+   "name": "Los Angeles Kings",
+   "sport": "Ishockey"
+  },
+  "m-gladbach": {
+   "key": "Fotboll|M'gladbach",
+   "last_seen": "2026-10-09",
+   "name": "M'gladbach",
+   "sport": "Fotboll"
+  },
+  "malaga": {
+   "key": "Fotboll|Málaga",
+   "last_seen": "2026-10-09",
+   "name": "Málaga",
+   "sport": "Fotboll"
+  },
+  "man-city": {
+   "key": "Fotboll|Man City",
+   "last_seen": "2026-10-09",
+   "name": "Man City",
+   "sport": "Fotboll"
+  },
+  "man-united": {
+   "key": "Fotboll|Man United",
+   "last_seen": "2026-10-09",
+   "name": "Man United",
+   "sport": "Fotboll"
+  },
+  "middlesbrough": {
+   "key": "Fotboll|Middlesbrough",
+   "last_seen": "2026-10-09",
+   "name": "Middlesbrough",
+   "sport": "Fotboll"
+  },
+  "millwall": {
+   "key": "Fotboll|Millwall",
+   "last_seen": "2026-10-09",
+   "name": "Millwall",
+   "sport": "Fotboll"
+  },
+  "minnesota-wild": {
+   "key": "Ishockey|Minnesota Wild",
+   "last_seen": "2026-10-09",
+   "name": "Minnesota Wild",
+   "sport": "Ishockey"
+  },
+  "monaco": {
+   "key": "Fotboll|Monaco",
+   "last_seen": "2026-10-09",
+   "name": "Monaco",
+   "sport": "Fotboll"
+  },
+  "montreal-canadiens": {
+   "key": "Ishockey|Montréal Canadiens",
+   "last_seen": "2026-10-09",
+   "name": "Montréal Canadiens",
+   "sport": "Ishockey"
+  },
+  "monza": {
+   "key": "Fotboll|Monza",
+   "last_seen": "2026-10-09",
+   "name": "Monza",
+   "sport": "Fotboll"
+  },
+  "moreirense": {
+   "key": "Fotboll|Moreirense",
+   "last_seen": "2026-10-09",
+   "name": "Moreirense",
+   "sport": "Fotboll"
+  },
+  "nashville-predators": {
+   "key": "Ishockey|Nashville Predators",
+   "last_seen": "2026-10-09",
+   "name": "Nashville Predators",
+   "sport": "Ishockey"
+  },
+  "new-jersey-devils": {
+   "key": "Ishockey|New Jersey Devils",
+   "last_seen": "2026-10-09",
+   "name": "New Jersey Devils",
+   "sport": "Ishockey"
+  },
+  "new-york-islanders": {
+   "key": "Ishockey|New York Islanders",
+   "last_seen": "2026-10-09",
+   "name": "New York Islanders",
+   "sport": "Ishockey"
+  },
+  "new-york-rangers": {
+   "key": "Ishockey|New York Rangers",
+   "last_seen": "2026-10-09",
+   "name": "New York Rangers",
+   "sport": "Ishockey"
+  },
+  "newcastle": {
+   "key": "Fotboll|Newcastle",
+   "last_seen": "2026-10-09",
+   "name": "Newcastle",
+   "sport": "Fotboll"
+  },
+  "nice": {
+   "key": "Fotboll|Nice",
+   "last_seen": "2026-10-09",
+   "name": "Nice",
+   "sport": "Fotboll"
+  },
+  "norwich": {
+   "key": "Fotboll|Norwich",
+   "last_seen": "2026-10-09",
+   "name": "Norwich",
+   "sport": "Fotboll"
+  },
+  "ottawa-senators": {
+   "key": "Ishockey|Ottawa Senators",
+   "last_seen": "2026-10-09",
+   "name": "Ottawa Senators",
+   "sport": "Ishockey"
+  },
+  "parma": {
+   "key": "Fotboll|Parma",
+   "last_seen": "2026-10-09",
+   "name": "Parma",
+   "sport": "Fotboll"
+  },
+  "philadelphia-flyers": {
+   "key": "Ishockey|Philadelphia Flyers",
+   "last_seen": "2026-10-09",
+   "name": "Philadelphia Flyers",
+   "sport": "Ishockey"
+  },
+  "pittsburgh-penguins": {
+   "key": "Ishockey|Pittsburgh Penguins",
+   "last_seen": "2026-10-09",
+   "name": "Pittsburgh Penguins",
+   "sport": "Ishockey"
+  },
+  "portsmouth": {
+   "key": "Fotboll|Portsmouth",
+   "last_seen": "2026-10-09",
+   "name": "Portsmouth",
+   "sport": "Fotboll"
+  },
+  "preston-ne": {
+   "key": "Fotboll|Preston NE",
+   "last_seen": "2026-10-09",
+   "name": "Preston NE",
+   "sport": "Fotboll"
+  },
+  "psv": {
+   "key": "Fotboll|PSV",
+   "last_seen": "2026-10-09",
+   "name": "PSV",
+   "sport": "Fotboll"
+  },
+  "qpr": {
+   "key": "Fotboll|QPR",
+   "last_seen": "2026-10-09",
+   "name": "QPR",
+   "sport": "Fotboll"
+  },
+  "rb-leipzig": {
+   "key": "Fotboll|RB Leipzig",
+   "last_seen": "2026-10-09",
+   "name": "RB Leipzig",
+   "sport": "Fotboll"
+  },
+  "roma": {
+   "key": "Fotboll|Roma",
+   "last_seen": "2026-10-09",
+   "name": "Roma",
+   "sport": "Fotboll"
+  },
+  "san-jose-sharks": {
+   "key": "Ishockey|San Jose Sharks",
+   "last_seen": "2026-10-09",
+   "name": "San Jose Sharks",
+   "sport": "Ishockey"
+  },
+  "santander": {
+   "key": "Fotboll|Santander",
+   "last_seen": "2026-10-09",
+   "name": "Santander",
+   "sport": "Fotboll"
+  },
+  "seattle-kraken": {
+   "key": "Ishockey|Seattle Kraken",
+   "last_seen": "2026-10-09",
+   "name": "Seattle Kraken",
+   "sport": "Ishockey"
+  },
+  "sheffield-utd": {
+   "key": "Fotboll|Sheffield Utd",
+   "last_seen": "2026-10-09",
+   "name": "Sheffield Utd",
+   "sport": "Fotboll"
+  },
+  "sittard": {
+   "key": "Fotboll|Sittard",
+   "last_seen": "2026-10-09",
+   "name": "Sittard",
+   "sport": "Fotboll"
+  },
+  "sl-benfica": {
+   "key": "Fotboll|SL Benfica",
+   "last_seen": "2026-10-09",
+   "name": "SL Benfica",
+   "sport": "Fotboll"
+  },
+  "sparta": {
+   "key": "Fotboll|Sparta",
+   "last_seen": "2026-10-09",
+   "name": "Sparta",
+   "sport": "Fotboll"
+  },
+  "sporting-cp": {
+   "key": "Fotboll|Sporting CP",
+   "last_seen": "2026-10-09",
+   "name": "Sporting CP",
+   "sport": "Fotboll"
+  },
+  "st-louis-blues": {
+   "key": "Ishockey|St. Louis Blues",
+   "last_seen": "2026-10-09",
+   "name": "St. Louis Blues",
+   "sport": "Ishockey"
+  },
+  "stoke": {
+   "key": "Fotboll|Stoke",
+   "last_seen": "2026-10-09",
+   "name": "Stoke",
+   "sport": "Fotboll"
+  },
+  "strasbourg": {
+   "key": "Fotboll|Strasbourg",
+   "last_seen": "2026-10-09",
+   "name": "Strasbourg",
+   "sport": "Fotboll"
+  },
+  "sunderland": {
+   "key": "Fotboll|Sunderland",
+   "last_seen": "2026-10-09",
+   "name": "Sunderland",
+   "sport": "Fotboll"
+  },
+  "swansea": {
+   "key": "Fotboll|Swansea",
+   "last_seen": "2026-10-09",
+   "name": "Swansea",
+   "sport": "Fotboll"
+  },
+  "tampa-bay-lightning": {
+   "key": "Ishockey|Tampa Bay Lightning",
+   "last_seen": "2026-10-09",
+   "name": "Tampa Bay Lightning",
+   "sport": "Ishockey"
+  },
+  "torino": {
+   "key": "Fotboll|Torino",
+   "last_seen": "2026-10-09",
+   "name": "Torino",
+   "sport": "Fotboll"
+  },
+  "toronto-maple-leafs": {
+   "key": "Ishockey|Toronto Maple Leafs",
+   "last_seen": "2026-10-09",
+   "name": "Toronto Maple Leafs",
+   "sport": "Ishockey"
+  },
+  "tottenham": {
+   "key": "Fotboll|Tottenham",
+   "last_seen": "2026-10-09",
+   "name": "Tottenham",
+   "sport": "Fotboll"
+  },
+  "toulouse": {
+   "key": "Fotboll|Toulouse",
+   "last_seen": "2026-10-09",
+   "name": "Toulouse",
+   "sport": "Fotboll"
+  },
+  "twente": {
+   "key": "Fotboll|Twente",
+   "last_seen": "2026-10-09",
+   "name": "Twente",
+   "sport": "Fotboll"
+  },
+  "udinese": {
+   "key": "Fotboll|Udinese",
+   "last_seen": "2026-10-09",
+   "name": "Udinese",
+   "sport": "Fotboll"
+  },
+  "utah-mammoth": {
+   "key": "Ishockey|Utah Mammoth",
+   "last_seen": "2026-10-09",
+   "name": "Utah Mammoth",
+   "sport": "Ishockey"
+  },
+  "utrecht": {
+   "key": "Fotboll|Utrecht",
+   "last_seen": "2026-10-09",
+   "name": "Utrecht",
+   "sport": "Fotboll"
+  },
+  "valencia": {
+   "key": "Fotboll|Valencia",
+   "last_seen": "2026-10-09",
+   "name": "Valencia",
+   "sport": "Fotboll"
+  },
+  "vancouver-canucks": {
+   "key": "Ishockey|Vancouver Canucks",
+   "last_seen": "2026-10-09",
+   "name": "Vancouver Canucks",
+   "sport": "Ishockey"
+  },
+  "vegas-golden-knights": {
+   "key": "Ishockey|Vegas Golden Knights",
+   "last_seen": "2026-10-09",
+   "name": "Vegas Golden Knights",
+   "sport": "Ishockey"
+  },
+  "venezia-fc": {
+   "key": "Fotboll|Venezia FC",
+   "last_seen": "2026-10-09",
+   "name": "Venezia FC",
+   "sport": "Fotboll"
+  },
+  "vitoria-sc": {
+   "key": "Fotboll|Vitória SC",
+   "last_seen": "2026-10-09",
+   "name": "Vitória SC",
+   "sport": "Fotboll"
+  },
+  "washington-capitals": {
+   "key": "Ishockey|Washington Capitals",
+   "last_seen": "2026-10-09",
+   "name": "Washington Capitals",
+   "sport": "Ishockey"
+  },
+  "watford": {
+   "key": "Fotboll|Watford",
+   "last_seen": "2026-10-09",
+   "name": "Watford",
+   "sport": "Fotboll"
+  },
+  "west-ham": {
+   "key": "Fotboll|West Ham",
+   "last_seen": "2026-10-09",
+   "name": "West Ham",
+   "sport": "Fotboll"
+  },
+  "willem-ii": {
+   "key": "Fotboll|Willem II",
+   "last_seen": "2026-10-09",
+   "name": "Willem II",
+   "sport": "Fotboll"
+  },
+  "winnipeg-jets": {
+   "key": "Ishockey|Winnipeg Jets",
+   "last_seen": "2026-10-09",
+   "name": "Winnipeg Jets",
+   "sport": "Ishockey"
+  },
+  "wrexham": {
+   "key": "Fotboll|Wrexham",
+   "last_seen": "2026-10-09",
+   "name": "Wrexham",
+   "sport": "Fotboll"
+  }
+ }
+}

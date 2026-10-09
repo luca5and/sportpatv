@@ -49,15 +49,17 @@ def parse_schedule(data):
 
 
 def parse_roster(data):
-    """Spelare födda i Sverige (birthCountry SWE). Två med samma namn i laget
-    (t.ex. Vancouvers två Elias Pettersson) får tröjnummer efter namnet."""
+    """Hela truppen med födelseland. Vilka som är svenskar avgörs i build.py:
+    födda i Sverige, eller svenska enligt Wikidata (t.ex. William Nylander,
+    född i Kanada). Två med samma namn i laget får tröjnummer efter namnet."""
     players = []
     for group in ("forwards", "defensemen", "goalies"):
         for p in data.get(group, []):
-            if p.get("birthCountry") == "SWE":
-                players.append((f'{text(p.get("firstName"))} {text(p.get("lastName"))}', p.get("sweaterNumber")))
-    names = [n for n, _ in players]
-    return sorted(f"{n} #{num}" if names.count(n) > 1 and num else n for n, num in players)
+            players.append((f'{text(p.get("firstName"))} {text(p.get("lastName"))}',
+                            p.get("sweaterNumber"), p.get("birthCountry")))
+    names = [n for n, _, _ in players]
+    return sorted(({"name": f"{n} #{num}" if names.count(n) > 1 and num else n, "country": c}
+                   for n, num, c in players), key=lambda p: p["name"])
 
 
 def main():
@@ -72,21 +74,21 @@ def main():
         print(f"NHL-schema misslyckades, behåller gammalt: {exc}", file=sys.stderr)
         games = old.get("games", [])
 
-    swedes = dict(old.get("swedes", {}))
+    rosters = dict(old.get("rosters", {}))
     teams = sorted({g[side]["abbrev"] for g in games for side in ("home", "away")})
     failed = 0
     for abbrev in teams:
         try:
-            swedes[abbrev] = parse_roster(get(f"/roster/{abbrev}/current"))
+            rosters[abbrev] = parse_roster(get(f"/roster/{abbrev}/current"))
         except Exception as exc:
             failed += 1
             print(f"NHL-trupp {abbrev} misslyckades: {exc}", file=sys.stderr)
         time.sleep(0.3)
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps({"games": games, "swedes": swedes}, ensure_ascii=False, indent=1, sort_keys=True) + "\n")
-    total = sum(len(v) for k, v in swedes.items() if k in teams)
-    print(f"{len(games)} NHL-matcher, {len(teams) - failed}/{len(teams)} trupper, {total} svenskar")
+    OUT.write_text(json.dumps({"games": games, "rosters": rosters}, ensure_ascii=False, indent=1, sort_keys=True) + "\n")
+    born = sum(1 for k, v in rosters.items() if k in teams for p in v if p["country"] == "SWE")
+    print(f"{len(games)} NHL-matcher, {len(teams) - failed}/{len(teams)} trupper, {born} födda i Sverige")
     return 0
 
 

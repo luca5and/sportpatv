@@ -170,17 +170,20 @@ NHL_TYPES = {1: "NHL försäsong", 2: "NHL", 3: "NHL slutspel"}
 def nhl_events(nhl, rights, confirmations, people, removed=()):
     """Ishockey: NHL-matcher där minst ett lag har en svensk i truppen."""
     events = []
-    swedes_by_team = nhl.get("swedes", {})
+    rosters = nhl.get("rosters") or {  # äldre format: bara namn på svenskfödda
+        team: [{"name": n, "country": "SWE"} for n in names] for team, names in nhl.get("swedes", {}).items()}
     for g in nhl.get("games", []):
         if g.get("state") in NHL_FINISHED:
             continue
         swedes = []
         for side in ("home", "away"):
             t = g[side]
-            for name in swedes_by_team.get(t["abbrev"], []):
-                if name.split(" #")[0] in removed:
+            for p in rosters.get(t["abbrev"], []):
+                name = p["name"]
+                base = name.split(" #")[0]
+                candidates = people.get(person_key(base), [])
+                if base in removed or (p.get("country") != "SWE" and not candidates):
                     continue
-                candidates = people.get(person_key(name.split(" #")[0]), [])
                 url = candidates[0]["url"] if len(candidates) == 1 else None
                 swedes.append({"name": name, "team": t.get("short") or t["name"], "url": url})
         if not swedes:
