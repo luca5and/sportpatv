@@ -1,5 +1,5 @@
 {
-  "_info": "Bekräftade sändningar per match. Nyckel = match-id från football-data.org (fotboll) eller id i manual_events.json. Lägg bara in en rad när sändningen hittats hos kanalen själv, och spara länken i source. Sätt service till null för en match som bevisligen inte sänds i Sverige.",
+  "_info": "Bekräftade sändningar per match. Nyckel = match-id från football-data.org (fotboll) eller id i manual_events.json. Lägg bara in en rad när sändningen hittats hos kanalen själv, och spara länken i source. Sätt service till null för en match som bevisligen inte sänds i Sverige. single_source: true när bara en källa hittats; visas då som 'bör sändas'.",
   "_example": {
     "537000": {
       "service": "Viaplay",
@@ -23,6 +23,62 @@
       "channel": "TV4 Sportkanalen",
       "source": "https://news.bet365.com/sv-sv/article/sport-tv-idag-fredag-9-oktober-2026-tv-tabla-streaming/2026100807331499137",
       "source_2": "https://www.tvmatchen.nu/match/sporting-braga-sporting-cp-1920085",
+      "checked": "2026-10-09"
+    },
+    "nhl-2026020071": {
+      "title": "New Jersey – Vancouver, 10 okt 21.30",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+      "source_2": "https://teknikveckan.se/nhl-drar-igang-pa-disney-i-oktober",
+      "checked": "2026-10-09"
+    },
+    "nhl-2026020080": {
+      "title": "Colorado – Toronto, natt mot 11 okt 01.00",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+      "source_2": "https://teknikveckan.se/nhl-drar-igang-pa-disney-i-oktober",
+      "checked": "2026-10-09"
+    },
+    "nhl-2026020075": {
+      "title": "Montreal – Detroit, natt mot 11 okt 01.00",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+      "source_2": "https://teknikveckan.se/nhl-drar-igang-pa-disney-i-oktober",
+      "checked": "2026-10-09"
+    },
+    "nhl-2026020084": {
+      "title": "Washington – Seattle, 11 okt 23.00",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+      "source_2": "https://teknikveckan.se/nhl-drar-igang-pa-disney-i-oktober",
+      "checked": "2026-10-09"
+    },
+    "nhl-2026020090": {
+      "title": "Detroit – New Jersey, natt mot 14 okt 00.00",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+      "single_source": true,
+      "checked": "2026-10-09"
+    },
+    "nhl-2026020091": {
+      "title": "Columbus – Florida, natt mot 14 okt 00.15",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+      "single_source": true,
+      "checked": "2026-10-09"
+    },
+    "nhl-2026020113": {
+      "title": "New Jersey – NY Rangers, natt mot 16 okt 01.00",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+      "single_source": true,
       "checked": "2026-10-09"
     }
   }

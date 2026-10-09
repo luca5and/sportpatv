@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T06:58+00:00",
+ "generated": "2026-10-09T08:13+00:00",
  "events": [
   {
    "id": "567327",
@@ -156,11 +156,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -212,11 +212,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -243,11 +243,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -274,11 +274,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -692,11 +692,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -790,11 +790,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "confirmed",
+    "service": "Disney+",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+    "note": null
    }
   },
   {
@@ -831,11 +831,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -877,11 +877,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -908,11 +908,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -934,11 +934,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -960,11 +960,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "confirmed",
+    "service": "Disney+",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+    "note": null
    }
   },
   {
@@ -1021,11 +1021,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "confirmed",
+    "service": "Disney+",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+    "note": null
    }
   },
   {
@@ -1077,11 +1077,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -1118,11 +1118,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -1154,11 +1154,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -1200,11 +1200,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -1226,11 +1226,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -1277,11 +1277,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -1610,11 +1610,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "confirmed",
+    "service": "Disney+",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+    "note": null
    }
   },
   {
@@ -1666,11 +1666,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -1687,11 +1687,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -1744,11 +1744,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -1832,11 +1832,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -1883,11 +1883,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2127,11 +2127,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Disney+",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+    "note": null
    }
   },
   {
@@ -2158,11 +2158,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Disney+",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+    "note": null
    }
   },
   {
@@ -2194,11 +2194,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2215,11 +2215,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2241,11 +2241,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2282,11 +2282,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2333,11 +2333,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2394,11 +2394,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2435,11 +2435,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2481,11 +2481,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2512,11 +2512,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2563,11 +2563,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2589,11 +2589,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2615,11 +2615,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2666,11 +2666,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2702,11 +2702,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2864,11 +2864,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2895,11 +2895,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2951,11 +2951,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -2987,11 +2987,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Disney+",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+    "note": null
    }
   },
   {
@@ -3038,11 +3038,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -3074,11 +3074,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -3105,11 +3105,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -3161,11 +3161,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -3197,11 +3197,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -3248,11 +3248,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -3294,11 +3294,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -3330,11 +3330,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   },
   {
@@ -3366,11 +3366,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
    }
   }
  ]

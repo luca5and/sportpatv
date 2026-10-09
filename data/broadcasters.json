@@ -111,10 +111,13 @@
         "Disney+"
       ],
       "coverage": "split",
-      "note": "Viaplay minst 900 grundseriematcher (avtal t.o.m. 2030/31), Disney+ 160 exklusiva från 2026/27. Måste bekräftas per match.",
+      "note": "Viaplay minst 900 grundseriematcher (t.o.m. 2030/31), Disney+ 160 exklusiva från 2026/27. Disney+ har publicerat sina exklusiva matcher t.o.m. oktober (VMhockey); övriga matcher räknas som Viaplay fram till exceptions_known_until.",
       "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
       "source_2": "https://www.nhl.com/sv/news/sa-foljer-du-nhl-sasongen-2026-27",
-      "verified": null
+      "verified": null,
+      "default": "Viaplay",
+      "exceptions_known_until": "2026-10-31",
+      "disney_list": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/"
     }
   }
 }
