@@ -7,6 +7,7 @@
   --accent: #005bab;      /* svensk blå */
   --accent-2: #fecc02;    /* svensk gul */
   --on-accent: #ffffff;
+  --coffee-bg: #ffdd00; --coffee-fg: #1f1a00;
   --ok-bg: #e3f4e8;  --ok-fg: #17663a;
   --mid-bg: #fdf3d6; --mid-fg: #7a5600;
   --no-bg: #eceef1;  --no-fg: #4d5560;
@@ -39,9 +40,9 @@ a { color: var(--accent); }
 
 .top { background: var(--card); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 2; }
 .top .wrap { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 56px; flex-wrap: wrap; }
-.logo { font-size: 1.25rem; margin: 0; letter-spacing: -0.02em; }
+.logo { font-size: 1.25rem; font-weight: 800; margin: 0; letter-spacing: -0.02em; color: var(--text); text-decoration: none; }
 .logo span { color: var(--accent); margin: 0 1px; }
-.tabs { display: flex; gap: 4px; }
+.tabs { display: flex; gap: 4px; align-items: center; flex-wrap: wrap; }
 .tab { padding: 8px 12px; border-radius: 999px; text-decoration: none; color: var(--muted); font-weight: 600; font-size: 0.95rem; }
 .tab.active { background: var(--accent); color: var(--on-accent); }
 .tab.disabled { opacity: 0.6; cursor: default; }
@@ -92,3 +93,18 @@ a { color: var(--accent); }
 .legend dl { display: grid; grid-template-columns: max-content 1fr; gap: 10px 14px; align-items: start; }
 .legend dd { margin: 0; }
 .foot { color: var(--muted); font-size: 0.8rem; padding-bottom: 32px; }
+
+.coffee { display: inline-block; background: var(--coffee-bg); color: var(--coffee-fg); font-weight: 700; font-size: 0.9rem;
+  padding: 7px 12px; border-radius: 999px; text-decoration: none; }
+.coffee:hover { filter: brightness(0.95); }
+.top .coffee { font-size: 0.85rem; padding: 6px 10px; }
+.intro { font-size: 1.35rem; line-height: 1.25; margin: 18px 0 4px; text-wrap: balance; letter-spacing: -0.01em; }
+.lede { color: var(--muted); margin: 0 0 4px; max-width: 65ch; }
+.lede b { color: var(--text); }
+.crumbs { margin-top: 14px; font-size: 0.9rem; }
+.links { font-size: 0.95rem; }
+.empty-row { list-style: none; color: var(--muted); padding: 12px 0; }
+.about { margin: 28px 0; padding-top: 18px; border-top: 1px solid var(--line); max-width: 65ch; }
+.about h2 { font-size: 1.1rem; margin: 0 0 8px; }
+.about p { margin: 0 0 10px; color: var(--muted); }
+.foot .coffee { margin-top: 4px; }

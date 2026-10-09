@@ -2,7 +2,11 @@
   "_info": "Rättelser. 'add' lägger till en svensk spelare i ett fotbollslag (lagnamnet som football-data.org skriver det). 'remove' tar bort en spelare helt, i alla sporter, t.ex. gamla klubbyten i Wikidata eller NHL-spelare som är födda i Sverige men spelar för ett annat land.",
   "add": [],
   "remove": [
-    "Cutter Gauthier"
+    "Cutter Gauthier",
+    "Mattias Samuelsson",
+    "Sean Durzi",
+    "Travis Mitchell",
+    "Tyson Kozak"
   ],
   "club_aliases": {
     "_example_football_data_name": [
@@ -10,6 +14,10 @@
     ]
   },
   "_remove_reasons": {
-    "Cutter Gauthier": "Född i Sverige men representerar USA."
+    "Cutter Gauthier": "Född i Sverige men representerar USA.",
+    "Travis Mitchell": "Amerikan; felaktigt svensk i Wikidata.",
+    "Mattias Samuelsson": "Född i USA och spelar för USA; felaktigt svensk i Wikidata.",
+    "Tyson Kozak": "Kanadensare; felaktigt svensk i Wikidata.",
+    "Sean Durzi": "Kanadensare; felaktigt svensk i Wikidata."
   }
 }

@@ -75,9 +75,11 @@
         el("div", { class: "meta" }, [`${e.sport} · ${e.competition}`]),
         el("div", { class: "title" }, [e.title]),
         el("div", { class: "swedes" }, e.swedes.map((s) => {
-          const name = s.url
-            ? el("a", { href: s.url, rel: "noopener", target: "_blank", title: "Om " + s.name + " på Wikipedia" }, [s.name])
-            : s.name;
+          const name = s.page
+            ? el("a", { href: s.page, title: s.name + " på TV" }, [s.name])
+            : s.url
+              ? el("a", { href: s.url, rel: "noopener", target: "_blank", title: "Om " + s.name + " på Wikipedia" }, [s.name])
+              : s.name;
           return el("span", { class: "swede" }, [name, " ", el("small", {}, [s.team])]);
         })),
         tvRow,

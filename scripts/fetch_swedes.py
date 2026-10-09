@@ -70,7 +70,7 @@ def sparql(query, attempts=3):
 # Sverige (P1532) och har en artikel på svenska eller engelska Wikipedia.
 # Oberoende av klubbdata, som ofta saknas i Wikidata.
 ARTICLES_QUERY = """
-SELECT ?player ?name ?article WHERE {
+SELECT ?player ?name ?article ?sport ?born WHERE {
   VALUES ?sport { wd:Q937857 wd:Q11774891 }  # fotbollsspelare, ishockeyspelare
   ?player wdt:P106 ?sport.
   { ?player wdt:P27 wd:Q34 } UNION { ?player wdt:P1532 wd:Q34 }
@@ -101,27 +101,37 @@ def fetch_club_names(club_ids, chunk=200):
     return names
 
 
+SPORTS = {"Q937857": "fotboll", "Q11774891": "ishockey"}
+
+
 def name_key(name):
     s = unicodedata.normalize("NFKD", name.replace("-", " "))
     return " ".join("".join(c for c in s if not unicodedata.combining(c)).lower().split())
 
 
 def people_index(rows_by_lang):
-    """Namn (gemener, utan accenter) -> [{id, url}] för svenska spelare med
-    Wikipedia-artikel, svensk artikel före engelsk. Används för spelarlänkar."""
-    urls = {}
-    names = {}
+    """Namn (gemener, utan accenter) -> [{id, url, sport, born}] för svenska
+    spelare med Wikipedia-artikel, svensk artikel före engelsk. Används för
+    spelarlänkar, och för att känna igen svenskar i NHL som är födda utomlands
+    (då måste sport och födelsedag stämma)."""
+    urls, names, sports, born = {}, {}, {}, {}
     for lang in ("en", "sv"):  # sv sist så att den vinner
         for row in rows_by_lang.get(lang, []):
             pid = qid(val(row, "player"))
             urls[pid] = val(row, "article")
             names.setdefault(pid, set()).add(val(row, "name"))
+            sport = qid(val(row, "sport") or "")
+            if sport:
+                sports.setdefault(pid, set()).add(SPORTS.get(sport, sport))
+            if val(row, "born"):
+                born[pid] = val(row, "born")[:10]
     index = {}
     for pid, labels in names.items():
         for label in labels:
             entries = index.setdefault(name_key(label), [])
             if not any(e["id"] == pid for e in entries):
-                entries.append({"id": pid, "url": urls[pid]})
+                entries.append({"id": pid, "url": urls[pid], "sports": sorted(sports.get(pid, [])),
+                                "born": born.get(pid)})
     return index
 
 

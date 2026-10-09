@@ -10,14 +10,20 @@ med vilken tjänst som sänder matchen.
 |---|---|---|
 | Svenska spelare och deras klubbar | Wikidata (CC0, fri att använda) | `scripts/fetch_swedes.py` |
 | Matcher kommande 7 dagar | football-data.org, gratisnivån | `scripts/fetch_matches.py` |
+| Aktuella fotbollstrupper | football-data.org, gratisnivån | `scripts/fetch_squads.py` |
+| NHL-matcher och trupper | NHL:s publika API | `scripts/fetch_nhl.py` |
 | TV-rättigheter per turnering | Egen tabell | `data/broadcasters.json` |
 | Bekräftade sändningar per match | Egen lista | `data/confirmations.json` |
 | Övrig sport (NHL, landslaget, skidor m.m.) | Egen lista | `data/manual_events.json` |
 | Rättelser av spelare och klubbnamn | Egen lista | `data/players_manual.json` |
 
-`scripts/build.py` slår ihop allt till `docs/data/swedes-on-tv.json`, som sidan i
-`docs/` läser. En GitHub Action (`.github/workflows/update-data.yml`) kör detta
-varje natt och sparar resultatet.
+`scripts/build.py` slår ihop allt till `docs/data/swedes-on-tv.json`.
+`scripts/render.py` skriver sedan de statiska sidorna som Google läser:
+startsidan (`docs/index.html`, från mallen `templates/index.html` – ändra i
+mallen, inte i docs), en sida per spelare (`docs/spelare/`) och lag
+(`docs/lag/`), samt `sitemap.xml` och `robots.txt`. Sidans adress och
+Buy Me a Coffee-länken står i `data/site.json`. En GitHub Action
+(`.github/workflows/update-data.yml`) kör allt varje natt och sparar resultatet.
 
 ### TV-märkningar – vi gissar aldrig
 
@@ -45,6 +51,7 @@ python3 -m unittest discover -s tests
 python3 scripts/fetch_swedes.py
 FOOTBALL_DATA_TOKEN=... python3 scripts/fetch_matches.py
 python3 scripts/build.py
+python3 scripts/render.py
 python3 -m http.server -d docs 8000
 ```
 
