@@ -154,6 +154,39 @@ def round_counts(matches, rights, confirmations):
     return counts
 
 
+NHL_FINISHED = {"OFF", "FINAL"}
+NHL_TYPES = {1: "NHL försäsong", 2: "NHL", 3: "NHL slutspel"}
+
+
+def nhl_events(nhl, rights, confirmations, people):
+    """Ishockey: NHL-matcher där minst ett lag har en svensk i truppen."""
+    events = []
+    swedes_by_team = nhl.get("swedes", {})
+    for g in nhl.get("games", []):
+        if g.get("state") in NHL_FINISHED:
+            continue
+        swedes = []
+        for side in ("home", "away"):
+            t = g[side]
+            for name in swedes_by_team.get(t["abbrev"], []):
+                candidates = people.get(person_key(name), [])
+                url = candidates[0]["url"] if len(candidates) == 1 else None
+                swedes.append({"name": name, "team": t.get("short") or t["name"], "url": url})
+        if not swedes:
+            continue
+        eid = "nhl-" + g["id"]
+        events.append({
+            "id": eid,
+            "sport": "Ishockey",
+            "competition": NHL_TYPES.get(g.get("type"), "NHL"),
+            "start": g["start"],
+            "title": f'{g["home"]["name"]} – {g["away"]["name"]}',
+            "swedes": swedes,
+            "tv": tv_status(eid, "NHL", rights, confirmations),
+        })
+    return events
+
+
 def build(now=None):
     now = now or dt.datetime.now(dt.timezone.utc)
     matches = (load(DATA / "generated" / "matches.json", {}) or {}).get("matches", [])
@@ -194,6 +227,8 @@ def build(now=None):
             "tv": tv_status(m["id"], m["competition"]["code"], rights, confirmations,
                             counts.get((m["competition"]["code"], m.get("matchday")), 0)),
         })
+
+    events += nhl_events(load(DATA / "generated" / "nhl.json", {}) or {}, rights, confirmations, people)
 
     for e in manual_events:
         e = dict(e)

@@ -66,12 +66,13 @@ def sparql(query, attempts=3):
             time.sleep(10 * attempt)
 
 
-# Alla fotbollsspelare med svenskt medborgarskap (P27) eller som representerar
+# Alla fotbolls- och ishockeyspelare med svenskt medborgarskap (P27) eller som representerar
 # Sverige (P1532) och har en artikel på svenska eller engelska Wikipedia.
 # Oberoende av klubbdata, som ofta saknas i Wikidata.
 ARTICLES_QUERY = """
 SELECT ?player ?name ?article WHERE {
-  ?player wdt:P106 wd:Q937857.
+  VALUES ?sport { wd:Q937857 wd:Q11774891 }  # fotbollsspelare, ishockeyspelare
+  ?player wdt:P106 ?sport.
   { ?player wdt:P27 wd:Q34 } UNION { ?player wdt:P1532 wd:Q34 }
   ?article schema:about ?player; schema:isPartOf <https://%s.wikipedia.org/>.
   OPTIONAL { ?player wdt:P569 ?born }

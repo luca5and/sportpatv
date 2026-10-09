@@ -115,6 +115,32 @@ class PeopleIndexTest(unittest.TestCase):
         self.assertIn("armin culum", index)
 
 
+class NhlTest(unittest.TestCase):
+    def test_parse_and_build(self):
+        import fetch_nhl
+        schedule = {"gameWeek": [{"games": [
+            {"id": 2026020050, "startTimeUTC": "2099-10-10T23:00:00Z", "gameState": "FUT", "gameType": 2,
+             "homeTeam": {"abbrev": "TOR", "placeName": {"default": "Toronto"}, "commonName": {"default": "Maple Leafs"}},
+             "awayTeam": {"abbrev": "DET", "placeName": {"default": "Detroit"}, "commonName": {"default": "Red Wings"}}},
+            {"id": 2026020051, "startTimeUTC": "2099-10-10T23:00:00Z", "gameState": "FUT", "gameType": 2,
+             "homeTeam": {"abbrev": "BOS"}, "awayTeam": {"abbrev": "NYR"}},
+        ]}]}
+        games = fetch_nhl.parse_schedule(schedule)
+        self.assertEqual(games[0]["home"]["name"], "Toronto Maple Leafs")
+        roster = {"forwards": [{"firstName": {"default": "William"}, "lastName": {"default": "Nylander"}, "birthCountry": "SWE"},
+                               {"firstName": {"default": "Auston"}, "lastName": {"default": "Matthews"}, "birthCountry": "USA"}]}
+        self.assertEqual(fetch_nhl.parse_roster(roster), ["William Nylander"])
+        people = {"william nylander": [{"id": "Q1", "url": "https://sv.wikipedia.org/wiki/William_Nylander"}]}
+        rights = {"NHL": {"services": ["Viaplay", "Disney+"], "coverage": "split"}}
+        events = build.nhl_events({"games": games, "swedes": {"TOR": ["William Nylander"]}}, rights, {}, people)
+        self.assertEqual(len(events), 1)  # BOS–NYR saknar svenskar
+        e = events[0]
+        self.assertEqual((e["id"], e["sport"], e["title"]), ("nhl-2026020050", "Ishockey", "Toronto Maple Leafs – Detroit Red Wings"))
+        self.assertEqual(e["swedes"][0]["url"], "https://sv.wikipedia.org/wiki/William_Nylander")
+        self.assertEqual(e["swedes"][0]["team"], "Maple Leafs")
+        self.assertEqual((e["tv"]["status"], e["tv"]["note"]), ("unknown", "Troligen Viaplay eller Disney+"))
+
+
 class TvStatusTest(unittest.TestCase):
     rights = {
         "SA": {"services": ["TV4 Play"], "coverage": "all", "source": "s"},
