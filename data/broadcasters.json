@@ -67,10 +67,12 @@
     },
     "DED": {
       "name": "Eredivisie",
-      "services": [],
-      "coverage": "unknown",
-      "note": "Motstridigt: Viaplay enligt bredbandsval.se, Mola enligt tv-app.se. Ej fastställt.",
-      "source": "https://tv-app.se/tv-idag/sport/fotboll/eredivisie/",
+      "services": [
+        "Viaplay"
+      ],
+      "coverage": "all",
+      "note": "Viaplay, alla matcher (Cybernews, speltipssidan, bredbandsval). tv-app.se anger Mola men är äldre.",
+      "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
       "verified": null
     },
     "CL": {
@@ -85,11 +87,14 @@
     },
     "PPL": {
       "name": "Primeira Liga",
-      "services": [],
-      "coverage": "unknown",
-      "note": "En källa säger TV4 Play, tre matcher per omgång. Ej bekräftat av en andra källa.",
-      "source": null,
-      "verified": null
+      "services": [
+        "TV4 Play"
+      ],
+      "coverage": "selected",
+      "note": "TV4 Play visar tre utvalda matcher per omgång 2026/27 (Fotbollskanalen, hurbra, tvmatchen).",
+      "source": "https://www.fotbollskanalen.se/artiklar/primeira-liga/se-den-portugisiska-ligan-pa-tv4-play---premiar-i-helgen",
+      "verified": null,
+      "per_round": 3
     },
     "BSA": {
       "name": "Brasileirão",

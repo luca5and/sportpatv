@@ -31,10 +31,13 @@
   function tvBadge(tv) {
     if (tv.status === "confirmed") {
       const label = tv.channel ? `${tv.service} · ${tv.channel}` : tv.service;
-      return el("span", { class: "badge confirmed", title: "Bekräftad i kanalens tablå" }, [label]);
+      return el("span", { class: "badge confirmed", title: tv.note || "Bekräftad för den här matchen" }, [label]);
     }
     if (tv.status === "likely") {
-      return el("span", { class: "badge likely", title: "Kanalen visar alla matcher i turneringen – ej kontrollerad" }, [tv.service]);
+      return el("span", { class: "badge likely", title: "Slutsats från omgångens övriga sändningar – ej kontrollerad" }, [tv.service]);
+    }
+    if (tv.status === "none") {
+      return el("span", { class: "badge none" }, ["Sänds inte i Sverige"]);
     }
     return el("span", { class: "badge unknown" }, ["Ej bekräftat"]);
   }
@@ -43,7 +46,7 @@
     const start = new Date(e.start);
     const live = start <= new Date();
     const tvRow = el("div", { class: "tv" }, [tvBadge(e.tv)]);
-    if (e.tv.status === "unknown" && e.tv.note) tvRow.append(e.tv.note);
+    if (e.tv.status !== "confirmed" && e.tv.note && e.tv.note !== "Sänds inte i Sverige") tvRow.append(e.tv.note);
     if (e.tv.status === "confirmed" && e.tv.source) {
       tvRow.append(el("a", { href: e.tv.source, rel: "nofollow noopener", target: "_blank" }, ["källa"]));
     }

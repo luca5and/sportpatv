@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T05:23+00:00",
+ "generated": "2026-10-09T05:50+00:00",
  "events": [
   {
    "id": "567327",
@@ -18,7 +18,7 @@
     "service": null,
     "channel": null,
     "source": null,
-    "note": null
+    "note": "TV4 Play visar 3 utvalda matcher per omgång"
    }
   },
   {
@@ -34,11 +34,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "confirmed",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": null
+    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -54,11 +54,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -74,11 +74,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Disney+",
     "channel": null,
     "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -94,11 +94,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -114,10 +114,10 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
+    "status": "confirmed",
+    "service": "TV4 Play",
+    "channel": "TV4 Sportkanalen",
+    "source": "https://news.bet365.com/sv-sv/article/sport-tv-idag-fredag-9-oktober-2026-tv-tabla-streaming/2026100807331499137",
     "note": null
    }
   },
@@ -158,11 +158,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -182,11 +182,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -202,11 +202,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "TV4 Play",
     "channel": null,
     "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -246,11 +246,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -266,11 +266,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -310,11 +310,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -330,11 +330,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -374,11 +374,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -394,11 +394,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "confirmed",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": null
+    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -414,11 +414,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "TV4 Play",
     "channel": null,
     "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -434,11 +434,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Disney+",
     "channel": null,
     "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -478,11 +478,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -498,11 +498,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "confirmed",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": null
+    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -518,11 +518,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -538,11 +538,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "confirmed",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": null
+    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -558,11 +558,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "TV4 Play",
     "channel": null,
     "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -582,11 +582,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Disney+",
     "channel": null,
     "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -622,11 +622,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "TV4 Play",
     "channel": null,
     "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -646,11 +646,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "TV4 Play",
     "channel": null,
     "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -674,11 +674,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -698,11 +698,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -738,11 +738,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "confirmed",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": null
+    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -786,7 +786,7 @@
     "service": null,
     "channel": null,
     "source": null,
-    "note": null
+    "note": "TV4 Play visar 3 utvalda matcher per omgång"
    }
   },
   {
@@ -802,11 +802,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Disney+",
     "channel": null,
     "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -822,11 +822,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "TV4 Play",
     "channel": null,
     "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -842,11 +842,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "TV4 Play",
     "channel": null,
     "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -882,11 +882,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -902,11 +902,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -926,11 +926,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -946,11 +946,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -966,11 +966,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -990,11 +990,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -1010,11 +1010,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -1034,11 +1034,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -1054,11 +1054,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -1074,11 +1074,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -1094,11 +1094,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -1118,11 +1118,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -1138,11 +1138,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   },
   {
@@ -1158,11 +1158,11 @@
     }
    ],
    "tv": {
-    "status": "likely",
+    "status": "confirmed",
     "service": "Viaplay",
     "channel": null,
     "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-    "note": null
+    "note": "Alla matcher i turneringen sänds här"
    }
   }
  ]
