@@ -49,13 +49,15 @@ def parse_schedule(data):
 
 
 def parse_roster(data):
-    """Spelare födda i Sverige (birthCountry SWE)."""
+    """Spelare födda i Sverige (birthCountry SWE). Två med samma namn i laget
+    (t.ex. Vancouvers två Elias Pettersson) får tröjnummer efter namnet."""
     players = []
     for group in ("forwards", "defensemen", "goalies"):
         for p in data.get(group, []):
             if p.get("birthCountry") == "SWE":
-                players.append(f'{text(p.get("firstName"))} {text(p.get("lastName"))}')
-    return sorted(players)
+                players.append((f'{text(p.get("firstName"))} {text(p.get("lastName"))}', p.get("sweaterNumber")))
+    names = [n for n, _ in players]
+    return sorted(f"{n} #{num}" if names.count(n) > 1 and num else n for n, num in players)
 
 
 def main():

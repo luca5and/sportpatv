@@ -158,7 +158,7 @@ NHL_FINISHED = {"OFF", "FINAL"}
 NHL_TYPES = {1: "NHL försäsong", 2: "NHL", 3: "NHL slutspel"}
 
 
-def nhl_events(nhl, rights, confirmations, people):
+def nhl_events(nhl, rights, confirmations, people, removed=()):
     """Ishockey: NHL-matcher där minst ett lag har en svensk i truppen."""
     events = []
     swedes_by_team = nhl.get("swedes", {})
@@ -169,7 +169,9 @@ def nhl_events(nhl, rights, confirmations, people):
         for side in ("home", "away"):
             t = g[side]
             for name in swedes_by_team.get(t["abbrev"], []):
-                candidates = people.get(person_key(name), [])
+                if name.split(" #")[0] in removed:
+                    continue
+                candidates = people.get(person_key(name.split(" #")[0]), [])
                 url = candidates[0]["url"] if len(candidates) == 1 else None
                 swedes.append({"name": name, "team": t.get("short") or t["name"], "url": url})
         if not swedes:
@@ -228,7 +230,8 @@ def build(now=None):
                             counts.get((m["competition"]["code"], m.get("matchday")), 0)),
         })
 
-    events += nhl_events(load(DATA / "generated" / "nhl.json", {}) or {}, rights, confirmations, people)
+    events += nhl_events(load(DATA / "generated" / "nhl.json", {}) or {}, rights, confirmations, people,
+                         set(manual.get("remove", [])))
 
     for e in manual_events:
         e = dict(e)

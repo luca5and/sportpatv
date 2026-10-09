@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T06:51+00:00",
+ "generated": "2026-10-09T06:52+00:00",
  "events": [
   {
    "id": "567327",
@@ -266,11 +266,6 @@
      "name": "Viggo Björck",
      "team": "Jets",
      "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck"
-    },
-    {
-     "name": "Cutter Gauthier",
-     "team": "Ducks",
-     "url": null
     },
     {
      "name": "Leo Carlsson",
@@ -1223,11 +1218,6 @@
      "name": "Mikael Backlund",
      "team": "Flames",
      "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund"
-    },
-    {
-     "name": "Cutter Gauthier",
-     "team": "Ducks",
-     "url": null
     },
     {
      "name": "Leo Carlsson",
@@ -2613,11 +2603,6 @@
    "start": "2026-10-14T01:45:00Z",
    "title": "Anaheim Ducks – Calgary Flames",
    "swedes": [
-    {
-     "name": "Cutter Gauthier",
-     "team": "Ducks",
-     "url": null
-    },
     {
      "name": "Leo Carlsson",
      "team": "Ducks",

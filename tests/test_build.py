@@ -130,6 +130,9 @@ class NhlTest(unittest.TestCase):
         roster = {"forwards": [{"firstName": {"default": "William"}, "lastName": {"default": "Nylander"}, "birthCountry": "SWE"},
                                {"firstName": {"default": "Auston"}, "lastName": {"default": "Matthews"}, "birthCountry": "USA"}]}
         self.assertEqual(fetch_nhl.parse_roster(roster), ["William Nylander"])
+        twins = {"forwards": [{"firstName": {"default": "Elias"}, "lastName": {"default": "Pettersson"}, "birthCountry": "SWE", "sweaterNumber": 40}],
+                 "defensemen": [{"firstName": {"default": "Elias"}, "lastName": {"default": "Pettersson"}, "birthCountry": "SWE", "sweaterNumber": 25}]}
+        self.assertEqual(fetch_nhl.parse_roster(twins), ["Elias Pettersson #25", "Elias Pettersson #40"])
         people = {"william nylander": [{"id": "Q1", "url": "https://sv.wikipedia.org/wiki/William_Nylander"}]}
         rights = {"NHL": {"services": ["Viaplay", "Disney+"], "coverage": "split"}}
         events = build.nhl_events({"games": games, "swedes": {"TOR": ["William Nylander"]}}, rights, {}, people)
@@ -138,6 +141,8 @@ class NhlTest(unittest.TestCase):
         self.assertEqual((e["id"], e["sport"], e["title"]), ("nhl-2026020050", "Ishockey", "Toronto Maple Leafs – Detroit Red Wings"))
         self.assertEqual(e["swedes"][0]["url"], "https://sv.wikipedia.org/wiki/William_Nylander")
         self.assertEqual(e["swedes"][0]["team"], "Maple Leafs")
+        removed = build.nhl_events({"games": games, "swedes": {"TOR": ["William Nylander"]}}, rights, {}, people, {"William Nylander"})
+        self.assertEqual(removed, [])
         self.assertEqual((e["tv"]["status"], e["tv"]["note"]), ("unknown", "Troligen Viaplay eller Disney+"))
 
 
