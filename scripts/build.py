@@ -182,7 +182,11 @@ def nhl_events(nhl, rights, confirmations, people, removed=()):
                 name = p["name"]
                 base = name.split(" #")[0]
                 candidates = people.get(person_key(base), [])
-                if base in removed or (p.get("country") != "SWE" and not candidates):
+                # Född utomlands räknas bara om en svensk ishockeyspelare i Wikidata
+                # har samma namn och födelsedag (Nylander ja, finländske Aho nej).
+                swedish_abroad = any("ishockey" in c.get("sports", []) and c.get("born") and c["born"] == p.get("born")
+                                     for c in candidates)
+                if base in removed or (p.get("country") != "SWE" and not swedish_abroad):
                     continue
                 url = candidates[0]["url"] if len(candidates) == 1 else None
                 swedes.append({"name": name, "team": t.get("short") or t["name"], "url": url})

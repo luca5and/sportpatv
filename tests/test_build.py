@@ -108,7 +108,13 @@ class PeopleIndexTest(unittest.TestCase):
             "en": [self.row("Q1", "Alieu Njie", "https://en.wikipedia.org/wiki/Alieu_Njie")],
             "sv": [self.row("Q1", "Alieu Njie", "https://sv.wikipedia.org/wiki/Alieu_Njie")],
         })
-        self.assertEqual(index["alieu njie"], [{"id": "Q1", "url": "https://sv.wikipedia.org/wiki/Alieu_Njie"}])
+        self.assertEqual(index["alieu njie"][0]["url"], "https://sv.wikipedia.org/wiki/Alieu_Njie")
+
+    def test_sport_and_birth_date_kept(self):
+        row = self.row("Q1", "William Nylander", "https://sv.wikipedia.org/wiki/William_Nylander")
+        row.update({"sport": {"value": "http://www.wikidata.org/entity/Q11774891"}, "born": {"value": "1996-05-01T00:00:00Z"}})
+        entry = people_index({"sv": [row]})["william nylander"][0]
+        self.assertEqual((entry["sports"], entry["born"]), (["ishockey"], "1996-05-01"))
 
     def test_english_only_player_still_linked(self):
         index = people_index({"en": [self.row("Q2", "Armin Ćulum", "https://en.wikipedia.org/wiki/Armin_%C4%86ulum")]})
@@ -127,17 +133,22 @@ class NhlTest(unittest.TestCase):
         ]}]}
         games = fetch_nhl.parse_schedule(schedule)
         self.assertEqual(games[0]["home"]["name"], "Toronto Maple Leafs")
-        roster = {"forwards": [{"firstName": {"default": "William"}, "lastName": {"default": "Nylander"}, "birthCountry": "CAN"},
+        roster = {"forwards": [{"firstName": {"default": "William"}, "lastName": {"default": "Nylander"}, "birthCountry": "CAN", "birthDate": "1996-05-01"},
                                {"firstName": {"default": "Auston"}, "lastName": {"default": "Matthews"}, "birthCountry": "USA"},
+                               {"firstName": {"default": "Sebastian"}, "lastName": {"default": "Aho"}, "birthCountry": "FIN", "birthDate": "1997-07-26"},
                                {"firstName": {"default": "Oliver"}, "lastName": {"default": "Ekman-Larsson"}, "birthCountry": "SWE"}]}
         parsed = fetch_nhl.parse_roster(roster)
-        self.assertEqual([p["name"] for p in parsed], ["Auston Matthews", "Oliver Ekman-Larsson", "William Nylander"])
+        self.assertEqual([p["name"] for p in parsed], ["Auston Matthews", "Oliver Ekman-Larsson", "Sebastian Aho", "William Nylander"])
         twins = {"forwards": [{"firstName": {"default": "Elias"}, "lastName": {"default": "Pettersson"}, "birthCountry": "SWE", "sweaterNumber": 40}],
                  "defensemen": [{"firstName": {"default": "Elias"}, "lastName": {"default": "Pettersson"}, "birthCountry": "SWE", "sweaterNumber": 25}]}
         self.assertEqual([p["name"] for p in fetch_nhl.parse_roster(twins)], ["Elias Pettersson #25", "Elias Pettersson #40"])
-        people = {"william nylander": [{"id": "Q1", "url": "https://sv.wikipedia.org/wiki/William_Nylander"}]}
+        people = {"william nylander": [{"id": "Q1", "url": "https://sv.wikipedia.org/wiki/William_Nylander",
+                                        "sports": ["ishockey"], "born": "1996-05-01"}],
+                  # svenske Sebastian Aho: samma namn, annan födelsedag än finländaren
+                  "sebastian aho": [{"id": "Q2", "url": "u", "sports": ["ishockey"], "born": "1996-02-17"}]}
         rights = {"NHL": {"services": ["Viaplay", "Disney+"], "coverage": "split"}}
-        # Nylander (född i Kanada, svensk enligt Wikidata) och Ekman-Larsson (född i Sverige) räknas, Matthews inte
+        # Nylander (född i Kanada, svensk enligt Wikidata) och Ekman-Larsson (född i Sverige) räknas,
+        # Matthews och finländske Aho inte
         nhl = {"games": games, "rosters": {"TOR": parsed}}
         events = build.nhl_events(nhl, rights, {}, people)
         self.assertEqual(len(events), 1)  # BOS–NYR saknar svenskar

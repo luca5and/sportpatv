@@ -56,10 +56,10 @@ def parse_roster(data):
     for group in ("forwards", "defensemen", "goalies"):
         for p in data.get(group, []):
             players.append((f'{text(p.get("firstName"))} {text(p.get("lastName"))}',
-                            p.get("sweaterNumber"), p.get("birthCountry")))
-    names = [n for n, _, _ in players]
-    return sorted(({"name": f"{n} #{num}" if names.count(n) > 1 and num else n, "country": c}
-                   for n, num, c in players), key=lambda p: p["name"])
+                            p.get("sweaterNumber"), p.get("birthCountry"), p.get("birthDate")))
+    names = [n for n, _, _, _ in players]
+    return sorted(({"name": f"{n} #{num}" if names.count(n) > 1 and num else n, "country": c, "born": b}
+                   for n, num, c, b in players), key=lambda p: p["name"])
 
 
 def main():
