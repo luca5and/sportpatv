@@ -849,146 +849,3146 @@
    "type": 2
   }
  ],
- "swedes": {
+ "rosters": {
   "ANA": [
-   "Cutter Gauthier",
-   "Leo Carlsson"
+   {
+    "country": "CAN",
+    "name": "A.J. Greer"
+   },
+   {
+    "country": "CAN",
+    "name": "Alex Killorn"
+   },
+   {
+    "country": "CAN",
+    "name": "Beckett Sennecke"
+   },
+   {
+    "country": "SWE",
+    "name": "Cutter Gauthier"
+   },
+   {
+    "country": "USA",
+    "name": "Drew Helleson"
+   },
+   {
+    "country": "USA",
+    "name": "Frank Vatrano"
+   },
+   {
+    "country": "USA",
+    "name": "Ian Moore"
+   },
+   {
+    "country": "USA",
+    "name": "Jackson LaCombe"
+   },
+   {
+    "country": "CAN",
+    "name": "Jeff Malott"
+   },
+   {
+    "country": "USA",
+    "name": "Judd Caulfield"
+   },
+   {
+    "country": "SWE",
+    "name": "Leo Carlsson"
+   },
+   {
+    "country": "CZE",
+    "name": "Lukas Dostal"
+   },
+   {
+    "country": "FIN",
+    "name": "Mikael Granlund"
+   },
+   {
+    "country": "USA",
+    "name": "Nick Jensen"
+   },
+   {
+    "country": "USA",
+    "name": "Nikita Klepov"
+   },
+   {
+    "country": "USA",
+    "name": "Nikita Nesterenko"
+   },
+   {
+    "country": "CAN",
+    "name": "Noah Warren"
+   },
+   {
+    "country": "RUS",
+    "name": "Pavel Mintyukov"
+   },
+   {
+    "country": "USA",
+    "name": "Ryan Poehling"
+   },
+   {
+    "country": "USA",
+    "name": "Sam Colangelo"
+   },
+   {
+    "country": "USA",
+    "name": "Tim Washe"
+   },
+   {
+    "country": "USA",
+    "name": "Travis Mitchell"
+   },
+   {
+    "country": "CAN",
+    "name": "Tristan Luneau"
+   },
+   {
+    "country": "CAN",
+    "name": "Tyson Hinds"
+   },
+   {
+    "country": "FIN",
+    "name": "Ville Husso"
+   }
   ],
   "BOS": [
-   "Elias Lindholm",
-   "Hampus Lindholm"
+   {
+    "country": "USA",
+    "name": "Casey Mittelstadt"
+   },
+   {
+    "country": "USA",
+    "name": "Charlie McAvoy"
+   },
+   {
+    "country": "USA",
+    "name": "Connor Clifton"
+   },
+   {
+    "country": "CZE",
+    "name": "David Pastrnak"
+   },
+   {
+    "country": "SWE",
+    "name": "Elias Lindholm"
+   },
+   {
+    "country": "CAN",
+    "name": "Fraser Minten"
+   },
+   {
+    "country": "CAN",
+    "name": "Frederic Brunet"
+   },
+   {
+    "country": "SWE",
+    "name": "Hampus Lindholm"
+   },
+   {
+    "country": "DEU",
+    "name": "JJ Peterka"
+   },
+   {
+    "country": "USA",
+    "name": "James Hagens"
+   },
+   {
+    "country": "USA",
+    "name": "Jeremy Swayman"
+   },
+   {
+    "country": "CAN",
+    "name": "Jonathan Aspirot"
+   },
+   {
+    "country": "RUS",
+    "name": "Marat Khusnutdinov"
+   },
+   {
+    "country": "USA",
+    "name": "Mark Kastelic"
+   },
+   {
+    "country": "USA",
+    "name": "Mason Lohrei"
+   },
+   {
+    "country": "CAN",
+    "name": "Matthew Poitras"
+   },
+   {
+    "country": "CAN",
+    "name": "Michael DiPietro"
+   },
+   {
+    "country": "CAN",
+    "name": "Morgan Geekie"
+   },
+   {
+    "country": "RUS",
+    "name": "Nikita Zadorov"
+   },
+   {
+    "country": "CZE",
+    "name": "Pavel Zacha"
+   },
+   {
+    "country": "USA",
+    "name": "Sean Kuraly"
+   },
+   {
+    "country": "CAN",
+    "name": "Tanner Jeannot"
+   },
+   {
+    "country": "USA",
+    "name": "Will Borgen"
+   }
   ],
   "BUF": [
-   "Noah Ostlund",
-   "Rasmus Dahlin"
+   {
+    "country": "USA",
+    "name": "Alex Lyon"
+   },
+   {
+    "country": "CAN",
+    "name": "Beck Malenstyn"
+   },
+   {
+    "country": "CAN",
+    "name": "Colten Ellis"
+   },
+   {
+    "country": "CAN",
+    "name": "Conor Timmins"
+   },
+   {
+    "country": "CAN",
+    "name": "Jack Quinn"
+   },
+   {
+    "country": "CZE",
+    "name": "Jiri Kulich"
+   },
+   {
+    "country": "USA",
+    "name": "Josh Doan"
+   },
+   {
+    "country": "USA",
+    "name": "Josh Norris"
+   },
+   {
+    "country": "CAN",
+    "name": "Justin Danforth"
+   },
+   {
+    "country": "FIN",
+    "name": "Konsta Helenius"
+   },
+   {
+    "country": "CAN",
+    "name": "Louis Crevier"
+   },
+   {
+    "country": "USA",
+    "name": "Matt Grzelcyk"
+   },
+   {
+    "country": "USA",
+    "name": "Mattias Samuelsson"
+   },
+   {
+    "country": "SWE",
+    "name": "Noah Ostlund"
+   },
+   {
+    "country": "CAN",
+    "name": "Olen Zellweger"
+   },
+   {
+    "country": "CAN",
+    "name": "Owen Power"
+   },
+   {
+    "country": "CAN",
+    "name": "Peyton Krebs"
+   },
+   {
+    "country": "SWE",
+    "name": "Rasmus Dahlin"
+   },
+   {
+    "country": "CAN",
+    "name": "Ryan McLeod"
+   },
+   {
+    "country": "CAN",
+    "name": "Sam Carrick"
+   },
+   {
+    "country": "USA",
+    "name": "Tage Thompson"
+   },
+   {
+    "country": "CAN",
+    "name": "Tyson Kozak"
+   },
+   {
+    "country": "FIN",
+    "name": "Ukko-Pekka Luukkonen"
+   },
+   {
+    "country": "CAN",
+    "name": "Zach Benson"
+   },
+   {
+    "country": "USA",
+    "name": "Zach Metsa"
+   }
   ],
-  "CAR": [],
+  "CAR": [
+   {
+    "country": "RUS",
+    "name": "Andrei Svechnikov"
+   },
+   {
+    "country": "USA",
+    "name": "Brandon Bussi"
+   },
+   {
+    "country": "USA",
+    "name": "Eric Robinson"
+   },
+   {
+    "country": "USA",
+    "name": "Jaccob Slavin"
+   },
+   {
+    "country": "USA",
+    "name": "Jackson Blake"
+   },
+   {
+    "country": "USA",
+    "name": "Jalen Chatfield"
+   },
+   {
+    "country": "FIN",
+    "name": "Jesperi Kotkaniemi"
+   },
+   {
+    "country": "CAN",
+    "name": "Jordan Martinook"
+   },
+   {
+    "country": "CAN",
+    "name": "Jordan Staal"
+   },
+   {
+    "country": "FIN",
+    "name": "Juuso Välimäki"
+   },
+   {
+    "country": "USA",
+    "name": "K'Andre Miller"
+   },
+   {
+    "country": "CAN",
+    "name": "Logan Stankoven"
+   },
+   {
+    "country": "CAN",
+    "name": "Mark Jankowski"
+   },
+   {
+    "country": "USA",
+    "name": "Mike Reilly"
+   },
+   {
+    "country": "CAN",
+    "name": "Nicolas Deslauriers"
+   },
+   {
+    "country": "DNK",
+    "name": "Nikolaj Ehlers"
+   },
+   {
+    "country": "RUS",
+    "name": "Pyotr Kochetkov"
+   },
+   {
+    "country": "CAN",
+    "name": "Sean Walker"
+   },
+   {
+    "country": "FIN",
+    "name": "Sebastian Aho"
+   },
+   {
+    "country": "USA",
+    "name": "Shayne Gostisbehere"
+   },
+   {
+    "country": "CAN",
+    "name": "Taylor Hall"
+   },
+   {
+    "country": "CAN",
+    "name": "William Carrier"
+   }
+  ],
   "CBJ": [
-   "Emil Andrae"
+   {
+    "country": "CAN",
+    "name": "Adam Fantilli"
+   },
+   {
+    "country": "CAN",
+    "name": "Cam Talbot"
+   },
+   {
+    "country": "CAN",
+    "name": "Carson Soucy"
+   },
+   {
+    "country": "USA",
+    "name": "Charlie Coyle"
+   },
+   {
+    "country": "USA",
+    "name": "Cole Sillinger"
+   },
+   {
+    "country": "USA",
+    "name": "Conor Garland"
+   },
+   {
+    "country": "CAN",
+    "name": "Dante Fabbro"
+   },
+   {
+    "country": "CAN",
+    "name": "Danton Heinen"
+   },
+   {
+    "country": "CAN",
+    "name": "Denton Mateychuk"
+   },
+   {
+    "country": "RUS",
+    "name": "Dmitri Voronkov"
+   },
+   {
+    "country": "SWE",
+    "name": "Emil Andrae"
+   },
+   {
+    "country": "CAN",
+    "name": "Erik Gudbranson"
+   },
+   {
+    "country": "RUS",
+    "name": "Ivan Provorov"
+   },
+   {
+    "country": "CAN",
+    "name": "Jake Christiansen"
+   },
+   {
+    "country": "CAN",
+    "name": "Jet Greaves"
+   },
+   {
+    "country": "CAN",
+    "name": "Kent Johnson"
+   },
+   {
+    "country": "CAN",
+    "name": "Luca Del Bel Belluz"
+   },
+   {
+    "country": "USA",
+    "name": "Mathieu Olivier"
+   },
+   {
+    "country": "USA",
+    "name": "Matthew Knies"
+   },
+   {
+    "country": "CAN",
+    "name": "Ryan Lomberg"
+   },
+   {
+    "country": "CAN",
+    "name": "Sean Monahan"
+   },
+   {
+    "country": "RUS",
+    "name": "Valeri Nichushkin"
+   },
+   {
+    "country": "USA",
+    "name": "Zach Werenski"
+   }
   ],
   "CGY": [
-   "Mikael Backlund"
+   {
+    "country": "CZE",
+    "name": "Adam Klapka"
+   },
+   {
+    "country": "RUS",
+    "name": "Aydar Suniev"
+   },
+   {
+    "country": "CAN",
+    "name": "Brennan Othmann"
+   },
+   {
+    "country": "USA",
+    "name": "Devin Cooley"
+   },
+   {
+    "country": "USA",
+    "name": "Dustin Wolf"
+   },
+   {
+    "country": "CAN",
+    "name": "Jake Middleton"
+   },
+   {
+    "country": "USA",
+    "name": "Joel Farabee"
+   },
+   {
+    "country": "CAN",
+    "name": "Joel Hanley"
+   },
+   {
+    "country": "CAN",
+    "name": "Jonathan Castagna"
+   },
+   {
+    "country": "CAN",
+    "name": "Jonathan Huberdeau"
+   },
+   {
+    "country": "CAN",
+    "name": "Kevin Bahl"
+   },
+   {
+    "country": "SVK",
+    "name": "Martin Pospisil"
+   },
+   {
+    "country": "USA",
+    "name": "Matt Coronato"
+   },
+   {
+    "country": "RUS",
+    "name": "Matvei Gridin"
+   },
+   {
+    "country": "RUS",
+    "name": "Maxim Tsyplakov"
+   },
+   {
+    "country": "SWE",
+    "name": "Mikael Backlund"
+   },
+   {
+    "country": "CAN",
+    "name": "Morgan Frost"
+   },
+   {
+    "country": "CAN",
+    "name": "Ryan Strome"
+   },
+   {
+    "country": "SVK",
+    "name": "Samuel Honzek"
+   },
+   {
+    "country": "SVK",
+    "name": "Simon Nemec"
+   },
+   {
+    "country": "RUS",
+    "name": "Yan Kuznetsov"
+   },
+   {
+    "country": "BLR",
+    "name": "Yegor Sharangovich"
+   },
+   {
+    "country": "CAN",
+    "name": "Zach Whitecloud"
+   },
+   {
+    "country": "CAN",
+    "name": "Zayne Parekh"
+   }
   ],
   "CHI": [
-   "Anton Frondell",
-   "Arvid Soderblom"
+   {
+    "country": "USA",
+    "name": "Alex Vlasic"
+   },
+   {
+    "country": "CAN",
+    "name": "Andrew Mangiapane"
+   },
+   {
+    "country": "SWE",
+    "name": "Anton Frondell"
+   },
+   {
+    "country": "BLR",
+    "name": "Artyom Levshunov"
+   },
+   {
+    "country": "SWE",
+    "name": "Arvid Soderblom"
+   },
+   {
+    "country": "CAN",
+    "name": "Bowen Byram"
+   },
+   {
+    "country": "USA",
+    "name": "Cole Smith"
+   },
+   {
+    "country": "CAN",
+    "name": "Connor Bedard"
+   },
+   {
+    "country": "CAN",
+    "name": "Ethan Del Mastro"
+   },
+   {
+    "country": "USA",
+    "name": "Frank Nazar"
+   },
+   {
+    "country": "USA",
+    "name": "Ian Cole"
+   },
+   {
+    "country": "USA",
+    "name": "Jordan Greenway"
+   },
+   {
+    "country": "CAN",
+    "name": "Kevin Korchinski"
+   },
+   {
+    "country": "CAN",
+    "name": "Nick Lardis"
+   },
+   {
+    "country": "USA",
+    "name": "Oliver Moore"
+   },
+   {
+    "country": "USA",
+    "name": "Patrick Kane"
+   },
+   {
+    "country": "RUS",
+    "name": "Roman Kantserov"
+   },
+   {
+    "country": "USA",
+    "name": "Ryan Donato"
+   },
+   {
+    "country": "CAN",
+    "name": "Ryan Greene"
+   },
+   {
+    "country": "USA",
+    "name": "Sam Rinzel"
+   },
+   {
+    "country": "USA",
+    "name": "Spencer Knight"
+   },
+   {
+    "country": "FIN",
+    "name": "Teuvo Teravainen"
+   },
+   {
+    "country": "CAN",
+    "name": "Tyler Bertuzzi"
+   },
+   {
+    "country": "USA",
+    "name": "Wyatt Kaiser"
+   }
   ],
   "COL": [
-   "Gabriel Landeskog"
+   {
+    "country": "FIN",
+    "name": "Artturi Lehkonen"
+   },
+   {
+    "country": "CAN",
+    "name": "Brent Burns"
+   },
+   {
+    "country": "CAN",
+    "name": "Brett Kulak"
+   },
+   {
+    "country": "USA",
+    "name": "Brock Nelson"
+   },
+   {
+    "country": "CAN",
+    "name": "Cale Makar"
+   },
+   {
+    "country": "CAN",
+    "name": "Devon Toews"
+   },
+   {
+    "country": "RUS",
+    "name": "Fedor Svechkov"
+   },
+   {
+    "country": "SWE",
+    "name": "Gabriel Landeskog"
+   },
+   {
+    "country": "CAN",
+    "name": "Jaden Schwartz"
+   },
+   {
+    "country": "USA",
+    "name": "Josh Manson"
+   },
+   {
+    "country": "USA",
+    "name": "Logan O'Connor"
+   },
+   {
+    "country": "CAN",
+    "name": "Mackenzie Blackwood"
+   },
+   {
+    "country": "CZE",
+    "name": "Martin Necas"
+   },
+   {
+    "country": "CAN",
+    "name": "Nathan MacKinnon"
+   },
+   {
+    "country": "CAN",
+    "name": "Nazem Kadri"
+   },
+   {
+    "country": "CAN",
+    "name": "Nicolas Roy"
+   },
+   {
+    "country": "CAN",
+    "name": "Noah Juulsen"
+   },
+   {
+    "country": "CAN",
+    "name": "Parker Kelly"
+   },
+   {
+    "country": "USA",
+    "name": "Sam Malinski"
+   },
+   {
+    "country": "CAN",
+    "name": "Scott Wedgewood"
+   },
+   {
+    "country": "CAN",
+    "name": "T.J. Hughes"
+   },
+   {
+    "country": "CAN",
+    "name": "Zachary L'Heureux"
+   }
   ],
   "DAL": [
-   "Nils Lundkvist",
-   "Oskar Bäck"
+   {
+    "country": "FIN",
+    "name": "Arttu Hyry"
+   },
+   {
+    "country": "USA",
+    "name": "Casey DeSmith"
+   },
+   {
+    "country": "USA",
+    "name": "Colin Blackwell"
+   },
+   {
+    "country": "FIN",
+    "name": "Esa Lindell"
+   },
+   {
+    "country": "USA",
+    "name": "Jake Oettinger"
+   },
+   {
+    "country": "CAN",
+    "name": "Jamie Benn"
+   },
+   {
+    "country": "USA",
+    "name": "Jason Robertson"
+   },
+   {
+    "country": "FIN",
+    "name": "Joel Kiviranta"
+   },
+   {
+    "country": "CAN",
+    "name": "Justin Hryckowian"
+   },
+   {
+    "country": "CAN",
+    "name": "Kyle Burroughs"
+   },
+   {
+    "country": "CAN",
+    "name": "Kyle Capobianco"
+   },
+   {
+    "country": "CHE",
+    "name": "Lian Bichsel"
+   },
+   {
+    "country": "CAN",
+    "name": "Matt Duchene"
+   },
+   {
+    "country": "FIN",
+    "name": "Mikko Rantanen"
+   },
+   {
+    "country": "FIN",
+    "name": "Miro Heiskanen"
+   },
+   {
+    "country": "SWE",
+    "name": "Nils Lundkvist"
+   },
+   {
+    "country": "SWE",
+    "name": "Oskar Bäck"
+   },
+   {
+    "country": "CZE",
+    "name": "Radek Faksa"
+   },
+   {
+    "country": "FIN",
+    "name": "Roope Hintz"
+   },
+   {
+    "country": "CAN",
+    "name": "Sam Steel"
+   },
+   {
+    "country": "USA",
+    "name": "Thomas Harley"
+   },
+   {
+    "country": "USA",
+    "name": "Tyler Myers"
+   },
+   {
+    "country": "CAN",
+    "name": "Tyler Seguin"
+   },
+   {
+    "country": "CAN",
+    "name": "Wyatt Johnston"
+   }
   ],
   "DET": [
-   "Albert Johansson",
-   "Andreas Englund",
-   "Anton Johansson",
-   "Axel Sandin-Pellikka",
-   "Lucas Raymond",
-   "Viktor Arvidsson",
-   "William Wallinder"
+   {
+    "country": "SWE",
+    "name": "Albert Johansson"
+   },
+   {
+    "country": "USA",
+    "name": "Alex DeBrincat"
+   },
+   {
+    "country": "SWE",
+    "name": "Andreas Englund"
+   },
+   {
+    "country": "USA",
+    "name": "Andrew Copp"
+   },
+   {
+    "country": "SWE",
+    "name": "Anton Johansson"
+   },
+   {
+    "country": "SWE",
+    "name": "Axel Sandin-Pellikka"
+   },
+   {
+    "country": "CAN",
+    "name": "Ben Chiarot"
+   },
+   {
+    "country": "USA",
+    "name": "Carter Mazur"
+   },
+   {
+    "country": "RUS",
+    "name": "Daniil Tarasov"
+   },
+   {
+    "country": "USA",
+    "name": "Dylan Larkin"
+   },
+   {
+    "country": "CAN",
+    "name": "Emmitt Finnie"
+   },
+   {
+    "country": "USA",
+    "name": "J.T. Compher"
+   },
+   {
+    "country": "CAN",
+    "name": "Jacob Bernard-Docker"
+   },
+   {
+    "country": "USA",
+    "name": "John Gibson"
+   },
+   {
+    "country": "USA",
+    "name": "Justin Faulk"
+   },
+   {
+    "country": "CAN",
+    "name": "Keegan Kolesar"
+   },
+   {
+    "country": "SWE",
+    "name": "Lucas Raymond"
+   },
+   {
+    "country": "AUT",
+    "name": "Marco Kasper"
+   },
+   {
+    "country": "USA",
+    "name": "Mason Appleton"
+   },
+   {
+    "country": "NOR",
+    "name": "Michael Brandsegg-Nygård"
+   },
+   {
+    "country": "CAN",
+    "name": "Michael Rasmussen"
+   },
+   {
+    "country": "DEU",
+    "name": "Moritz Seider"
+   },
+   {
+    "country": "CAN",
+    "name": "Nate Danielson"
+   },
+   {
+    "country": "USA",
+    "name": "Sheldon Dries"
+   },
+   {
+    "country": "SWE",
+    "name": "Viktor Arvidsson"
+   },
+   {
+    "country": "SWE",
+    "name": "William Wallinder"
+   }
   ],
   "EDM": [
-   "Filip Hallander",
-   "Mattias Ekholm",
-   "Mattias Janmark"
+   {
+    "country": "USA",
+    "name": "Alec Regula"
+   },
+   {
+    "country": "CAN",
+    "name": "Alex Formenton"
+   },
+   {
+    "country": "CAN",
+    "name": "Colton Dach"
+   },
+   {
+    "country": "CAN",
+    "name": "Connor McDavid"
+   },
+   {
+    "country": "USA",
+    "name": "Connor Murphy"
+   },
+   {
+    "country": "CAN",
+    "name": "Devon Levi"
+   },
+   {
+    "country": "CAN",
+    "name": "Evan Bouchard"
+   },
+   {
+    "country": "SWE",
+    "name": "Filip Hallander"
+   },
+   {
+    "country": "DNK",
+    "name": "Frederik Andersen"
+   },
+   {
+    "country": "USA",
+    "name": "Isaac Howard"
+   },
+   {
+    "country": "CAN",
+    "name": "Jake Walman"
+   },
+   {
+    "country": "CAN",
+    "name": "Jason Dickinson"
+   },
+   {
+    "country": "DEU",
+    "name": "Josh Samanski"
+   },
+   {
+    "country": "FIN",
+    "name": "Kasperi Kapanen"
+   },
+   {
+    "country": "DEU",
+    "name": "Leon Draisaitl"
+   },
+   {
+    "country": "CAN",
+    "name": "Mathieu Joseph"
+   },
+   {
+    "country": "CAN",
+    "name": "Matt Savoie"
+   },
+   {
+    "country": "SWE",
+    "name": "Mattias Ekholm"
+   },
+   {
+    "country": "SWE",
+    "name": "Mattias Janmark"
+   },
+   {
+    "country": "USA",
+    "name": "Max Jones"
+   },
+   {
+    "country": "USA",
+    "name": "Owen Michaels"
+   },
+   {
+    "country": "CAN",
+    "name": "Ryan Nugent-Hopkins"
+   },
+   {
+    "country": "USA",
+    "name": "Ryan Shea"
+   },
+   {
+    "country": "RUS",
+    "name": "Shakir Mukhamadullin"
+   },
+   {
+    "country": "USA",
+    "name": "Trent Frederic"
+   },
+   {
+    "country": "CAN",
+    "name": "Tristan Jarry"
+   },
+   {
+    "country": "USA",
+    "name": "Ty Emberson"
+   },
+   {
+    "country": "RUS",
+    "name": "Vasily Podkolzin"
+   },
+   {
+    "country": "CAN",
+    "name": "Zach Hyman"
+   }
   ],
   "FLA": [
-   "Gustav Forsling",
-   "Jacob Markstrom"
+   {
+    "country": "CAN",
+    "name": "Aaron Ekblad"
+   },
+   {
+    "country": "CHE",
+    "name": "Akira Schmid"
+   },
+   {
+    "country": "FIN",
+    "name": "Aleksander Barkov"
+   },
+   {
+    "country": "FIN",
+    "name": "Anton Lundell"
+   },
+   {
+    "country": "CAN",
+    "name": "Bokondji Imama"
+   },
+   {
+    "country": "CAN",
+    "name": "Brad Marchand"
+   },
+   {
+    "country": "USA",
+    "name": "Brady Tkachuk"
+   },
+   {
+    "country": "CAN",
+    "name": "Carter Verhaeghe"
+   },
+   {
+    "country": "RUS",
+    "name": "Dmitry Kulikov"
+   },
+   {
+    "country": "FIN",
+    "name": "Eetu Luostarinen"
+   },
+   {
+    "country": "USA",
+    "name": "Garnet Hathaway"
+   },
+   {
+    "country": "SWE",
+    "name": "Gustav Forsling"
+   },
+   {
+    "country": "SWE",
+    "name": "Jacob Markstrom"
+   },
+   {
+    "country": "CAN",
+    "name": "Jonah Gadjovich"
+   },
+   {
+    "country": "DNK",
+    "name": "Lars Eller"
+   },
+   {
+    "country": "USA",
+    "name": "Matthew Tkachuk"
+   },
+   {
+    "country": "FIN",
+    "name": "Niko Mikkola"
+   },
+   {
+    "country": "CZE",
+    "name": "Radko Gudas"
+   },
+   {
+    "country": "CAN",
+    "name": "Sam Bennett"
+   },
+   {
+    "country": "CAN",
+    "name": "Sam Reinhart"
+   },
+   {
+    "country": "LVA",
+    "name": "Sandis Vilmanis"
+   },
+   {
+    "country": "USA",
+    "name": "Seth Jones"
+   },
+   {
+    "country": "LVA",
+    "name": "Uvis Balinskis"
+   }
   ],
   "LAK": [
-   "Adrian Kempe",
-   "Andre Lee",
-   "Anton Forsberg",
-   "Erik Gustafsson"
+   {
+    "country": "SWE",
+    "name": "Adrian Kempe"
+   },
+   {
+    "country": "USA",
+    "name": "Alex Laferriere"
+   },
+   {
+    "country": "USA",
+    "name": "Alex Turcotte"
+   },
+   {
+    "country": "SWE",
+    "name": "Andre Lee"
+   },
+   {
+    "country": "SWE",
+    "name": "Anton Forsberg"
+   },
+   {
+    "country": "RUS",
+    "name": "Artemi Panarin"
+   },
+   {
+    "country": "CAN",
+    "name": "Brandt Clarke"
+   },
+   {
+    "country": "USA",
+    "name": "Brian Dumoulin"
+   },
+   {
+    "country": "CAN",
+    "name": "Cody Ceci"
+   },
+   {
+    "country": "CAN",
+    "name": "Corey Perry"
+   },
+   {
+    "country": "CAN",
+    "name": "Darcy Kuemper"
+   },
+   {
+    "country": "CAN",
+    "name": "Drew Doughty"
+   },
+   {
+    "country": "SWE",
+    "name": "Erik Gustafsson"
+   },
+   {
+    "country": "FIN",
+    "name": "Erik Haula"
+   },
+   {
+    "country": "FIN",
+    "name": "Joel Armia"
+   },
+   {
+    "country": "CAN",
+    "name": "Joel Edmundson"
+   },
+   {
+    "country": "CHE",
+    "name": "Kevin Fiala"
+   },
+   {
+    "country": "NOR",
+    "name": "Mats Zuccarello"
+   },
+   {
+    "country": "USA",
+    "name": "Mikey Anderson"
+   },
+   {
+    "country": "CAN",
+    "name": "Quinton Byfield"
+   },
+   {
+    "country": "USA",
+    "name": "Samuel Helenius"
+   },
+   {
+    "country": "CAN",
+    "name": "Scott Laughton"
+   },
+   {
+    "country": "USA",
+    "name": "Trevor Moore"
+   }
   ],
   "MIN": [
-   "Jesper Wallstedt",
-   "Joel Eriksson Ek",
-   "Jonas Brodin",
-   "Viking Gustafsson Nyberg"
+   {
+    "country": "USA",
+    "name": "Blake Coleman"
+   },
+   {
+    "country": "USA",
+    "name": "Bobby Brink"
+   },
+   {
+    "country": "USA",
+    "name": "Brock Faber"
+   },
+   {
+    "country": "CAN",
+    "name": "Calvin Pickard"
+   },
+   {
+    "country": "CAN",
+    "name": "Daemon Hunt"
+   },
+   {
+    "country": "RUS",
+    "name": "Danila Yurov"
+   },
+   {
+    "country": "USA",
+    "name": "David Spacek"
+   },
+   {
+    "country": "CAN",
+    "name": "Jared Spurgeon"
+   },
+   {
+    "country": "SWE",
+    "name": "Jesper Wallstedt"
+   },
+   {
+    "country": "SWE",
+    "name": "Joel Eriksson Ek"
+   },
+   {
+    "country": "SWE",
+    "name": "Jonas Brodin"
+   },
+   {
+    "country": "RUS",
+    "name": "Kirill Kaprizov"
+   },
+   {
+    "country": "USA",
+    "name": "Marcus Foligno"
+   },
+   {
+    "country": "USA",
+    "name": "Matt Boldy"
+   },
+   {
+    "country": "RUS",
+    "name": "Maxim Shabanov"
+   },
+   {
+    "country": "USA",
+    "name": "Michael McCarron"
+   },
+   {
+    "country": "USA",
+    "name": "Nick Foligno"
+   },
+   {
+    "country": "DEU",
+    "name": "Nico Sturm"
+   },
+   {
+    "country": "FIN",
+    "name": "Olli Maatta"
+   },
+   {
+    "country": "USA",
+    "name": "Quinn Hughes"
+   },
+   {
+    "country": "USA",
+    "name": "Ryan Hartman"
+   },
+   {
+    "country": "USA",
+    "name": "Tyler Pitlick"
+   },
+   {
+    "country": "SWE",
+    "name": "Viking Gustafsson Nyberg"
+   },
+   {
+    "country": "RUS",
+    "name": "Yakov Trenin"
+   },
+   {
+    "country": "USA",
+    "name": "Zach Bogosian"
+   }
   ],
   "MTL": [
-   "Adam Engstrom",
-   "Oliver Kapanen"
+   {
+    "country": "SWE",
+    "name": "Adam Engstrom"
+   },
+   {
+    "country": "CAN",
+    "name": "Alex Newhook"
+   },
+   {
+    "country": "CAN",
+    "name": "Alexandre Carrier"
+   },
+   {
+    "country": "FRA",
+    "name": "Alexandre Texier"
+   },
+   {
+    "country": "CAN",
+    "name": "Arber Xhekaj"
+   },
+   {
+    "country": "USA",
+    "name": "Chris Kreider"
+   },
+   {
+    "country": "USA",
+    "name": "Cole Caufield"
+   },
+   {
+    "country": "CAN",
+    "name": "Florian Xhekaj"
+   },
+   {
+    "country": "RUS",
+    "name": "Ivan Demidov"
+   },
+   {
+    "country": "USA",
+    "name": "Jacob Fowler"
+   },
+   {
+    "country": "CAN",
+    "name": "Jake Evans"
+   },
+   {
+    "country": "CZE",
+    "name": "Jakub Dobes"
+   },
+   {
+    "country": "USA",
+    "name": "Jayden Struble"
+   },
+   {
+    "country": "CAN",
+    "name": "Josh Anderson"
+   },
+   {
+    "country": "SVK",
+    "name": "Juraj Slafkovský"
+   },
+   {
+    "country": "CAN",
+    "name": "Kirby Dach"
+   },
+   {
+    "country": "USA",
+    "name": "Lane Hutson"
+   },
+   {
+    "country": "CAN",
+    "name": "Mike Matheson"
+   },
+   {
+    "country": "CAN",
+    "name": "Nick Suzuki"
+   },
+   {
+    "country": "CAN",
+    "name": "Noah Dobson"
+   },
+   {
+    "country": "SWE",
+    "name": "Oliver Kapanen"
+   },
+   {
+    "country": "CAN",
+    "name": "Phillip Danault"
+   },
+   {
+    "country": "CAN",
+    "name": "Samuel Montembeault"
+   },
+   {
+    "country": "CAN",
+    "name": "Zachary Bolduc"
+   }
   ],
   "NJD": [
-   "Jesper Boqvist",
-   "Jesper Bratt"
+   {
+    "country": "CAN",
+    "name": "Amadeus Lombardi"
+   },
+   {
+    "country": "CAN",
+    "name": "Anthony Mantha"
+   },
+   {
+    "country": "RUS",
+    "name": "Arseny Gritsyuk"
+   },
+   {
+    "country": "CAN",
+    "name": "Brenden Dillon"
+   },
+   {
+    "country": "USA",
+    "name": "Brett Pesce"
+   },
+   {
+    "country": "CAN",
+    "name": "Cody Glass"
+   },
+   {
+    "country": "CAN",
+    "name": "Connor Brown"
+   },
+   {
+    "country": "CAN",
+    "name": "Dawson Mercer"
+   },
+   {
+    "country": "CAN",
+    "name": "Declan Chisholm"
+   },
+   {
+    "country": "CAN",
+    "name": "Dougie Hamilton"
+   },
+   {
+    "country": "CAN",
+    "name": "Evan Rodrigues"
+   },
+   {
+    "country": "USA",
+    "name": "Jack Hughes"
+   },
+   {
+    "country": "CAN",
+    "name": "Jake Allen"
+   },
+   {
+    "country": "SWE",
+    "name": "Jesper Boqvist"
+   },
+   {
+    "country": "SWE",
+    "name": "Jesper Bratt"
+   },
+   {
+    "country": "CHE",
+    "name": "Jonas Siegenthaler"
+   },
+   {
+    "country": "CAN",
+    "name": "Luke Evangelista"
+   },
+   {
+    "country": "USA",
+    "name": "Luke Hughes"
+   },
+   {
+    "country": "DEU",
+    "name": "Nico Daws"
+   },
+   {
+    "country": "CHE",
+    "name": "Nico Hischier"
+   },
+   {
+    "country": "CAN",
+    "name": "Rémi Poirier"
+   },
+   {
+    "country": "USA",
+    "name": "Stefan Noesen"
+   },
+   {
+    "country": "CHE",
+    "name": "Timo Meier"
+   }
   ],
   "NSH": [
-   "Adam Edstrom",
-   "Adam Wilsby",
-   "Filip Forsberg",
-   "Nils Hoglander"
+   {
+    "country": "SWE",
+    "name": "Adam Edstrom"
+   },
+   {
+    "country": "SWE",
+    "name": "Adam Wilsby"
+   },
+   {
+    "country": "CAN",
+    "name": "Alexander Kerfoot"
+   },
+   {
+    "country": "USA",
+    "name": "Brady Skjei"
+   },
+   {
+    "country": "SWE",
+    "name": "Filip Forsberg"
+   },
+   {
+    "country": "RUS",
+    "name": "Ilya Lyubushkin"
+   },
+   {
+    "country": "USA",
+    "name": "Jack Ahcan"
+   },
+   {
+    "country": "USA",
+    "name": "Jack Drury"
+   },
+   {
+    "country": "CAN",
+    "name": "Jonathan Marchessault"
+   },
+   {
+    "country": "FIN",
+    "name": "Justus Annunen"
+   },
+   {
+    "country": "FIN",
+    "name": "Juuse Saros"
+   },
+   {
+    "country": "CAN",
+    "name": "Matt Murray"
+   },
+   {
+    "country": "CAN",
+    "name": "Matthew Wood"
+   },
+   {
+    "country": "CAN",
+    "name": "Mavrik Bourque"
+   },
+   {
+    "country": "USA",
+    "name": "Nick Perbix"
+   },
+   {
+    "country": "CAN",
+    "name": "Nicolas Hague"
+   },
+   {
+    "country": "SWE",
+    "name": "Nils Hoglander"
+   },
+   {
+    "country": "CAN",
+    "name": "Reid Schaefer"
+   },
+   {
+    "country": "CHE",
+    "name": "Roman Josi"
+   },
+   {
+    "country": "USA",
+    "name": "Ross Colton"
+   },
+   {
+    "country": "CAN",
+    "name": "Ryan O'Reilly"
+   },
+   {
+    "country": "CAN",
+    "name": "Steven Stamkos"
+   },
+   {
+    "country": "BLR",
+    "name": "Vitali Pinchuk"
+   },
+   {
+    "country": "CAN",
+    "name": "William Trudeau"
+   }
   ],
   "NYI": [
-   "Emil Heineman",
-   "Simon Holmstrom",
-   "Victor Eklund"
+   {
+    "country": "CAN",
+    "name": "Adam Pelech"
+   },
+   {
+    "country": "RUS",
+    "name": "Alexander Romanov"
+   },
+   {
+    "country": "CAN",
+    "name": "Anthony Duclair"
+   },
+   {
+    "country": "CAN",
+    "name": "Bo Horvat"
+   },
+   {
+    "country": "CAN",
+    "name": "Brayden Schenn"
+   },
+   {
+    "country": "CAN",
+    "name": "Calum Ritchie"
+   },
+   {
+    "country": "CAN",
+    "name": "Casey Cizikas"
+   },
+   {
+    "country": "SWE",
+    "name": "Emil Heineman"
+   },
+   {
+    "country": "RUS",
+    "name": "Ilya Sorokin"
+   },
+   {
+    "country": "CAN",
+    "name": "Jean-Gabriel Pageau"
+   },
+   {
+    "country": "USA",
+    "name": "Kyle MacLean"
+   },
+   {
+    "country": "USA",
+    "name": "Kyle Palmieri"
+   },
+   {
+    "country": "CAN",
+    "name": "Logan Stanley"
+   },
+   {
+    "country": "FIN",
+    "name": "Matias Maccelli"
+   },
+   {
+    "country": "USA",
+    "name": "Matthew Kessel"
+   },
+   {
+    "country": "CAN",
+    "name": "Matthew Schaefer"
+   },
+   {
+    "country": "CZE",
+    "name": "Ondrej Palat"
+   },
+   {
+    "country": "CAN",
+    "name": "Ryan Pulock"
+   },
+   {
+    "country": "USA",
+    "name": "Scott Mayfield"
+   },
+   {
+    "country": "RUS",
+    "name": "Semyon Varlamov"
+   },
+   {
+    "country": "SWE",
+    "name": "Simon Holmstrom"
+   },
+   {
+    "country": "USA",
+    "name": "Tony DeAngelo"
+   },
+   {
+    "country": "SWE",
+    "name": "Victor Eklund"
+   }
   ],
   "NYR": [
-   "Marcus Pettersson",
-   "Mika Zibanejad"
+   {
+    "country": "USA",
+    "name": "Adam Fox"
+   },
+   {
+    "country": "SVK",
+    "name": "Adam Sykora"
+   },
+   {
+    "country": "LVA",
+    "name": "Alberts Smits"
+   },
+   {
+    "country": "CAN",
+    "name": "Alexis Lafrenière"
+   },
+   {
+    "country": "CAN",
+    "name": "Braden Schneider"
+   },
+   {
+    "country": "CAN",
+    "name": "Cole Beaudoin"
+   },
+   {
+    "country": "CAN",
+    "name": "Dylan Garand"
+   },
+   {
+    "country": "FIN",
+    "name": "Eeli Tolvanen"
+   },
+   {
+    "country": "CAN",
+    "name": "Gabe Perreault"
+   },
+   {
+    "country": "RUS",
+    "name": "Igor Shesterkin"
+   },
+   {
+    "country": "USA",
+    "name": "J.T. Miller"
+   },
+   {
+    "country": "CZE",
+    "name": "Jaroslav Chmelar"
+   },
+   {
+    "country": "FIN",
+    "name": "Joonas Korpisalo"
+   },
+   {
+    "country": "CAN",
+    "name": "Joseph Veleno"
+   },
+   {
+    "country": "SWE",
+    "name": "Marcus Pettersson"
+   },
+   {
+    "country": "CAN",
+    "name": "Matt Rempe"
+   },
+   {
+    "country": "SWE",
+    "name": "Mika Zibanejad"
+   },
+   {
+    "country": "USA",
+    "name": "Noah Laba"
+   },
+   {
+    "country": "DNK",
+    "name": "Oliver Bjorkstrand"
+   },
+   {
+    "country": "RUS",
+    "name": "Pavel Dorofeyev"
+   },
+   {
+    "country": "USA",
+    "name": "Scott Morrow"
+   },
+   {
+    "country": "CAN",
+    "name": "Sean Durzi"
+   },
+   {
+    "country": "CAN",
+    "name": "Tye Kartye"
+   },
+   {
+    "country": "CAN",
+    "name": "Vincent Iorio"
+   },
+   {
+    "country": "RUS",
+    "name": "Vladislav Gavrikov"
+   },
+   {
+    "country": "CAN",
+    "name": "Will Cuylle"
+   }
   ],
   "OTT": [
-   "Fabian Zetterlund",
-   "Linus Ullmark",
-   "Samuel Ersson",
-   "William Eklund"
+   {
+    "country": "AUT",
+    "name": "Andre Burakovsky"
+   },
+   {
+    "country": "CAN",
+    "name": "Cameron Crotty"
+   },
+   {
+    "country": "CAN",
+    "name": "Carter Yakemchuk"
+   },
+   {
+    "country": "CAN",
+    "name": "Claude Giroux"
+   },
+   {
+    "country": "USA",
+    "name": "Drake Batherson"
+   },
+   {
+    "country": "CAN",
+    "name": "Dylan Cozens"
+   },
+   {
+    "country": "SWE",
+    "name": "Fabian Zetterlund"
+   },
+   {
+    "country": "CAN",
+    "name": "Hayden Hodgson"
+   },
+   {
+    "country": "USA",
+    "name": "Jake Sanderson"
+   },
+   {
+    "country": "AUS",
+    "name": "Jordan Spence"
+   },
+   {
+    "country": "SWE",
+    "name": "Linus Ullmark"
+   },
+   {
+    "country": "CAN",
+    "name": "Michael Amadio"
+   },
+   {
+    "country": "CAN",
+    "name": "Nick Cousins"
+   },
+   {
+    "country": "FIN",
+    "name": "Nikolas Matinpalo"
+   },
+   {
+    "country": "CAN",
+    "name": "Ridly Greig"
+   },
+   {
+    "country": "SWE",
+    "name": "Samuel Ersson"
+   },
+   {
+    "country": "USA",
+    "name": "Shane Pinto"
+   },
+   {
+    "country": "CAN",
+    "name": "Stephen Halliday"
+   },
+   {
+    "country": "CAN",
+    "name": "Thomas Chabot"
+   },
+   {
+    "country": "DEU",
+    "name": "Tim Stützle"
+   },
+   {
+    "country": "USA",
+    "name": "Tyler Kleven"
+   },
+   {
+    "country": "CAN",
+    "name": "Warren Foegele"
+   },
+   {
+    "country": "SWE",
+    "name": "William Eklund"
+   }
   ],
   "PHI": [
-   "Carl Grundstrom"
+   {
+    "country": "USA",
+    "name": "Cam York"
+   },
+   {
+    "country": "SWE",
+    "name": "Carl Grundstrom"
+   },
+   {
+    "country": "USA",
+    "name": "Christian Dvorak"
+   },
+   {
+    "country": "CZE",
+    "name": "Dan Vladar"
+   },
+   {
+    "country": "CZE",
+    "name": "David Jiricek"
+   },
+   {
+    "country": "CAN",
+    "name": "Denver Barkey"
+   },
+   {
+    "country": "CAN",
+    "name": "Garrett Wilson"
+   },
+   {
+    "country": "CAN",
+    "name": "Jamie Drysdale"
+   },
+   {
+    "country": "USA",
+    "name": "Joseph Woll"
+   },
+   {
+    "country": "RUS",
+    "name": "Matvei Michkov"
+   },
+   {
+    "country": "CAN",
+    "name": "Michael Bunting"
+   },
+   {
+    "country": "USA",
+    "name": "Nick Seeler"
+   },
+   {
+    "country": "RUS",
+    "name": "Nikita Grebenkin"
+   },
+   {
+    "country": "USA",
+    "name": "Noah Cates"
+   },
+   {
+    "country": "USA",
+    "name": "Noel Acciari"
+   },
+   {
+    "country": "CAN",
+    "name": "Owen Tippett"
+   },
+   {
+    "country": "CAN",
+    "name": "Porter Martone"
+   },
+   {
+    "country": "FIN",
+    "name": "Rasmus Ristolainen"
+   },
+   {
+    "country": "USA",
+    "name": "Sean Couturier"
+   },
+   {
+    "country": "CAN",
+    "name": "Simon Benoit"
+   },
+   {
+    "country": "CAN",
+    "name": "Travis Konecny"
+   },
+   {
+    "country": "CAN",
+    "name": "Travis Sanheim"
+   },
+   {
+    "country": "USA",
+    "name": "Trevor Zegras"
+   },
+   {
+    "country": "CAN",
+    "name": "Tyson Foerster"
+   }
   ],
   "PIT": [
-   "Elmer Soderblom",
-   "Erik Karlsson",
-   "Rickard Rakell"
+   {
+    "country": "RUS",
+    "name": "Andrei Kuzmenko"
+   },
+   {
+    "country": "LVA",
+    "name": "Arturs Silovs"
+   },
+   {
+    "country": "CAN",
+    "name": "Ben Kindel"
+   },
+   {
+    "country": "USA",
+    "name": "Blake Lizotte"
+   },
+   {
+    "country": "USA",
+    "name": "Bryan Rust"
+   },
+   {
+    "country": "CAN",
+    "name": "Connor Dewar"
+   },
+   {
+    "country": "USA",
+    "name": "Declan Carlile"
+   },
+   {
+    "country": "RUS",
+    "name": "Egor Chinakhov"
+   },
+   {
+    "country": "SWE",
+    "name": "Elmer Soderblom"
+   },
+   {
+    "country": "SWE",
+    "name": "Erik Karlsson"
+   },
+   {
+    "country": "RUS",
+    "name": "Evgeni Malkin"
+   },
+   {
+    "country": "CAN",
+    "name": "Hendrix Lapierre"
+   },
+   {
+    "country": "BLR",
+    "name": "Ilya Solovyov"
+   },
+   {
+    "country": "CAN",
+    "name": "Justin Brazeau"
+   },
+   {
+    "country": "CAN",
+    "name": "Kaedan Korczak"
+   },
+   {
+    "country": "CAN",
+    "name": "Kris Letang"
+   },
+   {
+    "country": "USA",
+    "name": "Nick Robertson"
+   },
+   {
+    "country": "SWE",
+    "name": "Rickard Rakell"
+   },
+   {
+    "country": "CAN",
+    "name": "Samuel Girard"
+   },
+   {
+    "country": "RUS",
+    "name": "Sergei Murashov"
+   },
+   {
+    "country": "CAN",
+    "name": "Sidney Crosby"
+   },
+   {
+    "country": "USA",
+    "name": "Spencer Stastney"
+   },
+   {
+    "country": "USA",
+    "name": "Tommy Novak"
+   },
+   {
+    "country": "USA",
+    "name": "Trevor van Riemsdyk"
+   },
+   {
+    "country": "FIN",
+    "name": "Ville Koivunen"
+   }
   ],
   "SEA": [
-   "Adam Larsson"
+   {
+    "country": "SWE",
+    "name": "Adam Larsson"
+   },
+   {
+    "country": "USA",
+    "name": "Ben Meyers"
+   },
+   {
+    "country": "CAN",
+    "name": "Berkly Catton"
+   },
+   {
+    "country": "CAN",
+    "name": "Bobby McMann"
+   },
+   {
+    "country": "CAN",
+    "name": "Brandon Montour"
+   },
+   {
+    "country": "CAN",
+    "name": "Cale Fleury"
+   },
+   {
+    "country": "CAN",
+    "name": "Chandler Stephenson"
+   },
+   {
+    "country": "CAN",
+    "name": "Curtis Douglas"
+   },
+   {
+    "country": "CAN",
+    "name": "Frederick Gaudreau"
+   },
+   {
+    "country": "CAN",
+    "name": "Jacob Melanson"
+   },
+   {
+    "country": "CAN",
+    "name": "Jake O'Brien"
+   },
+   {
+    "country": "CAN",
+    "name": "Jared McCann"
+   },
+   {
+    "country": "USA",
+    "name": "Joey Daccord"
+   },
+   {
+    "country": "CAN",
+    "name": "Jordan Eberle"
+   },
+   {
+    "country": "CAN",
+    "name": "Josh Mahura"
+   },
+   {
+    "country": "FIN",
+    "name": "Kaapo Kakko"
+   },
+   {
+    "country": "USA",
+    "name": "Mackie Samoskevich"
+   },
+   {
+    "country": "USA",
+    "name": "Matty Beniers"
+   },
+   {
+    "country": "DEU",
+    "name": "Philipp Grubauer"
+   },
+   {
+    "country": "USA",
+    "name": "Ryan Lindgren"
+   },
+   {
+    "country": "CAN",
+    "name": "Ryan Winterton"
+   },
+   {
+    "country": "CAN",
+    "name": "Ryker Evans"
+   },
+   {
+    "country": "CAN",
+    "name": "Shane Wright"
+   },
+   {
+    "country": "FIN",
+    "name": "Ville Ottavainen"
+   },
+   {
+    "country": "CAN",
+    "name": "Vince Dunn"
+   }
   ],
   "SJS": [
-   "Alexander Wennberg",
-   "Ivar Stenberg"
+   {
+    "country": "USA",
+    "name": "Adam Gaudette"
+   },
+   {
+    "country": "CAN",
+    "name": "Alex Barré-Boulet"
+   },
+   {
+    "country": "USA",
+    "name": "Alex Nedeljkovic"
+   },
+   {
+    "country": "SWE",
+    "name": "Alexander Wennberg"
+   },
+   {
+    "country": "CAN",
+    "name": "Barclay Goodrow"
+   },
+   {
+    "country": "CAN",
+    "name": "Brett Leason"
+   },
+   {
+    "country": "USA",
+    "name": "Collin Graf"
+   },
+   {
+    "country": "CAN",
+    "name": "Darnell Nurse"
+   },
+   {
+    "country": "RUS",
+    "name": "Dmitry Orlov"
+   },
+   {
+    "country": "RUS",
+    "name": "Igor Chernyshov"
+   },
+   {
+    "country": "SWE",
+    "name": "Ivar Stenberg"
+   },
+   {
+    "country": "USA",
+    "name": "Jacob Trouba"
+   },
+   {
+    "country": "USA",
+    "name": "Kiefer Sherwood"
+   },
+   {
+    "country": "CAN",
+    "name": "Luca Cagnoni"
+   },
+   {
+    "country": "CAN",
+    "name": "Macklin Celebrini"
+   },
+   {
+    "country": "CAN",
+    "name": "Mason Marchment"
+   },
+   {
+    "country": "USA",
+    "name": "Michael Kesselring"
+   },
+   {
+    "country": "CAN",
+    "name": "Michael Misa"
+   },
+   {
+    "country": "CAN",
+    "name": "Nolan Allan"
+   },
+   {
+    "country": "CAN",
+    "name": "Sam Dickinson"
+   },
+   {
+    "country": "CAN",
+    "name": "Ty Dellandrea"
+   },
+   {
+    "country": "CAN",
+    "name": "Tyler Toffoli"
+   },
+   {
+    "country": "USA",
+    "name": "Will Smith"
+   },
+   {
+    "country": "RUS",
+    "name": "Yaroslav Askarov"
+   },
+   {
+    "country": "CAN",
+    "name": "Zack Ostapchuk"
+   }
   ],
   "STL": [
-   "Jonatan Berggren",
-   "Philip Broberg",
-   "Theo Lindstein"
+   {
+    "country": "CZE",
+    "name": "Adam Jiricek"
+   },
+   {
+    "country": "RUS",
+    "name": "Alexey Toropchenko"
+   },
+   {
+    "country": "USA",
+    "name": "Brandon Carlo"
+   },
+   {
+    "country": "CAN",
+    "name": "Cam Fowler"
+   },
+   {
+    "country": "CAN",
+    "name": "Colton Parayko"
+   },
+   {
+    "country": "CAN",
+    "name": "Connor McMichael"
+   },
+   {
+    "country": "SVK",
+    "name": "Dalibor Dvorsky"
+   },
+   {
+    "country": "CAN",
+    "name": "Dillon Dube"
+   },
+   {
+    "country": "CAN",
+    "name": "Dylan Holloway"
+   },
+   {
+    "country": "CAN",
+    "name": "Jake Neighbours"
+   },
+   {
+    "country": "USA",
+    "name": "Jimmy Snuggerud"
+   },
+   {
+    "country": "CAN",
+    "name": "Joel Hofer"
+   },
+   {
+    "country": "SWE",
+    "name": "Jonatan Berggren"
+   },
+   {
+    "country": "CAN",
+    "name": "Jordan Binnington"
+   },
+   {
+    "country": "CAN",
+    "name": "Justin Barron"
+   },
+   {
+    "country": "CAN",
+    "name": "Logan Mailloux"
+   },
+   {
+    "country": "CHE",
+    "name": "Mason McTavish"
+   },
+   {
+    "country": "RUS",
+    "name": "Pavel Buchnevich"
+   },
+   {
+    "country": "SWE",
+    "name": "Philip Broberg"
+   },
+   {
+    "country": "CHE",
+    "name": "Pius Suter"
+   },
+   {
+    "country": "CAN",
+    "name": "Robert Thomas"
+   },
+   {
+    "country": "CAN",
+    "name": "Ross Johnston"
+   },
+   {
+    "country": "SWE",
+    "name": "Theo Lindstein"
+   },
+   {
+    "country": "CAN",
+    "name": "Tyler Tucker"
+   },
+   {
+    "country": "CAN",
+    "name": "Zach Dean"
+   }
   ],
   "TBL": [
-   "Dennis Hildeby",
-   "Pontus Holmberg",
-   "Victor Hedman"
+   {
+    "country": "RUS",
+    "name": "Andrei Vasilevskiy"
+   },
+   {
+    "country": "CAN",
+    "name": "Anthony Cirelli"
+   },
+   {
+    "country": "CAN",
+    "name": "Brandon Hagel"
+   },
+   {
+    "country": "CAN",
+    "name": "Brayden Point"
+   },
+   {
+    "country": "CAN",
+    "name": "Charle-Edouard D'Astous"
+   },
+   {
+    "country": "CAN",
+    "name": "Conor Geekie"
+   },
+   {
+    "country": "SWE",
+    "name": "Dennis Hildeby"
+   },
+   {
+    "country": "USA",
+    "name": "Dominic James"
+   },
+   {
+    "country": "NOR",
+    "name": "Emil Lilleberg"
+   },
+   {
+    "country": "SVK",
+    "name": "Erik Cernak"
+   },
+   {
+    "country": "CAN",
+    "name": "Gage Goncalves"
+   },
+   {
+    "country": "RUS",
+    "name": "Ilya Mikheyev"
+   },
+   {
+    "country": "CHE",
+    "name": "J.J. Moser"
+   },
+   {
+    "country": "USA",
+    "name": "Jake Guentzel"
+   },
+   {
+    "country": "CAN",
+    "name": "Jeffrey Viel"
+   },
+   {
+    "country": "USA",
+    "name": "John Carlson"
+   },
+   {
+    "country": "CAN",
+    "name": "Max Crozier"
+   },
+   {
+    "country": "RUS",
+    "name": "Nikita Kucherov"
+   },
+   {
+    "country": "SWE",
+    "name": "Pontus Holmberg"
+   },
+   {
+    "country": "USA",
+    "name": "Ryan McDonagh"
+   },
+   {
+    "country": "CAN",
+    "name": "Scott Sabourin"
+   },
+   {
+    "country": "SWE",
+    "name": "Victor Hedman"
+   },
+   {
+    "country": "CAN",
+    "name": "Yanni Gourde"
+   },
+   {
+    "country": "LVA",
+    "name": "Zemgus Girgensons"
+   }
   ],
   "TOR": [
-   "Oliver Ekman-Larsson"
+   {
+    "country": "USA",
+    "name": "Anthony Stolarz"
+   },
+   {
+    "country": "USA",
+    "name": "Auston Matthews"
+   },
+   {
+    "country": "FRA",
+    "name": "Bo Groulx"
+   },
+   {
+    "country": "USA",
+    "name": "Brandon Duhaime"
+   },
+   {
+    "country": "CAN",
+    "name": "Chris Tanev"
+   },
+   {
+    "country": "CAN",
+    "name": "Colton Sissons"
+   },
+   {
+    "country": "CAN",
+    "name": "Darren Raddysh"
+   },
+   {
+    "country": "CAN",
+    "name": "Easton Cowan"
+   },
+   {
+    "country": "CAN",
+    "name": "Gavin McKenna"
+   },
+   {
+    "country": "USA",
+    "name": "Jack Roslovic"
+   },
+   {
+    "country": "USA",
+    "name": "Jake McCabe"
+   },
+   {
+    "country": "CAN",
+    "name": "John Tavares"
+   },
+   {
+    "country": "RUS",
+    "name": "Kirill Marchenko"
+   },
+   {
+    "country": "CAN",
+    "name": "Morgan Rielly"
+   },
+   {
+    "country": "USA",
+    "name": "Nick Blankenburg"
+   },
+   {
+    "country": "CAN",
+    "name": "Nick Paul"
+   },
+   {
+    "country": "SWE",
+    "name": "Oliver Ekman-Larsson"
+   },
+   {
+    "country": "RUS",
+    "name": "Sergei Bobrovsky"
+   },
+   {
+    "country": "LVA",
+    "name": "Teddy Blueger"
+   },
+   {
+    "country": "CAN",
+    "name": "Troy Stecher"
+   },
+   {
+    "country": "CAN",
+    "name": "William Nylander"
+   },
+   {
+    "country": "CAN",
+    "name": "Zack MacEwen"
+   }
   ],
   "UTA": [
-   "Kevin Stenlund"
+   {
+    "country": "USA",
+    "name": "Anders Lee"
+   },
+   {
+    "country": "USA",
+    "name": "Andrew Peeke"
+   },
+   {
+    "country": "CAN",
+    "name": "Barrett Hayton"
+   },
+   {
+    "country": "USA",
+    "name": "Clayton Keller"
+   },
+   {
+    "country": "RUS",
+    "name": "Daniil But"
+   },
+   {
+    "country": "RUS",
+    "name": "Dmitri Simashev"
+   },
+   {
+    "country": "CAN",
+    "name": "Dylan Guenther"
+   },
+   {
+    "country": "CAN",
+    "name": "Jack McBain"
+   },
+   {
+    "country": "USA",
+    "name": "John Marino"
+   },
+   {
+    "country": "USA",
+    "name": "Kailer Yamamoto"
+   },
+   {
+    "country": "CZE",
+    "name": "Karel Vejmelka"
+   },
+   {
+    "country": "SWE",
+    "name": "Kevin Stenlund"
+   },
+   {
+    "country": "CAN",
+    "name": "Lawson Crouse"
+   },
+   {
+    "country": "CAN",
+    "name": "Liam O'Brien"
+   },
+   {
+    "country": "USA",
+    "name": "Logan Cooley"
+   },
+   {
+    "country": "CAN",
+    "name": "MacKenzie Weegar"
+   },
+   {
+    "country": "CAN",
+    "name": "Maveric Lamoureux"
+   },
+   {
+    "country": "CAN",
+    "name": "Michael Carcone"
+   },
+   {
+    "country": "RUS",
+    "name": "Mikhail Sergachev"
+   },
+   {
+    "country": "USA",
+    "name": "Nate Schmidt"
+   },
+   {
+    "country": "USA",
+    "name": "Nick DeSimone"
+   },
+   {
+    "country": "USA",
+    "name": "Nick Schmaltz"
+   },
+   {
+    "country": "CAN",
+    "name": "Sebastian Cossa"
+   },
+   {
+    "country": "USA",
+    "name": "Vincent Trocheck"
+   }
   ],
   "VAN": [
-   "Elias Pettersson #25",
-   "Elias Pettersson #40",
-   "Jonathan Lekkerimäki",
-   "Liam Ohgren",
-   "Linus Karlsson",
-   "Tom Willander"
+   {
+    "country": "FIN",
+    "name": "Aatu Räty"
+   },
+   {
+    "country": "CAN",
+    "name": "Arshdeep Bains"
+   },
+   {
+    "country": "CAN",
+    "name": "Brendan Gallagher"
+   },
+   {
+    "country": "USA",
+    "name": "Brock Boeser"
+   },
+   {
+    "country": "USA",
+    "name": "Drew O'Connor"
+   },
+   {
+    "country": "SWE",
+    "name": "Elias Pettersson #25"
+   },
+   {
+    "country": "SWE",
+    "name": "Elias Pettersson #40"
+   },
+   {
+    "country": "CZE",
+    "name": "Filip Chytil"
+   },
+   {
+    "country": "CZE",
+    "name": "Filip Hronek"
+   },
+   {
+    "country": "CAN",
+    "name": "Guillaume Brisebois"
+   },
+   {
+    "country": "CAN",
+    "name": "Jake DeBrusk"
+   },
+   {
+    "country": "CAN",
+    "name": "Jamie Oleksiak"
+   },
+   {
+    "country": "SWE",
+    "name": "Jonathan Lekkerimäki"
+   },
+   {
+    "country": "FIN",
+    "name": "Kevin Lankinen"
+   },
+   {
+    "country": "FIN",
+    "name": "Leevi Meriläinen"
+   },
+   {
+    "country": "SWE",
+    "name": "Liam Ohgren"
+   },
+   {
+    "country": "SWE",
+    "name": "Linus Karlsson"
+   },
+   {
+    "country": "CAN",
+    "name": "Luke Schenn"
+   },
+   {
+    "country": "AUT",
+    "name": "Marco Rossi"
+   },
+   {
+    "country": "USA",
+    "name": "Max Sasson"
+   },
+   {
+    "country": "USA",
+    "name": "Paul Cotter"
+   },
+   {
+    "country": "USA",
+    "name": "Thatcher Demko"
+   },
+   {
+    "country": "SWE",
+    "name": "Tom Willander"
+   },
+   {
+    "country": "USA",
+    "name": "Victor Mancini"
+   },
+   {
+    "country": "USA",
+    "name": "Zeev Buium"
+   }
   ],
   "VGK": [
-   "Rasmus Andersson",
-   "Victor Olofsson",
-   "William Karlsson"
+   {
+    "country": "CAN",
+    "name": "Adin Hill"
+   },
+   {
+    "country": "CAN",
+    "name": "Braeden Bowman"
+   },
+   {
+    "country": "CAN",
+    "name": "Brayden McNabb"
+   },
+   {
+    "country": "CAN",
+    "name": "Brett Howden"
+   },
+   {
+    "country": "CAN",
+    "name": "Carter Hart"
+   },
+   {
+    "country": "CAN",
+    "name": "Dylan Coghlan"
+   },
+   {
+    "country": "RUS",
+    "name": "Ivan Barbashev"
+   },
+   {
+    "country": "USA",
+    "name": "Jack Eichel"
+   },
+   {
+    "country": "CAN",
+    "name": "Jeremy Lauzon"
+   },
+   {
+    "country": "USA",
+    "name": "Marc Gatcomb"
+   },
+   {
+    "country": "CAN",
+    "name": "Mark Stone"
+   },
+   {
+    "country": "CAN",
+    "name": "Mitch Marner"
+   },
+   {
+    "country": "USA",
+    "name": "Nic Dowd"
+   },
+   {
+    "country": "USA",
+    "name": "Noah Hanifin"
+   },
+   {
+    "country": "CAN",
+    "name": "Parker Wotherspoon"
+   },
+   {
+    "country": "CAN",
+    "name": "Raphael Lavoie"
+   },
+   {
+    "country": "SWE",
+    "name": "Rasmus Andersson"
+   },
+   {
+    "country": "CAN",
+    "name": "Shea Theodore"
+   },
+   {
+    "country": "CZE",
+    "name": "Tomas Hertl"
+   },
+   {
+    "country": "USA",
+    "name": "Trevor Connelly"
+   },
+   {
+    "country": "SWE",
+    "name": "Victor Olofsson"
+   },
+   {
+    "country": "SWE",
+    "name": "William Karlsson"
+   }
   ],
   "WPG": [
-   "Isak Rosen",
-   "Viggo Björck"
+   {
+    "country": "USA",
+    "name": "Adam Lowry"
+   },
+   {
+    "country": "USA",
+    "name": "Alex Iafallo"
+   },
+   {
+    "country": "FIN",
+    "name": "Brad Lambert"
+   },
+   {
+    "country": "CAN",
+    "name": "Clay Stevenson"
+   },
+   {
+    "country": "USA",
+    "name": "Cole Koepke"
+   },
+   {
+    "country": "CAN",
+    "name": "Cole Perfetti"
+   },
+   {
+    "country": "USA",
+    "name": "Connor Hellebuyck"
+   },
+   {
+    "country": "CAN",
+    "name": "Dylan DeMelo"
+   },
+   {
+    "country": "USA",
+    "name": "Dylan Samberg"
+   },
+   {
+    "country": "CAN",
+    "name": "Gabriel Vilardi"
+   },
+   {
+    "country": "CAN",
+    "name": "Haydn Fleury"
+   },
+   {
+    "country": "SWE",
+    "name": "Isak Rosen"
+   },
+   {
+    "country": "USA",
+    "name": "Jack St. Ivany"
+   },
+   {
+    "country": "CAN",
+    "name": "Josh Morrissey"
+   },
+   {
+    "country": "USA",
+    "name": "Kyle Connor"
+   },
+   {
+    "country": "CAN",
+    "name": "Mario Ferraro"
+   },
+   {
+    "country": "CAN",
+    "name": "Mark Scheifele"
+   },
+   {
+    "country": "CAN",
+    "name": "Morgan Barron"
+   },
+   {
+    "country": "USA",
+    "name": "Neal Pionk"
+   },
+   {
+    "country": "CHE",
+    "name": "Nino Niederreiter"
+   },
+   {
+    "country": "CAN",
+    "name": "Stuart Skinner"
+   },
+   {
+    "country": "CAN",
+    "name": "Tyrel Bauer"
+   },
+   {
+    "country": "SWE",
+    "name": "Viggo Björck"
+   },
+   {
+    "country": "RUS",
+    "name": "Vladislav Namestnikov"
+   }
   ],
   "WSH": [
-   "Timothy Liljegren"
+   {
+    "country": "RUS",
+    "name": "Alex Ovechkin"
+   },
+   {
+    "country": "USA",
+    "name": "Alex Tuch"
+   },
+   {
+    "country": "BLR",
+    "name": "Aliaksei Protas"
+   },
+   {
+    "country": "CAN",
+    "name": "Anthony Beauvillier"
+   },
+   {
+    "country": "CAN",
+    "name": "Boone Jenner"
+   },
+   {
+    "country": "USA",
+    "name": "Charlie Lindgren"
+   },
+   {
+    "country": "USA",
+    "name": "Cole Hutson"
+   },
+   {
+    "country": "CAN",
+    "name": "Dylan McIlrath"
+   },
+   {
+    "country": "CAN",
+    "name": "Dylan Strome"
+   },
+   {
+    "country": "USA",
+    "name": "Ethen Frank"
+   },
+   {
+    "country": "BLR",
+    "name": "Ilya Protas"
+   },
+   {
+    "country": "RUS",
+    "name": "Ivan Miroshnichenko"
+   },
+   {
+    "country": "USA",
+    "name": "Jakob Chychrun"
+   },
+   {
+    "country": "CAN",
+    "name": "Jordan Kyrou"
+   },
+   {
+    "country": "CAN",
+    "name": "Justin Sourdif"
+   },
+   {
+    "country": "CAN",
+    "name": "Logan Thompson"
+   },
+   {
+    "country": "SVK",
+    "name": "Martin Fehérváry"
+   },
+   {
+    "country": "USA",
+    "name": "Matt Roy"
+   },
+   {
+    "country": "CAN",
+    "name": "Pierre-Luc Dubois"
+   },
+   {
+    "country": "USA",
+    "name": "Ryan Leonard"
+   },
+   {
+    "country": "SWE",
+    "name": "Timothy Liljegren"
+   },
+   {
+    "country": "CAN",
+    "name": "Tom Wilson"
+   },
+   {
+    "country": "CAN",
+    "name": "Vincent Desharnais"
+   }
   ]
  }
 }

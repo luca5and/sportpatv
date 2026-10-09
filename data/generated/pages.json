@@ -88,6 +88,14 @@
    "team": "Groningen",
    "wiki": "https://sv.wikipedia.org/wiki/Alvin_Nordin"
   },
+  "andre-burakovsky": {
+   "key": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky",
+   "last_seen": "2026-10-09",
+   "name": "Andre Burakovsky",
+   "sport": "Ishockey",
+   "team": "Senators",
+   "wiki": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky"
+  },
   "andre-lee": {
    "key": "https://sv.wikipedia.org/wiki/Andre_Lee",
    "last_seen": "2026-10-09",
@@ -696,6 +704,14 @@
    "team": "Oilers",
    "wiki": "https://sv.wikipedia.org/wiki/Mattias_Janmark"
   },
+  "mattias-samuelsson": {
+   "key": "https://sv.wikipedia.org/wiki/Mattias_Samuelsson_(ishockeyspelare)",
+   "last_seen": "2026-10-09",
+   "name": "Mattias Samuelsson",
+   "sport": "Ishockey",
+   "team": "Sabres",
+   "wiki": "https://sv.wikipedia.org/wiki/Mattias_Samuelsson_(ishockeyspelare)"
+  },
   "melker-ellborg": {
    "key": "https://sv.wikipedia.org/wiki/Melker_Ellborg",
    "last_seen": "2026-10-09",
@@ -872,6 +888,22 @@
    "team": "Senators",
    "wiki": "https://sv.wikipedia.org/wiki/Samuel_Ersson"
   },
+  "sean-durzi": {
+   "key": "https://sv.wikipedia.org/wiki/Sean_Durzi",
+   "last_seen": "2026-10-09",
+   "name": "Sean Durzi",
+   "sport": "Ishockey",
+   "team": "Rangers",
+   "wiki": "https://sv.wikipedia.org/wiki/Sean_Durzi"
+  },
+  "sebastian-aho": {
+   "key": "https://sv.wikipedia.org/wiki/Sebastian_Aho_(ishockeyspelare_f%C3%B6dd_1996)",
+   "last_seen": "2026-10-09",
+   "name": "Sebastian Aho",
+   "sport": "Ishockey",
+   "team": "Hurricanes",
+   "wiki": "https://sv.wikipedia.org/wiki/Sebastian_Aho_(ishockeyspelare_f%C3%B6dd_1996)"
+  },
   "sebastian-nanasi": {
    "key": "https://sv.wikipedia.org/wiki/Sebastian_Nanasi",
    "last_seen": "2026-10-09",
@@ -935,6 +967,22 @@
    "sport": "Ishockey",
    "team": "Canucks",
    "wiki": "https://sv.wikipedia.org/wiki/Tom_Willander"
+  },
+  "travis-mitchell": {
+   "key": "https://sv.wikipedia.org/wiki/Travis_Mitchell",
+   "last_seen": "2026-10-09",
+   "name": "Travis Mitchell",
+   "sport": "Ishockey",
+   "team": "Ducks",
+   "wiki": "https://sv.wikipedia.org/wiki/Travis_Mitchell"
+  },
+  "tyson-kozak": {
+   "key": "https://sv.wikipedia.org/wiki/Tyson_Kozak",
+   "last_seen": "2026-10-09",
+   "name": "Tyson Kozak",
+   "sport": "Ishockey",
+   "team": "Sabres",
+   "wiki": "https://sv.wikipedia.org/wiki/Tyson_Kozak"
   },
   "victor-andersson": {
    "key": "https://sv.wikipedia.org/wiki/Victor_Andersson_(fotbollsspelare)",
@@ -1039,6 +1087,14 @@
    "sport": "Ishockey",
    "team": "Golden Knights",
    "wiki": "https://sv.wikipedia.org/wiki/William_Karlsson"
+  },
+  "william-nylander": {
+   "key": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)",
+   "last_seen": "2026-10-09",
+   "name": "William Nylander",
+   "sport": "Ishockey",
+   "team": "Maple Leafs",
+   "wiki": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)"
   },
   "william-wallinder": {
    "key": "https://sv.wikipedia.org/wiki/William_Wallinder",
