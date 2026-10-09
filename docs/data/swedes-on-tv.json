@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T05:21+00:00",
+ "generated": "2026-10-09T05:23+00:00",
  "events": [
   {
    "id": "567327",
@@ -222,11 +222,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    }
   },
   {
@@ -290,11 +290,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    }
   },
   {
@@ -354,11 +354,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    }
   },
   {
@@ -458,11 +458,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    }
   },
   {
@@ -602,11 +602,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    }
   },
   {
@@ -758,11 +758,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    }
   },
   {
@@ -862,11 +862,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    }
   },
   {
