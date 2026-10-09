@@ -103,6 +103,18 @@
       "note": "Ingen svensk rättighetshavare hittad.",
       "source": null,
       "verified": null
+    },
+    "NHL": {
+      "name": "NHL",
+      "services": [
+        "Viaplay",
+        "Disney+"
+      ],
+      "coverage": "split",
+      "note": "Viaplay minst 900 grundseriematcher (avtal t.o.m. 2030/31), Disney+ 160 exklusiva från 2026/27. Måste bekräftas per match.",
+      "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+      "source_2": "https://www.nhl.com/sv/news/sa-foljer-du-nhl-sasongen-2026-27",
+      "verified": null
     }
   }
 }

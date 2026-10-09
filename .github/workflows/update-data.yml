@@ -31,6 +31,7 @@ jobs:
       - run: python scripts/fetch_squads.py
         env:
           FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+      - run: python scripts/fetch_nhl.py
       - run: python scripts/build.py
       - name: Spara ändringar
         run: |

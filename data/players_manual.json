@@ -1,8 +1,15 @@
 {
-  "_info": "Rättelser till Wikidata. 'add' lägger till en svensk spelare i ett lag (lagnamnet som football-data.org skriver det). 'remove' tar bort en spelare helt, t.ex. om Wikidata har ett gammalt klubbyte.",
+  "_info": "Rättelser. 'add' lägger till en svensk spelare i ett fotbollslag (lagnamnet som football-data.org skriver det). 'remove' tar bort en spelare helt, i alla sporter, t.ex. gamla klubbyten i Wikidata eller NHL-spelare som är födda i Sverige men spelar för ett annat land.",
   "add": [],
-  "remove": [],
+  "remove": [
+    "Cutter Gauthier"
+  ],
   "club_aliases": {
-    "_example_football_data_name": ["Namn som Wikidata använder"]
+    "_example_football_data_name": [
+      "Namn som Wikidata använder"
+    ]
+  },
+  "_remove_reasons": {
+    "Cutter Gauthier": "Född i Sverige men representerar USA."
   }
 }
