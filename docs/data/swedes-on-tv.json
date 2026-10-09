@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T06:25+00:00",
+ "generated": "2026-10-09T06:27+00:00",
  "events": [
   {
    "id": "567327",
@@ -210,7 +210,7 @@
     {
      "name": "Alieu Njie",
      "team": "Fiorentina",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Alieu_Njie"
     }
    ],
    "tv": {
@@ -566,7 +566,7 @@
     {
      "name": "Armin Ćulum",
      "team": "Willem II",
-     "url": null
+     "url": "https://en.wikipedia.org/wiki/Armin_%C4%86ulum"
     }
    ],
    "tv": {
@@ -769,7 +769,7 @@
     {
      "name": "Alvin Nordin",
      "team": "Groningen",
-     "url": null
+     "url": "https://sv.wikipedia.org/wiki/Alvin_Nordin"
     },
     {
      "name": "Elvis Van Der Laan",
