@@ -9,6 +9,7 @@ först spelare -> klubb-id, sedan alla namn för just de klubbarna.
 import json
 import sys
 import time
+import unicodedata
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -65,11 +66,18 @@ def sparql(query, attempts=3):
             time.sleep(10 * attempt)
 
 
+# Alla fotbollsspelare med svenskt medborgarskap (P27) eller som representerar
+# Sverige (P1532) och har en artikel på svenska eller engelska Wikipedia.
+# Oberoende av klubbdata, som ofta saknas i Wikidata.
 ARTICLES_QUERY = """
-SELECT ?player ?article ?wiki WHERE {
-  VALUES ?player { %s }
-  ?article schema:about ?player; schema:isPartOf ?wiki.
-  FILTER(?wiki IN (<https://sv.wikipedia.org/>, <https://en.wikipedia.org/>))
+SELECT ?player ?name ?article WHERE {
+  ?player wdt:P106 wd:Q937857.
+  { ?player wdt:P27 wd:Q34 } UNION { ?player wdt:P1532 wd:Q34 }
+  ?article schema:about ?player; schema:isPartOf <https://%s.wikipedia.org/>.
+  OPTIONAL { ?player wdt:P569 ?born }
+  FILTER(!BOUND(?born) || ?born > "1980-01-01T00:00:00Z"^^xsd:dateTime)
+  ?player rdfs:label ?name.
+  FILTER(LANG(?name) IN ("sv", "en"))
 }
 """
 
@@ -92,37 +100,27 @@ def fetch_club_names(club_ids, chunk=200):
     return names
 
 
-def fetch_articles(player_ids, chunk=200):
-    """spelar-id -> Wikipedia-länk, svenska före engelska."""
-    found = {}
-    ids = sorted(player_ids)
-    for i in range(0, len(ids), chunk):
-        values = " ".join("wd:" + p for p in ids[i:i + chunk])
-        for row in sparql(ARTICLES_QUERY % values):
-            pid, url = qid(val(row, "player")), val(row, "article")
-            if pid not in found or "sv.wikipedia" in url:
-                found[pid] = url
-    return found
+def name_key(name):
+    s = unicodedata.normalize("NFKD", name.replace("-", " "))
+    return " ".join("".join(c for c in s if not unicodedata.combining(c)).lower().split())
 
 
-def people_index(rows, articles):
-    """Namn (gemener, utan accenter) -> [{id, url}] för alla svenska spelare
-    med Wikipedia-artikel. Används för att länka spelarnamn på sidan."""
-    import unicodedata
-
-    def key(name):
-        s = unicodedata.normalize("NFKD", name.replace("-", " "))
-        return " ".join("".join(c for c in s if not unicodedata.combining(c)).lower().split())
-
+def people_index(rows_by_lang):
+    """Namn (gemener, utan accenter) -> [{id, url}] för svenska spelare med
+    Wikipedia-artikel, svensk artikel före engelsk. Används för spelarlänkar."""
+    urls = {}
+    names = {}
+    for lang in ("en", "sv"):  # sv sist så att den vinner
+        for row in rows_by_lang.get(lang, []):
+            pid = qid(val(row, "player"))
+            urls[pid] = val(row, "article")
+            names.setdefault(pid, set()).add(val(row, "name"))
     index = {}
-    for row in rows:
-        pid = qid(val(row, "player"))
-        if pid not in articles:
-            continue
-        for label in {val(row, "playerSv"), val(row, "playerEn")} - {None}:
-            entries = index.setdefault(key(label), [])
+    for pid, labels in names.items():
+        for label in labels:
+            entries = index.setdefault(name_key(label), [])
             if not any(e["id"] == pid for e in entries):
-                entries.append({"id": pid, "url": articles[pid]})
+                entries.append({"id": pid, "url": urls[pid]})
     return index
 
 
@@ -169,7 +167,7 @@ def main():
     players.sort(key=lambda p: (p["club"], p["name"]))
 
     try:
-        people = people_index(rows, fetch_articles({qid(val(r, "player")) for r in rows}))
+        people = people_index({lang: sparql(ARTICLES_QUERY % lang) for lang in ("sv", "en")})
     except Exception as exc:  # länkar är en bonus; spelarlistan sparas ändå
         print(f"Wikipedia-länkar misslyckades: {exc}", file=sys.stderr)
         people = {}
