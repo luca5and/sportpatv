@@ -376,6 +376,28 @@
    }
   },
   {
+   "id": "565819",
+   "start": "2026-10-10T13:30:00Z",
+   "status": "TIMED",
+   "matchday": 5,
+   "competition": {
+    "code": "BL1",
+    "name": "Bundesliga"
+   },
+   "home": {
+    "id": 16,
+    "name": "FC Augsburg",
+    "shortName": "Augsburg",
+    "tla": "FCA"
+   },
+   "away": {
+    "id": 5,
+    "name": "FC Bayern München",
+    "shortName": "Bayern",
+    "tla": "FCB"
+   }
+  },
+  {
    "id": "565817",
    "start": "2026-10-10T13:30:00Z",
    "status": "TIMED",
@@ -420,25 +442,47 @@
    }
   },
   {
-   "id": "565819",
-   "start": "2026-10-10T13:30:00Z",
+   "id": "561864",
+   "start": "2026-10-10T14:00:00Z",
    "status": "TIMED",
-   "matchday": 5,
+   "matchday": 9,
    "competition": {
-    "code": "BL1",
-    "name": "Bundesliga"
+    "code": "ELC",
+    "name": "Championship"
    },
    "home": {
-    "id": 16,
-    "name": "FC Augsburg",
-    "shortName": "Augsburg",
-    "tla": "FCA"
+    "id": 342,
+    "name": "Derby County FC",
+    "shortName": "Derby County",
+    "tla": "DER"
    },
    "away": {
-    "id": 5,
-    "name": "FC Bayern München",
-    "shortName": "Bayern",
-    "tla": "FCB"
+    "id": 404,
+    "name": "Wrexham AFC",
+    "shortName": "Wrexham",
+    "tla": "WRE"
+   }
+  },
+  {
+   "id": "560592",
+   "start": "2026-10-10T14:00:00Z",
+   "status": "TIMED",
+   "matchday": 6,
+   "competition": {
+    "code": "PL",
+    "name": "Premier League"
+   },
+   "home": {
+    "id": 71,
+    "name": "Sunderland AFC",
+    "shortName": "Sunderland",
+    "tla": "SUN"
+   },
+   "away": {
+    "id": 397,
+    "name": "Brighton & Hove Albion FC",
+    "shortName": "Brighton Hove",
+    "tla": "BHA"
    }
   },
   {
@@ -571,50 +615,6 @@
     "name": "AFC Bournemouth",
     "shortName": "Bournemouth",
     "tla": "BOU"
-   }
-  },
-  {
-   "id": "561864",
-   "start": "2026-10-10T14:00:00Z",
-   "status": "TIMED",
-   "matchday": 9,
-   "competition": {
-    "code": "ELC",
-    "name": "Championship"
-   },
-   "home": {
-    "id": 342,
-    "name": "Derby County FC",
-    "shortName": "Derby County",
-    "tla": "DER"
-   },
-   "away": {
-    "id": 404,
-    "name": "Wrexham AFC",
-    "shortName": "Wrexham",
-    "tla": "WRE"
-   }
-  },
-  {
-   "id": "560592",
-   "start": "2026-10-10T14:00:00Z",
-   "status": "TIMED",
-   "matchday": 6,
-   "competition": {
-    "code": "PL",
-    "name": "Premier League"
-   },
-   "home": {
-    "id": 71,
-    "name": "Sunderland AFC",
-    "shortName": "Sunderland",
-    "tla": "SUN"
-   },
-   "away": {
-    "id": 397,
-    "name": "Brighton & Hove Albion FC",
-    "shortName": "Brighton Hove",
-    "tla": "BHA"
    }
   },
   {
@@ -926,6 +926,28 @@
    }
   },
   {
+   "id": "559672",
+   "start": "2026-10-10T18:45:00Z",
+   "status": "TIMED",
+   "matchday": 6,
+   "competition": {
+    "code": "FL1",
+    "name": "Ligue 1"
+   },
+   "home": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG"
+   },
+   "away": {
+    "id": 535,
+    "name": "Le Mans FC",
+    "shortName": "Le Mans",
+    "tla": "LMF"
+   }
+  },
+  {
    "id": "559668",
    "start": "2026-10-10T18:45:00Z",
    "status": "TIMED",
@@ -967,28 +989,6 @@
     "name": "Angers SCO",
     "shortName": "Angers SCO",
     "tla": "ANG"
-   }
-  },
-  {
-   "id": "559672",
-   "start": "2026-10-10T18:45:00Z",
-   "status": "TIMED",
-   "matchday": 6,
-   "competition": {
-    "code": "FL1",
-    "name": "Ligue 1"
-   },
-   "home": {
-    "id": 524,
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG"
-   },
-   "away": {
-    "id": 535,
-    "name": "Le Mans FC",
-    "shortName": "Le Mans",
-    "tla": "LMF"
    }
   },
   {
@@ -2092,6 +2092,28 @@
    }
   },
   {
+   "id": "561869",
+   "start": "2026-10-13T18:45:00Z",
+   "status": "TIMED",
+   "matchday": 10,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 76,
+    "name": "Wolverhampton Wanderers FC",
+    "shortName": "Wolverhampton",
+    "tla": "WOL"
+   },
+   "away": {
+    "id": 60,
+    "name": "Bolton Wanderers FC",
+    "shortName": "Bolton",
+    "tla": "BOL"
+   }
+  },
+  {
    "id": "561871",
    "start": "2026-10-13T18:45:00Z",
    "status": "TIMED",
@@ -2133,28 +2155,6 @@
     "name": "Charlton Athletic FC",
     "shortName": "Charlton",
     "tla": "CHA"
-   }
-  },
-  {
-   "id": "561869",
-   "start": "2026-10-13T18:45:00Z",
-   "status": "TIMED",
-   "matchday": 10,
-   "competition": {
-    "code": "ELC",
-    "name": "Championship"
-   },
-   "home": {
-    "id": 76,
-    "name": "Wolverhampton Wanderers FC",
-    "shortName": "Wolverhampton",
-    "tla": "WOL"
-   },
-   "away": {
-    "id": 60,
-    "name": "Bolton Wanderers FC",
-    "shortName": "Bolton",
-    "tla": "BOL"
    }
   },
   {
