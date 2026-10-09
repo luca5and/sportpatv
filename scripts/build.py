@@ -59,7 +59,7 @@ def build_club_index(players, manual):
 
 
 def person_key(name):
-    s = unicodedata.normalize("NFKD", name or "")
+    s = unicodedata.normalize("NFKD", (name or "").replace("-", " "))
     return " ".join("".join(c for c in s if not unicodedata.combining(c)).lower().split())
 
 

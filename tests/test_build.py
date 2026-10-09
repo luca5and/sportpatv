@@ -86,6 +86,10 @@ class ProfileUrlTest(unittest.TestCase):
         url = build.profile_url("Viktor Gyökeres", {"name": "Arsenal FC"}, self.people, {}, {})
         self.assertIn("Gy%C3%B6keres", url)
 
+    def test_hyphen_and_space_are_the_same_name(self):
+        people = {"victor nilsson lindelof": [{"id": "Q9", "url": "u"}]}
+        self.assertEqual(build.profile_url("Victor Nilsson-Lindelöf", {"name": "Aston Villa FC"}, people, {}, {}), "u")
+
     def test_shared_name_resolved_by_club(self):
         self.assertTrue(build.profile_url("Viktor Johansson", self.stoke, self.people, self.players_by_id, {}).endswith("/B"))
 

@@ -111,7 +111,7 @@ def people_index(rows, articles):
     import unicodedata
 
     def key(name):
-        s = unicodedata.normalize("NFKD", name)
+        s = unicodedata.normalize("NFKD", name.replace("-", " "))
         return " ".join("".join(c for c in s if not unicodedata.combining(c)).lower().split())
 
     index = {}
