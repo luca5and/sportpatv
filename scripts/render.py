@@ -187,9 +187,10 @@ def page_html(*, title, description, path, h1, lede, events, links, updated):
     <p class="links">{links}</p>
   </main>
   <footer class="wrap foot">
-    <p>Ingen reklam. Tider i svensk tid. {esc(updated)}</p>
+    <p>Ingen reklam, inga cookies. Tider i svensk tid. {esc(updated)}</p>
     <p><a class="coffee" href="{esc(SITE["coffee_url"])}" rel="noopener" target="_blank">☕ Bjud på kaffe</a></p>
   </footer>
+  <script src="{prefix}usage.js" defer></script>
 </body>
 </html>
 """
