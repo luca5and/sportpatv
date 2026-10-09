@@ -46,6 +46,33 @@ class MatchingTest(unittest.TestCase):
         self.assertEqual(build.swedes_in({"name": "Wolverhampton Wanderers FC", "shortName": "Wolves"}, index, manual, {})[0]["name"], "Ny Svensk")
 
 
+class SquadTest(unittest.TestCase):
+    squads = {"57": {"players": [
+        {"name": "Viktor Gyökeres", "nationality": "Sweden"},
+        {"name": "Dubbel Medborgare", "nationality": "Turkey"},
+        {"name": "Bukayo Saka", "nationality": "England"},
+    ]}}
+    team = {"id": 57, "name": "Arsenal FC", "shortName": "Arsenal"}
+
+    def test_squad_replaces_stale_wikidata(self):
+        players = [
+            {"name": "Gammal Spelare", "club_names": ["Arsenal F.C."]},  # inte i truppen
+            {"name": "Dubbel Medborgare", "club_names": ["Arsenal F.C."]},
+        ]
+        index = build.build_club_index(players, {})
+        found = build.swedes_in(self.team, index, {}, {}, self.squads)
+        self.assertEqual([s["name"] for s in found], ["Dubbel Medborgare", "Viktor Gyökeres"])
+
+    def test_falls_back_to_wikidata_without_squad(self):
+        index = build.build_club_index([{"name": "X", "club_names": ["Arsenal"]}], {})
+        found = build.swedes_in({"id": 99, "name": "Arsenal FC"}, index, {}, {}, self.squads)
+        self.assertEqual([s["name"] for s in found], ["X"])
+
+    def test_manual_remove_applies_to_squad(self):
+        found = build.swedes_in(self.team, {}, {"remove": ["Viktor Gyökeres"]}, {}, self.squads)
+        self.assertEqual(found, [])
+
+
 class TvStatusTest(unittest.TestCase):
     rights = {
         "SA": {"services": ["TV4 Play"], "coverage": "all", "source": "s"},

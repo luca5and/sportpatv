@@ -58,15 +58,32 @@ def build_club_index(players, manual):
     return index
 
 
-def swedes_in(team, index, manual, aliases):
+def person_key(name):
+    s = unicodedata.normalize("NFKD", name or "")
+    return " ".join("".join(c for c in s if not unicodedata.combining(c)).lower().split())
+
+
+def swedes_in(team, index, manual, aliases, squads=None):
+    """Finns lagets aktuella trupp (football-data.org) används den: spelare med
+    svensk nationalitet, plus svenskar enligt Wikidata som faktiskt står i
+    truppen (fångar dubbla medborgarskap). Annars Wikidata-matchning på namn."""
+    label = team.get("shortName") or team.get("name")
+    removed = set(manual.get("remove", []))
     found = {}
-    for key in team_keys(team, aliases):
-        for p in index.get(key, []):
-            found[p["name"]] = {"name": p["name"], "team": team.get("shortName") or team.get("name")}
+    squad = (squads or {}).get(str(team.get("id")), {}).get("players") or []
+    wikidata = {p["name"] for key in team_keys(team, aliases) for p in index.get(key, [])}
+    if squad:
+        wikidata_keys = {person_key(n) for n in wikidata}
+        for p in squad:
+            if p.get("nationality") == "Sweden" or person_key(p["name"]) in wikidata_keys:
+                found[p["name"]] = {"name": p["name"], "team": label}
+    else:
+        for name in wikidata:
+            found[name] = {"name": name, "team": label}
     for extra in manual.get("add", []):
         if extra.get("team") in (team.get("name"), team.get("shortName")):
-            found[extra["name"]] = {"name": extra["name"], "team": team.get("shortName") or team.get("name")}
-    return sorted(found.values(), key=lambda s: s["name"])
+            found[extra["name"]] = {"name": extra["name"], "team": label}
+    return sorted((v for k, v in found.items() if k not in removed), key=lambda s: s["name"])
 
 
 def tv_status(match_id, competition_code, rights, confirmations):
@@ -94,13 +111,15 @@ def build(now=None):
     manual = load(DATA / "players_manual.json", {})
     aliases = {k: v for k, v in manual.get("club_aliases", {}).items() if not k.startswith("_")}
     manual_events = load(DATA / "manual_events.json", {}).get("events", [])
+    squads = (load(DATA / "generated" / "squads.json", {}) or {}).get("teams", {})
 
     index = build_club_index(players, manual)
     events = []
     for m in matches:
         if m.get("status") in ("FINISHED", "CANCELLED", "POSTPONED", "AWARDED"):
             continue
-        swedes = swedes_in(m["home"], index, manual, aliases) + swedes_in(m["away"], index, manual, aliases)
+        swedes = (swedes_in(m["home"], index, manual, aliases, squads)
+                  + swedes_in(m["away"], index, manual, aliases, squads))
         if not swedes:
             continue
         events.append({
