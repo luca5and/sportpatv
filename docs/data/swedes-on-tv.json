@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T05:13+00:00",
+ "generated": "2026-10-09T05:14+00:00",
  "events": [
   {
    "id": "567327",
@@ -64,7 +64,7 @@
   {
    "id": "564706",
    "sport": "Fotboll",
-   "competition": "Primera Division",
+   "competition": "La Liga",
    "start": "2026-10-09T19:00:00Z",
    "title": "Málaga – Espanyol",
    "swedes": [
@@ -424,7 +424,7 @@
   {
    "id": "564700",
    "sport": "Fotboll",
-   "competition": "Primera Division",
+   "competition": "La Liga",
    "start": "2026-10-10T16:30:00Z",
    "title": "Barça – Getafe",
    "swedes": [
@@ -568,7 +568,7 @@
   {
    "id": "564703",
    "sport": "Fotboll",
-   "competition": "Primera Division",
+   "competition": "La Liga",
    "start": "2026-10-11T12:00:00Z",
    "title": "Elche – Celta",
    "swedes": [
@@ -792,7 +792,7 @@
   {
    "id": "564705",
    "sport": "Fotboll",
-   "competition": "Primera Division",
+   "competition": "La Liga",
    "start": "2026-10-11T19:00:00Z",
    "title": "Santander – Valencia",
    "swedes": [
@@ -936,7 +936,7 @@
   {
    "id": "575346",
    "sport": "Fotboll",
-   "competition": "UEFA Champions League",
+   "competition": "Champions League",
    "start": "2026-10-13T19:00:00Z",
    "title": "Arsenal – Lille",
    "swedes": [
@@ -976,7 +976,7 @@
   {
    "id": "575344",
    "sport": "Fotboll",
-   "competition": "UEFA Champions League",
+   "competition": "Champions League",
    "start": "2026-10-13T19:00:00Z",
    "title": "Galatasaray – Barça",
    "swedes": [
@@ -1000,7 +1000,7 @@
   {
    "id": "575343",
    "sport": "Fotboll",
-   "competition": "UEFA Champions League",
+   "competition": "Champions League",
    "start": "2026-10-13T19:00:00Z",
    "title": "Inter – Club Brugge",
    "swedes": [
@@ -1044,7 +1044,7 @@
   {
    "id": "575351",
    "sport": "Fotboll",
-   "competition": "UEFA Champions League",
+   "competition": "Champions League",
    "start": "2026-10-14T16:45:00Z",
    "title": "Feyenoord – Como 1907",
    "swedes": [
@@ -1064,7 +1064,7 @@
   {
    "id": "575350",
    "sport": "Fotboll",
-   "competition": "UEFA Champions League",
+   "competition": "Champions League",
    "start": "2026-10-14T16:45:00Z",
    "title": "LASK – Liverpool",
    "swedes": [
@@ -1128,7 +1128,7 @@
   {
    "id": "575355",
    "sport": "Fotboll",
-   "competition": "UEFA Champions League",
+   "competition": "Champions League",
    "start": "2026-10-14T19:00:00Z",
    "title": "Aston Villa – Fenerbahçe",
    "swedes": [
@@ -1148,7 +1148,7 @@
   {
    "id": "575354",
    "sport": "Fotboll",
-   "competition": "UEFA Champions League",
+   "competition": "Champions League",
    "start": "2026-10-14T19:00:00Z",
    "title": "Bodø/Glimt – Dortmund",
    "swedes": [

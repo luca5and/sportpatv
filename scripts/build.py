@@ -125,7 +125,7 @@ def build(now=None):
         events.append({
             "id": m["id"],
             "sport": "Fotboll",
-            "competition": m["competition"]["name"],
+            "competition": rights.get(m["competition"]["code"], {}).get("name") or m["competition"]["name"],
             "start": m["start"],
             "title": f'{m["home"].get("shortName") or m["home"]["name"]} – {m["away"].get("shortName") or m["away"]["name"]}',
             "swedes": swedes,
