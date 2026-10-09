@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T05:17+00:00",
+ "generated": "2026-10-09T05:21+00:00",
  "events": [
   {
    "id": "567327",
@@ -38,7 +38,7 @@
     "service": null,
     "channel": null,
     "source": null,
-    "note": "Troligen Viaplay"
+    "note": null
    }
   },
   {
@@ -138,11 +138,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "confirmed",
+    "service": "Prime Video",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
+    "source": "https://news.bet365.com/sv-sv/article/arsenal-leeds-tv-kanal-stream-startelvor-statistik-tid/2026100712360010911",
+    "note": null
    }
   },
   {
@@ -398,7 +398,7 @@
     "service": null,
     "channel": null,
     "source": null,
-    "note": "Troligen Viaplay"
+    "note": null
    }
   },
   {
@@ -502,7 +502,7 @@
     "service": null,
     "channel": null,
     "source": null,
-    "note": "Troligen Viaplay"
+    "note": null
    }
   },
   {
@@ -518,11 +518,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay"
+    "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
+    "note": null
    }
   },
   {
@@ -542,7 +542,7 @@
     "service": null,
     "channel": null,
     "source": null,
-    "note": "Troligen Viaplay"
+    "note": null
    }
   },
   {
@@ -674,11 +674,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay"
+    "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
+    "note": null
    }
   },
   {
@@ -742,7 +742,7 @@
     "service": null,
     "channel": null,
     "source": null,
-    "note": "Troligen Viaplay"
+    "note": null
    }
   },
   {
@@ -946,11 +946,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay"
+    "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
+    "note": null
    }
   },
   {
@@ -990,11 +990,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay"
+    "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
+    "note": null
    }
   },
   {
@@ -1010,11 +1010,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay"
+    "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
+    "note": null
    }
   },
   {
@@ -1054,11 +1054,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay"
+    "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
+    "note": null
    }
   },
   {
@@ -1074,11 +1074,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay"
+    "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
+    "note": null
    }
   },
   {
@@ -1138,11 +1138,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay"
+    "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
+    "note": null
    }
   },
   {
@@ -1158,11 +1158,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay"
+    "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
+    "note": null
    }
   }
  ]

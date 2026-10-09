@@ -86,20 +86,38 @@ def swedes_in(team, index, manual, aliases, squads=None):
     return sorted((v for k, v in found.items() if k not in removed), key=lambda s: s["name"])
 
 
-def tv_status(match_id, competition_code, rights, confirmations):
-    """confirmed = kontrollerad hos kanalen, likely = ligan sänds i sin helhet
-    hos en tjänst, unknown = vi vet inte. Vi gissar aldrig mer än så."""
+def tv_status(match_id, competition_code, rights, confirmations, round_exception_found=False):
+    """confirmed = kontrollerad sändning, likely = ligan sänds i sin helhet
+    hos en tjänst, unknown = vi vet inte. Vi gissar aldrig mer än så.
+
+    Delade ligor (Premier League: Prime Video tar en match per omgång) blir
+    likely för huvudtjänsten först när omgångens undantagsmatch är bekräftad."""
     conf = confirmations.get(match_id)
     if conf:
         return {"status": "confirmed", "service": conf.get("service"), "channel": conf.get("channel"),
                 "source": conf.get("source"), "note": None}
-    r = rights.get(competition_code)
-    if r and r.get("coverage") == "all" and len(r.get("services", [])) == 1:
-        return {"status": "likely", "service": r["services"][0], "channel": None,
+    r = rights.get(competition_code) or {}
+    services = r.get("services") or []
+    if r.get("coverage") == "all" and len(services) == 1:
+        return {"status": "likely", "service": services[0], "channel": None,
                 "source": r.get("source"), "note": None}
-    services = (r or {}).get("services") or []
+    if r.get("coverage") == "split" and r.get("default") and round_exception_found:
+        return {"status": "likely", "service": r["default"], "channel": None, "source": r.get("source"),
+                "note": None}
     note = ("Troligen " + " eller ".join(services)) if services else None
     return {"status": "unknown", "service": None, "channel": None, "source": None, "note": note}
+
+
+def rounds_with_exception(matches, rights, confirmations):
+    """{(turnering, omgång)} där omgångens undantagsmatch är bekräftad."""
+    found = set()
+    for m in matches:
+        code = m["competition"]["code"]
+        exception = (rights.get(code) or {}).get("per_round_exception")
+        conf = confirmations.get(m["id"])
+        if exception and conf and conf.get("service") == exception and m.get("matchday"):
+            found.add((code, m["matchday"]))
+    return found
 
 
 def build(now=None):
@@ -114,6 +132,7 @@ def build(now=None):
     squads = (load(DATA / "generated" / "squads.json", {}) or {}).get("teams", {})
 
     index = build_club_index(players, manual)
+    exception_rounds = rounds_with_exception(matches, rights, confirmations)
     events = []
     for m in matches:
         if m.get("status") in ("FINISHED", "CANCELLED", "POSTPONED", "AWARDED"):
@@ -129,7 +148,8 @@ def build(now=None):
             "start": m["start"],
             "title": f'{m["home"].get("shortName") or m["home"]["name"]} – {m["away"].get("shortName") or m["away"]["name"]}',
             "swedes": swedes,
-            "tv": tv_status(m["id"], m["competition"]["code"], rights, confirmations),
+            "tv": tv_status(m["id"], m["competition"]["code"], rights, confirmations,
+                            (m["competition"]["code"], m.get("matchday")) in exception_rounds),
         })
 
     for e in manual_events:
