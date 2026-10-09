@@ -73,6 +73,31 @@ class SquadTest(unittest.TestCase):
         self.assertEqual(found, [])
 
 
+class ProfileUrlTest(unittest.TestCase):
+    people = {
+        "viktor gyokeres": [{"id": "Q1", "url": "https://sv.wikipedia.org/wiki/Viktor_Gy%C3%B6keres"}],
+        "viktor johansson": [{"id": "Q2", "url": "https://sv.wikipedia.org/wiki/A"},
+                             {"id": "Q3", "url": "https://sv.wikipedia.org/wiki/B"}],
+    }
+    players_by_id = {"Q3": {"club_names": ["Stoke City F.C."]}}
+    stoke = {"name": "Stoke City FC", "shortName": "Stoke"}
+
+    def test_unique_name_gets_link(self):
+        url = build.profile_url("Viktor Gyökeres", {"name": "Arsenal FC"}, self.people, {}, {})
+        self.assertIn("Gy%C3%B6keres", url)
+
+    def test_hyphen_and_space_are_the_same_name(self):
+        people = {"victor nilsson lindelof": [{"id": "Q9", "url": "u"}]}
+        self.assertEqual(build.profile_url("Victor Nilsson-Lindelöf", {"name": "Aston Villa FC"}, people, {}, {}), "u")
+
+    def test_shared_name_resolved_by_club(self):
+        self.assertTrue(build.profile_url("Viktor Johansson", self.stoke, self.people, self.players_by_id, {}).endswith("/B"))
+
+    def test_shared_name_without_club_match_gets_no_link(self):
+        self.assertIsNone(build.profile_url("Viktor Johansson", {"name": "Hull City AFC"}, self.people, self.players_by_id, {}))
+        self.assertIsNone(build.profile_url("Okänd Spelare", self.stoke, self.people, {}, {}))
+
+
 class TvStatusTest(unittest.TestCase):
     rights = {
         "SA": {"services": ["TV4 Play"], "coverage": "all", "source": "s"},

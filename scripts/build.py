@@ -59,8 +59,19 @@ def build_club_index(players, manual):
 
 
 def person_key(name):
-    s = unicodedata.normalize("NFKD", name or "")
+    s = unicodedata.normalize("NFKD", (name or "").replace("-", " "))
     return " ".join("".join(c for c in s if not unicodedata.combining(c)).lower().split())
+
+
+def profile_url(name, team, people, players_by_id, aliases):
+    """Wikipedia-länk när namnet bara kan vara en person: ett unikt namn, eller
+    flera med samma namn där exakt en spelar i det här laget enligt Wikidata."""
+    candidates = people.get(person_key(name), [])
+    if len(candidates) > 1:
+        keys = team_keys(team, aliases)
+        candidates = [c for c in candidates
+                      if keys & {normalize(n) for n in players_by_id.get(c["id"], {}).get("club_names", [])}]
+    return candidates[0]["url"] if len(candidates) == 1 else None
 
 
 def swedes_in(team, index, manual, aliases, squads=None):
@@ -146,7 +157,10 @@ def round_counts(matches, rights, confirmations):
 def build(now=None):
     now = now or dt.datetime.now(dt.timezone.utc)
     matches = (load(DATA / "generated" / "matches.json", {}) or {}).get("matches", [])
-    players = (load(DATA / "generated" / "swedes.json", {}) or {}).get("players", [])
+    swedes_data = load(DATA / "generated" / "swedes.json", {}) or {}
+    players = swedes_data.get("players", [])
+    people = swedes_data.get("people", {})
+    players_by_id = {p["id"]: p for p in players if "id" in p}
     rights = load(DATA / "broadcasters.json", {}).get("competitions", {})
     confirmations = load(DATA / "confirmations.json", {}).get("matches", {})
     manual = load(DATA / "players_manual.json", {})
@@ -160,8 +174,11 @@ def build(now=None):
     for m in matches:
         if m.get("status") in ("FINISHED", "CANCELLED", "POSTPONED", "AWARDED"):
             continue
-        swedes = (swedes_in(m["home"], index, manual, aliases, squads)
-                  + swedes_in(m["away"], index, manual, aliases, squads))
+        swedes = []
+        for team in (m["home"], m["away"]):
+            for swede in swedes_in(team, index, manual, aliases, squads):
+                swede["url"] = profile_url(swede["name"], team, people, players_by_id, aliases)
+                swedes.append(swede)
         if not swedes:
             continue
         events.append({
