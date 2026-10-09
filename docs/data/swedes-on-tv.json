@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T05:56+00:00",
+ "generated": "2026-10-09T06:08+00:00",
  "events": [
   {
    "id": "567327",
@@ -10,7 +10,8 @@
    "swedes": [
     {
      "name": "Andre Picornell",
-     "team": "Gil Vicente"
+     "team": "Gil Vicente",
+     "url": null
     }
    ],
    "tv": {
@@ -30,7 +31,8 @@
    "swedes": [
     {
      "name": "Marcus Linday",
-     "team": "Heerenveen"
+     "team": "Heerenveen",
+     "url": null
     }
    ],
    "tv": {
@@ -50,7 +52,8 @@
    "swedes": [
     {
      "name": "Daniel Svensson",
-     "team": "Dortmund"
+     "team": "Dortmund",
+     "url": null
     }
    ],
    "tv": {
@@ -70,7 +73,8 @@
    "swedes": [
     {
      "name": "Jens Cajuste",
-     "team": "Málaga"
+     "team": "Málaga",
+     "url": null
     }
    ],
    "tv": {
@@ -90,7 +94,8 @@
    "swedes": [
     {
      "name": "Isak Alemayehu Mulugeta",
-     "team": "QPR"
+     "team": "QPR",
+     "url": null
     }
    ],
    "tv": {
@@ -110,7 +115,8 @@
    "swedes": [
     {
      "name": "Gustaf Lagerbielke",
-     "team": "Braga"
+     "team": "Braga",
+     "url": null
     }
    ],
    "tv": {
@@ -130,11 +136,13 @@
    "swedes": [
     {
      "name": "Viktor Gyökeres",
-     "team": "Arsenal"
+     "team": "Arsenal",
+     "url": null
     },
     {
      "name": "Gabriel Gudmundsson",
-     "team": "Leeds United"
+     "team": "Leeds United",
+     "url": null
     }
    ],
    "tv": {
@@ -154,7 +162,8 @@
    "swedes": [
     {
      "name": "Noah Eile",
-     "team": "Bristol City"
+     "team": "Bristol City",
+     "url": null
     }
    ],
    "tv": {
@@ -174,11 +183,13 @@
    "swedes": [
     {
      "name": "Melker Widell",
-     "team": "Swansea"
+     "team": "Swansea",
+     "url": null
     },
     {
      "name": "Zeidane Inoussa",
-     "team": "Swansea"
+     "team": "Swansea",
+     "url": null
     }
    ],
    "tv": {
@@ -198,7 +209,8 @@
    "swedes": [
     {
      "name": "Alieu Njie",
-     "team": "Fiorentina"
+     "team": "Fiorentina",
+     "url": null
     }
    ],
    "tv": {
@@ -218,7 +230,8 @@
    "swedes": [
     {
      "name": "Victor Nilsson-Lindelöf",
-     "team": "Aston Villa"
+     "team": "Aston Villa",
+     "url": null
     }
    ],
    "tv": {
@@ -238,11 +251,13 @@
    "swedes": [
     {
      "name": "Svante Ingelsson",
-     "team": "Stoke"
+     "team": "Stoke",
+     "url": null
     },
     {
      "name": "Viktor Johansson",
-     "team": "Stoke"
+     "team": "Stoke",
+     "url": null
     }
    ],
    "tv": {
@@ -262,7 +277,8 @@
    "swedes": [
     {
      "name": "Jacob Widell Zetterström",
-     "team": "Derby County"
+     "team": "Derby County",
+     "url": null
     }
    ],
    "tv": {
@@ -282,11 +298,13 @@
    "swedes": [
     {
      "name": "Hugo Larsson",
-     "team": "Fulham"
+     "team": "Fulham",
+     "url": null
     },
     {
      "name": "Jonah Kusi-Asare",
-     "team": "Fulham"
+     "team": "Fulham",
+     "url": null
     }
    ],
    "tv": {
@@ -306,7 +324,8 @@
    "swedes": [
     {
      "name": "Jusef Erabi",
-     "team": "Preston NE"
+     "team": "Preston NE",
+     "url": null
     }
    ],
    "tv": {
@@ -326,7 +345,8 @@
    "swedes": [
     {
      "name": "Nils Zätterström",
-     "team": "Sheffield Utd"
+     "team": "Sheffield Utd",
+     "url": null
     }
    ],
    "tv": {
@@ -346,11 +366,13 @@
    "swedes": [
     {
      "name": "Melker Ellborg",
-     "team": "Sunderland"
+     "team": "Sunderland",
+     "url": null
     },
     {
      "name": "Yasin Ayari",
-     "team": "Brighton Hove"
+     "team": "Brighton Hove",
+     "url": null
     }
    ],
    "tv": {
@@ -370,7 +392,8 @@
    "swedes": [
     {
      "name": "Hjalmar Ekdal",
-     "team": "Burnley"
+     "team": "Burnley",
+     "url": null
     }
    ],
    "tv": {
@@ -390,7 +413,8 @@
    "swedes": [
     {
      "name": "Victor Edvardsen",
-     "team": "Go Ahead"
+     "team": "Go Ahead",
+     "url": null
     }
    ],
    "tv": {
@@ -410,7 +434,8 @@
    "swedes": [
     {
      "name": "Pontus Almqvist",
-     "team": "Parma"
+     "team": "Parma",
+     "url": null
     }
    ],
    "tv": {
@@ -430,7 +455,8 @@
    "swedes": [
     {
      "name": "Roony Bardghji",
-     "team": "Barça"
+     "team": "Barça",
+     "url": null
     }
    ],
    "tv": {
@@ -450,11 +476,13 @@
    "swedes": [
     {
      "name": "Dejan Kulusevski",
-     "team": "Tottenham"
+     "team": "Tottenham",
+     "url": null
     },
     {
      "name": "Lucas Bergvall",
-     "team": "Tottenham"
+     "team": "Tottenham",
+     "url": null
     }
    ],
    "tv": {
@@ -474,7 +502,8 @@
    "swedes": [
     {
      "name": "Love Arrhov",
-     "team": "Frankfurt"
+     "team": "Frankfurt",
+     "url": null
     }
    ],
    "tv": {
@@ -494,7 +523,8 @@
    "swedes": [
     {
      "name": "Kristoffer Peterson",
-     "team": "Sittard"
+     "team": "Sittard",
+     "url": null
     }
    ],
    "tv": {
@@ -514,7 +544,8 @@
    "swedes": [
     {
      "name": "Sion Oppong",
-     "team": "Toulouse"
+     "team": "Toulouse",
+     "url": null
     }
    ],
    "tv": {
@@ -534,7 +565,8 @@
    "swedes": [
     {
      "name": "Armin Ćulum",
-     "team": "Willem II"
+     "team": "Willem II",
+     "url": null
     }
    ],
    "tv": {
@@ -554,7 +586,8 @@
    "swedes": [
     {
      "name": "Adrian Lahdo",
-     "team": "Como 1907"
+     "team": "Como 1907",
+     "url": null
     }
    ],
    "tv": {
@@ -574,11 +607,13 @@
    "swedes": [
     {
      "name": "Carl Starfelt",
-     "team": "Celta"
+     "team": "Celta",
+     "url": null
     },
     {
      "name": "Williot Swedberg",
-     "team": "Celta"
+     "team": "Celta",
+     "url": null
     }
    ],
    "tv": {
@@ -598,7 +633,8 @@
    "swedes": [
     {
      "name": "Elliot Stroud",
-     "team": "Hull City"
+     "team": "Hull City",
+     "url": null
     }
    ],
    "tv": {
@@ -618,7 +654,8 @@
    "swedes": [
     {
      "name": "Noel Törnqvist",
-     "team": "Monza"
+     "team": "Monza",
+     "url": null
     }
    ],
    "tv": {
@@ -638,11 +675,13 @@
    "swedes": [
     {
      "name": "Emil Holm",
-     "team": "Bologna"
+     "team": "Bologna",
+     "url": null
     },
     {
      "name": "Jesper Karlsson",
-     "team": "Bologna"
+     "team": "Bologna",
+     "url": null
     }
    ],
    "tv": {
@@ -662,15 +701,18 @@
    "swedes": [
     {
      "name": "Isak Jansson",
-     "team": "Nice"
+     "team": "Nice",
+     "url": null
     },
     {
      "name": "Benjamin Brantlind",
-     "team": "Strasbourg"
+     "team": "Strasbourg",
+     "url": null
     },
     {
      "name": "Sebastian Nanasi",
-     "team": "Strasbourg"
+     "team": "Strasbourg",
+     "url": null
     }
    ],
    "tv": {
@@ -690,11 +732,13 @@
    "swedes": [
     {
      "name": "Hugo Bolin",
-     "team": "M'gladbach"
+     "team": "M'gladbach",
+     "url": null
     },
     {
      "name": "Isac Lidberg",
-     "team": "M'gladbach"
+     "team": "M'gladbach",
+     "url": null
     }
    ],
    "tv": {
@@ -714,27 +758,33 @@
    "swedes": [
     {
      "name": "Casper Widell",
-     "team": "Excelsior"
+     "team": "Excelsior",
+     "url": null
     },
     {
      "name": "Yacqub Finey",
-     "team": "Excelsior"
+     "team": "Excelsior",
+     "url": null
     },
     {
      "name": "Alvin Nordin",
-     "team": "Groningen"
+     "team": "Groningen",
+     "url": null
     },
     {
      "name": "Elvis Van Der Laan",
-     "team": "Groningen"
+     "team": "Groningen",
+     "url": null
     },
     {
      "name": "Jacob Ondrejka",
-     "team": "Groningen"
+     "team": "Groningen",
+     "url": null
     },
     {
      "name": "Malcolm Jeng",
-     "team": "Groningen"
+     "team": "Groningen",
+     "url": null
     }
    ],
    "tv": {
@@ -754,7 +804,8 @@
    "swedes": [
     {
      "name": "Alexander Isak",
-     "team": "Liverpool"
+     "team": "Liverpool",
+     "url": null
     }
    ],
    "tv": {
@@ -774,11 +825,13 @@
    "swedes": [
     {
      "name": "Samuel Dahl",
-     "team": "SL Benfica"
+     "team": "SL Benfica",
+     "url": null
     },
     {
      "name": "Victor Andersson",
-     "team": "Vitória SC"
+     "team": "Vitória SC",
+     "url": null
     }
    ],
    "tv": {
@@ -798,7 +851,8 @@
    "swedes": [
     {
      "name": "Simon Eriksson",
-     "team": "Santander"
+     "team": "Santander",
+     "url": null
     }
    ],
    "tv": {
@@ -818,7 +872,8 @@
    "swedes": [
     {
      "name": "Isak Hien",
-     "team": "Atalanta"
+     "team": "Atalanta",
+     "url": null
     }
    ],
    "tv": {
@@ -838,7 +893,8 @@
    "swedes": [
     {
      "name": "Jesper Karlström",
-     "team": "Udinese"
+     "team": "Udinese",
+     "url": null
     }
    ],
    "tv": {
@@ -858,7 +914,8 @@
    "swedes": [
     {
      "name": "Anthony Elanga",
-     "team": "Newcastle"
+     "team": "Newcastle",
+     "url": null
     }
    ],
    "tv": {
@@ -878,7 +935,8 @@
    "swedes": [
     {
      "name": "Noah Eile",
-     "team": "Bristol City"
+     "team": "Bristol City",
+     "url": null
     }
    ],
    "tv": {
@@ -898,7 +956,8 @@
    "swedes": [
     {
      "name": "Hjalmar Ekdal",
-     "team": "Burnley"
+     "team": "Burnley",
+     "url": null
     }
    ],
    "tv": {
@@ -918,11 +977,13 @@
    "swedes": [
     {
      "name": "Melker Widell",
-     "team": "Swansea"
+     "team": "Swansea",
+     "url": null
     },
     {
      "name": "Zeidane Inoussa",
-     "team": "Swansea"
+     "team": "Swansea",
+     "url": null
     }
    ],
    "tv": {
@@ -942,7 +1003,8 @@
    "swedes": [
     {
      "name": "Viktor Gyökeres",
-     "team": "Arsenal"
+     "team": "Arsenal",
+     "url": null
     }
    ],
    "tv": {
@@ -962,7 +1024,8 @@
    "swedes": [
     {
      "name": "Jusef Erabi",
-     "team": "Preston NE"
+     "team": "Preston NE",
+     "url": null
     }
    ],
    "tv": {
@@ -982,11 +1045,13 @@
    "swedes": [
     {
      "name": "Deniz Gül",
-     "team": "Galatasaray"
+     "team": "Galatasaray",
+     "url": null
     },
     {
      "name": "Roony Bardghji",
-     "team": "Barça"
+     "team": "Barça",
+     "url": null
     }
    ],
    "tv": {
@@ -1006,7 +1071,8 @@
    "swedes": [
     {
      "name": "Gustaf Nilsson",
-     "team": "Club Brugge"
+     "team": "Club Brugge",
+     "url": null
     }
    ],
    "tv": {
@@ -1026,11 +1092,13 @@
    "swedes": [
     {
      "name": "Svante Ingelsson",
-     "team": "Stoke"
+     "team": "Stoke",
+     "url": null
     },
     {
      "name": "Viktor Johansson",
-     "team": "Stoke"
+     "team": "Stoke",
+     "url": null
     }
    ],
    "tv": {
@@ -1050,7 +1118,8 @@
    "swedes": [
     {
      "name": "Adrian Lahdo",
-     "team": "Como 1907"
+     "team": "Como 1907",
+     "url": null
     }
    ],
    "tv": {
@@ -1070,7 +1139,8 @@
    "swedes": [
     {
      "name": "Alexander Isak",
-     "team": "Liverpool"
+     "team": "Liverpool",
+     "url": null
     }
    ],
    "tv": {
@@ -1090,7 +1160,8 @@
    "swedes": [
     {
      "name": "Nils Zätterström",
-     "team": "Sheffield Utd"
+     "team": "Sheffield Utd",
+     "url": null
     }
    ],
    "tv": {
@@ -1110,11 +1181,13 @@
    "swedes": [
     {
      "name": "Isak Alemayehu Mulugeta",
-     "team": "QPR"
+     "team": "QPR",
+     "url": null
     },
     {
      "name": "Jacob Widell Zetterström",
-     "team": "Derby County"
+     "team": "Derby County",
+     "url": null
     }
    ],
    "tv": {
@@ -1134,7 +1207,8 @@
    "swedes": [
     {
      "name": "Victor Nilsson-Lindelöf",
-     "team": "Aston Villa"
+     "team": "Aston Villa",
+     "url": null
     }
    ],
    "tv": {
@@ -1154,7 +1228,8 @@
    "swedes": [
     {
      "name": "Daniel Svensson",
-     "team": "Dortmund"
+     "team": "Dortmund",
+     "url": null
     }
    ],
    "tv": {

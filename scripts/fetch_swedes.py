@@ -65,6 +65,15 @@ def sparql(query, attempts=3):
             time.sleep(10 * attempt)
 
 
+ARTICLES_QUERY = """
+SELECT ?player ?article ?wiki WHERE {
+  VALUES ?player { %s }
+  ?article schema:about ?player; schema:isPartOf ?wiki.
+  FILTER(?wiki IN (<https://sv.wikipedia.org/>, <https://en.wikipedia.org/>))
+}
+"""
+
+
 def val(row, key):
     return row[key]["value"] if key in row else None
 
@@ -81,6 +90,40 @@ def fetch_club_names(club_ids, chunk=200):
         for row in sparql(CLUB_NAMES_QUERY % values):
             names.setdefault(qid(val(row, "club")), set()).add(val(row, "name"))
     return names
+
+
+def fetch_articles(player_ids, chunk=200):
+    """spelar-id -> Wikipedia-länk, svenska före engelska."""
+    found = {}
+    ids = sorted(player_ids)
+    for i in range(0, len(ids), chunk):
+        values = " ".join("wd:" + p for p in ids[i:i + chunk])
+        for row in sparql(ARTICLES_QUERY % values):
+            pid, url = qid(val(row, "player")), val(row, "article")
+            if pid not in found or "sv.wikipedia" in url:
+                found[pid] = url
+    return found
+
+
+def people_index(rows, articles):
+    """Namn (gemener, utan accenter) -> [{id, url}] för alla svenska spelare
+    med Wikipedia-artikel. Används för att länka spelarnamn på sidan."""
+    import unicodedata
+
+    def key(name):
+        s = unicodedata.normalize("NFKD", name)
+        return " ".join("".join(c for c in s if not unicodedata.combining(c)).lower().split())
+
+    index = {}
+    for row in rows:
+        pid = qid(val(row, "player"))
+        if pid not in articles:
+            continue
+        for label in {val(row, "playerSv"), val(row, "playerEn")} - {None}:
+            entries = index.setdefault(key(label), [])
+            if not any(e["id"] == pid for e in entries):
+                entries.append({"id": pid, "url": articles[pid]})
+    return index
 
 
 def current_clubs(rows):
@@ -110,7 +153,8 @@ def current_clubs(rows):
 
 def main():
     try:
-        picks = current_clubs(sparql(PLAYERS_QUERY))
+        rows = sparql(PLAYERS_QUERY)
+        picks = current_clubs(rows)
         club_names = fetch_club_names({club for _, _, club in picks})
     except Exception as exc:  # nätverksfel, timeout, ändrat format
         print(f"Wikidata misslyckades, behåller gammal fil: {exc}", file=sys.stderr)
@@ -124,9 +168,15 @@ def main():
         players.append({"id": pid, "name": name, "club": names[0], "club_id": club, "club_names": names})
     players.sort(key=lambda p: (p["club"], p["name"]))
 
+    try:
+        people = people_index(rows, fetch_articles({qid(val(r, "player")) for r in rows}))
+    except Exception as exc:  # länkar är en bonus; spelarlistan sparas ändå
+        print(f"Wikipedia-länkar misslyckades: {exc}", file=sys.stderr)
+        people = {}
+
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps({"players": players}, ensure_ascii=False, indent=1) + "\n")
-    print(f"{len(players)} svenska spelare sparade")
+    OUT.write_text(json.dumps({"players": players, "people": people}, ensure_ascii=False, indent=1) + "\n")
+    print(f"{len(players)} svenska spelare sparade, {len(people)} namn med Wikipedia-länk")
     return 0
 
 
