@@ -852,3140 +852,3909 @@
  "rosters": {
   "ANA": [
    {
+    "born": "1996-12-14",
     "country": "CAN",
     "name": "A.J. Greer"
    },
    {
+    "born": "1989-09-14",
     "country": "CAN",
     "name": "Alex Killorn"
    },
    {
+    "born": "2006-01-28",
     "country": "CAN",
     "name": "Beckett Sennecke"
    },
    {
+    "born": "2004-01-19",
     "country": "SWE",
     "name": "Cutter Gauthier"
    },
    {
+    "born": "2001-03-26",
     "country": "USA",
     "name": "Drew Helleson"
    },
    {
+    "born": "1994-03-14",
     "country": "USA",
     "name": "Frank Vatrano"
    },
    {
+    "born": "2002-01-04",
     "country": "USA",
     "name": "Ian Moore"
    },
    {
+    "born": "2001-01-09",
     "country": "USA",
     "name": "Jackson LaCombe"
    },
    {
+    "born": "1996-08-07",
     "country": "CAN",
     "name": "Jeff Malott"
    },
    {
+    "born": "2001-03-19",
     "country": "USA",
     "name": "Judd Caulfield"
    },
    {
+    "born": "2004-12-26",
     "country": "SWE",
     "name": "Leo Carlsson"
    },
    {
+    "born": "2000-06-22",
     "country": "CZE",
     "name": "Lukas Dostal"
    },
    {
+    "born": "1992-02-26",
     "country": "FIN",
     "name": "Mikael Granlund"
    },
    {
+    "born": "1990-09-21",
     "country": "USA",
     "name": "Nick Jensen"
    },
    {
+    "born": "2008-06-27",
     "country": "USA",
     "name": "Nikita Klepov"
    },
    {
+    "born": "2001-09-10",
     "country": "USA",
     "name": "Nikita Nesterenko"
    },
    {
+    "born": "2004-07-15",
     "country": "CAN",
     "name": "Noah Warren"
    },
    {
+    "born": "2003-11-25",
     "country": "RUS",
     "name": "Pavel Mintyukov"
    },
    {
+    "born": "1999-01-03",
     "country": "USA",
     "name": "Ryan Poehling"
    },
    {
+    "born": "2001-12-26",
     "country": "USA",
     "name": "Sam Colangelo"
    },
    {
+    "born": "2001-08-25",
     "country": "USA",
     "name": "Tim Washe"
    },
    {
+    "born": "1999-11-25",
     "country": "USA",
     "name": "Travis Mitchell"
    },
    {
+    "born": "2004-01-12",
     "country": "CAN",
     "name": "Tristan Luneau"
    },
    {
+    "born": "2003-03-12",
     "country": "CAN",
     "name": "Tyson Hinds"
    },
    {
+    "born": "1995-02-06",
     "country": "FIN",
     "name": "Ville Husso"
    }
   ],
   "BOS": [
    {
+    "born": "1998-11-22",
     "country": "USA",
     "name": "Casey Mittelstadt"
    },
    {
+    "born": "1997-12-21",
     "country": "USA",
     "name": "Charlie McAvoy"
    },
    {
+    "born": "1995-04-28",
     "country": "USA",
     "name": "Connor Clifton"
    },
    {
+    "born": "1996-05-25",
     "country": "CZE",
     "name": "David Pastrnak"
    },
    {
+    "born": "1994-12-02",
     "country": "SWE",
     "name": "Elias Lindholm"
    },
    {
+    "born": "2004-07-05",
     "country": "CAN",
     "name": "Fraser Minten"
    },
    {
+    "born": "2003-08-21",
     "country": "CAN",
     "name": "Frederic Brunet"
    },
    {
+    "born": "1994-01-20",
     "country": "SWE",
     "name": "Hampus Lindholm"
    },
    {
+    "born": "2002-01-14",
     "country": "DEU",
     "name": "JJ Peterka"
    },
    {
+    "born": "2006-11-03",
     "country": "USA",
     "name": "James Hagens"
    },
    {
+    "born": "1998-11-24",
     "country": "USA",
     "name": "Jeremy Swayman"
    },
    {
+    "born": "1999-05-16",
     "country": "CAN",
     "name": "Jonathan Aspirot"
    },
    {
+    "born": "2002-07-17",
     "country": "RUS",
     "name": "Marat Khusnutdinov"
    },
    {
+    "born": "1999-03-11",
     "country": "USA",
     "name": "Mark Kastelic"
    },
    {
+    "born": "2001-01-17",
     "country": "USA",
     "name": "Mason Lohrei"
    },
    {
+    "born": "2004-03-10",
     "country": "CAN",
     "name": "Matthew Poitras"
    },
    {
+    "born": "1999-06-09",
     "country": "CAN",
     "name": "Michael DiPietro"
    },
    {
+    "born": "1998-07-20",
     "country": "CAN",
     "name": "Morgan Geekie"
    },
    {
+    "born": "1995-04-16",
     "country": "RUS",
     "name": "Nikita Zadorov"
    },
    {
+    "born": "1997-04-06",
     "country": "CZE",
     "name": "Pavel Zacha"
    },
    {
+    "born": "1993-01-20",
     "country": "USA",
     "name": "Sean Kuraly"
    },
    {
+    "born": "1997-05-29",
     "country": "CAN",
     "name": "Tanner Jeannot"
    },
    {
+    "born": "1996-12-19",
     "country": "USA",
     "name": "Will Borgen"
    }
   ],
   "BUF": [
    {
+    "born": "1992-12-09",
     "country": "USA",
     "name": "Alex Lyon"
    },
    {
+    "born": "1998-02-04",
     "country": "CAN",
     "name": "Beck Malenstyn"
    },
    {
+    "born": "2000-10-05",
     "country": "CAN",
     "name": "Colten Ellis"
    },
    {
+    "born": "1998-09-18",
     "country": "CAN",
     "name": "Conor Timmins"
    },
    {
+    "born": "2001-09-19",
     "country": "CAN",
     "name": "Jack Quinn"
    },
    {
+    "born": "2004-04-14",
     "country": "CZE",
     "name": "Jiri Kulich"
    },
    {
+    "born": "2002-02-01",
     "country": "USA",
     "name": "Josh Doan"
    },
    {
+    "born": "1999-05-05",
     "country": "USA",
     "name": "Josh Norris"
    },
    {
+    "born": "1993-03-15",
     "country": "CAN",
     "name": "Justin Danforth"
    },
    {
+    "born": "2006-05-11",
     "country": "FIN",
     "name": "Konsta Helenius"
    },
    {
+    "born": "2001-05-04",
     "country": "CAN",
     "name": "Louis Crevier"
    },
    {
+    "born": "1994-01-05",
     "country": "USA",
     "name": "Matt Grzelcyk"
    },
    {
+    "born": "2000-03-14",
     "country": "USA",
     "name": "Mattias Samuelsson"
    },
    {
+    "born": "2004-03-11",
     "country": "SWE",
     "name": "Noah Ostlund"
    },
    {
+    "born": "2003-09-10",
     "country": "CAN",
     "name": "Olen Zellweger"
    },
    {
+    "born": "2002-11-22",
     "country": "CAN",
     "name": "Owen Power"
    },
    {
+    "born": "2001-01-26",
     "country": "CAN",
     "name": "Peyton Krebs"
    },
    {
+    "born": "2000-04-13",
     "country": "SWE",
     "name": "Rasmus Dahlin"
    },
    {
+    "born": "1999-09-21",
     "country": "CAN",
     "name": "Ryan McLeod"
    },
    {
+    "born": "1992-02-04",
     "country": "CAN",
     "name": "Sam Carrick"
    },
    {
+    "born": "1997-10-30",
     "country": "USA",
     "name": "Tage Thompson"
    },
    {
+    "born": "2002-12-29",
     "country": "CAN",
     "name": "Tyson Kozak"
    },
    {
+    "born": "1999-03-09",
     "country": "FIN",
     "name": "Ukko-Pekka Luukkonen"
    },
    {
+    "born": "2005-05-12",
     "country": "CAN",
     "name": "Zach Benson"
    },
    {
+    "born": "1998-10-19",
     "country": "USA",
     "name": "Zach Metsa"
    }
   ],
   "CAR": [
    {
+    "born": "2000-03-26",
     "country": "RUS",
     "name": "Andrei Svechnikov"
    },
    {
+    "born": "1998-06-25",
     "country": "USA",
     "name": "Brandon Bussi"
    },
    {
+    "born": "1995-06-14",
     "country": "USA",
     "name": "Eric Robinson"
    },
    {
+    "born": "1994-05-01",
     "country": "USA",
     "name": "Jaccob Slavin"
    },
    {
+    "born": "2003-08-03",
     "country": "USA",
     "name": "Jackson Blake"
    },
    {
+    "born": "1996-05-15",
     "country": "USA",
     "name": "Jalen Chatfield"
    },
    {
+    "born": "2000-07-06",
     "country": "FIN",
     "name": "Jesperi Kotkaniemi"
    },
    {
+    "born": "1992-07-25",
     "country": "CAN",
     "name": "Jordan Martinook"
    },
    {
+    "born": "1988-09-10",
     "country": "CAN",
     "name": "Jordan Staal"
    },
    {
+    "born": "1998-10-06",
     "country": "FIN",
     "name": "Juuso Välimäki"
    },
    {
+    "born": "2000-01-21",
     "country": "USA",
     "name": "K'Andre Miller"
    },
    {
+    "born": "2003-02-26",
     "country": "CAN",
     "name": "Logan Stankoven"
    },
    {
+    "born": "1994-09-13",
     "country": "CAN",
     "name": "Mark Jankowski"
    },
    {
+    "born": "1993-07-13",
     "country": "USA",
     "name": "Mike Reilly"
    },
    {
+    "born": "1991-02-22",
     "country": "CAN",
     "name": "Nicolas Deslauriers"
    },
    {
+    "born": "1996-02-14",
     "country": "DNK",
     "name": "Nikolaj Ehlers"
    },
    {
+    "born": "1999-06-25",
     "country": "RUS",
     "name": "Pyotr Kochetkov"
    },
    {
+    "born": "1994-11-13",
     "country": "CAN",
     "name": "Sean Walker"
    },
    {
+    "born": "1997-07-26",
     "country": "FIN",
     "name": "Sebastian Aho"
    },
    {
+    "born": "1993-04-20",
     "country": "USA",
     "name": "Shayne Gostisbehere"
    },
    {
+    "born": "1991-11-14",
     "country": "CAN",
     "name": "Taylor Hall"
    },
    {
+    "born": "1994-12-20",
     "country": "CAN",
     "name": "William Carrier"
    }
   ],
   "CBJ": [
    {
+    "born": "2004-10-12",
     "country": "CAN",
     "name": "Adam Fantilli"
    },
    {
+    "born": "1987-07-05",
     "country": "CAN",
     "name": "Cam Talbot"
    },
    {
+    "born": "1994-07-27",
     "country": "CAN",
     "name": "Carson Soucy"
    },
    {
+    "born": "1992-03-02",
     "country": "USA",
     "name": "Charlie Coyle"
    },
    {
+    "born": "2003-05-16",
     "country": "USA",
     "name": "Cole Sillinger"
    },
    {
+    "born": "1996-03-11",
     "country": "USA",
     "name": "Conor Garland"
    },
    {
+    "born": "1998-06-20",
     "country": "CAN",
     "name": "Dante Fabbro"
    },
    {
+    "born": "1995-07-05",
     "country": "CAN",
     "name": "Danton Heinen"
    },
    {
+    "born": "2004-07-12",
     "country": "CAN",
     "name": "Denton Mateychuk"
    },
    {
+    "born": "2000-09-10",
     "country": "RUS",
     "name": "Dmitri Voronkov"
    },
    {
+    "born": "2002-02-23",
     "country": "SWE",
     "name": "Emil Andrae"
    },
    {
+    "born": "1992-01-07",
     "country": "CAN",
     "name": "Erik Gudbranson"
    },
    {
+    "born": "1997-01-13",
     "country": "RUS",
     "name": "Ivan Provorov"
    },
    {
+    "born": "1999-09-12",
     "country": "CAN",
     "name": "Jake Christiansen"
    },
    {
+    "born": "2001-03-30",
     "country": "CAN",
     "name": "Jet Greaves"
    },
    {
+    "born": "2002-10-18",
     "country": "CAN",
     "name": "Kent Johnson"
    },
    {
+    "born": "2003-11-10",
     "country": "CAN",
     "name": "Luca Del Bel Belluz"
    },
    {
+    "born": "1997-02-11",
     "country": "USA",
     "name": "Mathieu Olivier"
    },
    {
+    "born": "2002-10-17",
     "country": "USA",
     "name": "Matthew Knies"
    },
    {
+    "born": "1994-12-09",
     "country": "CAN",
     "name": "Ryan Lomberg"
    },
    {
+    "born": "1994-10-12",
     "country": "CAN",
     "name": "Sean Monahan"
    },
    {
+    "born": "1995-03-04",
     "country": "RUS",
     "name": "Valeri Nichushkin"
    },
    {
+    "born": "1997-07-19",
     "country": "USA",
     "name": "Zach Werenski"
    }
   ],
   "CGY": [
    {
+    "born": "2000-09-14",
     "country": "CZE",
     "name": "Adam Klapka"
    },
    {
+    "born": "2004-11-16",
     "country": "RUS",
     "name": "Aydar Suniev"
    },
    {
+    "born": "2003-01-05",
     "country": "CAN",
     "name": "Brennan Othmann"
    },
    {
+    "born": "1997-05-25",
     "country": "USA",
     "name": "Devin Cooley"
    },
    {
+    "born": "2001-04-16",
     "country": "USA",
     "name": "Dustin Wolf"
    },
    {
+    "born": "1996-01-02",
     "country": "CAN",
     "name": "Jake Middleton"
    },
    {
+    "born": "2000-02-25",
     "country": "USA",
     "name": "Joel Farabee"
    },
    {
+    "born": "1991-06-08",
     "country": "CAN",
     "name": "Joel Hanley"
    },
    {
+    "born": "2005-04-20",
     "country": "CAN",
     "name": "Jonathan Castagna"
    },
    {
+    "born": "1993-06-04",
     "country": "CAN",
     "name": "Jonathan Huberdeau"
    },
    {
+    "born": "2000-06-27",
     "country": "CAN",
     "name": "Kevin Bahl"
    },
    {
+    "born": "1999-11-19",
     "country": "SVK",
     "name": "Martin Pospisil"
    },
    {
+    "born": "2002-11-14",
     "country": "USA",
     "name": "Matt Coronato"
    },
    {
+    "born": "2006-03-01",
     "country": "RUS",
     "name": "Matvei Gridin"
    },
    {
+    "born": "1998-09-19",
     "country": "RUS",
     "name": "Maxim Tsyplakov"
    },
    {
+    "born": "1989-03-17",
     "country": "SWE",
     "name": "Mikael Backlund"
    },
    {
+    "born": "1999-05-14",
     "country": "CAN",
     "name": "Morgan Frost"
    },
    {
+    "born": "1993-07-11",
     "country": "CAN",
     "name": "Ryan Strome"
    },
    {
+    "born": "2004-11-12",
     "country": "SVK",
     "name": "Samuel Honzek"
    },
    {
+    "born": "2004-02-15",
     "country": "SVK",
     "name": "Simon Nemec"
    },
    {
+    "born": "2002-03-09",
     "country": "RUS",
     "name": "Yan Kuznetsov"
    },
    {
+    "born": "1998-06-06",
     "country": "BLR",
     "name": "Yegor Sharangovich"
    },
    {
+    "born": "1996-11-28",
     "country": "CAN",
     "name": "Zach Whitecloud"
    },
    {
+    "born": "2006-02-15",
     "country": "CAN",
     "name": "Zayne Parekh"
    }
   ],
   "CHI": [
    {
+    "born": "2001-06-05",
     "country": "USA",
     "name": "Alex Vlasic"
    },
    {
+    "born": "1996-04-04",
     "country": "CAN",
     "name": "Andrew Mangiapane"
    },
    {
+    "born": "2007-05-07",
     "country": "SWE",
     "name": "Anton Frondell"
    },
    {
+    "born": "2005-10-28",
     "country": "BLR",
     "name": "Artyom Levshunov"
    },
    {
+    "born": "1999-08-19",
     "country": "SWE",
     "name": "Arvid Soderblom"
    },
    {
+    "born": "2001-06-13",
     "country": "CAN",
     "name": "Bowen Byram"
    },
    {
+    "born": "1995-10-28",
     "country": "USA",
     "name": "Cole Smith"
    },
    {
+    "born": "2005-07-17",
     "country": "CAN",
     "name": "Connor Bedard"
    },
    {
+    "born": "2003-01-15",
     "country": "CAN",
     "name": "Ethan Del Mastro"
    },
    {
+    "born": "2004-01-14",
     "country": "USA",
     "name": "Frank Nazar"
    },
    {
+    "born": "1989-02-21",
     "country": "USA",
     "name": "Ian Cole"
    },
    {
+    "born": "1997-02-16",
     "country": "USA",
     "name": "Jordan Greenway"
    },
    {
+    "born": "2004-06-21",
     "country": "CAN",
     "name": "Kevin Korchinski"
    },
    {
+    "born": "2005-07-08",
     "country": "CAN",
     "name": "Nick Lardis"
    },
    {
+    "born": "2005-01-22",
     "country": "USA",
     "name": "Oliver Moore"
    },
    {
+    "born": "1988-11-19",
     "country": "USA",
     "name": "Patrick Kane"
    },
    {
+    "born": "2004-09-20",
     "country": "RUS",
     "name": "Roman Kantserov"
    },
    {
+    "born": "1996-04-09",
     "country": "USA",
     "name": "Ryan Donato"
    },
    {
+    "born": "2003-10-21",
     "country": "CAN",
     "name": "Ryan Greene"
    },
    {
+    "born": "2004-06-25",
     "country": "USA",
     "name": "Sam Rinzel"
    },
    {
+    "born": "2001-04-19",
     "country": "USA",
     "name": "Spencer Knight"
    },
    {
+    "born": "1994-09-11",
     "country": "FIN",
     "name": "Teuvo Teravainen"
    },
    {
+    "born": "1995-02-24",
     "country": "CAN",
     "name": "Tyler Bertuzzi"
    },
    {
+    "born": "2002-07-31",
     "country": "USA",
     "name": "Wyatt Kaiser"
    }
   ],
   "COL": [
    {
+    "born": "1995-07-04",
     "country": "FIN",
     "name": "Artturi Lehkonen"
    },
    {
+    "born": "1985-03-09",
     "country": "CAN",
     "name": "Brent Burns"
    },
    {
+    "born": "1994-01-06",
     "country": "CAN",
     "name": "Brett Kulak"
    },
    {
+    "born": "1991-10-15",
     "country": "USA",
     "name": "Brock Nelson"
    },
    {
+    "born": "1998-10-30",
     "country": "CAN",
     "name": "Cale Makar"
    },
    {
+    "born": "1994-02-21",
     "country": "CAN",
     "name": "Devon Toews"
    },
    {
+    "born": "2003-04-05",
     "country": "RUS",
     "name": "Fedor Svechkov"
    },
    {
+    "born": "1992-11-23",
     "country": "SWE",
     "name": "Gabriel Landeskog"
    },
    {
+    "born": "1992-06-25",
     "country": "CAN",
     "name": "Jaden Schwartz"
    },
    {
+    "born": "1991-10-07",
     "country": "USA",
     "name": "Josh Manson"
    },
    {
+    "born": "1996-08-14",
     "country": "USA",
     "name": "Logan O'Connor"
    },
    {
+    "born": "1996-12-09",
     "country": "CAN",
     "name": "Mackenzie Blackwood"
    },
    {
+    "born": "1999-01-15",
     "country": "CZE",
     "name": "Martin Necas"
    },
    {
+    "born": "1995-09-01",
     "country": "CAN",
     "name": "Nathan MacKinnon"
    },
    {
+    "born": "1990-10-06",
     "country": "CAN",
     "name": "Nazem Kadri"
    },
    {
+    "born": "1997-02-05",
     "country": "CAN",
     "name": "Nicolas Roy"
    },
    {
+    "born": "1997-04-02",
     "country": "CAN",
     "name": "Noah Juulsen"
    },
    {
+    "born": "1999-05-14",
     "country": "CAN",
     "name": "Parker Kelly"
    },
    {
+    "born": "1998-07-27",
     "country": "USA",
     "name": "Sam Malinski"
    },
    {
+    "born": "1992-08-14",
     "country": "CAN",
     "name": "Scott Wedgewood"
    },
    {
+    "born": "2001-11-09",
     "country": "CAN",
     "name": "T.J. Hughes"
    },
    {
+    "born": "2003-05-15",
     "country": "CAN",
     "name": "Zachary L'Heureux"
    }
   ],
   "DAL": [
    {
+    "born": "2001-04-06",
     "country": "FIN",
     "name": "Arttu Hyry"
    },
    {
+    "born": "1991-08-13",
     "country": "USA",
     "name": "Casey DeSmith"
    },
    {
+    "born": "1993-03-28",
     "country": "USA",
     "name": "Colin Blackwell"
    },
    {
+    "born": "1994-05-23",
     "country": "FIN",
     "name": "Esa Lindell"
    },
    {
+    "born": "1998-12-18",
     "country": "USA",
     "name": "Jake Oettinger"
    },
    {
+    "born": "1989-07-18",
     "country": "CAN",
     "name": "Jamie Benn"
    },
    {
+    "born": "1999-07-22",
     "country": "USA",
     "name": "Jason Robertson"
    },
    {
+    "born": "1996-03-23",
     "country": "FIN",
     "name": "Joel Kiviranta"
    },
    {
+    "born": "2001-02-23",
     "country": "CAN",
     "name": "Justin Hryckowian"
    },
    {
+    "born": "1995-07-12",
     "country": "CAN",
     "name": "Kyle Burroughs"
    },
    {
+    "born": "1997-08-13",
     "country": "CAN",
     "name": "Kyle Capobianco"
    },
    {
+    "born": "2004-05-18",
     "country": "CHE",
     "name": "Lian Bichsel"
    },
    {
+    "born": "1991-01-16",
     "country": "CAN",
     "name": "Matt Duchene"
    },
    {
+    "born": "1996-10-29",
     "country": "FIN",
     "name": "Mikko Rantanen"
    },
    {
+    "born": "1999-07-18",
     "country": "FIN",
     "name": "Miro Heiskanen"
    },
    {
+    "born": "2000-07-27",
     "country": "SWE",
     "name": "Nils Lundkvist"
    },
    {
+    "born": "2000-03-12",
     "country": "SWE",
     "name": "Oskar Bäck"
    },
    {
+    "born": "1994-01-09",
     "country": "CZE",
     "name": "Radek Faksa"
    },
    {
+    "born": "1996-11-17",
     "country": "FIN",
     "name": "Roope Hintz"
    },
    {
+    "born": "1998-02-03",
     "country": "CAN",
     "name": "Sam Steel"
    },
    {
+    "born": "2001-08-19",
     "country": "USA",
     "name": "Thomas Harley"
    },
    {
+    "born": "1990-02-01",
     "country": "USA",
     "name": "Tyler Myers"
    },
    {
+    "born": "1992-01-31",
     "country": "CAN",
     "name": "Tyler Seguin"
    },
    {
+    "born": "2003-05-14",
     "country": "CAN",
     "name": "Wyatt Johnston"
    }
   ],
   "DET": [
    {
+    "born": "2001-01-04",
     "country": "SWE",
     "name": "Albert Johansson"
    },
    {
+    "born": "1997-12-18",
     "country": "USA",
     "name": "Alex DeBrincat"
    },
    {
+    "born": "1996-01-21",
     "country": "SWE",
     "name": "Andreas Englund"
    },
    {
+    "born": "1994-07-08",
     "country": "USA",
     "name": "Andrew Copp"
    },
    {
+    "born": "2004-06-10",
     "country": "SWE",
     "name": "Anton Johansson"
    },
    {
+    "born": "2005-03-11",
     "country": "SWE",
     "name": "Axel Sandin-Pellikka"
    },
    {
+    "born": "1991-05-09",
     "country": "CAN",
     "name": "Ben Chiarot"
    },
    {
+    "born": "2002-03-28",
     "country": "USA",
     "name": "Carter Mazur"
    },
    {
+    "born": "1999-03-27",
     "country": "RUS",
     "name": "Daniil Tarasov"
    },
    {
+    "born": "1996-07-30",
     "country": "USA",
     "name": "Dylan Larkin"
    },
    {
+    "born": "2005-06-27",
     "country": "CAN",
     "name": "Emmitt Finnie"
    },
    {
+    "born": "1995-04-08",
     "country": "USA",
     "name": "J.T. Compher"
    },
    {
+    "born": "2000-06-30",
     "country": "CAN",
     "name": "Jacob Bernard-Docker"
    },
    {
+    "born": "1993-07-14",
     "country": "USA",
     "name": "John Gibson"
    },
    {
+    "born": "1992-03-20",
     "country": "USA",
     "name": "Justin Faulk"
    },
    {
+    "born": "1997-04-08",
     "country": "CAN",
     "name": "Keegan Kolesar"
    },
    {
+    "born": "2002-03-28",
     "country": "SWE",
     "name": "Lucas Raymond"
    },
    {
+    "born": "2004-04-08",
     "country": "AUT",
     "name": "Marco Kasper"
    },
    {
+    "born": "1996-01-15",
     "country": "USA",
     "name": "Mason Appleton"
    },
    {
+    "born": "2005-10-05",
     "country": "NOR",
     "name": "Michael Brandsegg-Nygård"
    },
    {
+    "born": "1999-04-17",
     "country": "CAN",
     "name": "Michael Rasmussen"
    },
    {
+    "born": "2001-04-06",
     "country": "DEU",
     "name": "Moritz Seider"
    },
    {
+    "born": "2004-09-27",
     "country": "CAN",
     "name": "Nate Danielson"
    },
    {
+    "born": "1994-04-23",
     "country": "USA",
     "name": "Sheldon Dries"
    },
    {
+    "born": "1993-04-08",
     "country": "SWE",
     "name": "Viktor Arvidsson"
    },
    {
+    "born": "2002-07-28",
     "country": "SWE",
     "name": "William Wallinder"
    }
   ],
   "EDM": [
    {
+    "born": "2000-08-06",
     "country": "USA",
     "name": "Alec Regula"
    },
    {
+    "born": "1999-09-13",
     "country": "CAN",
     "name": "Alex Formenton"
    },
    {
+    "born": "2003-01-04",
     "country": "CAN",
     "name": "Colton Dach"
    },
    {
+    "born": "1997-01-13",
     "country": "CAN",
     "name": "Connor McDavid"
    },
    {
+    "born": "1993-03-26",
     "country": "USA",
     "name": "Connor Murphy"
    },
    {
+    "born": "2001-12-27",
     "country": "CAN",
     "name": "Devon Levi"
    },
    {
+    "born": "1999-10-20",
     "country": "CAN",
     "name": "Evan Bouchard"
    },
    {
+    "born": "2000-06-29",
     "country": "SWE",
     "name": "Filip Hallander"
    },
    {
+    "born": "1989-10-02",
     "country": "DNK",
     "name": "Frederik Andersen"
    },
    {
+    "born": "2004-03-30",
     "country": "USA",
     "name": "Isaac Howard"
    },
    {
+    "born": "1996-02-20",
     "country": "CAN",
     "name": "Jake Walman"
    },
    {
+    "born": "1995-07-04",
     "country": "CAN",
     "name": "Jason Dickinson"
    },
    {
+    "born": "2002-03-22",
     "country": "DEU",
     "name": "Josh Samanski"
    },
    {
+    "born": "1996-07-23",
     "country": "FIN",
     "name": "Kasperi Kapanen"
    },
    {
+    "born": "1995-10-27",
     "country": "DEU",
     "name": "Leon Draisaitl"
    },
    {
+    "born": "1997-02-09",
     "country": "CAN",
     "name": "Mathieu Joseph"
    },
    {
+    "born": "2004-01-01",
     "country": "CAN",
     "name": "Matt Savoie"
    },
    {
+    "born": "1990-05-24",
     "country": "SWE",
     "name": "Mattias Ekholm"
    },
    {
+    "born": "1992-12-08",
     "country": "SWE",
     "name": "Mattias Janmark"
    },
    {
+    "born": "1998-02-17",
     "country": "USA",
     "name": "Max Jones"
    },
    {
+    "born": "2002-05-01",
     "country": "USA",
     "name": "Owen Michaels"
    },
    {
+    "born": "1993-04-12",
     "country": "CAN",
     "name": "Ryan Nugent-Hopkins"
    },
    {
+    "born": "1997-02-11",
     "country": "USA",
     "name": "Ryan Shea"
    },
    {
+    "born": "2002-01-10",
     "country": "RUS",
     "name": "Shakir Mukhamadullin"
    },
    {
+    "born": "1998-02-11",
     "country": "USA",
     "name": "Trent Frederic"
    },
    {
+    "born": "1995-04-29",
     "country": "CAN",
     "name": "Tristan Jarry"
    },
    {
+    "born": "2000-05-23",
     "country": "USA",
     "name": "Ty Emberson"
    },
    {
+    "born": "2001-06-24",
     "country": "RUS",
     "name": "Vasily Podkolzin"
    },
    {
+    "born": "1992-06-09",
     "country": "CAN",
     "name": "Zach Hyman"
    }
   ],
   "FLA": [
    {
+    "born": "1996-02-07",
     "country": "CAN",
     "name": "Aaron Ekblad"
    },
    {
+    "born": "2000-05-12",
     "country": "CHE",
     "name": "Akira Schmid"
    },
    {
+    "born": "1995-09-02",
     "country": "FIN",
     "name": "Aleksander Barkov"
    },
    {
+    "born": "2001-10-03",
     "country": "FIN",
     "name": "Anton Lundell"
    },
    {
+    "born": "1996-08-03",
     "country": "CAN",
     "name": "Bokondji Imama"
    },
    {
+    "born": "1988-05-11",
     "country": "CAN",
     "name": "Brad Marchand"
    },
    {
+    "born": "1999-09-16",
     "country": "USA",
     "name": "Brady Tkachuk"
    },
    {
+    "born": "1995-08-14",
     "country": "CAN",
     "name": "Carter Verhaeghe"
    },
    {
+    "born": "1990-10-29",
     "country": "RUS",
     "name": "Dmitry Kulikov"
    },
    {
+    "born": "1998-09-02",
     "country": "FIN",
     "name": "Eetu Luostarinen"
    },
    {
+    "born": "1991-11-23",
     "country": "USA",
     "name": "Garnet Hathaway"
    },
    {
+    "born": "1996-06-12",
     "country": "SWE",
     "name": "Gustav Forsling"
    },
    {
+    "born": "1990-01-31",
     "country": "SWE",
     "name": "Jacob Markstrom"
    },
    {
+    "born": "1998-10-12",
     "country": "CAN",
     "name": "Jonah Gadjovich"
    },
    {
+    "born": "1989-05-08",
     "country": "DNK",
     "name": "Lars Eller"
    },
    {
+    "born": "1997-12-11",
     "country": "USA",
     "name": "Matthew Tkachuk"
    },
    {
+    "born": "1996-04-27",
     "country": "FIN",
     "name": "Niko Mikkola"
    },
    {
+    "born": "1990-06-05",
     "country": "CZE",
     "name": "Radko Gudas"
    },
    {
+    "born": "1996-06-20",
     "country": "CAN",
     "name": "Sam Bennett"
    },
    {
+    "born": "1995-11-06",
     "country": "CAN",
     "name": "Sam Reinhart"
    },
    {
+    "born": "2004-01-23",
     "country": "LVA",
     "name": "Sandis Vilmanis"
    },
    {
+    "born": "1994-10-03",
     "country": "USA",
     "name": "Seth Jones"
    },
    {
+    "born": "1996-08-01",
     "country": "LVA",
     "name": "Uvis Balinskis"
    }
   ],
   "LAK": [
    {
+    "born": "1996-09-13",
     "country": "SWE",
     "name": "Adrian Kempe"
    },
    {
+    "born": "2001-10-28",
     "country": "USA",
     "name": "Alex Laferriere"
    },
    {
+    "born": "2001-02-26",
     "country": "USA",
     "name": "Alex Turcotte"
    },
    {
+    "born": "2000-07-26",
     "country": "SWE",
     "name": "Andre Lee"
    },
    {
+    "born": "1992-11-27",
     "country": "SWE",
     "name": "Anton Forsberg"
    },
    {
+    "born": "1991-10-30",
     "country": "RUS",
     "name": "Artemi Panarin"
    },
    {
+    "born": "2003-02-09",
     "country": "CAN",
     "name": "Brandt Clarke"
    },
    {
+    "born": "1991-09-06",
     "country": "USA",
     "name": "Brian Dumoulin"
    },
    {
+    "born": "1993-12-21",
     "country": "CAN",
     "name": "Cody Ceci"
    },
    {
+    "born": "1985-05-16",
     "country": "CAN",
     "name": "Corey Perry"
    },
    {
+    "born": "1990-05-05",
     "country": "CAN",
     "name": "Darcy Kuemper"
    },
    {
+    "born": "1989-12-08",
     "country": "CAN",
     "name": "Drew Doughty"
    },
    {
+    "born": "1992-03-14",
     "country": "SWE",
     "name": "Erik Gustafsson"
    },
    {
+    "born": "1991-03-23",
     "country": "FIN",
     "name": "Erik Haula"
    },
    {
+    "born": "1993-05-31",
     "country": "FIN",
     "name": "Joel Armia"
    },
    {
+    "born": "1993-06-28",
     "country": "CAN",
     "name": "Joel Edmundson"
    },
    {
+    "born": "1996-07-22",
     "country": "CHE",
     "name": "Kevin Fiala"
    },
    {
+    "born": "1987-09-01",
     "country": "NOR",
     "name": "Mats Zuccarello"
    },
    {
+    "born": "1999-05-25",
     "country": "USA",
     "name": "Mikey Anderson"
    },
    {
+    "born": "2002-08-19",
     "country": "CAN",
     "name": "Quinton Byfield"
    },
    {
+    "born": "2002-11-26",
     "country": "USA",
     "name": "Samuel Helenius"
    },
    {
+    "born": "1994-05-30",
     "country": "CAN",
     "name": "Scott Laughton"
    },
    {
+    "born": "1995-03-31",
     "country": "USA",
     "name": "Trevor Moore"
    }
   ],
   "MIN": [
    {
+    "born": "1991-11-28",
     "country": "USA",
     "name": "Blake Coleman"
    },
    {
+    "born": "2001-07-08",
     "country": "USA",
     "name": "Bobby Brink"
    },
    {
+    "born": "2002-08-22",
     "country": "USA",
     "name": "Brock Faber"
    },
    {
+    "born": "1992-04-15",
     "country": "CAN",
     "name": "Calvin Pickard"
    },
    {
+    "born": "2002-05-15",
     "country": "CAN",
     "name": "Daemon Hunt"
    },
    {
+    "born": "2003-12-22",
     "country": "RUS",
     "name": "Danila Yurov"
    },
    {
+    "born": "2003-02-18",
     "country": "USA",
     "name": "David Spacek"
    },
    {
+    "born": "1989-11-29",
     "country": "CAN",
     "name": "Jared Spurgeon"
    },
    {
+    "born": "2002-11-14",
     "country": "SWE",
     "name": "Jesper Wallstedt"
    },
    {
+    "born": "1997-01-29",
     "country": "SWE",
     "name": "Joel Eriksson Ek"
    },
    {
+    "born": "1993-07-12",
     "country": "SWE",
     "name": "Jonas Brodin"
    },
    {
+    "born": "1997-04-26",
     "country": "RUS",
     "name": "Kirill Kaprizov"
    },
    {
+    "born": "1991-08-10",
     "country": "USA",
     "name": "Marcus Foligno"
    },
    {
+    "born": "2001-04-05",
     "country": "USA",
     "name": "Matt Boldy"
    },
    {
+    "born": "2000-10-07",
     "country": "RUS",
     "name": "Maxim Shabanov"
    },
    {
+    "born": "1995-03-07",
     "country": "USA",
     "name": "Michael McCarron"
    },
    {
+    "born": "1987-10-31",
     "country": "USA",
     "name": "Nick Foligno"
    },
    {
+    "born": "1995-05-03",
     "country": "DEU",
     "name": "Nico Sturm"
    },
    {
+    "born": "1994-08-22",
     "country": "FIN",
     "name": "Olli Maatta"
    },
    {
+    "born": "1999-10-14",
     "country": "USA",
     "name": "Quinn Hughes"
    },
    {
+    "born": "1994-09-20",
     "country": "USA",
     "name": "Ryan Hartman"
    },
    {
+    "born": "1991-11-01",
     "country": "USA",
     "name": "Tyler Pitlick"
    },
    {
+    "born": "2003-09-21",
     "country": "SWE",
     "name": "Viking Gustafsson Nyberg"
    },
    {
+    "born": "1997-01-13",
     "country": "RUS",
     "name": "Yakov Trenin"
    },
    {
+    "born": "1990-07-15",
     "country": "USA",
     "name": "Zach Bogosian"
    }
   ],
   "MTL": [
    {
+    "born": "2003-11-17",
     "country": "SWE",
     "name": "Adam Engstrom"
    },
    {
+    "born": "2001-01-28",
     "country": "CAN",
     "name": "Alex Newhook"
    },
    {
+    "born": "1996-10-08",
     "country": "CAN",
     "name": "Alexandre Carrier"
    },
    {
+    "born": "1999-09-13",
     "country": "FRA",
     "name": "Alexandre Texier"
    },
    {
+    "born": "2001-01-30",
     "country": "CAN",
     "name": "Arber Xhekaj"
    },
    {
+    "born": "1991-04-30",
     "country": "USA",
     "name": "Chris Kreider"
    },
    {
+    "born": "2001-01-02",
     "country": "USA",
     "name": "Cole Caufield"
    },
    {
+    "born": "2004-06-27",
     "country": "CAN",
     "name": "Florian Xhekaj"
    },
    {
+    "born": "2005-12-10",
     "country": "RUS",
     "name": "Ivan Demidov"
    },
    {
+    "born": "2004-11-24",
     "country": "USA",
     "name": "Jacob Fowler"
    },
    {
+    "born": "1996-06-02",
     "country": "CAN",
     "name": "Jake Evans"
    },
    {
+    "born": "2001-05-27",
     "country": "CZE",
     "name": "Jakub Dobes"
    },
    {
+    "born": "2001-09-08",
     "country": "USA",
     "name": "Jayden Struble"
    },
    {
+    "born": "1994-05-07",
     "country": "CAN",
     "name": "Josh Anderson"
    },
    {
+    "born": "2004-03-30",
     "country": "SVK",
     "name": "Juraj Slafkovský"
    },
    {
+    "born": "2001-01-21",
     "country": "CAN",
     "name": "Kirby Dach"
    },
    {
+    "born": "2004-02-14",
     "country": "USA",
     "name": "Lane Hutson"
    },
    {
+    "born": "1994-02-27",
     "country": "CAN",
     "name": "Mike Matheson"
    },
    {
+    "born": "1999-08-10",
     "country": "CAN",
     "name": "Nick Suzuki"
    },
    {
+    "born": "2000-01-07",
     "country": "CAN",
     "name": "Noah Dobson"
    },
    {
+    "born": "2003-07-29",
     "country": "SWE",
     "name": "Oliver Kapanen"
    },
    {
+    "born": "1993-02-24",
     "country": "CAN",
     "name": "Phillip Danault"
    },
    {
+    "born": "1996-10-30",
     "country": "CAN",
     "name": "Samuel Montembeault"
    },
    {
+    "born": "2003-02-24",
     "country": "CAN",
     "name": "Zachary Bolduc"
    }
   ],
   "NJD": [
    {
+    "born": "2003-06-05",
     "country": "CAN",
     "name": "Amadeus Lombardi"
    },
    {
+    "born": "1994-09-16",
     "country": "CAN",
     "name": "Anthony Mantha"
    },
    {
+    "born": "2001-03-15",
     "country": "RUS",
     "name": "Arseny Gritsyuk"
    },
    {
+    "born": "1990-11-13",
     "country": "CAN",
     "name": "Brenden Dillon"
    },
    {
+    "born": "1994-11-15",
     "country": "USA",
     "name": "Brett Pesce"
    },
    {
+    "born": "1999-04-01",
     "country": "CAN",
     "name": "Cody Glass"
    },
    {
+    "born": "1994-01-14",
     "country": "CAN",
     "name": "Connor Brown"
    },
    {
+    "born": "2001-10-27",
     "country": "CAN",
     "name": "Dawson Mercer"
    },
    {
+    "born": "2000-01-12",
     "country": "CAN",
     "name": "Declan Chisholm"
    },
    {
+    "born": "1993-06-17",
     "country": "CAN",
     "name": "Dougie Hamilton"
    },
    {
+    "born": "1993-07-28",
     "country": "CAN",
     "name": "Evan Rodrigues"
    },
    {
+    "born": "2001-05-14",
     "country": "USA",
     "name": "Jack Hughes"
    },
    {
+    "born": "1990-08-07",
     "country": "CAN",
     "name": "Jake Allen"
    },
    {
+    "born": "1998-10-30",
     "country": "SWE",
     "name": "Jesper Boqvist"
    },
    {
+    "born": "1998-07-30",
     "country": "SWE",
     "name": "Jesper Bratt"
    },
    {
+    "born": "1997-05-06",
     "country": "CHE",
     "name": "Jonas Siegenthaler"
    },
    {
+    "born": "2002-02-21",
     "country": "CAN",
     "name": "Luke Evangelista"
    },
    {
+    "born": "2003-09-09",
     "country": "USA",
     "name": "Luke Hughes"
    },
    {
+    "born": "2000-12-22",
     "country": "DEU",
     "name": "Nico Daws"
    },
    {
+    "born": "1999-01-04",
     "country": "CHE",
     "name": "Nico Hischier"
    },
    {
+    "born": "2001-10-06",
     "country": "CAN",
     "name": "Rémi Poirier"
    },
    {
+    "born": "1993-02-12",
     "country": "USA",
     "name": "Stefan Noesen"
    },
    {
+    "born": "1996-10-08",
     "country": "CHE",
     "name": "Timo Meier"
    }
   ],
   "NSH": [
    {
+    "born": "2000-10-12",
     "country": "SWE",
     "name": "Adam Edstrom"
    },
    {
+    "born": "2000-08-07",
     "country": "SWE",
     "name": "Adam Wilsby"
    },
    {
+    "born": "1994-08-11",
     "country": "CAN",
     "name": "Alexander Kerfoot"
    },
    {
+    "born": "1994-03-26",
     "country": "USA",
     "name": "Brady Skjei"
    },
    {
+    "born": "1994-08-13",
     "country": "SWE",
     "name": "Filip Forsberg"
    },
    {
+    "born": "1994-04-06",
     "country": "RUS",
     "name": "Ilya Lyubushkin"
    },
    {
+    "born": "1997-05-18",
     "country": "USA",
     "name": "Jack Ahcan"
    },
    {
+    "born": "2000-02-03",
     "country": "USA",
     "name": "Jack Drury"
    },
    {
+    "born": "1990-12-27",
     "country": "CAN",
     "name": "Jonathan Marchessault"
    },
    {
+    "born": "2000-03-11",
     "country": "FIN",
     "name": "Justus Annunen"
    },
    {
+    "born": "1995-04-19",
     "country": "FIN",
     "name": "Juuse Saros"
    },
    {
+    "born": "1998-02-02",
     "country": "CAN",
     "name": "Matt Murray"
    },
    {
+    "born": "2005-02-06",
     "country": "CAN",
     "name": "Matthew Wood"
    },
    {
+    "born": "2002-01-08",
     "country": "CAN",
     "name": "Mavrik Bourque"
    },
    {
+    "born": "1998-06-15",
     "country": "USA",
     "name": "Nick Perbix"
    },
    {
+    "born": "1998-12-05",
     "country": "CAN",
     "name": "Nicolas Hague"
    },
    {
+    "born": "2000-12-20",
     "country": "SWE",
     "name": "Nils Hoglander"
    },
    {
+    "born": "2003-09-21",
     "country": "CAN",
     "name": "Reid Schaefer"
    },
    {
+    "born": "1990-06-01",
     "country": "CHE",
     "name": "Roman Josi"
    },
    {
+    "born": "1996-09-11",
     "country": "USA",
     "name": "Ross Colton"
    },
    {
+    "born": "1991-02-07",
     "country": "CAN",
     "name": "Ryan O'Reilly"
    },
    {
+    "born": "1990-02-07",
     "country": "CAN",
     "name": "Steven Stamkos"
    },
    {
+    "born": "2002-01-11",
     "country": "BLR",
     "name": "Vitali Pinchuk"
    },
    {
+    "born": "2002-10-11",
     "country": "CAN",
     "name": "William Trudeau"
    }
   ],
   "NYI": [
    {
+    "born": "1994-08-16",
     "country": "CAN",
     "name": "Adam Pelech"
    },
    {
+    "born": "2000-01-06",
     "country": "RUS",
     "name": "Alexander Romanov"
    },
    {
+    "born": "1995-08-26",
     "country": "CAN",
     "name": "Anthony Duclair"
    },
    {
+    "born": "1995-04-05",
     "country": "CAN",
     "name": "Bo Horvat"
    },
    {
+    "born": "1991-08-22",
     "country": "CAN",
     "name": "Brayden Schenn"
    },
    {
+    "born": "2005-01-21",
     "country": "CAN",
     "name": "Calum Ritchie"
    },
    {
+    "born": "1991-02-27",
     "country": "CAN",
     "name": "Casey Cizikas"
    },
    {
+    "born": "2001-11-16",
     "country": "SWE",
     "name": "Emil Heineman"
    },
    {
+    "born": "1995-08-04",
     "country": "RUS",
     "name": "Ilya Sorokin"
    },
    {
+    "born": "1992-11-11",
     "country": "CAN",
     "name": "Jean-Gabriel Pageau"
    },
    {
+    "born": "1999-04-29",
     "country": "USA",
     "name": "Kyle MacLean"
    },
    {
+    "born": "1991-02-01",
     "country": "USA",
     "name": "Kyle Palmieri"
    },
    {
+    "born": "1998-05-26",
     "country": "CAN",
     "name": "Logan Stanley"
    },
    {
+    "born": "2000-10-14",
     "country": "FIN",
     "name": "Matias Maccelli"
    },
    {
+    "born": "2000-06-23",
     "country": "USA",
     "name": "Matthew Kessel"
    },
    {
+    "born": "2007-09-05",
     "country": "CAN",
     "name": "Matthew Schaefer"
    },
    {
+    "born": "1991-03-28",
     "country": "CZE",
     "name": "Ondrej Palat"
    },
    {
+    "born": "1994-10-06",
     "country": "CAN",
     "name": "Ryan Pulock"
    },
    {
+    "born": "1992-10-14",
     "country": "USA",
     "name": "Scott Mayfield"
    },
    {
+    "born": "1988-04-27",
     "country": "RUS",
     "name": "Semyon Varlamov"
    },
    {
+    "born": "2001-05-24",
     "country": "SWE",
     "name": "Simon Holmstrom"
    },
    {
+    "born": "1995-10-24",
     "country": "USA",
     "name": "Tony DeAngelo"
    },
    {
+    "born": "2006-10-03",
     "country": "SWE",
     "name": "Victor Eklund"
    }
   ],
   "NYR": [
    {
+    "born": "1998-02-17",
     "country": "USA",
     "name": "Adam Fox"
    },
    {
+    "born": "2004-09-07",
     "country": "SVK",
     "name": "Adam Sykora"
    },
    {
+    "born": "2007-12-02",
     "country": "LVA",
     "name": "Alberts Smits"
    },
    {
+    "born": "2001-10-11",
     "country": "CAN",
     "name": "Alexis Lafrenière"
    },
    {
+    "born": "2001-09-20",
     "country": "CAN",
     "name": "Braden Schneider"
    },
    {
+    "born": "2006-04-24",
     "country": "CAN",
     "name": "Cole Beaudoin"
    },
    {
+    "born": "2002-06-07",
     "country": "CAN",
     "name": "Dylan Garand"
    },
    {
+    "born": "1999-04-22",
     "country": "FIN",
     "name": "Eeli Tolvanen"
    },
    {
+    "born": "2005-05-07",
     "country": "CAN",
     "name": "Gabe Perreault"
    },
    {
+    "born": "1995-12-30",
     "country": "RUS",
     "name": "Igor Shesterkin"
    },
    {
+    "born": "1993-03-14",
     "country": "USA",
     "name": "J.T. Miller"
    },
    {
+    "born": "2003-07-20",
     "country": "CZE",
     "name": "Jaroslav Chmelar"
    },
    {
+    "born": "1994-04-28",
     "country": "FIN",
     "name": "Joonas Korpisalo"
    },
    {
+    "born": "2000-01-13",
     "country": "CAN",
     "name": "Joseph Veleno"
    },
    {
+    "born": "1996-05-08",
     "country": "SWE",
     "name": "Marcus Pettersson"
    },
    {
+    "born": "2002-06-29",
     "country": "CAN",
     "name": "Matt Rempe"
    },
    {
+    "born": "1993-04-18",
     "country": "SWE",
     "name": "Mika Zibanejad"
    },
    {
+    "born": "2003-08-04",
     "country": "USA",
     "name": "Noah Laba"
    },
    {
+    "born": "1995-04-10",
     "country": "DNK",
     "name": "Oliver Bjorkstrand"
    },
    {
+    "born": "2000-10-26",
     "country": "RUS",
     "name": "Pavel Dorofeyev"
    },
    {
+    "born": "2002-11-01",
     "country": "USA",
     "name": "Scott Morrow"
    },
    {
+    "born": "1998-10-21",
     "country": "CAN",
     "name": "Sean Durzi"
    },
    {
+    "born": "2001-04-30",
     "country": "CAN",
     "name": "Tye Kartye"
    },
    {
+    "born": "2002-11-14",
     "country": "CAN",
     "name": "Vincent Iorio"
    },
    {
+    "born": "1995-11-21",
     "country": "RUS",
     "name": "Vladislav Gavrikov"
    },
    {
+    "born": "2002-02-05",
     "country": "CAN",
     "name": "Will Cuylle"
    }
   ],
   "OTT": [
    {
+    "born": "1995-02-09",
     "country": "AUT",
     "name": "Andre Burakovsky"
    },
    {
+    "born": "1999-05-05",
     "country": "CAN",
     "name": "Cameron Crotty"
    },
    {
+    "born": "2005-09-29",
     "country": "CAN",
     "name": "Carter Yakemchuk"
    },
    {
+    "born": "1988-01-12",
     "country": "CAN",
     "name": "Claude Giroux"
    },
    {
+    "born": "1998-04-27",
     "country": "USA",
     "name": "Drake Batherson"
    },
    {
+    "born": "2001-02-09",
     "country": "CAN",
     "name": "Dylan Cozens"
    },
    {
+    "born": "1999-08-25",
     "country": "SWE",
     "name": "Fabian Zetterlund"
    },
    {
+    "born": "1996-03-02",
     "country": "CAN",
     "name": "Hayden Hodgson"
    },
    {
+    "born": "2002-07-08",
     "country": "USA",
     "name": "Jake Sanderson"
    },
    {
+    "born": "2001-02-24",
     "country": "AUS",
     "name": "Jordan Spence"
    },
    {
+    "born": "1993-07-31",
     "country": "SWE",
     "name": "Linus Ullmark"
    },
    {
+    "born": "1996-05-13",
     "country": "CAN",
     "name": "Michael Amadio"
    },
    {
+    "born": "1993-07-20",
     "country": "CAN",
     "name": "Nick Cousins"
    },
    {
+    "born": "1998-10-05",
     "country": "FIN",
     "name": "Nikolas Matinpalo"
    },
    {
+    "born": "2002-08-08",
     "country": "CAN",
     "name": "Ridly Greig"
    },
    {
+    "born": "1999-10-20",
     "country": "SWE",
     "name": "Samuel Ersson"
    },
    {
+    "born": "2000-11-12",
     "country": "USA",
     "name": "Shane Pinto"
    },
    {
+    "born": "2002-07-02",
     "country": "CAN",
     "name": "Stephen Halliday"
    },
    {
+    "born": "1997-01-30",
     "country": "CAN",
     "name": "Thomas Chabot"
    },
    {
+    "born": "2002-01-15",
     "country": "DEU",
     "name": "Tim Stützle"
    },
    {
+    "born": "2002-01-10",
     "country": "USA",
     "name": "Tyler Kleven"
    },
    {
+    "born": "1996-04-01",
     "country": "CAN",
     "name": "Warren Foegele"
    },
    {
+    "born": "2002-10-12",
     "country": "SWE",
     "name": "William Eklund"
    }
   ],
   "PHI": [
    {
+    "born": "2001-01-05",
     "country": "USA",
     "name": "Cam York"
    },
    {
+    "born": "1997-12-01",
     "country": "SWE",
     "name": "Carl Grundstrom"
    },
    {
+    "born": "1996-02-02",
     "country": "USA",
     "name": "Christian Dvorak"
    },
    {
+    "born": "1997-08-20",
     "country": "CZE",
     "name": "Dan Vladar"
    },
    {
+    "born": "2003-11-28",
     "country": "CZE",
     "name": "David Jiricek"
    },
    {
+    "born": "2005-04-27",
     "country": "CAN",
     "name": "Denver Barkey"
    },
    {
+    "born": "1991-03-16",
     "country": "CAN",
     "name": "Garrett Wilson"
    },
    {
+    "born": "2002-04-08",
     "country": "CAN",
     "name": "Jamie Drysdale"
    },
    {
+    "born": "1998-07-12",
     "country": "USA",
     "name": "Joseph Woll"
    },
    {
+    "born": "2004-12-09",
     "country": "RUS",
     "name": "Matvei Michkov"
    },
    {
+    "born": "1995-09-17",
     "country": "CAN",
     "name": "Michael Bunting"
    },
    {
+    "born": "1993-06-03",
     "country": "USA",
     "name": "Nick Seeler"
    },
    {
+    "born": "2003-05-02",
     "country": "RUS",
     "name": "Nikita Grebenkin"
    },
    {
+    "born": "1999-02-05",
     "country": "USA",
     "name": "Noah Cates"
    },
    {
+    "born": "1991-12-01",
     "country": "USA",
     "name": "Noel Acciari"
    },
    {
+    "born": "1999-02-16",
     "country": "CAN",
     "name": "Owen Tippett"
    },
    {
+    "born": "2006-10-26",
     "country": "CAN",
     "name": "Porter Martone"
    },
    {
+    "born": "1994-10-27",
     "country": "FIN",
     "name": "Rasmus Ristolainen"
    },
    {
+    "born": "1992-12-07",
     "country": "USA",
     "name": "Sean Couturier"
    },
    {
+    "born": "1998-09-19",
     "country": "CAN",
     "name": "Simon Benoit"
    },
    {
+    "born": "1997-03-11",
     "country": "CAN",
     "name": "Travis Konecny"
    },
    {
+    "born": "1996-03-29",
     "country": "CAN",
     "name": "Travis Sanheim"
    },
    {
+    "born": "2001-03-20",
     "country": "USA",
     "name": "Trevor Zegras"
    },
    {
+    "born": "2002-01-18",
     "country": "CAN",
     "name": "Tyson Foerster"
    }
   ],
   "PIT": [
    {
+    "born": "1996-02-04",
     "country": "RUS",
     "name": "Andrei Kuzmenko"
    },
    {
+    "born": "2001-03-22",
     "country": "LVA",
     "name": "Arturs Silovs"
    },
    {
+    "born": "2007-04-19",
     "country": "CAN",
     "name": "Ben Kindel"
    },
    {
+    "born": "1997-12-13",
     "country": "USA",
     "name": "Blake Lizotte"
    },
    {
+    "born": "1992-05-11",
     "country": "USA",
     "name": "Bryan Rust"
    },
    {
+    "born": "1999-06-26",
     "country": "CAN",
     "name": "Connor Dewar"
    },
    {
+    "born": "2000-05-18",
     "country": "USA",
     "name": "Declan Carlile"
    },
    {
+    "born": "2001-02-01",
     "country": "RUS",
     "name": "Egor Chinakhov"
    },
    {
+    "born": "2001-07-05",
     "country": "SWE",
     "name": "Elmer Soderblom"
    },
    {
+    "born": "1990-05-31",
     "country": "SWE",
     "name": "Erik Karlsson"
    },
    {
+    "born": "1986-07-31",
     "country": "RUS",
     "name": "Evgeni Malkin"
    },
    {
+    "born": "2002-02-09",
     "country": "CAN",
     "name": "Hendrix Lapierre"
    },
    {
+    "born": "2000-07-20",
     "country": "BLR",
     "name": "Ilya Solovyov"
    },
    {
+    "born": "1998-02-02",
     "country": "CAN",
     "name": "Justin Brazeau"
    },
    {
+    "born": "2001-01-29",
     "country": "CAN",
     "name": "Kaedan Korczak"
    },
    {
+    "born": "1987-04-24",
     "country": "CAN",
     "name": "Kris Letang"
    },
    {
+    "born": "2001-09-11",
     "country": "USA",
     "name": "Nick Robertson"
    },
    {
+    "born": "1993-05-05",
     "country": "SWE",
     "name": "Rickard Rakell"
    },
    {
+    "born": "1998-05-12",
     "country": "CAN",
     "name": "Samuel Girard"
    },
    {
+    "born": "2004-04-01",
     "country": "RUS",
     "name": "Sergei Murashov"
    },
    {
+    "born": "1987-08-07",
     "country": "CAN",
     "name": "Sidney Crosby"
    },
    {
+    "born": "2000-01-04",
     "country": "USA",
     "name": "Spencer Stastney"
    },
    {
+    "born": "1997-04-28",
     "country": "USA",
     "name": "Tommy Novak"
    },
    {
+    "born": "1991-07-24",
     "country": "USA",
     "name": "Trevor van Riemsdyk"
    },
    {
+    "born": "2003-06-13",
     "country": "FIN",
     "name": "Ville Koivunen"
    }
   ],
   "SEA": [
    {
+    "born": "1992-11-12",
     "country": "SWE",
     "name": "Adam Larsson"
    },
    {
+    "born": "1998-11-15",
     "country": "USA",
     "name": "Ben Meyers"
    },
    {
+    "born": "2006-01-14",
     "country": "CAN",
     "name": "Berkly Catton"
    },
    {
+    "born": "1996-06-15",
     "country": "CAN",
     "name": "Bobby McMann"
    },
    {
+    "born": "1994-04-11",
     "country": "CAN",
     "name": "Brandon Montour"
    },
    {
+    "born": "1998-11-19",
     "country": "CAN",
     "name": "Cale Fleury"
    },
    {
+    "born": "1994-04-22",
     "country": "CAN",
     "name": "Chandler Stephenson"
    },
    {
+    "born": "2000-03-06",
     "country": "CAN",
     "name": "Curtis Douglas"
    },
    {
+    "born": "1993-05-01",
     "country": "CAN",
     "name": "Frederick Gaudreau"
    },
    {
+    "born": "2003-04-22",
     "country": "CAN",
     "name": "Jacob Melanson"
    },
    {
+    "born": "2007-06-16",
     "country": "CAN",
     "name": "Jake O'Brien"
    },
    {
+    "born": "1996-05-31",
     "country": "CAN",
     "name": "Jared McCann"
    },
    {
+    "born": "1996-08-19",
     "country": "USA",
     "name": "Joey Daccord"
    },
    {
+    "born": "1990-05-15",
     "country": "CAN",
     "name": "Jordan Eberle"
    },
    {
+    "born": "1998-05-05",
     "country": "CAN",
     "name": "Josh Mahura"
    },
    {
+    "born": "2001-02-13",
     "country": "FIN",
     "name": "Kaapo Kakko"
    },
    {
+    "born": "2002-11-15",
     "country": "USA",
     "name": "Mackie Samoskevich"
    },
    {
+    "born": "2002-11-05",
     "country": "USA",
     "name": "Matty Beniers"
    },
    {
+    "born": "1991-11-25",
     "country": "DEU",
     "name": "Philipp Grubauer"
    },
    {
+    "born": "1998-02-11",
     "country": "USA",
     "name": "Ryan Lindgren"
    },
    {
+    "born": "2003-09-04",
     "country": "CAN",
     "name": "Ryan Winterton"
    },
    {
+    "born": "2001-12-13",
     "country": "CAN",
     "name": "Ryker Evans"
    },
    {
+    "born": "2004-01-05",
     "country": "CAN",
     "name": "Shane Wright"
    },
    {
+    "born": "2002-08-12",
     "country": "FIN",
     "name": "Ville Ottavainen"
    },
    {
+    "born": "1996-10-29",
     "country": "CAN",
     "name": "Vince Dunn"
    }
   ],
   "SJS": [
    {
+    "born": "1996-10-03",
     "country": "USA",
     "name": "Adam Gaudette"
    },
    {
+    "born": "1997-05-21",
     "country": "CAN",
     "name": "Alex Barré-Boulet"
    },
    {
+    "born": "1996-01-07",
     "country": "USA",
     "name": "Alex Nedeljkovic"
    },
    {
+    "born": "1994-09-22",
     "country": "SWE",
     "name": "Alexander Wennberg"
    },
    {
+    "born": "1993-02-26",
     "country": "CAN",
     "name": "Barclay Goodrow"
    },
    {
+    "born": "1999-04-30",
     "country": "CAN",
     "name": "Brett Leason"
    },
    {
+    "born": "2002-09-21",
     "country": "USA",
     "name": "Collin Graf"
    },
    {
+    "born": "1995-02-04",
     "country": "CAN",
     "name": "Darnell Nurse"
    },
    {
+    "born": "1991-07-23",
     "country": "RUS",
     "name": "Dmitry Orlov"
    },
    {
+    "born": "2005-11-30",
     "country": "RUS",
     "name": "Igor Chernyshov"
    },
    {
+    "born": "2007-09-30",
     "country": "SWE",
     "name": "Ivar Stenberg"
    },
    {
+    "born": "1994-02-26",
     "country": "USA",
     "name": "Jacob Trouba"
    },
    {
+    "born": "1995-03-31",
     "country": "USA",
     "name": "Kiefer Sherwood"
    },
    {
+    "born": "2004-12-21",
     "country": "CAN",
     "name": "Luca Cagnoni"
    },
    {
+    "born": "2006-06-13",
     "country": "CAN",
     "name": "Macklin Celebrini"
    },
    {
+    "born": "1995-06-18",
     "country": "CAN",
     "name": "Mason Marchment"
    },
    {
+    "born": "2000-01-13",
     "country": "USA",
     "name": "Michael Kesselring"
    },
    {
+    "born": "2007-02-16",
     "country": "CAN",
     "name": "Michael Misa"
    },
    {
+    "born": "2003-04-28",
     "country": "CAN",
     "name": "Nolan Allan"
    },
    {
+    "born": "2006-06-07",
     "country": "CAN",
     "name": "Sam Dickinson"
    },
    {
+    "born": "2000-07-21",
     "country": "CAN",
     "name": "Ty Dellandrea"
    },
    {
+    "born": "1992-04-24",
     "country": "CAN",
     "name": "Tyler Toffoli"
    },
    {
+    "born": "2005-03-17",
     "country": "USA",
     "name": "Will Smith"
    },
    {
+    "born": "2002-06-16",
     "country": "RUS",
     "name": "Yaroslav Askarov"
    },
    {
+    "born": "2003-05-29",
     "country": "CAN",
     "name": "Zack Ostapchuk"
    }
   ],
   "STL": [
    {
+    "born": "2006-06-28",
     "country": "CZE",
     "name": "Adam Jiricek"
    },
    {
+    "born": "1999-06-25",
     "country": "RUS",
     "name": "Alexey Toropchenko"
    },
    {
+    "born": "1996-11-26",
     "country": "USA",
     "name": "Brandon Carlo"
    },
    {
+    "born": "1991-12-05",
     "country": "CAN",
     "name": "Cam Fowler"
    },
    {
+    "born": "1993-05-12",
     "country": "CAN",
     "name": "Colton Parayko"
    },
    {
+    "born": "2001-01-15",
     "country": "CAN",
     "name": "Connor McMichael"
    },
    {
+    "born": "2005-06-15",
     "country": "SVK",
     "name": "Dalibor Dvorsky"
    },
    {
+    "born": "1998-07-20",
     "country": "CAN",
     "name": "Dillon Dube"
    },
    {
+    "born": "2001-09-23",
     "country": "CAN",
     "name": "Dylan Holloway"
    },
    {
+    "born": "2002-03-29",
     "country": "CAN",
     "name": "Jake Neighbours"
    },
    {
+    "born": "2004-06-01",
     "country": "USA",
     "name": "Jimmy Snuggerud"
    },
    {
+    "born": "2000-07-30",
     "country": "CAN",
     "name": "Joel Hofer"
    },
    {
+    "born": "2000-07-16",
     "country": "SWE",
     "name": "Jonatan Berggren"
    },
    {
+    "born": "1993-07-11",
     "country": "CAN",
     "name": "Jordan Binnington"
    },
    {
+    "born": "2001-11-15",
     "country": "CAN",
     "name": "Justin Barron"
    },
    {
+    "born": "2003-04-15",
     "country": "CAN",
     "name": "Logan Mailloux"
    },
    {
+    "born": "2003-01-30",
     "country": "CHE",
     "name": "Mason McTavish"
    },
    {
+    "born": "1995-04-17",
     "country": "RUS",
     "name": "Pavel Buchnevich"
    },
    {
+    "born": "2001-06-25",
     "country": "SWE",
     "name": "Philip Broberg"
    },
    {
+    "born": "1996-05-24",
     "country": "CHE",
     "name": "Pius Suter"
    },
    {
+    "born": "1999-07-02",
     "country": "CAN",
     "name": "Robert Thomas"
    },
    {
+    "born": "1994-02-18",
     "country": "CAN",
     "name": "Ross Johnston"
    },
    {
+    "born": "2005-01-05",
     "country": "SWE",
     "name": "Theo Lindstein"
    },
    {
+    "born": "2000-03-01",
     "country": "CAN",
     "name": "Tyler Tucker"
    },
    {
+    "born": "2003-01-04",
     "country": "CAN",
     "name": "Zach Dean"
    }
   ],
   "TBL": [
    {
+    "born": "1994-07-25",
     "country": "RUS",
     "name": "Andrei Vasilevskiy"
    },
    {
+    "born": "1997-07-15",
     "country": "CAN",
     "name": "Anthony Cirelli"
    },
    {
+    "born": "1998-08-27",
     "country": "CAN",
     "name": "Brandon Hagel"
    },
    {
+    "born": "1996-03-13",
     "country": "CAN",
     "name": "Brayden Point"
    },
    {
+    "born": "1998-04-21",
     "country": "CAN",
     "name": "Charle-Edouard D'Astous"
    },
    {
+    "born": "2004-05-05",
     "country": "CAN",
     "name": "Conor Geekie"
    },
    {
+    "born": "2001-08-19",
     "country": "SWE",
     "name": "Dennis Hildeby"
    },
    {
+    "born": "2002-07-03",
     "country": "USA",
     "name": "Dominic James"
    },
    {
+    "born": "2001-02-02",
     "country": "NOR",
     "name": "Emil Lilleberg"
    },
    {
+    "born": "1997-05-28",
     "country": "SVK",
     "name": "Erik Cernak"
    },
    {
+    "born": "2001-01-16",
     "country": "CAN",
     "name": "Gage Goncalves"
    },
    {
+    "born": "1994-10-10",
     "country": "RUS",
     "name": "Ilya Mikheyev"
    },
    {
+    "born": "2000-06-06",
     "country": "CHE",
     "name": "J.J. Moser"
    },
    {
+    "born": "1994-10-06",
     "country": "USA",
     "name": "Jake Guentzel"
    },
    {
+    "born": "1997-01-28",
     "country": "CAN",
     "name": "Jeffrey Viel"
    },
    {
+    "born": "1990-01-10",
     "country": "USA",
     "name": "John Carlson"
    },
    {
+    "born": "2000-04-19",
     "country": "CAN",
     "name": "Max Crozier"
    },
    {
+    "born": "1993-06-17",
     "country": "RUS",
     "name": "Nikita Kucherov"
    },
    {
+    "born": "1999-03-09",
     "country": "SWE",
     "name": "Pontus Holmberg"
    },
    {
+    "born": "1989-06-13",
     "country": "USA",
     "name": "Ryan McDonagh"
    },
    {
+    "born": "1992-07-30",
     "country": "CAN",
     "name": "Scott Sabourin"
    },
    {
+    "born": "1990-12-18",
     "country": "SWE",
     "name": "Victor Hedman"
    },
    {
+    "born": "1991-12-15",
     "country": "CAN",
     "name": "Yanni Gourde"
    },
    {
+    "born": "1994-01-05",
     "country": "LVA",
     "name": "Zemgus Girgensons"
    }
   ],
   "TOR": [
    {
+    "born": "1994-01-20",
     "country": "USA",
     "name": "Anthony Stolarz"
    },
    {
+    "born": "1997-09-17",
     "country": "USA",
     "name": "Auston Matthews"
    },
    {
+    "born": "2000-02-06",
     "country": "FRA",
     "name": "Bo Groulx"
    },
    {
+    "born": "1997-05-22",
     "country": "USA",
     "name": "Brandon Duhaime"
    },
    {
+    "born": "1989-12-20",
     "country": "CAN",
     "name": "Chris Tanev"
    },
    {
+    "born": "1993-11-05",
     "country": "CAN",
     "name": "Colton Sissons"
    },
    {
+    "born": "1996-02-28",
     "country": "CAN",
     "name": "Darren Raddysh"
    },
    {
+    "born": "2005-05-20",
     "country": "CAN",
     "name": "Easton Cowan"
    },
    {
+    "born": "2007-12-20",
     "country": "CAN",
     "name": "Gavin McKenna"
    },
    {
+    "born": "1997-01-29",
     "country": "USA",
     "name": "Jack Roslovic"
    },
    {
+    "born": "1993-10-12",
     "country": "USA",
     "name": "Jake McCabe"
    },
    {
+    "born": "1990-09-20",
     "country": "CAN",
     "name": "John Tavares"
    },
    {
+    "born": "2000-07-21",
     "country": "RUS",
     "name": "Kirill Marchenko"
    },
    {
+    "born": "1994-03-09",
     "country": "CAN",
     "name": "Morgan Rielly"
    },
    {
+    "born": "1998-05-12",
     "country": "USA",
     "name": "Nick Blankenburg"
    },
    {
+    "born": "1995-03-20",
     "country": "CAN",
     "name": "Nick Paul"
    },
    {
+    "born": "1991-07-17",
     "country": "SWE",
     "name": "Oliver Ekman-Larsson"
    },
    {
+    "born": "1988-09-20",
     "country": "RUS",
     "name": "Sergei Bobrovsky"
    },
    {
+    "born": "1994-08-15",
     "country": "LVA",
     "name": "Teddy Blueger"
    },
    {
+    "born": "1994-04-07",
     "country": "CAN",
     "name": "Troy Stecher"
    },
    {
+    "born": "1996-05-01",
     "country": "CAN",
     "name": "William Nylander"
    },
    {
+    "born": "1996-07-08",
     "country": "CAN",
     "name": "Zack MacEwen"
    }
   ],
   "UTA": [
    {
+    "born": "1990-07-03",
     "country": "USA",
     "name": "Anders Lee"
    },
    {
+    "born": "1998-03-17",
     "country": "USA",
     "name": "Andrew Peeke"
    },
    {
+    "born": "2000-06-09",
     "country": "CAN",
     "name": "Barrett Hayton"
    },
    {
+    "born": "1998-07-29",
     "country": "USA",
     "name": "Clayton Keller"
    },
    {
+    "born": "2005-02-15",
     "country": "RUS",
     "name": "Daniil But"
    },
    {
+    "born": "2005-02-04",
     "country": "RUS",
     "name": "Dmitri Simashev"
    },
    {
+    "born": "2003-04-10",
     "country": "CAN",
     "name": "Dylan Guenther"
    },
    {
+    "born": "2000-01-06",
     "country": "CAN",
     "name": "Jack McBain"
    },
    {
+    "born": "1997-05-21",
     "country": "USA",
     "name": "John Marino"
    },
    {
+    "born": "1998-09-29",
     "country": "USA",
     "name": "Kailer Yamamoto"
    },
    {
+    "born": "1996-05-25",
     "country": "CZE",
     "name": "Karel Vejmelka"
    },
    {
+    "born": "1996-09-20",
     "country": "SWE",
     "name": "Kevin Stenlund"
    },
    {
+    "born": "1997-06-23",
     "country": "CAN",
     "name": "Lawson Crouse"
    },
    {
+    "born": "1994-07-29",
     "country": "CAN",
     "name": "Liam O'Brien"
    },
    {
+    "born": "2004-05-04",
     "country": "USA",
     "name": "Logan Cooley"
    },
    {
+    "born": "1994-01-07",
     "country": "CAN",
     "name": "MacKenzie Weegar"
    },
    {
+    "born": "2004-01-13",
     "country": "CAN",
     "name": "Maveric Lamoureux"
    },
    {
+    "born": "1996-05-19",
     "country": "CAN",
     "name": "Michael Carcone"
    },
    {
+    "born": "1998-06-25",
     "country": "RUS",
     "name": "Mikhail Sergachev"
    },
    {
+    "born": "1991-07-16",
     "country": "USA",
     "name": "Nate Schmidt"
    },
    {
+    "born": "1994-11-21",
     "country": "USA",
     "name": "Nick DeSimone"
    },
    {
+    "born": "1996-02-23",
     "country": "USA",
     "name": "Nick Schmaltz"
    },
    {
+    "born": "2002-11-21",
     "country": "CAN",
     "name": "Sebastian Cossa"
    },
    {
+    "born": "1993-07-11",
     "country": "USA",
     "name": "Vincent Trocheck"
    }
   ],
   "VAN": [
    {
+    "born": "2002-11-14",
     "country": "FIN",
     "name": "Aatu Räty"
    },
    {
+    "born": "2001-01-09",
     "country": "CAN",
     "name": "Arshdeep Bains"
    },
    {
+    "born": "1992-05-06",
     "country": "CAN",
     "name": "Brendan Gallagher"
    },
    {
+    "born": "1997-02-25",
     "country": "USA",
     "name": "Brock Boeser"
    },
    {
+    "born": "1998-06-09",
     "country": "USA",
     "name": "Drew O'Connor"
    },
    {
+    "born": "2004-02-16",
     "country": "SWE",
     "name": "Elias Pettersson #25"
    },
    {
+    "born": "1998-11-12",
     "country": "SWE",
     "name": "Elias Pettersson #40"
    },
    {
+    "born": "1999-09-05",
     "country": "CZE",
     "name": "Filip Chytil"
    },
    {
+    "born": "1997-11-02",
     "country": "CZE",
     "name": "Filip Hronek"
    },
    {
+    "born": "1997-07-21",
     "country": "CAN",
     "name": "Guillaume Brisebois"
    },
    {
+    "born": "1996-10-17",
     "country": "CAN",
     "name": "Jake DeBrusk"
    },
    {
+    "born": "1992-12-21",
     "country": "CAN",
     "name": "Jamie Oleksiak"
    },
    {
+    "born": "2004-07-24",
     "country": "SWE",
     "name": "Jonathan Lekkerimäki"
    },
    {
+    "born": "1995-04-28",
     "country": "FIN",
     "name": "Kevin Lankinen"
    },
    {
+    "born": "2002-08-13",
     "country": "FIN",
     "name": "Leevi Meriläinen"
    },
    {
+    "born": "2004-01-28",
     "country": "SWE",
     "name": "Liam Ohgren"
    },
    {
+    "born": "1999-11-16",
     "country": "SWE",
     "name": "Linus Karlsson"
    },
    {
+    "born": "1989-11-02",
     "country": "CAN",
     "name": "Luke Schenn"
    },
    {
+    "born": "2001-09-23",
     "country": "AUT",
     "name": "Marco Rossi"
    },
    {
+    "born": "2000-09-05",
     "country": "USA",
     "name": "Max Sasson"
    },
    {
+    "born": "1999-11-16",
     "country": "USA",
     "name": "Paul Cotter"
    },
    {
+    "born": "1995-12-08",
     "country": "USA",
     "name": "Thatcher Demko"
    },
    {
+    "born": "2005-02-09",
     "country": "SWE",
     "name": "Tom Willander"
    },
    {
+    "born": "2002-05-26",
     "country": "USA",
     "name": "Victor Mancini"
    },
    {
+    "born": "2005-12-07",
     "country": "USA",
     "name": "Zeev Buium"
    }
   ],
   "VGK": [
    {
+    "born": "1996-05-11",
     "country": "CAN",
     "name": "Adin Hill"
    },
    {
+    "born": "2003-06-26",
     "country": "CAN",
     "name": "Braeden Bowman"
    },
    {
+    "born": "1991-01-21",
     "country": "CAN",
     "name": "Brayden McNabb"
    },
    {
+    "born": "1998-03-29",
     "country": "CAN",
     "name": "Brett Howden"
    },
    {
+    "born": "1998-08-13",
     "country": "CAN",
     "name": "Carter Hart"
    },
    {
+    "born": "1998-02-19",
     "country": "CAN",
     "name": "Dylan Coghlan"
    },
    {
+    "born": "1995-12-14",
     "country": "RUS",
     "name": "Ivan Barbashev"
    },
    {
+    "born": "1996-10-28",
     "country": "USA",
     "name": "Jack Eichel"
    },
    {
+    "born": "1997-04-28",
     "country": "CAN",
     "name": "Jeremy Lauzon"
    },
    {
+    "born": "1999-07-22",
     "country": "USA",
     "name": "Marc Gatcomb"
    },
    {
+    "born": "1992-05-13",
     "country": "CAN",
     "name": "Mark Stone"
    },
    {
+    "born": "1997-05-05",
     "country": "CAN",
     "name": "Mitch Marner"
    },
    {
+    "born": "1990-05-27",
     "country": "USA",
     "name": "Nic Dowd"
    },
    {
+    "born": "1997-01-25",
     "country": "USA",
     "name": "Noah Hanifin"
    },
    {
+    "born": "1997-08-24",
     "country": "CAN",
     "name": "Parker Wotherspoon"
    },
    {
+    "born": "2000-09-25",
     "country": "CAN",
     "name": "Raphael Lavoie"
    },
    {
+    "born": "1996-10-27",
     "country": "SWE",
     "name": "Rasmus Andersson"
    },
    {
+    "born": "1995-08-03",
     "country": "CAN",
     "name": "Shea Theodore"
    },
    {
+    "born": "1993-11-12",
     "country": "CZE",
     "name": "Tomas Hertl"
    },
    {
+    "born": "2006-02-28",
     "country": "USA",
     "name": "Trevor Connelly"
    },
    {
+    "born": "1995-07-18",
     "country": "SWE",
     "name": "Victor Olofsson"
    },
    {
+    "born": "1993-01-08",
     "country": "SWE",
     "name": "William Karlsson"
    }
   ],
   "WPG": [
    {
+    "born": "1993-03-29",
     "country": "USA",
     "name": "Adam Lowry"
    },
    {
+    "born": "1993-12-21",
     "country": "USA",
     "name": "Alex Iafallo"
    },
    {
+    "born": "2003-12-19",
     "country": "FIN",
     "name": "Brad Lambert"
    },
    {
+    "born": "1999-03-03",
     "country": "CAN",
     "name": "Clay Stevenson"
    },
    {
+    "born": "1998-05-17",
     "country": "USA",
     "name": "Cole Koepke"
    },
    {
+    "born": "2002-01-01",
     "country": "CAN",
     "name": "Cole Perfetti"
    },
    {
+    "born": "1993-05-19",
     "country": "USA",
     "name": "Connor Hellebuyck"
    },
    {
+    "born": "1993-05-01",
     "country": "CAN",
     "name": "Dylan DeMelo"
    },
    {
+    "born": "1999-01-24",
     "country": "USA",
     "name": "Dylan Samberg"
    },
    {
+    "born": "1999-08-16",
     "country": "CAN",
     "name": "Gabriel Vilardi"
    },
    {
+    "born": "1996-07-08",
     "country": "CAN",
     "name": "Haydn Fleury"
    },
    {
+    "born": "2003-03-15",
     "country": "SWE",
     "name": "Isak Rosen"
    },
    {
+    "born": "1999-07-22",
     "country": "USA",
     "name": "Jack St. Ivany"
    },
    {
+    "born": "1995-03-28",
     "country": "CAN",
     "name": "Josh Morrissey"
    },
    {
+    "born": "1996-12-09",
     "country": "USA",
     "name": "Kyle Connor"
    },
    {
+    "born": "1998-09-17",
     "country": "CAN",
     "name": "Mario Ferraro"
    },
    {
+    "born": "1993-03-15",
     "country": "CAN",
     "name": "Mark Scheifele"
    },
    {
+    "born": "1998-12-02",
     "country": "CAN",
     "name": "Morgan Barron"
    },
    {
+    "born": "1995-07-29",
     "country": "USA",
     "name": "Neal Pionk"
    },
    {
+    "born": "1992-09-08",
     "country": "CHE",
     "name": "Nino Niederreiter"
    },
    {
+    "born": "1998-11-01",
     "country": "CAN",
     "name": "Stuart Skinner"
    },
    {
+    "born": "2002-03-23",
     "country": "CAN",
     "name": "Tyrel Bauer"
    },
    {
+    "born": "2008-03-12",
     "country": "SWE",
     "name": "Viggo Björck"
    },
    {
+    "born": "1992-11-22",
     "country": "RUS",
     "name": "Vladislav Namestnikov"
    }
   ],
   "WSH": [
    {
+    "born": "1985-09-17",
     "country": "RUS",
     "name": "Alex Ovechkin"
    },
    {
+    "born": "1996-05-10",
     "country": "USA",
     "name": "Alex Tuch"
    },
    {
+    "born": "2001-01-06",
     "country": "BLR",
     "name": "Aliaksei Protas"
    },
    {
+    "born": "1997-06-08",
     "country": "CAN",
     "name": "Anthony Beauvillier"
    },
    {
+    "born": "1993-06-15",
     "country": "CAN",
     "name": "Boone Jenner"
    },
    {
+    "born": "1993-12-18",
     "country": "USA",
     "name": "Charlie Lindgren"
    },
    {
+    "born": "2006-06-28",
     "country": "USA",
     "name": "Cole Hutson"
    },
    {
+    "born": "1992-04-20",
     "country": "CAN",
     "name": "Dylan McIlrath"
    },
    {
+    "born": "1997-03-07",
     "country": "CAN",
     "name": "Dylan Strome"
    },
    {
+    "born": "1998-02-05",
     "country": "USA",
     "name": "Ethen Frank"
    },
    {
+    "born": "2006-07-18",
     "country": "BLR",
     "name": "Ilya Protas"
    },
    {
+    "born": "2004-02-04",
     "country": "RUS",
     "name": "Ivan Miroshnichenko"
    },
    {
+    "born": "1998-03-31",
     "country": "USA",
     "name": "Jakob Chychrun"
    },
    {
+    "born": "1998-05-05",
     "country": "CAN",
     "name": "Jordan Kyrou"
    },
    {
+    "born": "2002-03-24",
     "country": "CAN",
     "name": "Justin Sourdif"
    },
    {
+    "born": "1997-02-25",
     "country": "CAN",
     "name": "Logan Thompson"
    },
    {
+    "born": "1999-10-06",
     "country": "SVK",
     "name": "Martin Fehérváry"
    },
    {
+    "born": "1995-03-01",
     "country": "USA",
     "name": "Matt Roy"
    },
    {
+    "born": "1998-06-24",
     "country": "CAN",
     "name": "Pierre-Luc Dubois"
    },
    {
+    "born": "2005-01-21",
     "country": "USA",
     "name": "Ryan Leonard"
    },
    {
+    "born": "1999-04-30",
     "country": "SWE",
     "name": "Timothy Liljegren"
    },
    {
+    "born": "1994-03-29",
     "country": "CAN",
     "name": "Tom Wilson"
    },
    {
+    "born": "1996-05-29",
     "country": "CAN",
     "name": "Vincent Desharnais"
    }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T08:54+00:00",
+ "generated": "2026-10-09T09:00+00:00",
  "events": [
   {
    "id": "567327",
@@ -1371,12 +1371,6 @@
      "team": "Blackhawks",
      "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom",
      "page": "spelare/arvid-soderblom/"
-    },
-    {
-     "name": "Sebastian Aho",
-     "team": "Hurricanes",
-     "url": "https://sv.wikipedia.org/wiki/Sebastian_Aho_(ishockeyspelare_f%C3%B6dd_1996)",
-     "page": "spelare/sebastian-aho/"
     }
    ],
    "tv": {
@@ -2461,12 +2455,6 @@
      "team": "Flyers",
      "url": "https://sv.wikipedia.org/wiki/Carl_Grundstr%C3%B6m",
      "page": "spelare/carl-grundstrom/"
-    },
-    {
-     "name": "Sebastian Aho",
-     "team": "Hurricanes",
-     "url": "https://sv.wikipedia.org/wiki/Sebastian_Aho_(ishockeyspelare_f%C3%B6dd_1996)",
-     "page": "spelare/sebastian-aho/"
     }
    ],
    "tv": {
@@ -3248,12 +3236,6 @@
    "start": "2026-10-13T22:45:00Z",
    "title": "Carolina Hurricanes – Washington Capitals",
    "swedes": [
-    {
-     "name": "Sebastian Aho",
-     "team": "Hurricanes",
-     "url": "https://sv.wikipedia.org/wiki/Sebastian_Aho_(ishockeyspelare_f%C3%B6dd_1996)",
-     "page": "spelare/sebastian-aho/"
-    },
     {
      "name": "Timothy Liljegren",
      "team": "Capitals",
