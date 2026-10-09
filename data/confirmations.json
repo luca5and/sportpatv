@@ -1,5 +1,5 @@
 {
-  "_info": "Bekräftade sändningar per match. Nyckel = match-id från football-data.org (fotboll) eller id i manual_events.json. Lägg bara in en rad när sändningen hittats hos kanalen själv, och spara länken i source.",
+  "_info": "Bekräftade sändningar per match. Nyckel = match-id från football-data.org (fotboll) eller id i manual_events.json. Lägg bara in en rad när sändningen hittats hos kanalen själv, och spara länken i source. Sätt service till null för en match som bevisligen inte sänds i Sverige.",
   "_example": {
     "537000": {
       "service": "Viaplay",
@@ -15,6 +15,14 @@
       "channel": null,
       "source": "https://news.bet365.com/sv-sv/article/arsenal-leeds-tv-kanal-stream-startelvor-statistik-tid/2026100712360010911",
       "source_2": "https://www.livesoccertv.com/match/arsenal-vs-leeds-united/26ha9",
+      "checked": "2026-10-09"
+    },
+    "567326": {
+      "title": "Braga – Sporting CP, 9 okt 21.15",
+      "service": "TV4 Play",
+      "channel": "TV4 Sportkanalen",
+      "source": "https://news.bet365.com/sv-sv/article/sport-tv-idag-fredag-9-oktober-2026-tv-tabla-streaming/2026100807331499137",
+      "source_2": "https://www.tvmatchen.nu/match/sporting-braga-sporting-cp-1920085",
       "checked": "2026-10-09"
     }
   }

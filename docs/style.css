@@ -76,6 +76,7 @@ a { color: var(--accent); }
 .badge.likely { background: var(--mid-bg); color: var(--mid-fg); }
 .badge.likely::after { content: " ?"; }
 .badge.unknown { background: var(--no-bg); color: var(--no-fg); }
+.badge.none { background: var(--no-bg); color: var(--no-fg); text-decoration: line-through; text-decoration-thickness: 1px; }
 .body { min-width: 0; }
 
 .empty { text-align: center; color: var(--muted); padding: 40px 0; }

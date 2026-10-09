@@ -76,38 +76,51 @@ class SquadTest(unittest.TestCase):
 class TvStatusTest(unittest.TestCase):
     rights = {
         "SA": {"services": ["TV4 Play"], "coverage": "all", "source": "s"},
-        "PL": {"services": ["Viaplay", "Prime Video"], "coverage": "split"},
+        "PL": {"services": ["Viaplay", "Prime Video"], "coverage": "split",
+               "default": "Viaplay", "per_round_exception": "Prime Video"},
+        "PPL": {"services": ["TV4 Play"], "coverage": "selected", "per_round": 3},
         "CL": {"services": ["Viaplay"], "coverage": "unknown"},
     }
 
+    def test_confirmation_wins(self):
+        tv = build.tv_status("1", "PL", self.rights, {"1": {"service": "Prime Video", "source": "u"}})
+        self.assertEqual((tv["status"], tv["service"]), ("confirmed", "Prime Video"))
+
+    def test_confirmed_not_broadcast(self):
+        self.assertEqual(build.tv_status("1", "PPL", self.rights, {"1": {"service": None}})["status"], "none")
+
+    def test_whole_league_on_one_service_is_confirmed(self):
+        tv = build.tv_status("2", "SA", self.rights, {})
+        self.assertEqual((tv["status"], tv["service"]), ("confirmed", "TV4 Play"))
+
+    def test_unchecked_is_never_guessed(self):
+        pl = build.tv_status("3", "PL", self.rights, {})
+        self.assertEqual((pl["status"], pl["service"], pl["note"]), ("unknown", None, "Troligen Viaplay eller Prime Video"))
+        self.assertEqual(build.tv_status("4", "CL", self.rights, {})["status"], "unknown")
+        self.assertIsNone(build.tv_status("5", "XX", self.rights, {})["note"])
+
     def test_split_league_likely_once_round_exception_confirmed(self):
-        rights = {"PL": {"services": ["Viaplay", "Prime Video"], "coverage": "split",
-                         "default": "Viaplay", "per_round_exception": "Prime Video"}}
         conf = {"1": {"service": "Prime Video"}}
         matches = [
             {"id": "1", "competition": {"code": "PL"}, "matchday": 6},
             {"id": "2", "competition": {"code": "PL"}, "matchday": 6},
             {"id": "3", "competition": {"code": "PL"}, "matchday": 7},
         ]
-        rounds = build.rounds_with_exception(matches, rights, conf)
-        self.assertEqual(rounds, {("PL", 6)})
-        same_round = build.tv_status("2", "PL", rights, conf, ("PL", 6) in rounds)
-        self.assertEqual((same_round["status"], same_round["service"]), ("likely", "Viaplay"))
-        self.assertEqual(build.tv_status("3", "PL", rights, conf, ("PL", 7) in rounds)["status"], "unknown")
+        counts = build.round_counts(matches, self.rights, conf)
+        self.assertEqual(counts, {("PL", 6): 1})
+        same = build.tv_status("2", "PL", self.rights, conf, counts.get(("PL", 6), 0))
+        self.assertEqual((same["status"], same["service"]), ("likely", "Viaplay"))
+        self.assertEqual(build.tv_status("3", "PL", self.rights, conf, counts.get(("PL", 7), 0))["status"], "unknown")
 
-    def test_confirmation_wins(self):
-        tv = build.tv_status("1", "PL", self.rights, {"1": {"service": "Prime Video", "source": "u"}})
-        self.assertEqual((tv["status"], tv["service"]), ("confirmed", "Prime Video"))
-
-    def test_whole_league_on_one_service_is_likely(self):
-        self.assertEqual(build.tv_status("2", "SA", self.rights, {})["status"], "likely")
-
-    def test_split_or_unchecked_is_never_guessed(self):
-        pl = build.tv_status("3", "PL", self.rights, {})
-        self.assertEqual((pl["status"], pl["service"]), ("unknown", None))
-        self.assertEqual(pl["note"], "Troligen Viaplay eller Prime Video")
-        self.assertEqual(build.tv_status("4", "CL", self.rights, {})["status"], "unknown")
-        self.assertEqual(build.tv_status("5", "XX", self.rights, {})["note"], None)
+    def test_selected_league_rest_not_shown_once_round_is_known(self):
+        conf = {str(i): {"service": "TV4 Play"} for i in (1, 2)}
+        matches = [{"id": str(i), "competition": {"code": "PPL"}, "matchday": 8} for i in range(1, 6)]
+        two = build.round_counts(matches, self.rights, conf)[("PPL", 8)]
+        tv = build.tv_status("5", "PPL", self.rights, conf, two)
+        self.assertEqual((tv["status"], tv["note"]), ("unknown", "TV4 Play visar 3 utvalda matcher per omgång"))
+        conf["3"] = {"service": "TV4 Play"}
+        three = build.round_counts(matches, self.rights, conf)[("PPL", 8)]
+        self.assertEqual(build.tv_status("5", "PPL", self.rights, conf, three)["status"], "none")
 
 
 class CurrentClubTest(unittest.TestCase):

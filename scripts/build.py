@@ -86,38 +86,61 @@ def swedes_in(team, index, manual, aliases, squads=None):
     return sorted((v for k, v in found.items() if k not in removed), key=lambda s: s["name"])
 
 
-def tv_status(match_id, competition_code, rights, confirmations, round_exception_found=False):
-    """confirmed = kontrollerad sändning, likely = ligan sänds i sin helhet
-    hos en tjänst, unknown = vi vet inte. Vi gissar aldrig mer än så.
+def tv_status(match_id, competition_code, rights, confirmations, round_count=0):
+    """Status per match:
+    confirmed = matchen är kontrollerad, eller hela turneringen sänds hos en tjänst
+    likely    = slutsats från omgången (Premier League: omgångens Prime-match är en annan)
+    none      = turneringen visar utvalda matcher och omgångens urval är känt utan den här
+    unknown   = vi vet inte. Vi gissar aldrig.
 
-    Delade ligor (Premier League: Prime Video tar en match per omgång) blir
-    likely för huvudtjänsten först när omgångens undantagsmatch är bekräftad."""
+    round_count = antal bekräftade matcher i samma omgång hos omgångsundantaget
+    (split) eller hos tjänsten med utvalda matcher (selected)."""
     conf = confirmations.get(match_id)
     if conf:
+        if not conf.get("service"):
+            return {"status": "none", "service": None, "channel": None, "source": conf.get("source"),
+                    "note": "Sänds inte i Sverige"}
         return {"status": "confirmed", "service": conf.get("service"), "channel": conf.get("channel"),
                 "source": conf.get("source"), "note": None}
     r = rights.get(competition_code) or {}
     services = r.get("services") or []
-    if r.get("coverage") == "all" and len(services) == 1:
-        return {"status": "likely", "service": services[0], "channel": None,
-                "source": r.get("source"), "note": None}
-    if r.get("coverage") == "split" and r.get("default") and round_exception_found:
+    coverage = r.get("coverage")
+    if coverage == "all" and len(services) == 1:
+        return {"status": "confirmed", "service": services[0], "channel": None,
+                "source": r.get("source"), "note": "Alla matcher i turneringen sänds här"}
+    if coverage == "split" and r.get("default") and round_count >= 1:
         return {"status": "likely", "service": r["default"], "channel": None, "source": r.get("source"),
                 "note": None}
-    note = ("Troligen " + " eller ".join(services)) if services else None
+    if coverage == "selected" and r.get("per_round") and round_count >= r["per_round"]:
+        return {"status": "none", "service": None, "channel": None, "source": None,
+                "note": f'Inte bland omgångens {r["per_round"]} matcher på {services[0]}'}
+    if coverage == "selected" and services and r.get("per_round"):
+        note = f'{services[0]} visar {r["per_round"]} utvalda matcher per omgång'
+    else:
+        note = ("Troligen " + " eller ".join(services)) if services else None
     return {"status": "unknown", "service": None, "channel": None, "source": None, "note": note}
 
 
-def rounds_with_exception(matches, rights, confirmations):
-    """{(turnering, omgång)} där omgångens undantagsmatch är bekräftad."""
-    found = set()
+def round_counts(matches, rights, confirmations):
+    """{(turnering, omgång): antal bekräftade omgångsmatcher} för delade ligor
+    (räknar undantagstjänsten) och ligor med utvalda matcher (räknar tjänsten)."""
+    counts = {}
     for m in matches:
         code = m["competition"]["code"]
-        exception = (rights.get(code) or {}).get("per_round_exception")
+        r = rights.get(code) or {}
         conf = confirmations.get(m["id"])
-        if exception and conf and conf.get("service") == exception and m.get("matchday"):
-            found.add((code, m["matchday"]))
-    return found
+        if not conf or not m.get("matchday"):
+            continue
+        if r.get("coverage") == "split":
+            counted = conf.get("service") == r.get("per_round_exception")
+        elif r.get("coverage") == "selected":
+            counted = conf.get("service") in (r.get("services") or [])
+        else:
+            counted = False
+        if counted:
+            key = (code, m["matchday"])
+            counts[key] = counts.get(key, 0) + 1
+    return counts
 
 
 def build(now=None):
@@ -132,7 +155,7 @@ def build(now=None):
     squads = (load(DATA / "generated" / "squads.json", {}) or {}).get("teams", {})
 
     index = build_club_index(players, manual)
-    exception_rounds = rounds_with_exception(matches, rights, confirmations)
+    counts = round_counts(matches, rights, confirmations)
     events = []
     for m in matches:
         if m.get("status") in ("FINISHED", "CANCELLED", "POSTPONED", "AWARDED"):
@@ -149,7 +172,7 @@ def build(now=None):
             "title": f'{m["home"].get("shortName") or m["home"]["name"]} – {m["away"].get("shortName") or m["away"]["name"]}',
             "swedes": swedes,
             "tv": tv_status(m["id"], m["competition"]["code"], rights, confirmations,
-                            (m["competition"]["code"], m.get("matchday")) in exception_rounds),
+                            counts.get((m["competition"]["code"], m.get("matchday")), 0)),
         })
 
     for e in manual_events:
