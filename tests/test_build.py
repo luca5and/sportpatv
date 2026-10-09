@@ -5,7 +5,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
 
 import build  # noqa: E402
-from fetch_swedes import current_clubs  # noqa: E402
+from fetch_swedes import current_clubs, people_index  # noqa: E402
 
 
 class NormalizeTest(unittest.TestCase):
@@ -96,6 +96,23 @@ class ProfileUrlTest(unittest.TestCase):
     def test_shared_name_without_club_match_gets_no_link(self):
         self.assertIsNone(build.profile_url("Viktor Johansson", {"name": "Hull City AFC"}, self.people, self.players_by_id, {}))
         self.assertIsNone(build.profile_url("Okänd Spelare", self.stoke, self.people, {}, {}))
+
+
+class PeopleIndexTest(unittest.TestCase):
+    def row(self, pid, name, article):
+        return {"player": {"value": "http://www.wikidata.org/entity/" + pid},
+                "name": {"value": name}, "article": {"value": article}}
+
+    def test_swedish_article_preferred_and_names_normalized(self):
+        index = people_index({
+            "en": [self.row("Q1", "Alieu Njie", "https://en.wikipedia.org/wiki/Alieu_Njie")],
+            "sv": [self.row("Q1", "Alieu Njie", "https://sv.wikipedia.org/wiki/Alieu_Njie")],
+        })
+        self.assertEqual(index["alieu njie"], [{"id": "Q1", "url": "https://sv.wikipedia.org/wiki/Alieu_Njie"}])
+
+    def test_english_only_player_still_linked(self):
+        index = people_index({"en": [self.row("Q2", "Armin Ćulum", "https://en.wikipedia.org/wiki/Armin_%C4%86ulum")]})
+        self.assertIn("armin culum", index)
 
 
 class TvStatusTest(unittest.TestCase):
