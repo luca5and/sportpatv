@@ -341,12 +341,6 @@
      "team": "Rangers",
      "url": "https://sv.wikipedia.org/wiki/Mika_Zibanejad",
      "page": "spelare/mika-zibanejad/"
-    },
-    {
-     "name": "Sean Durzi",
-     "team": "Rangers",
-     "url": "https://sv.wikipedia.org/wiki/Sean_Durzi",
-     "page": "spelare/sean-durzi/"
     }
    ],
    "tv": {
@@ -391,12 +385,6 @@
      "team": "Ducks",
      "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
      "page": "spelare/leo-carlsson/"
-    },
-    {
-     "name": "Travis Mitchell",
-     "team": "Ducks",
-     "url": "https://sv.wikipedia.org/wiki/Travis_Mitchell",
-     "page": "spelare/travis-mitchell/"
     }
    ],
    "tv": {
@@ -1305,12 +1293,6 @@
    "title": "Buffalo Sabres – Utah Mammoth",
    "swedes": [
     {
-     "name": "Mattias Samuelsson",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Samuelsson_(ishockeyspelare)",
-     "page": "spelare/mattias-samuelsson/"
-    },
-    {
      "name": "Noah Ostlund",
      "team": "Sabres",
      "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
@@ -1321,12 +1303,6 @@
      "team": "Sabres",
      "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
      "page": "spelare/rasmus-dahlin/"
-    },
-    {
-     "name": "Tyson Kozak",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Tyson_Kozak",
-     "page": "spelare/tyson-kozak/"
     },
     {
      "name": "Kevin Stenlund",
@@ -1781,12 +1757,6 @@
      "team": "Ducks",
      "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
      "page": "spelare/leo-carlsson/"
-    },
-    {
-     "name": "Travis Mitchell",
-     "team": "Ducks",
-     "url": "https://sv.wikipedia.org/wiki/Travis_Mitchell",
-     "page": "spelare/travis-mitchell/"
     }
    ],
    "tv": {
@@ -2383,12 +2353,6 @@
      "page": "spelare/mika-zibanejad/"
     },
     {
-     "name": "Sean Durzi",
-     "team": "Rangers",
-     "url": "https://sv.wikipedia.org/wiki/Sean_Durzi",
-     "page": "spelare/sean-durzi/"
-    },
-    {
      "name": "Elias Pettersson #25",
      "team": "Canucks",
      "url": null,
@@ -2515,12 +2479,6 @@
    "title": "Buffalo Sabres – Florida Panthers",
    "swedes": [
     {
-     "name": "Mattias Samuelsson",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Samuelsson_(ishockeyspelare)",
-     "page": "spelare/mattias-samuelsson/"
-    },
-    {
      "name": "Noah Ostlund",
      "team": "Sabres",
      "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
@@ -2531,12 +2489,6 @@
      "team": "Sabres",
      "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
      "page": "spelare/rasmus-dahlin/"
-    },
-    {
-     "name": "Tyson Kozak",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Tyson_Kozak",
-     "page": "spelare/tyson-kozak/"
     },
     {
      "name": "Gustav Forsling",
@@ -3187,12 +3139,6 @@
      "page": "spelare/oliver-kapanen/"
     },
     {
-     "name": "Mattias Samuelsson",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Samuelsson_(ishockeyspelare)",
-     "page": "spelare/mattias-samuelsson/"
-    },
-    {
      "name": "Noah Ostlund",
      "team": "Sabres",
      "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
@@ -3203,12 +3149,6 @@
      "team": "Sabres",
      "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
      "page": "spelare/rasmus-dahlin/"
-    },
-    {
-     "name": "Tyson Kozak",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Tyson_Kozak",
-     "page": "spelare/tyson-kozak/"
     }
    ],
    "tv": {
@@ -3317,12 +3257,6 @@
      "team": "Rangers",
      "url": "https://sv.wikipedia.org/wiki/Mika_Zibanejad",
      "page": "spelare/mika-zibanejad/"
-    },
-    {
-     "name": "Sean Durzi",
-     "team": "Rangers",
-     "url": "https://sv.wikipedia.org/wiki/Sean_Durzi",
-     "page": "spelare/sean-durzi/"
     },
     {
      "name": "Dennis Hildeby",
@@ -3801,12 +3735,6 @@
      "team": "Ducks",
      "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
      "page": "spelare/leo-carlsson/"
-    },
-    {
-     "name": "Travis Mitchell",
-     "team": "Ducks",
-     "url": "https://sv.wikipedia.org/wiki/Travis_Mitchell",
-     "page": "spelare/travis-mitchell/"
     },
     {
      "name": "Mikael Backlund",
@@ -4341,12 +4269,6 @@
      "team": "Rangers",
      "url": "https://sv.wikipedia.org/wiki/Mika_Zibanejad",
      "page": "spelare/mika-zibanejad/"
-    },
-    {
-     "name": "Sean Durzi",
-     "team": "Rangers",
-     "url": "https://sv.wikipedia.org/wiki/Sean_Durzi",
-     "page": "spelare/sean-durzi/"
     }
    ],
    "tv": {
@@ -4511,12 +4433,6 @@
      "page": "spelare/william-nylander/"
     },
     {
-     "name": "Mattias Samuelsson",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Samuelsson_(ishockeyspelare)",
-     "page": "spelare/mattias-samuelsson/"
-    },
-    {
      "name": "Noah Ostlund",
      "team": "Sabres",
      "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
@@ -4527,12 +4443,6 @@
      "team": "Sabres",
      "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
      "page": "spelare/rasmus-dahlin/"
-    },
-    {
-     "name": "Tyson Kozak",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Tyson_Kozak",
-     "page": "spelare/tyson-kozak/"
     }
    ],
    "tv": {
