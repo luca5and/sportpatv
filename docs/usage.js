@@ -85,7 +85,7 @@
       return track(label.indexOf("Ishockey") >= 0 ? "sportHockey" : label.indexOf("Fotboll") >= 0 ? "sportFootball" : "sportAll");
     }
     if (t.closest(".more")) return track("showMore");
-    if (t.closest(".legend summary")) return track("legendOpen");
+    if (t.closest(".legend:not(.about) summary")) return track("legendOpen");
   }, true);
 
   document.addEventListener("visibilitychange", function () {
