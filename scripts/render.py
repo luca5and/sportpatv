@@ -253,7 +253,7 @@ def render_index(events, registry, updated):
     links = ", ".join(f'<a href="{esc(p)}">{esc(n)}</a>' for n, p in names) or "inga just nu"
     seen = list(dict.fromkeys(s["name"] for e in events[:40] for s in e["swedes"]))[:3]
     description = ("Var du ser svenskarna i fotboll och NHL på TV idag"
-                   + (f" – {', '.join(seen)} och fler" if seen else "") + ". Kanal och tid, utan reklam.")
+                   + (f" – {', '.join(seen)} och fler" if seen else "") + ". Kanal och tid för varje match.")
     ld = {"@context": "https://schema.org", "@type": "ItemList",
           "itemListElement": [{"@type": "ListItem", "position": i + 1, "item": sports_event_ld(e)}
                               for i, e in enumerate(events[:50])]}
