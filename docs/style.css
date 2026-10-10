@@ -104,7 +104,6 @@ a { color: var(--accent); }
 .crumbs { margin-top: 14px; font-size: 0.9rem; }
 .links { font-size: 0.95rem; }
 .empty-row { list-style: none; color: var(--muted); padding: 12px 0; }
-.about { margin: 28px 0; padding-top: 18px; border-top: 1px solid var(--line); max-width: 65ch; }
-.about h2 { font-size: 1.1rem; margin: 0 0 8px; }
-.about p { margin: 0 0 10px; color: var(--muted); }
+.about { max-width: 65ch; }
+.about p { margin: 10px 0 0; }
 .foot .coffee { margin-top: 4px; }
