@@ -110,7 +110,7 @@ def assign_pages(events, registry, today):
 
 # --- HTML -----------------------------------------------------------------
 
-def event_html(e, prefix=""):
+def event_html(e, prefix="", show_day=False):
     tv = e["tv"]
     cls = tv["status"] if tv["status"] in ("confirmed", "likely", "none") else "unknown"
     label = TV_TEXT.get(tv["status"]) or (f'{tv["service"]} · {tv["channel"]}' if tv.get("channel") else tv["service"])
@@ -120,8 +120,10 @@ def event_html(e, prefix=""):
         for s in e["swedes"])
     t = local(e["start"])
     night = '<small class="night">natt</small>' if t.hour < NIGHT_END else ""
+    # På spelar- och lagsidor syns flera dagar i samma lista, så dagen visas ovanför tiden.
+    day = f'<small class="day">{esc(fmt_day(event_day(e["start"])))}</small>' if show_day else ""
     return (
-        f'<li class="event"><div class="time"><time datetime="{esc(e["start"])}">{t:%H:%M}</time>{night}</div>'
+        f'<li class="event"><div class="time">{day}<time datetime="{esc(e["start"])}">{t:%H:%M}</time>{night}</div>'
         f'<div class="body"><div class="meta">{esc(e["sport"])} · {esc(e["competition"])}</div>'
         f'<div class="title">{esc(e["title"])}</div><div class="swedes">{swedes}</div>'
         f'<div class="tv"><span class="badge {cls}">{esc(label)}</span>{esc(note) if note else ""}</div></div></li>'
@@ -146,7 +148,7 @@ def json_ld(data):
 
 def page_html(*, title, description, path, h1, lede, events, links, updated):
     prefix = "../../"
-    items = "".join(event_html(e, prefix) for e in events) or '<li class="empty-row">Inga matcher de närmaste sju dagarna.</li>'
+    items = "".join(event_html(e, prefix, show_day=True) for e in events) or '<li class="empty-row">Inga matcher de närmaste sju dagarna.</li>'
     ld = {"@context": "https://schema.org", "@type": "ItemList",
           "itemListElement": [{"@type": "ListItem", "position": i + 1, "item": sports_event_ld(e)}
                               for i, e in enumerate(events)]}
