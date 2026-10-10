@@ -10,6 +10,10 @@
   const PAGE = 15;     // antal matcher innan "Visa fler"
   const ICONS = { Fotboll: "⚽", Ishockey: "🏒", Alpint: "⛷", Längdskidor: "⛷", Handboll: "🤾", Golf: "⛳", Tennis: "🎾" };
   const STORE_KEY = "sportpatv.sport";
+  // Ungefärlig längd inklusive paus/övertid; därefter räknas matchen som slut och döljs.
+  const DURATION_MIN = { Fotboll: 120, Ishockey: 180 };
+  const DEFAULT_DURATION_MIN = 150;
+  const endsAt = (e) => new Date(e.start).getTime() + (DURATION_MIN[e.sport] || DEFAULT_DURATION_MIN) * 60e3;
 
   // Dagen en händelse hör till: nattmatcher räknas till kvällen innan.
   const eventDay = (iso) => dayKey(new Date(new Date(iso).getTime() - NIGHT_END * 3600e3));
@@ -88,6 +92,8 @@
   }
 
   function render() {
+    const now = Date.now();
+    state.events = state.events.filter((e) => endsAt(e) > now);
     const days = [...new Set(state.events.map((e) => eventDay(e.start)))];
     if (!days.includes(state.day)) state.day = days[0] || null;
 
@@ -126,13 +132,13 @@
   fetch("data/swedes-on-tv.json", { cache: "no-cache" })
     .then((r) => r.json())
     .then((data) => {
-      // Datan byggs en gång per dygn; dölj matcher som rimligen är slut.
-      const cutoff = Date.now() - 2.5 * 3600e3;
-      state.events = (data.events || []).filter((e) => new Date(e.start).getTime() >= cutoff);
+      // Datan byggs en gång per dygn; render() döljer matcher som rimligen är slut.
+      state.events = data.events || [];
       if (data.generated) {
         $("updated").textContent = "Uppdaterad " + dayFmt.format(new Date(data.generated)) + " " + timeFmt.format(new Date(data.generated)) + ".";
       }
       render();
+      setInterval(render, 60e3); // uppdatera "Pågår" och ta bort slutspelade matcher
     })
     .catch(() => {
       $("empty").hidden = false;
