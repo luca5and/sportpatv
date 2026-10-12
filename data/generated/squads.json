@@ -775,10 +775,6 @@
      "nationality": "England"
     },
     {
-     "name": "Marcus Tavernier",
-     "nationality": "England"
-    },
-    {
      "name": "Justin Kluivert",
      "nationality": "Netherlands"
     },
@@ -799,12 +795,12 @@
      "nationality": "Hungary"
     },
     {
-     "name": "Ben Winterburn",
-     "nationality": "England"
-    },
-    {
      "name": "David Brooks",
      "nationality": "Wales"
+    },
+    {
+     "name": "Marcus Tavernier",
+     "nationality": "England"
     },
     {
      "name": "Evanilson",
@@ -1148,6 +1144,10 @@
     {
      "name": "Haji Wright",
      "nationality": "USA"
+    },
+    {
+     "name": "Yann Gboho",
+     "nationality": "France"
     },
     {
      "name": "Tatsuhiro Sakamoto",
@@ -6978,10 +6978,6 @@
      "nationality": "England"
     },
     {
-     "name": "Abdülkadir Ömür",
-     "nationality": "Turkey"
-    },
-    {
      "name": "Hidemasa Morita",
      "nationality": "Japan"
     },
@@ -7022,16 +7018,16 @@
      "nationality": "Wales"
     },
     {
+     "name": "Abdülkadir Ömür",
+     "nationality": "Turkey"
+    },
+    {
      "name": "Joe Gelhardt",
      "nationality": "England"
     },
     {
      "name": "Mohamed Ali Cho",
      "nationality": "France"
-    },
-    {
-     "name": "David Akintola",
-     "nationality": "Nigeria"
     },
     {
      "name": "Elliot Stroud",
@@ -8228,10 +8224,6 @@
      "nationality": "Paraguay"
     },
     {
-     "name": "Kasey McAteer",
-     "nationality": "Ireland"
-    },
-    {
      "name": "Jack Clarke",
      "nationality": "England"
     },
@@ -8254,6 +8246,10 @@
     {
      "name": "Emersonn",
      "nationality": "Brazil"
+    },
+    {
+     "name": "Kasey McAteer",
+     "nationality": "Ireland"
     },
     {
      "name": "Abdul Issahaku",
@@ -8410,6 +8406,10 @@
      "nationality": "Morocco"
     },
     {
+     "name": "Anan Khalaili",
+     "nationality": "Israel"
+    },
+    {
      "name": "Jaydee Canvot",
      "nationality": "France"
     },
@@ -8442,10 +8442,6 @@
      "nationality": "England"
     },
     {
-     "name": "Anan Khalaili",
-     "nationality": "Israel"
-    },
-    {
      "name": "Jean-Philippe Mateta",
      "nationality": "France"
     },
@@ -8470,16 +8466,8 @@
      "nationality": "Spain"
     },
     {
-     "name": "Matheus Franca",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Darío Osorio",
      "nationality": "Chile"
-    },
-    {
-     "name": "Jesurun Rak-Sakyi",
-     "nationality": "England"
     },
     {
      "name": "Jørgen Strand Larsen",
@@ -8910,10 +8898,6 @@
      "nationality": "Germany"
     },
     {
-     "name": "Femi Azeez",
-     "nationality": "England"
-    },
-    {
      "name": "Yasin Ayari",
      "nationality": "Sweden"
     },
@@ -8932,6 +8916,10 @@
     {
      "name": "Chema Andrés",
      "nationality": "Spain"
+    },
+    {
+     "name": "Femi Azeez",
+     "nationality": "England"
     },
     {
      "name": "Georginio Rutter",
@@ -8968,10 +8956,6 @@
     {
      "name": "Zadok Yohanna",
      "nationality": "Nigeria"
-    },
-    {
-     "name": "Younes Ibrahim",
-     "nationality": "Australia"
     }
    ]
   },
@@ -9132,6 +9116,10 @@
      "nationality": "Scotland"
     },
     {
+     "name": "Keane Lewis-Potter",
+     "nationality": "England"
+    },
+    {
      "name": "Nathan Collins",
      "nationality": "Ireland"
     },
@@ -9170,10 +9158,6 @@
     {
      "name": "Mikkel Damsgaard",
      "nationality": "Denmark"
-    },
-    {
-     "name": "Keane Lewis-Potter",
-     "nationality": "England"
     },
     {
      "name": "Mamadou Sangare",
@@ -14492,6 +14476,10 @@
      "nationality": "Japan"
     },
     {
+     "name": "James Wright",
+     "nationality": "England"
+    },
+    {
      "name": "Victor Nilsson-Lindelöf",
      "nationality": "Sweden"
     },
@@ -15629,8 +15617,8 @@
      "nationality": "Belgium"
     },
     {
-     "name": "Ray Paez",
-     "nationality": "Ecuador"
+     "name": "Mahdi Nicoll-Jazuli",
+     "nationality": "England"
     },
     {
      "name": "Pedro Neto",
@@ -15659,10 +15647,6 @@
     {
      "name": "Estevao",
      "nationality": "Brazil"
-    },
-    {
-     "name": "Mahdi Nicoll-Jazuli",
-     "nationality": "England"
     }
    ]
   },
@@ -15750,6 +15734,10 @@
      "nationality": "England"
     },
     {
+     "name": "Briaden Graham",
+     "nationality": "Northern Ireland"
+    },
+    {
      "name": "Tyrique George",
      "nationality": "England"
     }
@@ -15803,8 +15791,8 @@
      "nationality": "Nigeria"
     },
     {
-     "name": "Luc De Fougerolles",
-     "nationality": "Canada"
+     "name": "Alex Iwobi",
+     "nationality": "Nigeria"
     },
     {
      "name": "Tom Cairney",
@@ -15841,10 +15829,6 @@
     {
      "name": "Manuel Angel",
      "nationality": "Spain"
-    },
-    {
-     "name": "Alex Iwobi",
-     "nationality": "Nigeria"
     },
     {
      "name": "Rodrigo Muniz",
@@ -15948,6 +15932,10 @@
      "nationality": "Netherlands"
     },
     {
+     "name": "James McConnell",
+     "nationality": "England"
+    },
+    {
      "name": "Trey Nyoni",
      "nationality": "England"
     },
@@ -15970,6 +15958,10 @@
     {
      "name": "Bradley Barcola",
      "nationality": "France"
+    },
+    {
+     "name": "Lewis Koumas",
+     "nationality": "Wales"
     },
     {
      "name": "Víctor Muñoz",
@@ -16015,10 +16007,6 @@
     {
      "name": "Joško Gvardiol",
      "nationality": "Croatia"
-    },
-    {
-     "name": "Josh Wilson-Esbrand",
-     "nationality": "England"
     },
     {
      "name": "Rico Lewis",
@@ -16167,10 +16155,6 @@
     },
     {
      "name": "Kobbie Mainoo",
-     "nationality": "England"
-    },
-    {
-     "name": "Jack Fletcher",
      "nationality": "England"
     },
     {
@@ -16867,10 +16851,6 @@
      "nationality": "England"
     },
     {
-     "name": "Leo Shahar",
-     "nationality": "England"
-    },
-    {
      "name": "Joe Willock",
      "nationality": "England"
     },
@@ -16925,18 +16905,6 @@
     {
      "name": "Bazoumana Touré",
      "nationality": "Ivory Coast"
-    },
-    {
-     "name": "Kyran Thompson",
-     "nationality": "England"
-    },
-    {
-     "name": "Michael Mills",
-     "nationality": "England"
-    },
-    {
-     "name": "Mason Miley",
-     "nationality": "England"
     }
    ]
   },
@@ -18852,10 +18820,6 @@
      "nationality": "France"
     },
     {
-     "name": "Abdoullah Ba",
-     "nationality": "France"
-    },
-    {
      "name": "Habib Diarra",
      "nationality": "Senegal"
     },
@@ -18880,6 +18844,10 @@
      "nationality": "Netherlands"
     },
     {
+     "name": "Abdoullah Ba",
+     "nationality": "France"
+    },
+    {
      "name": "Romaine Mundle",
      "nationality": "England"
     },
@@ -18894,10 +18862,6 @@
     {
      "name": "Chemsdine Talbi",
      "nationality": "Morocco"
-    },
-    {
-     "name": "Juan Angulo",
-     "nationality": "Ecuador"
     },
     {
      "name": "Jocelin Bi",
