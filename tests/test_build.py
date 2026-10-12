@@ -213,6 +213,12 @@ class TvStatusTest(unittest.TestCase):
         self.assertEqual((same["status"], same["service"]), ("likely", "Viaplay"))
         self.assertEqual(build.tv_status("3", "PL", self.rights, conf, counts.get(("PL", 7), 0))["status"], "unknown")
 
+    def test_round_rule_survives_when_confirmed_match_is_played(self):
+        # Arsenal–Leeds (Prime) är spelad och borta ur matchdatan; resten av omgång 6 återstår
+        conf = {"1": {"service": "Prime Video", "competition": "PL", "matchday": 6}}
+        matches = [{"id": "2", "competition": {"code": "PL"}, "matchday": 6}]
+        self.assertEqual(build.round_counts(matches, self.rights, conf), {("PL", 6): 1})
+
     def test_selected_league_rest_not_shown_once_round_is_known(self):
         conf = {str(i): {"service": "TV4 Play"} for i in (1, 2)}
         matches = [{"id": str(i), "competition": {"code": "PPL"}, "matchday": 8} for i in range(1, 6)]

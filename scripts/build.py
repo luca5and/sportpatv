@@ -143,14 +143,19 @@ def tv_status(match_id, competition_code, rights, confirmations, round_count=0, 
 
 def round_counts(matches, rights, confirmations):
     """{(turnering, omgång): antal bekräftade omgångsmatcher} för delade ligor
-    (räknar undantagstjänsten) och ligor med utvalda matcher (räknar tjänsten)."""
+    (räknar undantagstjänsten) och ligor med utvalda matcher (räknar tjänsten).
+
+    Turnering och omgång tas från matchdatan, eller från bekräftelsen själv
+    (fälten competition och matchday). Det senare behövs när den bekräftade
+    matchen redan är spelad och inte längre finns i matchdatan, men resten av
+    omgången återstår."""
+    where = {m["id"]: (m["competition"]["code"], m.get("matchday")) for m in matches}
     counts = {}
-    for m in matches:
-        code = m["competition"]["code"]
-        r = rights.get(code) or {}
-        conf = confirmations.get(m["id"])
-        if not conf or not m.get("matchday"):
+    for match_id, conf in confirmations.items():
+        code, matchday = where.get(match_id, (conf.get("competition"), conf.get("matchday")))
+        if not code or not matchday:
             continue
+        r = rights.get(code) or {}
         if r.get("coverage") == "split":
             counted = conf.get("service") == r.get("per_round_exception")
         elif r.get("coverage") == "selected":
@@ -158,8 +163,7 @@ def round_counts(matches, rights, confirmations):
         else:
             counted = False
         if counted:
-            key = (code, m["matchday"])
-            counts[key] = counts.get(key, 0) + 1
+            counts[(code, matchday)] = counts.get((code, matchday), 0) + 1
     return counts
 
 
