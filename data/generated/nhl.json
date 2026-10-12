@@ -2,54 +2,6 @@
  "games": [
   {
    "away": {
-    "abbrev": "SEA",
-    "name": "Seattle Kraken",
-    "short": "Kraken"
-   },
-   "home": {
-    "abbrev": "WSH",
-    "name": "Washington Capitals",
-    "short": "Capitals"
-   },
-   "id": "2026020084",
-   "start": "2026-10-11T21:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "VAN",
-    "name": "Vancouver Canucks",
-    "short": "Canucks"
-   },
-   "home": {
-    "abbrev": "NYR",
-    "name": "New York Rangers",
-    "short": "Rangers"
-   },
-   "id": "2026020085",
-   "start": "2026-10-11T22:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "CAR",
-    "name": "Carolina Hurricanes",
-    "short": "Hurricanes"
-   },
-   "home": {
-    "abbrev": "PHI",
-    "name": "Philadelphia Flyers",
-    "short": "Flyers"
-   },
-   "id": "2026020086",
-   "start": "2026-10-11T23:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
     "abbrev": "FLA",
     "name": "Florida Panthers",
     "short": "Panthers"
@@ -813,6 +765,38 @@
    },
    "id": "2026020134",
    "start": "2026-10-18T02:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "CBJ",
+    "name": "Columbus Blue Jackets",
+    "short": "Blue Jackets"
+   },
+   "home": {
+    "abbrev": "MIN",
+    "name": "Minnesota Wild",
+    "short": "Wild"
+   },
+   "id": "2026020135",
+   "start": "2026-10-18T22:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "CAR",
+    "name": "Carolina Hurricanes",
+    "short": "Hurricanes"
+   },
+   "home": {
+    "abbrev": "CGY",
+    "name": "Calgary Flames",
+    "short": "Flames"
+   },
+   "id": "2026020136",
+   "start": "2026-10-19T00:00:00Z",
    "state": "FUT",
    "type": 2
   }
@@ -3370,6 +3354,11 @@
     "name": "Noel Acciari"
    },
    {
+    "born": "2005-01-09",
+    "country": "CAN",
+    "name": "Oliver Bonk"
+   },
+   {
     "born": "1999-02-16",
     "country": "CAN",
     "name": "Owen Tippett"
@@ -4107,6 +4096,11 @@
     "name": "Kirill Marchenko"
    },
    {
+    "born": "1998-03-16",
+    "country": "CAN",
+    "name": "Marshall Rifai"
+   },
+   {
     "born": "1995-09-13",
     "country": "USA",
     "name": "Miles Wood"
@@ -4511,6 +4505,11 @@
     "born": "1995-07-18",
     "country": "SWE",
     "name": "Victor Olofsson"
+   },
+   {
+    "born": "2001-03-02",
+    "country": "FIN",
+    "name": "Ville Heinola"
    },
    {
     "born": "1993-01-08",
