@@ -209,6 +209,10 @@
      "nationality": "Morocco"
     },
     {
+     "name": "Yanik Spalt",
+     "nationality": "Austria"
+    },
+    {
      "name": "Jarzinho Malanga",
      "nationality": "Germany"
     },
@@ -241,20 +245,12 @@
      "nationality": "Germany"
     },
     {
-     "name": "Badredine Bouanani",
-     "nationality": "Algeria"
-    },
-    {
      "name": "Justin Diehl",
      "nationality": "Germany"
     },
     {
      "name": "Leo Sauer",
      "nationality": "Slovakia"
-    },
-    {
-     "name": "Jeremy",
-     "nationality": "Ecuador"
     }
    ]
   },
@@ -296,10 +292,6 @@
     {
      "name": "Leonardo Balerdi",
      "nationality": "Argentina"
-    },
-    {
-     "name": "Anass Salah-Eddine",
-     "nationality": "Morocco"
     },
     {
      "name": "Devyne Rensch",
@@ -360,6 +352,10 @@
     {
      "name": "Matias Soule",
      "nationality": "Argentina"
+    },
+    {
+     "name": "Antonio Arena",
+     "nationality": "Italy"
     }
    ]
   },
@@ -376,6 +372,10 @@
     },
     {
      "name": "Thomas Pompei",
+     "nationality": "Italy"
+    },
+    {
+     "name": "Mattia Sonzogni",
      "nationality": "Italy"
     },
     {
@@ -468,8 +468,116 @@
    "name": "Sabah FK",
    "players": [
     {
-     "name": "Rauf Rüstəmli",
+     "name": "Stas Pokatilov",
+     "nationality": "Kazakhstan"
+    },
+    {
+     "name": "Amin Ramazanov",
      "nationality": "Azerbaijan"
+    },
+    {
+     "name": "Ravan Mirzammadov",
+     "nationality": "Azerbaijan"
+    },
+    {
+     "name": "Akim Zedadka",
+     "nationality": "Algeria"
+    },
+    {
+     "name": "Tymoteusz Puchacz",
+     "nationality": "Poland"
+    },
+    {
+     "name": "Steve Solvet",
+     "nationality": "Guadeloupe"
+    },
+    {
+     "name": "Almeida",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Tellur Mutallimov",
+     "nationality": "Azerbaijan"
+    },
+    {
+     "name": "Rahman Dashdamirov",
+     "nationality": "Azerbaijan"
+    },
+    {
+     "name": "Godfred Boakye",
+     "nationality": "Belgium"
+    },
+    {
+     "name": "Aden Mccarthy",
+     "nationality": "South Africa"
+    },
+    {
+     "name": "Ivan Lepinjica",
+     "nationality": "Croatia"
+    },
+    {
+     "name": "Rodrigo Fernandes",
+     "nationality": "Portugal"
+    },
+    {
+     "name": "Zinédine Ould Khaled",
+     "nationality": "France"
+    },
+    {
+     "name": "Du Queiroz",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Rauf Rustamli",
+     "nationality": "Azerbaijan"
+    },
+    {
+     "name": "Aleksei Isayev",
+     "nationality": "Azerbaijan"
+    },
+    {
+     "name": "Umarali Rahmonaliyev",
+     "nationality": "Uzbekistan"
+    },
+    {
+     "name": "Abdulla Xaybulayev",
+     "nationality": "Azerbaijan"
+    },
+    {
+     "name": "Veljko Simić",
+     "nationality": "Serbia"
+    },
+    {
+     "name": "Joy Lance Mickels",
+     "nationality": "Germany"
+    },
+    {
+     "name": "Kaheem Parris",
+     "nationality": "Jamaica"
+    },
+    {
+     "name": "Carlos Eduardo",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Xander Severina",
+     "nationality": "Netherlands"
+    },
+    {
+     "name": "Christian Nwachukwu",
+     "nationality": "Nigeria"
+    },
+    {
+     "name": "Patrick Orphé Mbina",
+     "nationality": "Gabon"
+    },
+    {
+     "name": "Xayal Əliyev",
+     "nationality": "Azerbaijan"
+    },
+    {
+     "name": "Younes Lachaab",
+     "nationality": "France"
     }
    ]
   },
@@ -1889,6 +1997,10 @@
      "nationality": "Italy"
     },
     {
+     "name": "Claudio Pugliese",
+     "nationality": "Italy"
+    },
+    {
      "name": "Leonardo Spinazzola",
      "nationality": "Italy"
     },
@@ -1979,14 +2091,6 @@
     {
      "name": "Alisson Santos",
      "nationality": "Brazil"
-    },
-    {
-     "name": "Dinis Rodrigues",
-     "nationality": "Portugal"
-    },
-    {
-     "name": "Claudio Pugliese",
-     "nationality": "Italy"
     }
    ]
   },
@@ -3109,10 +3213,6 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Gabriel Mec",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Jefinho",
      "nationality": "Brazil"
     },
@@ -3138,6 +3238,10 @@
     },
     {
      "name": "Jeferson",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Gabriel Mec",
      "nationality": "Brazil"
     },
     {
@@ -5546,6 +5650,264 @@
     }
    ]
   },
+  "1887": {
+   "name": "FK Shakhtar Donetsk",
+   "players": [
+    {
+     "name": "Dmytro Riznyk",
+     "nationality": "Ukraine"
+    },
+    {
+     "name": "Kiril Fesiun",
+     "nationality": "Ukraine"
+    },
+    {
+     "name": "Tymur Puzankov",
+     "nationality": "Ukraine"
+    },
+    {
+     "name": "Denys Tvardovskyi",
+     "nationality": "Ukraine"
+    },
+    {
+     "name": "Marlon",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Mykola Matviienko",
+     "nationality": "Ukraine"
+    },
+    {
+     "name": "Valerii Bondar",
+     "nationality": "Ukraine"
+    },
+    {
+     "name": "Viktor Korniienko",
+     "nationality": "Ukraine"
+    },
+    {
+     "name": "Pedrinho",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Oleksandr Karavaev",
+     "nationality": "Ukraine"
+    },
+    {
+     "name": "Vinicius Tobias",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Irakli Azarovi",
+     "nationality": "Georgia"
+    },
+    {
+     "name": "Alan Matturro",
+     "nationality": "Uruguay"
+    },
+    {
+     "name": "Alaa Ghram",
+     "nationality": "Tunisia"
+    },
+    {
+     "name": "Dmytro Kryskiv",
+     "nationality": "Ukraine"
+    },
+    {
+     "name": "Marlon Gomes",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Oleg Ocheretko",
+     "nationality": "Ukraine"
+    },
+    {
+     "name": "Yegor Nazaryna",
+     "nationality": "Ukraine"
+    },
+    {
+     "name": "Viktor Tsukanov",
+     "nationality": "Ukraine"
+    },
+    {
+     "name": "Isaque",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Pedrinho",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Marian Shved",
+     "nationality": "Ukraine"
+    },
+    {
+     "name": "Lassina Franck Traoré",
+     "nationality": "Burkina Faso"
+    },
+    {
+     "name": "Eguinaldo",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Alisson Santana",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Elias Kaua",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Newerton",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Gleiker Mendoza",
+     "nationality": "Venezuela"
+    },
+    {
+     "name": "Prosper Obah",
+     "nationality": "Nigeria"
+    },
+    {
+     "name": "Luca Meirelles",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Lucas Ferreira",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Bruno Ramos",
+     "nationality": "Brazil"
+    }
+   ]
+  },
+  "1899": {
+   "name": "PAE AEK",
+   "players": [
+    {
+     "name": "Thomas Strakosha",
+     "nationality": "Albania"
+    },
+    {
+     "name": "Alberto Brignoli",
+     "nationality": "Italy"
+    },
+    {
+     "name": "Marios Balamotis",
+     "nationality": "Greece"
+    },
+    {
+     "name": "Harold Moukoudi",
+     "nationality": "Cameroon"
+    },
+    {
+     "name": "Babis Lykogiannis",
+     "nationality": "Greece"
+    },
+    {
+     "name": "Domagoj Vida",
+     "nationality": "Croatia"
+    },
+    {
+     "name": "Stavros Pilios",
+     "nationality": "Albania"
+    },
+    {
+     "name": "Llazaros Rota",
+     "nationality": "Greece"
+    },
+    {
+     "name": "Filipe Relvas",
+     "nationality": "Portugal"
+    },
+    {
+     "name": "Martin Georgiev",
+     "nationality": "Bulgaria"
+    },
+    {
+     "name": "Christos Alexiou",
+     "nationality": "Greece"
+    },
+    {
+     "name": "Spyros Christakopoulos",
+     "nationality": "Greece"
+    },
+    {
+     "name": "João Mário",
+     "nationality": "Portugal"
+    },
+    {
+     "name": "Mijat Gaćinović",
+     "nationality": "Serbia"
+    },
+    {
+     "name": "Răzvan Marin",
+     "nationality": "Romania"
+    },
+    {
+     "name": "Petros Mantalos",
+     "nationality": "Greece"
+    },
+    {
+     "name": "Lovro Majer",
+     "nationality": "Croatia"
+    },
+    {
+     "name": "Kaan Kairinen",
+     "nationality": "Finland"
+    },
+    {
+     "name": "Milán Vitális",
+     "nationality": "Hungary"
+    },
+    {
+     "name": "Kervin Arriaga",
+     "nationality": "Honduras"
+    },
+    {
+     "name": "Hakim Sahabo",
+     "nationality": "Rwanda"
+    },
+    {
+     "name": "Dimitrios Kaloskamis",
+     "nationality": "Greece"
+    },
+    {
+     "name": "Luka Jović",
+     "nationality": "Serbia"
+    },
+    {
+     "name": "Aboubakary Koita",
+     "nationality": "Mauritania"
+    },
+    {
+     "name": "Barnabás Varga",
+     "nationality": "Hungary"
+    },
+    {
+     "name": "Oleksandr Zubkov",
+     "nationality": "Ukraine"
+    },
+    {
+     "name": "Dereck Kutesa",
+     "nationality": "Switzerland"
+    },
+    {
+     "name": "Frantzdy Pierrot",
+     "nationality": "Haiti"
+    },
+    {
+     "name": "Zini",
+     "nationality": "Angola"
+    },
+    {
+     "name": "Zois Karargyris",
+     "nationality": "Greece"
+    }
+   ]
+  },
   "19": {
    "name": "Eintracht Frankfurt",
    "players": [
@@ -6309,6 +6671,115 @@
     }
    ]
   },
+  "2016": {
+   "name": "LASK Linz",
+   "players": [
+    {
+     "name": "Tobias Schützenauer",
+     "nationality": "Austria"
+    },
+    {
+     "name": "Lukas Jungwirth",
+     "nationality": "Austria"
+    },
+    {
+     "name": "Fabian Schillinger",
+     "nationality": "Austria"
+    },
+    {
+     "name": "Andrés Andrade",
+     "nationality": "Panama"
+    },
+    {
+     "name": "George Bello",
+     "nationality": "USA"
+    },
+    {
+     "name": "Kasper Mølgaard Jørgensen",
+     "nationality": "Denmark"
+    },
+    {
+     "name": "Xavier Mbuyamba",
+     "nationality": "Netherlands"
+    },
+    {
+     "name": "Daniel Elfadli",
+     "nationality": "Libya"
+    },
+    {
+     "name": "Ivan Dibango",
+     "nationality": "Cameroon"
+    },
+    {
+     "name": "Alemao",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Miguel Freckleton",
+     "nationality": "England"
+    },
+    {
+     "name": "Manoël Verhaeghe",
+     "nationality": "Belgium"
+    },
+    {
+     "name": "Cheikne Kébé",
+     "nationality": "Mali"
+    },
+    {
+     "name": "Alessandro Schöpf",
+     "nationality": "Austria"
+    },
+    {
+     "name": "Sascha Horvath",
+     "nationality": "Austria"
+    },
+    {
+     "name": "Florian Flecker",
+     "nationality": "Austria"
+    },
+    {
+     "name": "Robert Ljubicic",
+     "nationality": "Austria"
+    },
+    {
+     "name": "Melayro Bogarde",
+     "nationality": "Netherlands"
+    },
+    {
+     "name": "Krystof Daněk",
+     "nationality": "Czech Republic"
+    },
+    {
+     "name": "Art Smakaj",
+     "nationality": "Kosovo"
+    },
+    {
+     "name": "Saša Kalajdžić",
+     "nationality": "Austria"
+    },
+    {
+     "name": "Samuel Adeniran",
+     "nationality": "USA"
+    },
+    {
+     "name": "Christoph Lang",
+     "nationality": "Austria"
+    },
+    {
+     "name": "Moses Usor",
+     "nationality": "Nigeria"
+    },
+    {
+     "name": "Ramiz Harakaté",
+     "nationality": "France"
+    },
+    {
+     "name": "Nael Kane",
+     "nationality": "Canada"
+    }
+   ]
+  },
   "263": {
    "name": "Deportivo Alavés",
    "players": [
@@ -6967,10 +7438,6 @@
     },
     {
      "name": "Regan Slater",
-     "nationality": "England"
-    },
-    {
-     "name": "Matty Crooks",
      "nationality": "England"
     },
     {
@@ -10807,10 +11274,6 @@
      "nationality": "Germany"
     },
     {
-     "name": "David Daiber",
-     "nationality": "Portugal"
-    },
-    {
      "name": "Bara Ndiaye",
      "nationality": "Senegal"
     },
@@ -10848,8 +11311,8 @@
      "nationality": "Portugal"
     },
     {
-     "name": "João Afonso",
-     "nationality": "Portugal"
+     "name": "Chris Smalling",
+     "nationality": "England"
     },
     {
      "name": "Jan Bednarek",
@@ -10936,16 +11399,20 @@
      "nationality": "Spain"
     },
     {
-     "name": "Gabriel Veron",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Samu Omorodion",
      "nationality": "Spain"
     },
     {
      "name": "Oskar Pietuszewski",
      "nationality": "Poland"
+    },
+    {
+     "name": "Gabriel Mec",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Duarte Cunha",
+     "nationality": "Portugal"
     }
    ]
   },
@@ -11389,10 +11856,6 @@
    "name": "Lille OSC",
    "players": [
     {
-     "name": "Arnaud Bodart",
-     "nationality": "Belgium"
-    },
-    {
      "name": "Berke Özer",
      "nationality": "Turkey"
     },
@@ -11433,6 +11896,10 @@
      "nationality": "France"
     },
     {
+     "name": "Maxima Goffi",
+     "nationality": "France"
+    },
+    {
      "name": "Nabil Bentaleb",
      "nationality": "Algeria"
     },
@@ -11451,10 +11918,6 @@
     {
      "name": "Ngal'ayel Mukau",
      "nationality": "Congo DR"
-    },
-    {
-     "name": "Mohamed Bayo",
-     "nationality": "Guinea"
     },
     {
      "name": "Gaëtan Perrin",
@@ -14339,6 +14802,280 @@
     }
    ]
   },
+  "5720": {
+   "name": "Viking FK",
+   "players": [
+    {
+     "name": "Erlend Jacobsen",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Ľubomír Belko",
+     "nationality": "Slovakia"
+    },
+    {
+     "name": "Arild Östbö",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Kristoffer Haugen",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Viljar Vevatne",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Sondre Bjørshol",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Gianni Stensness",
+     "nationality": "Australia"
+    },
+    {
+     "name": "Jesper Daland",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Henrik Falchener",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Herman Haugen",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Henrik Heggheim",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Vetle Auklend",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Essiën Bassey",
+     "nationality": "Netherlands"
+    },
+    {
+     "name": "Jonathan Debes",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Mats Sekse Johannesen",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Anders Fiskum Larsen",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Elias Dahman",
+     "nationality": "Morocco"
+    },
+    {
+     "name": "Henrik Bjørdal",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Kristoffer Askildsen",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Joe Bell",
+     "nationality": "New Zealand"
+    },
+    {
+     "name": "Ruben Alte",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Simen Kvia-Egeskog",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Jakob Hansen",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Tobias Moi",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Ola Visted",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Jacob Middelthon",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Henrik Kvelvane",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Erik Botheim",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Zlatko Tripić",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Peter Christiansen",
+     "nationality": "Denmark"
+    },
+    {
+     "name": "Romano Postema",
+     "nationality": "Netherlands"
+    },
+    {
+     "name": "Edvin Austbø",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Niklas Fuglestad",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Kelvin Frimpong",
+     "nationality": "Ghana"
+    },
+    {
+     "name": "Amin Cosic",
+     "nationality": "Iceland"
+    },
+    {
+     "name": "Rasmus Gjelsvik Steigen",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Sondre Tveiten",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Christopher Salvesen-Svenning",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Sondre Bakken",
+     "nationality": "Norway"
+    }
+   ]
+  },
+  "5721": {
+   "name": "FK Bodø/Glimt",
+   "players": [
+    {
+     "name": "Julian Lund",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Nikita Haikin",
+     "nationality": "Russia"
+    },
+    {
+     "name": "Fredrik Bjørkan",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Odin Lurås Bjørtuft",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Jostein Gundersen",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Isak Määttä",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Fredrik Sjøvold",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Haitam Aleesami",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Villads Nielsen",
+     "nationality": "Denmark"
+    },
+    {
+     "name": "Mathias Olsen",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Kasper Solhaug",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Patrick Berg",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Ulrik Saltnes",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Joshua Kitolano",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Sondre Fet",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Sondre Auklend",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Magnus Riisnæs",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Teo Ingilæ",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Assan Sanyang",
+     "nationality": "Gambia"
+    },
+    {
+     "name": "Andreas Helmersen",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Jens Hauge",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Ola Brynhildsen",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Joel Mugisha",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Ole Blomberg",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Daniel Bassi",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Mikkel Hansen",
+     "nationality": "Denmark"
+    },
+    {
+     "name": "Hindrin Najah Chooly",
+     "nationality": "Norway"
+    }
+   ]
+  },
   "576": {
    "name": "RC Strasbourg Alsace",
    "players": [
@@ -15647,6 +16384,260 @@
     {
      "name": "Estevao",
      "nationality": "Brazil"
+    }
+   ]
+  },
+  "610": {
+   "name": "Galatasaray SK",
+   "players": [
+    {
+     "name": "Uğurcan Çakır",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Günay Güvenç",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Jankat Yilmaz",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Arda Yılmaz",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Ismail Jakobs",
+     "nationality": "Senegal"
+    },
+    {
+     "name": "Davinson Sánchez",
+     "nationality": "Colombia"
+    },
+    {
+     "name": "Kaan Ayhan",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Roland Sallai",
+     "nationality": "Hungary"
+    },
+    {
+     "name": "Abdülkerim Bardakcı",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Wilfried Singo",
+     "nationality": "Ivory Coast"
+    },
+    {
+     "name": "Kazımcan Karataş",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Evren Eren Elmalı",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "El Chadaille Bitshiabu",
+     "nationality": "France"
+    },
+    {
+     "name": "Arda Unyay",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Lucas Torreira",
+     "nationality": "Uruguay"
+    },
+    {
+     "name": "Ilkay Gündogan",
+     "nationality": "Germany"
+    },
+    {
+     "name": "Mario Lemina",
+     "nationality": "Gabon"
+    },
+    {
+     "name": "Chimuanya Ugochukwu",
+     "nationality": "France"
+    },
+    {
+     "name": "Gabriel Sara",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Eyup Aydin",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Aleksey Batrakov",
+     "nationality": "Russia"
+    },
+    {
+     "name": "Renato Nhaga",
+     "nationality": "Guinea-Bissau"
+    },
+    {
+     "name": "Leroy Sané",
+     "nationality": "Germany"
+    },
+    {
+     "name": "Victor Osimhen",
+     "nationality": "Nigeria"
+    },
+    {
+     "name": "Rafael Leão",
+     "nationality": "Portugal"
+    },
+    {
+     "name": "Yunus Akgün",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Baris Yilmaz",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Deniz Gul",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Berat Luş",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Can Güner",
+     "nationality": "Argentina"
+    },
+    {
+     "name": "Ada Yüzgeç",
+     "nationality": "Turkey"
+    }
+   ]
+  },
+  "613": {
+   "name": "Fenerbahçe SK",
+   "players": [
+    {
+     "name": "Ederson",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Mert Günok",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Tarık Çetin",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Kuzey Sapaz",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Milan Škriniar",
+     "nationality": "Slovakia"
+    },
+    {
+     "name": "Nathan Aké",
+     "nationality": "Netherlands"
+    },
+    {
+     "name": "Mert Müldür",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Nélson Semedo",
+     "nationality": "Portugal"
+    },
+    {
+     "name": "Levent Mercan",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Jayden Oosterwolde",
+     "nationality": "Netherlands"
+    },
+    {
+     "name": "Archie Brown",
+     "nationality": "England"
+    },
+    {
+     "name": "Yigit Efe Demir",
+     "nationality": "Turkiye"
+    },
+    {
+     "name": "Kojo Peprah Oppong",
+     "nationality": "Ghana"
+    },
+    {
+     "name": "Ognjen Mimović",
+     "nationality": "Serbia"
+    },
+    {
+     "name": "Marco Asensio",
+     "nationality": "Spain"
+    },
+    {
+     "name": "Mattéo Guendouzi",
+     "nationality": "France"
+    },
+    {
+     "name": "N'Golo Kanté",
+     "nationality": "France"
+    },
+    {
+     "name": "Mert Hakan Yandaş",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "İsmail Yüksek",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Bartuğ Elmaz",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "İrfan Kahveci",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Romelu Lukaku",
+     "nationality": "Belgium"
+    },
+    {
+     "name": "Vedat Muriqi",
+     "nationality": "Kosovo"
+    },
+    {
+     "name": "Mason Greenwood",
+     "nationality": "England"
+    },
+    {
+     "name": "Muhammed Kerem Aktürkoğlu",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Oguz Aydin",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Dorgeles Nene",
+     "nationality": "Mali"
+    },
+    {
+     "name": "Çağrı Balta",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Alaettin Ekici",
+     "nationality": "Turkey"
+    },
+    {
+     "name": "Amara Diouf",
+     "nationality": "Senegal"
     }
    ]
   },
@@ -17251,6 +18242,10 @@
      "nationality": "Netherlands"
     },
     {
+     "name": "Khadim Ngom",
+     "nationality": "Netherlands"
+    },
+    {
      "name": "Filip Kostić",
      "nationality": "Serbia"
     },
@@ -17307,15 +18302,11 @@
      "nationality": "Austria"
     },
     {
-     "name": "Isaac Babadi",
-     "nationality": "Netherlands"
-    },
-    {
      "name": "Kodai Sano",
      "nationality": "Japan"
     },
     {
-     "name": "Joel van den Berg",
+     "name": "Ayoni Santos",
      "nationality": "Netherlands"
     },
     {
@@ -17325,6 +18316,10 @@
     {
      "name": "Ivan Perišić",
      "nationality": "Croatia"
+    },
+    {
+     "name": "Sam Lammers",
+     "nationality": "Netherlands"
     },
     {
      "name": "Alassane Pléa",
@@ -17349,6 +18344,10 @@
     {
      "name": "Sami Ouaissa",
      "nationality": "Netherlands"
+    },
+    {
+     "name": "Mikkel Hansen",
+     "nationality": "Denmark"
     },
     {
      "name": "Amir Bouhamdi",
@@ -17382,10 +18381,6 @@
     {
      "name": "Bart Nieuwkoop",
      "nationality": "Netherlands"
-    },
-    {
-     "name": "Jordan Lotomba",
-     "nationality": "Switzerland"
     },
     {
      "name": "Mats Deijl",
@@ -17456,6 +18451,10 @@
      "nationality": "Netherlands"
     },
     {
+     "name": "Reiss Nelson",
+     "nationality": "England"
+    },
+    {
      "name": "Gonçalo Borges",
      "nationality": "Portugal"
     },
@@ -17476,16 +18475,12 @@
      "nationality": "Netherlands"
     },
     {
+     "name": "Jerayno Schaken",
+     "nationality": "Netherlands"
+    },
+    {
      "name": "Jivayno Zinhagel",
      "nationality": "Netherlands"
-    },
-    {
-     "name": "Dani Slory",
-     "nationality": "Netherlands"
-    },
-    {
-     "name": "Theodoros Delianidis",
-     "nationality": "Greece"
     }
    ]
   },
@@ -18146,6 +19141,10 @@
      "nationality": "Netherlands"
     },
     {
+     "name": "Ayoni Santos",
+     "nationality": "Netherlands"
+    },
+    {
      "name": "Younes Jaber El Meftahi",
      "nationality": "Netherlands"
     },
@@ -18167,10 +19166,6 @@
     },
     {
      "name": "Milan Zonneveld",
-     "nationality": "Netherlands"
-    },
-    {
-     "name": "Ayoni Santos",
      "nationality": "Netherlands"
     },
     {
@@ -18967,6 +19962,10 @@
     {
      "name": "Rachid Gomes",
      "nationality": "Cape Verde Islands"
+    },
+    {
+     "name": "Martim Duarte",
+     "nationality": "Portugal"
     }
    ]
   },
@@ -19486,10 +20485,6 @@
      "nationality": "Netherlands"
     },
     {
-     "name": "Arthur Vermeeren",
-     "nationality": "Belgium"
-    },
-    {
      "name": "Brajan Gruda",
      "nationality": "Germany"
     },
@@ -19536,10 +20531,6 @@
     {
      "name": "Samba Konaté",
      "nationality": "France"
-    },
-    {
-     "name": "Suleman Sani",
-     "nationality": "Nigeria"
     }
    ]
   },
@@ -19716,10 +20707,6 @@
      "nationality": "Spain"
     },
     {
-     "name": "Luca Mazzitelli",
-     "nationality": "Italy"
-    },
-    {
      "name": "Luis Milla",
      "nationality": "Spain"
     },
@@ -19764,10 +20751,6 @@
      "nationality": "Greece"
     },
     {
-     "name": "Suliman Mustapha",
-     "nationality": "Austria"
-    },
-    {
      "name": "Jayden Addai",
      "nationality": "Netherlands"
     },
@@ -19778,10 +20761,6 @@
     {
      "name": "Jesús Rodríguez",
      "nationality": "Spain"
-    },
-    {
-     "name": "Lorenzo Ginelli",
-     "nationality": "Italy"
     }
    ]
   },
@@ -20209,10 +21188,6 @@
     },
     {
      "name": "Arnau Ortiz",
-     "nationality": "Spain"
-    },
-    {
-     "name": "Carlos Martin",
      "nationality": "Spain"
     }
    ]
@@ -20682,10 +21657,6 @@
     {
      "name": "Jesse Bisiwu",
      "nationality": "Belgium"
-    },
-    {
-     "name": "Iker Rodríguez",
-     "nationality": "Spain"
     }
    ]
   },
@@ -20903,6 +21874,119 @@
     },
     {
      "name": "Chupete",
+     "nationality": "Spain"
+    }
+   ]
+  },
+  "851": {
+   "name": "Club Brugge KV",
+   "players": [
+    {
+     "name": "Yann Sommer",
+     "nationality": "Switzerland"
+    },
+    {
+     "name": "Nordin Jackers",
+     "nationality": "Belgium"
+    },
+    {
+     "name": "Argus Vanden Driessche",
+     "nationality": "Belgium"
+    },
+    {
+     "name": "Axl De Corte",
+     "nationality": "Belgium"
+    },
+    {
+     "name": "Brandon Mechele",
+     "nationality": "Belgium"
+    },
+    {
+     "name": "Hugo Siquet",
+     "nationality": "Belgium"
+    },
+    {
+     "name": "Jorne Spileers",
+     "nationality": "Belgium"
+    },
+    {
+     "name": "Matteo Dams",
+     "nationality": "Belgium"
+    },
+    {
+     "name": "Joel Ordoñez",
+     "nationality": "Ecuador"
+    },
+    {
+     "name": "Kyriani Sabbe",
+     "nationality": "Belgium"
+    },
+    {
+     "name": "Joaquin Seys",
+     "nationality": "Belgium"
+    },
+    {
+     "name": "Han-bum Lee",
+     "nationality": "South Korea"
+    },
+    {
+     "name": "Samba Coulibaly",
+     "nationality": "France"
+    },
+    {
+     "name": "Hans Vanaken",
+     "nationality": "Belgium"
+    },
+    {
+     "name": "Hugo Vetlesen",
+     "nationality": "Belgium"
+    },
+    {
+     "name": "Lynnt Audoor",
+     "nationality": "Belgium"
+    },
+    {
+     "name": "Felix Lemarechal",
+     "nationality": "France"
+    },
+    {
+     "name": "Freddie Potts",
+     "nationality": "England"
+    },
+    {
+     "name": "Cheveyo Tsawa",
+     "nationality": "Switzerland"
+    },
+    {
+     "name": "Tian Koren",
+     "nationality": "Slovenia"
+    },
+    {
+     "name": "Romeo Vermant",
+     "nationality": "Germany"
+    },
+    {
+     "name": "Nicolo Tresoldi",
+     "nationality": "Italy"
+    },
+    {
+     "name": "Mamadou Diakhon",
+     "nationality": "Senegal"
+    },
+    {
+     "name": "Carlos Forbs",
+     "nationality": "Portugal"
+    },
+    {
+     "name": "Andrej Vasovic",
+     "nationality": "Switzerland"
+    },
+    {
+     "name": "Wisdom Mike",
+     "nationality": "Germany"
+    },
+    {
+     "name": "Jan Virgili",
      "nationality": "Spain"
     }
    ]
@@ -21314,6 +22398,10 @@
      "nationality": "Spain"
     },
     {
+     "name": "Iker Losada",
+     "nationality": "Spain"
+    },
+    {
      "name": "Nelson Deossa",
      "nationality": "Colombia"
     },
@@ -21332,10 +22420,6 @@
     {
      "name": "Antony",
      "nationality": "Brazil"
-    },
-    {
-     "name": "Iker Losada",
-     "nationality": "Spain"
     },
     {
      "name": "Rodrigo Riquelme",
@@ -21557,15 +22641,111 @@
    "name": "SK Slavia Praha",
    "players": [
     {
+     "name": "Ondřej Kolar",
+     "nationality": "Czech Republic"
+    },
+    {
+     "name": "Jakub Markovič",
+     "nationality": "Czech Republic"
+    },
+    {
+     "name": "Nazar Domchak",
+     "nationality": "Ukraine"
+    },
+    {
+     "name": "Tomáš Holeš",
+     "nationality": "Czech Republic"
+    },
+    {
+     "name": "Tomáš Vlček",
+     "nationality": "Czech Republic"
+    },
+    {
+     "name": "David Zima",
+     "nationality": "Czech Republic"
+    },
+    {
+     "name": "David Jurásek",
+     "nationality": "Czech Republic"
+    },
+    {
+     "name": "Igoh Ogbu",
+     "nationality": "Nigeria"
+    },
+    {
+     "name": "Ange N'Guessan",
+     "nationality": "France"
+    },
+    {
+     "name": "Mikuláš Konečný",
+     "nationality": "Czech Republic"
+    },
+    {
+     "name": "Štěpán Chaloupek",
+     "nationality": "Czech Republic"
+    },
+    {
+     "name": "Jakub Kolísek",
+     "nationality": "Czech Republic"
+    },
+    {
+     "name": "Eliáš Piták",
+     "nationality": "Czech Republic"
+    },
+    {
+     "name": "Hamidou Kante",
+     "nationality": "Senegal"
+    },
+    {
+     "name": "Samuel Isife",
+     "nationality": "Nigeria"
+    },
+    {
+     "name": "Michal Sadílek",
+     "nationality": "Czech Republic"
+    },
+    {
+     "name": "David Moses",
+     "nationality": "Nigeria"
+    },
+    {
+     "name": "Toumani Diakité",
+     "nationality": "Ivory Coast"
+    },
+    {
+     "name": "Mubarak Suleiman",
+     "nationality": "Nigeria"
+    },
+    {
+     "name": "Oskar Kubiak",
+     "nationality": "Poland"
+    },
+    {
      "name": "Wiktor Nowak",
      "nationality": "Poland"
     },
     {
-     "name": "David Barčot",
+     "name": "Tomáš Chorý",
      "nationality": "Czech Republic"
     },
     {
-     "name": "Karel Belžík",
+     "name": "Ivan Schranz",
+     "nationality": "Slovakia"
+    },
+    {
+     "name": "Mojmír Chytil",
+     "nationality": "Czech Republic"
+    },
+    {
+     "name": "Lukáš Provod",
+     "nationality": "Czech Republic"
+    },
+    {
+     "name": "Danijel Sturm",
+     "nationality": "Slovenia"
+    },
+    {
+     "name": "Pavel Kačor",
      "nationality": "Czech Republic"
     },
     {
@@ -21573,12 +22753,8 @@
      "nationality": "Nigeria"
     },
     {
-     "name": "Pavel Kačor",
-     "nationality": "Czech Republic"
-    },
-    {
-     "name": "Oskar Kubiak",
-     "nationality": "Poland"
+     "name": "Adonija Ouanda",
+     "nationality": "Canada"
     }
    ]
   },
@@ -21680,6 +22856,10 @@
     {
      "name": "Tani Oluwaseyi",
      "nationality": "Canada"
+    },
+    {
+     "name": "Nízar El Jmili",
+     "nationality": "Spain"
     }
    ]
   },

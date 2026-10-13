@@ -2,54 +2,6 @@
  "games": [
   {
    "away": {
-    "abbrev": "FLA",
-    "name": "Florida Panthers",
-    "short": "Panthers"
-   },
-   "home": {
-    "abbrev": "BUF",
-    "name": "Buffalo Sabres",
-    "short": "Sabres"
-   },
-   "id": "2026020087",
-   "start": "2026-10-12T17:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "OTT",
-    "name": "Ottawa Senators",
-    "short": "Senators"
-   },
-   "home": {
-    "abbrev": "NJD",
-    "name": "New Jersey Devils",
-    "short": "Devils"
-   },
-   "id": "2026020088",
-   "start": "2026-10-12T23:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "VGK",
-    "name": "Vegas Golden Knights",
-    "short": "Golden Knights"
-   },
-   "home": {
-    "abbrev": "MIN",
-    "name": "Minnesota Wild",
-    "short": "Wild"
-   },
-   "id": "2026020089",
-   "start": "2026-10-13T00:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
     "abbrev": "NJD",
     "name": "New Jersey Devils",
     "short": "Devils"
@@ -797,6 +749,70 @@
    },
    "id": "2026020136",
    "start": "2026-10-19T00:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "ANA",
+    "name": "Anaheim Ducks",
+    "short": "Ducks"
+   },
+   "home": {
+    "abbrev": "NYR",
+    "name": "New York Rangers",
+    "short": "Rangers"
+   },
+   "id": "2026020137",
+   "start": "2026-10-19T23:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "COL",
+    "name": "Colorado Avalanche",
+    "short": "Avalanche"
+   },
+   "home": {
+    "abbrev": "PHI",
+    "name": "Philadelphia Flyers",
+    "short": "Flyers"
+   },
+   "id": "2026020138",
+   "start": "2026-10-19T23:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "SJS",
+    "name": "San Jose Sharks",
+    "short": "Sharks"
+   },
+   "home": {
+    "abbrev": "TOR",
+    "name": "Toronto Maple Leafs",
+    "short": "Maple Leafs"
+   },
+   "id": "2026020139",
+   "start": "2026-10-19T23:30:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "PIT",
+    "name": "Pittsburgh Penguins",
+    "short": "Penguins"
+   },
+   "home": {
+    "abbrev": "UTA",
+    "name": "Utah Mammoth",
+    "short": "Mammoth"
+   },
+   "id": "2026020140",
+   "start": "2026-10-20T01:00:00Z",
    "state": "FUT",
    "type": 2
   }
@@ -2353,11 +2369,6 @@
     "name": "Erik Haula"
    },
    {
-    "born": "2002-11-22",
-    "country": "USA",
-    "name": "Jared Wright"
-   },
-   {
     "born": "1993-05-31",
     "country": "FIN",
     "name": "Joel Armia"
@@ -2523,6 +2534,11 @@
     "born": "1994-09-20",
     "country": "USA",
     "name": "Ryan Hartman"
+   },
+   {
+    "born": "1991-11-01",
+    "country": "USA",
+    "name": "Tyler Pitlick"
    },
    {
     "born": "1997-01-13",
@@ -3277,11 +3293,6 @@
     "born": "2001-01-05",
     "country": "USA",
     "name": "Cam York"
-   },
-   {
-    "born": "1997-12-01",
-    "country": "SWE",
-    "name": "Carl Grundstrom"
    },
    {
     "born": "1996-02-02",
