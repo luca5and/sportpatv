@@ -2,38 +2,6 @@
  "games": [
   {
    "away": {
-    "abbrev": "MTL",
-    "name": "Montréal Canadiens",
-    "short": "Canadiens"
-   },
-   "home": {
-    "abbrev": "WSH",
-    "name": "Washington Capitals",
-    "short": "Capitals"
-   },
-   "id": "2026020106",
-   "start": "2026-10-14T23:30:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "DAL",
-    "name": "Dallas Stars",
-    "short": "Stars"
-   },
-   "home": {
-    "abbrev": "COL",
-    "name": "Colorado Avalanche",
-    "short": "Avalanche"
-   },
-   "id": "2026020107",
-   "start": "2026-10-15T00:30:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
     "abbrev": "BUF",
     "name": "Buffalo Sabres",
     "short": "Sabres"
@@ -735,6 +703,38 @@
    "start": "2026-10-21T02:30:00Z",
    "state": "FUT",
    "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "PHI",
+    "name": "Philadelphia Flyers",
+    "short": "Flyers"
+   },
+   "home": {
+    "abbrev": "BUF",
+    "name": "Buffalo Sabres",
+    "short": "Sabres"
+   },
+   "id": "2026020152",
+   "start": "2026-10-21T23:30:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "FLA",
+    "name": "Florida Panthers",
+    "short": "Panthers"
+   },
+   "home": {
+    "abbrev": "OTT",
+    "name": "Ottawa Senators",
+    "short": "Senators"
+   },
+   "id": "2026020153",
+   "start": "2026-10-21T23:30:00Z",
+   "state": "FUT",
+   "type": 2
   }
  ],
  "rosters": {
@@ -1119,6 +1119,11 @@
     "born": "2000-03-26",
     "country": "RUS",
     "name": "Andrei Svechnikov"
+   },
+   {
+    "born": "2005-05-05",
+    "country": "CAN",
+    "name": "Bradly Nadeau"
    },
    {
     "born": "1998-06-25",
@@ -1627,6 +1632,11 @@
     "born": "1992-11-23",
     "country": "SWE",
     "name": "Gabriel Landeskog"
+   },
+   {
+    "born": "2004-10-05",
+    "country": "USA",
+    "name": "Gavin Brindley"
    },
    {
     "born": "1992-06-25",
@@ -2523,6 +2533,11 @@
     "name": "Cole Caufield"
    },
    {
+    "born": "2004-10-25",
+    "country": "AUT",
+    "name": "David Reinbacher"
+   },
+   {
     "born": "2004-06-27",
     "country": "CAN",
     "name": "Florian Xhekaj"
@@ -3006,11 +3021,6 @@
     "name": "Braden Schneider"
    },
    {
-    "born": "2006-04-24",
-    "country": "CAN",
-    "name": "Cole Beaudoin"
-   },
-   {
     "born": "2002-06-07",
     "country": "CAN",
     "name": "Dylan Garand"
@@ -3049,6 +3059,11 @@
     "born": "2000-01-13",
     "country": "CAN",
     "name": "Joseph Veleno"
+   },
+   {
+    "born": "1990-10-01",
+    "country": "CAN",
+    "name": "Justin Dowling"
    },
    {
     "born": "1996-05-08",
@@ -3099,11 +3114,6 @@
     "born": "2001-04-30",
     "country": "CAN",
     "name": "Tye Kartye"
-   },
-   {
-    "born": "2002-11-14",
-    "country": "CAN",
-    "name": "Vincent Iorio"
    },
    {
     "born": "1995-11-21",
@@ -3955,11 +3965,6 @@
     "name": "John Carlson"
    },
    {
-    "born": "2000-12-13",
-    "country": "DNK",
-    "name": "Mads Sogaard"
-   },
-   {
     "born": "2000-04-19",
     "country": "CAN",
     "name": "Max Crozier"
@@ -4476,11 +4481,6 @@
     "born": "1995-07-18",
     "country": "SWE",
     "name": "Victor Olofsson"
-   },
-   {
-    "born": "2001-03-02",
-    "country": "FIN",
-    "name": "Ville Heinola"
    },
    {
     "born": "1993-01-08",
