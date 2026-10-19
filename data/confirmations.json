@@ -118,6 +118,39 @@
       "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
       "source_2": "https://teknikveckan.se/nhl-drar-igang-pa-disney-i-oktober",
       "checked": "2026-10-15"
+    },
+    "nhl-2026020142": {
+      "title": "New Jersey – Colorado, natt mot 21 okt 01.00",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+      "single_source": true,
+      "note": "Teknikveckan anger också Disney+, men tvmatchen.nu anger Viaplay och Macken ett annat datum.",
+      "checked": "2026-10-19"
+    },
+    "nhl-2026020155": {
+      "title": "Toronto – NY Rangers, natt mot 23 okt 01.00",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://www.macken.xyz/2026/09/svenskar-pa-isen-nar-nhl-startar-pa-disney/",
+      "source_2": "https://teknikveckan.se/nhl-drar-igang-pa-disney-i-oktober",
+      "checked": "2026-10-19"
+    },
+    "nhl-2026020169": {
+      "title": "New Jersey – Los Angeles, 24 okt 21.30",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+      "source_2": "https://teknikveckan.se/nhl-drar-igang-pa-disney-i-oktober",
+      "checked": "2026-10-19"
+    },
+    "nhl-2026020171": {
+      "title": "Ottawa – NY Rangers, natt mot 25 okt 01.00",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+      "source_2": "https://www.macken.xyz/2026/09/svenskar-pa-isen-nar-nhl-startar-pa-disney/",
+      "checked": "2026-10-19"
     }
   }
 }
