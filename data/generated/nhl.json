@@ -2,38 +2,6 @@
  "games": [
   {
    "away": {
-    "abbrev": "CBJ",
-    "name": "Columbus Blue Jackets",
-    "short": "Blue Jackets"
-   },
-   "home": {
-    "abbrev": "MIN",
-    "name": "Minnesota Wild",
-    "short": "Wild"
-   },
-   "id": "2026020135",
-   "start": "2026-10-18T22:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "CAR",
-    "name": "Carolina Hurricanes",
-    "short": "Hurricanes"
-   },
-   "home": {
-    "abbrev": "CGY",
-    "name": "Calgary Flames",
-    "short": "Flames"
-   },
-   "id": "2026020136",
-   "start": "2026-10-19T00:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
     "abbrev": "ANA",
     "name": "Anaheim Ducks",
     "short": "Ducks"
@@ -717,6 +685,86 @@
    },
    "id": "2026020179",
    "start": "2026-10-25T02:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "FLA",
+    "name": "Florida Panthers",
+    "short": "Panthers"
+   },
+   "home": {
+    "abbrev": "CHI",
+    "name": "Chicago Blackhawks",
+    "short": "Blackhawks"
+   },
+   "id": "2026020180",
+   "start": "2026-10-25T19:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "NYI",
+    "name": "New York Islanders",
+    "short": "Islanders"
+   },
+   "home": {
+    "abbrev": "DAL",
+    "name": "Dallas Stars",
+    "short": "Stars"
+   },
+   "id": "2026020181",
+   "start": "2026-10-25T22:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "MTL",
+    "name": "Montréal Canadiens",
+    "short": "Canadiens"
+   },
+   "home": {
+    "abbrev": "WPG",
+    "name": "Winnipeg Jets",
+    "short": "Jets"
+   },
+   "id": "2026020182",
+   "start": "2026-10-25T23:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "COL",
+    "name": "Colorado Avalanche",
+    "short": "Avalanche"
+   },
+   "home": {
+    "abbrev": "NSH",
+    "name": "Nashville Predators",
+    "short": "Predators"
+   },
+   "id": "2026020183",
+   "start": "2026-10-26T00:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "MIN",
+    "name": "Minnesota Wild",
+    "short": "Wild"
+   },
+   "home": {
+    "abbrev": "VAN",
+    "name": "Vancouver Canucks",
+    "short": "Canucks"
+   },
+   "id": "2026020184",
+   "start": "2026-10-26T02:00:00Z",
    "state": "FUT",
    "type": 2
   }
@@ -1887,11 +1935,6 @@
     "name": "J.T. Compher"
    },
    {
-    "born": "2000-06-30",
-    "country": "CAN",
-    "name": "Jacob Bernard-Docker"
-   },
-   {
     "born": "1993-07-14",
     "country": "USA",
     "name": "John Gibson"
@@ -2365,6 +2408,11 @@
     "name": "Calvin Pickard"
    },
    {
+    "born": "2003-01-14",
+    "country": "CAN",
+    "name": "Carson Lambos"
+   },
+   {
     "born": "2002-05-15",
     "country": "CAN",
     "name": "Daemon Hunt"
@@ -2383,6 +2431,11 @@
     "born": "1998-06-07",
     "country": "SWE",
     "name": "Filip Gustavsson"
+   },
+   {
+    "born": "2004-04-04",
+    "country": "CAN",
+    "name": "Hunter Haight"
    },
    {
     "born": "1989-11-29",
@@ -3259,11 +3312,6 @@
     "name": "Garrett Wilson"
    },
    {
-    "born": "2002-05-10",
-    "country": "SWE",
-    "name": "Helge Grans"
-   },
-   {
     "born": "1999-02-18",
     "country": "CAN",
     "name": "Jack Studnicka"
@@ -3444,11 +3492,6 @@
     "born": "1993-05-05",
     "country": "SWE",
     "name": "Rickard Rakell"
-   },
-   {
-    "born": "2001-07-24",
-    "country": "USA",
-    "name": "Ryan Johnson"
    },
    {
     "born": "1998-05-12",
@@ -3832,6 +3875,11 @@
     "name": "Mason McTavish"
    },
    {
+    "born": "2005-05-29",
+    "country": "SWE",
+    "name": "Otto Stenberg"
+   },
+   {
     "born": "1995-04-17",
     "country": "RUS",
     "name": "Pavel Buchnevich"
@@ -4104,6 +4152,11 @@
     "born": "1994-04-07",
     "country": "CAN",
     "name": "Troy Stecher"
+   },
+   {
+    "born": "1995-02-06",
+    "country": "USA",
+    "name": "Vinni Lettieri"
    },
    {
     "born": "1996-05-01",
