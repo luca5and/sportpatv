@@ -1432,10 +1432,6 @@
      "nationality": "England"
     },
     {
-     "name": "Kacper Pasiek",
-     "nationality": "Poland"
-    },
-    {
      "name": "Alistair McCann",
      "nationality": "Northern Ireland"
     },
@@ -1460,10 +1456,6 @@
      "nationality": "Ireland"
     },
     {
-     "name": "Kaedyn Kamara",
-     "nationality": "England"
-    },
-    {
      "name": "Theo Carroll",
      "nationality": "England"
     },
@@ -1486,10 +1478,6 @@
     {
      "name": "Stanley Mills",
      "nationality": "England"
-    },
-    {
-     "name": "Max Wilson",
-     "nationality": "Northern Ireland"
     }
    ]
   },
@@ -1873,10 +1861,6 @@
     },
     {
      "name": "George Wickens",
-     "nationality": "England"
-    },
-    {
-     "name": "Adam Jackson",
      "nationality": "England"
     },
     {
@@ -2715,14 +2699,6 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Gustavo Ramalho",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Lucas Emanuel",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Samuel Xavier",
      "nationality": "Brazil"
     },
@@ -2732,6 +2708,10 @@
     },
     {
      "name": "Renê",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Thiago Silva",
      "nationality": "Brazil"
     },
     {
@@ -2751,7 +2731,11 @@
      "nationality": "Argentina"
     },
     {
-     "name": "Julio Cesar",
+     "name": "Julián Millán",
+     "nationality": "Colombia"
+    },
+    {
+     "name": "Jhonny",
      "nationality": "Brazil"
     },
     {
@@ -2759,7 +2743,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Davi Schuindt",
+     "name": "Leonardo Jance",
      "nationality": "Brazil"
     },
     {
@@ -2775,14 +2759,6 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Yeferson Soteldo",
-     "nationality": "Venezuela"
-    },
-    {
-     "name": "David Terans",
-     "nationality": "Uruguay"
-    },
-    {
      "name": "Nonato",
      "nationality": "Brazil"
     },
@@ -2795,43 +2771,19 @@
      "nationality": "Venezuela"
     },
     {
-     "name": "Julián Millán",
-     "nationality": "Colombia"
-    },
-    {
      "name": "Hércules",
      "nationality": "Brazil"
     },
     {
-     "name": "Martinelli",
+     "name": "Matheus Martinelli",
      "nationality": "Brazil"
     },
     {
-     "name": "João Pedro",
+     "name": "Yago",
      "nationality": "Brazil"
     },
     {
-     "name": "Facundo Bernal",
-     "nationality": "Uruguay"
-    },
-    {
-     "name": "Kaio",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Breno",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Davi Melo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Vagno",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Naarã Teixeira",
+     "name": "Luis Fernando",
      "nationality": "Brazil"
     },
     {
@@ -2843,11 +2795,15 @@
      "nationality": "Argentina"
     },
     {
+     "name": "Yeferson Soteldo",
+     "nationality": "Venezuela"
+    },
+    {
      "name": "Agustín Canobbio",
      "nationality": "Uruguay"
     },
     {
-     "name": "Yago",
+     "name": "John Kennedy",
      "nationality": "Brazil"
     },
     {
@@ -2859,10 +2815,6 @@
      "nationality": "Argentina"
     },
     {
-     "name": "Agner Moura",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Matheus Reis",
      "nationality": "Mexico"
     },
@@ -2871,27 +2823,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Oliver",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Keven Samuel",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Wesley Natã",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Kelwin",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "John Kennedy",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Ruan Sales",
      "nationality": "Brazil"
     }
    ]
@@ -2916,7 +2848,11 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Kaio de Assis",
+     "name": "Léo Duarte",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Renan Lodi",
      "nationality": "Brazil"
     },
     {
@@ -2924,35 +2860,19 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Júnior Alonso",
-     "nationality": "Paraguay"
+     "name": "Lyanco",
+     "nationality": "Brazil"
     },
     {
      "name": "Ángelo Preciado",
      "nationality": "Ecuador"
     },
     {
+     "name": "Ruan",
+     "nationality": "Brazil"
+    },
+    {
      "name": "Natanael",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Iván Román",
-     "nationality": "Chile"
-    },
-    {
-     "name": "Igor",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Samuel",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Vitor Fernandes",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Luís Gustavo",
      "nationality": "Brazil"
     },
     {
@@ -2964,16 +2884,12 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Bernard",
+     "name": "Fred",
      "nationality": "Brazil"
     },
     {
      "name": "Alan Franco",
      "nationality": "Ecuador"
-    },
-    {
-     "name": "Tomás Cuello",
-     "nationality": "Argentina"
     },
     {
      "name": "Gustavo Scarpa",
@@ -2984,12 +2900,16 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Victor Hugo Gomes",
+     "name": "Reinier",
      "nationality": "Brazil"
     },
     {
-     "name": "Alan Minda",
-     "nationality": "Ecuador"
+     "name": "Kevin Castaño",
+     "nationality": "Colombia"
+    },
+    {
+     "name": "Victor Hugo Gomes",
+     "nationality": "Brazil"
     },
     {
      "name": "Alexsander Gomes",
@@ -3000,40 +2920,8 @@
      "nationality": "Argentina"
     },
     {
-     "name": "Patrick Silva",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "José Phelipe",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Hendel",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Lucas Louback",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Mateus Iseppe",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Wallysson Freitas",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Murillo Cardoso",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Mamady Cissé",
      "nationality": "Guinea"
-    },
-    {
-     "name": "Lucas Silva",
-     "nationality": "Brazil"
     },
     {
      "name": "Dudu",
@@ -3044,44 +2932,20 @@
      "nationality": "Colombia"
     },
     {
-     "name": "Eric Soares",
+     "name": "Bernard",
      "nationality": "Brazil"
     },
     {
-     "name": "Ryan Felipe",
-     "nationality": "Brazil"
+     "name": "Tomás Cuello",
+     "nationality": "Argentina"
     },
     {
-     "name": "João Castro",
-     "nationality": "Brazil"
+     "name": "Thiago Borbas",
+     "nationality": "Uruguay"
     },
     {
-     "name": "Cauã Campos",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Riquelme Henrique",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Ruan",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Reinier",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Lyanco",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Renan Lodi",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Pedro Lemos",
-     "nationality": "Brazil"
+     "name": "Alan Minda",
+     "nationality": "Ecuador"
     }
    ]
   },
@@ -3278,23 +3142,15 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Maksym Voronov",
-     "nationality": "Ukraine"
+     "name": "Gilberto",
+     "nationality": "Brazil"
     },
     {
      "name": "Léo",
      "nationality": "Brazil"
     },
     {
-     "name": "Dudu",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Juan Aguirre",
-     "nationality": "Colombia"
-    },
-    {
-     "name": "Alejandro García",
      "nationality": "Colombia"
     },
     {
@@ -3314,11 +3170,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Filipinho",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Marcos Andre",
+     "name": "Dantas",
      "nationality": "Brazil"
     },
     {
@@ -3330,11 +3182,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Murilo Camargo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Claudio Henrique",
+     "name": "Claudinho",
      "nationality": "Brazil"
     },
     {
@@ -3346,6 +3194,10 @@
      "nationality": "Brazil"
     },
     {
+     "name": "Alejandro García",
+     "nationality": "Colombia"
+    },
+    {
      "name": "Bruno Zapelli",
      "nationality": "Argentina"
     },
@@ -3354,7 +3206,7 @@
      "nationality": "Colombia"
     },
     {
-     "name": "Isaac",
+     "name": "Filipinho",
      "nationality": "Brazil"
     },
     {
@@ -3374,43 +3226,23 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Vitinho",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Lucas Marezi",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Gustavo Veiga",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Stabelini",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Guilherme Back",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Benjamín Brito",
-     "nationality": "Argentina"
-    },
-    {
-     "name": "Lima",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Julimar",
-     "nationality": "Brazil"
+     "name": "Stiven Mendoza",
+     "nationality": "Colombia"
     },
     {
      "name": "Renan",
      "nationality": "Brazil"
     },
     {
+     "name": "Kerwin Vargas",
+     "nationality": "Colombia"
+    },
+    {
      "name": "Kevin Viveros",
+     "nationality": "Colombia"
+    },
+    {
+     "name": "Jorge Rivaldo",
      "nationality": "Colombia"
     },
     {
@@ -3420,30 +3252,6 @@
     {
      "name": "Leozinho",
      "nationality": "Brazil"
-    },
-    {
-     "name": "Kayke",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Sorriso",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Bruno Ramos",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Lucas Amorim",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Juliano Santini",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Stiven Mendoza",
-     "nationality": "Colombia"
     }
    ]
   },
@@ -3459,15 +3267,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Wanderson Ferreira",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Luiz Sá",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Kauan Lima",
+     "name": "Bruno Bertinato",
      "nationality": "Brazil"
     },
     {
@@ -3503,28 +3303,12 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Luis Gustavo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Arthur Santana",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Meykson Silmark",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Koné Zié Mohamed",
-     "nationality": "Ivory Coast"
-    },
-    {
      "name": "Marlon Freitas",
      "nationality": "Brazil"
     },
     {
-     "name": "Jhon Arias",
-     "nationality": "Colombia"
+     "name": "Andreas Pereira",
+     "nationality": "Brazil"
     },
     {
      "name": "Lucas Evangelista",
@@ -3539,23 +3323,7 @@
      "nationality": "Uruguay"
     },
     {
-     "name": "Vitor de Almeida",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Vitor Figueiredo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Victor Gabriel",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Rafael Coutinho",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Erick Machado",
+     "name": "Larson",
      "nationality": "Brazil"
     },
     {
@@ -3563,16 +3331,16 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Gabriel Silva",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Eduardo Conceição",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Paulinho",
      "nationality": "Brazil"
+    },
+    {
+     "name": "Felipe Anderson",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Jhon Arias",
+     "nationality": "Colombia"
     },
     {
      "name": "Ramón Sosa",
@@ -3583,40 +3351,8 @@
      "nationality": "Argentina"
     },
     {
-     "name": "Luighi Hanri",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Riquelme Fillipi",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Larson",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Allan",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Heittor da Silva",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Vítor Roque",
      "nationality": "Brazil"
-    },
-    {
-     "name": "Andreas Pereira",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Felipe Anderson",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Miguel Bilong",
-     "nationality": "Cameroon"
     }
    ]
   },
@@ -3624,15 +3360,11 @@
    "name": "Botafogo FR",
    "players": [
     {
-     "name": "Neto",
+     "name": "Gabriel Batista",
      "nationality": "Brazil"
     },
     {
-     "name": "Raul",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Leo Linck",
+     "name": "Warleson",
      "nationality": "Brazil"
     },
     {
@@ -3640,15 +3372,15 @@
      "nationality": "Ecuador"
     },
     {
-     "name": "Rhyan Luca",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Vitinho",
      "nationality": "Brazil"
     },
     {
      "name": "Marçal",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Paulinho",
      "nationality": "Brazil"
     },
     {
@@ -3664,67 +3396,35 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Caio Roque",
-     "nationality": "Brazil"
+     "name": "Lucas Monzón",
+     "nationality": "Uruguay"
     },
     {
      "name": "Mateo Ponte",
      "nationality": "Uruguay"
     },
     {
-     "name": "Bastos",
-     "nationality": "Angola"
+     "name": "Arthur Chaves",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Kawan",
+     "nationality": "Brazil"
     },
     {
      "name": "Jhoan Hernández",
      "nationality": "Colombia"
     },
     {
-     "name": "Ythallo",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Anthony",
      "nationality": "Brazil"
     },
     {
-     "name": "Wallace",
+     "name": "Kadu Santos",
      "nationality": "Brazil"
     },
     {
-     "name": "Victor Hugo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Caio Valle",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Carlos Santos",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Gabriel Pereira",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Gabriel Abdias",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Marcos Vinagre",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Pedro de Paula",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "João Lira",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Arthur Alves",
+     "name": "Gabriel Justino",
      "nationality": "Brazil"
     },
     {
@@ -3736,16 +3436,48 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Santiago Rodríguez",
-     "nationality": "Uruguay"
-    },
-    {
      "name": "Danilo dos Santos de Oliveira",
      "nationality": "Brazil"
     },
     {
      "name": "Cristian Medina",
      "nationality": "Argentina"
+    },
+    {
+     "name": "Jordan Barrera",
+     "nationality": "Colombia"
+    },
+    {
+     "name": "Domingos Andrade",
+     "nationality": "Angola"
+    },
+    {
+     "name": "Wallace",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Huguinho",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Arthur Cabral",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Hakim Ziyech",
+     "nationality": "Morocco"
+    },
+    {
+     "name": "Júnior Santos",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Tiquinho Soares",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Danilo",
+     "nationality": "Brazil"
     },
     {
      "name": "Lucas Villalba",
@@ -3756,103 +3488,19 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Bernardo Valim",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Newton",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Jordan Barrera",
-     "nationality": "Colombia"
-    },
-    {
-     "name": "Kaua Branco",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Alvaro Montoro",
      "nationality": "Argentina"
-    },
-    {
-     "name": "Lucyo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Lucas Camilo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Zappelini",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Kauan",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Samuel da Silva",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Davi Alves",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Felipe Januário",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Joaquín Correa",
-     "nationality": "Argentina"
-    },
-    {
-     "name": "Júnior Santos",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Chris Ramos",
-     "nationality": "Spain"
-    },
-    {
-     "name": "Weliton Santos",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Nathan Ribeiro",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Arthur Izaque",
-     "nationality": "Brazil"
     },
     {
      "name": "Kadir Barría",
      "nationality": "Panama"
     },
     {
-     "name": "Rogerio Medeiros",
+     "name": "Lucas Emanuel",
      "nationality": "Brazil"
     },
     {
-     "name": "Matheusinho",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Miguel Caldas",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Arthur Cabral",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Victor Gonçalves",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Herick Garcia",
+     "name": "Kauan Toledo",
      "nationality": "Brazil"
     }
    ]
@@ -3865,23 +3513,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Matheus Cunha",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Otávio",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Marcelo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Vitor Lamounier",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Felipe Teixeira",
+     "name": "Léo Aragão",
      "nationality": "Brazil"
     },
     {
@@ -3897,7 +3529,15 @@
      "nationality": "Brazil"
     },
     {
+     "name": "Matías Viña",
+     "nationality": "Uruguay"
+    },
+    {
      "name": "Lucas Villalba",
+     "nationality": "Argentina"
+    },
+    {
+     "name": "Gabriel Rojas",
      "nationality": "Argentina"
     },
     {
@@ -3905,23 +3545,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Kaiki Bruno",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Jonathan",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Ian",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "José",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Kaua Prates",
      "nationality": "Brazil"
     },
     {
@@ -3929,15 +3553,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Nicolas Pontes",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Kaiquy",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Bryan",
+     "name": "Matheus Henrique",
      "nationality": "Brazil"
     },
     {
@@ -3953,71 +3569,15 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Wanderson",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Christian",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "João Wellington",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Keny Arroyo",
-     "nationality": "Ecuador"
-    },
-    {
-     "name": "Murilo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Rayan",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Rhuan Gabriel",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Danilo Gimenes",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Chico",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Matheus Pereira",
      "nationality": "Brazil"
     },
     {
-     "name": "Bruno Rodrigues",
-     "nationality": "Brazil"
+     "name": "Fabrizio Peralta",
+     "nationality": "Paraguay"
     },
     {
-     "name": "Neizer Villarreal",
-     "nationality": "Colombia"
-    },
-    {
-     "name": "Ruan",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Kenji",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Bruno Ferreira",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Marquinhos",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Kaio Jorge",
+     "name": "Felipe Morais",
      "nationality": "Brazil"
     },
     {
@@ -4025,15 +3585,47 @@
      "nationality": "Colombia"
     },
     {
-     "name": "Walace",
+     "name": "Wanderson",
      "nationality": "Brazil"
     },
     {
-     "name": "Matheus Henrique",
+     "name": "Kaio Jorge",
      "nationality": "Brazil"
     },
     {
-     "name": "Felipe Morais",
+     "name": "Luciano Rodríguez",
+     "nationality": "Uruguay"
+    },
+    {
+     "name": "Bruno Rodrigues",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Marquinhos",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Gabriel Pec",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Wesley Gassova",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Keny Arroyo",
+     "nationality": "Ecuador"
+    },
+    {
+     "name": "Neizer Villarreal",
+     "nationality": "Colombia"
+    },
+    {
+     "name": "João Costa",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Kenji",
      "nationality": "Brazil"
     }
    ]
@@ -4050,11 +3642,11 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Matheus Aurélio",
+     "name": "Gabriel Werner",
      "nationality": "Brazil"
     },
     {
-     "name": "Kainã",
+     "name": "Matheus Aurélio",
      "nationality": "Brazil"
     },
     {
@@ -4066,27 +3658,15 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Marcinho",
+     "name": "Dudu",
      "nationality": "Brazil"
     },
     {
-     "name": "Neto Pessoa",
+     "name": "João Paulo",
      "nationality": "Brazil"
     },
     {
-     "name": "Marcos Vinicius",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Walter Clar",
-     "nationality": "Paraguay"
-    },
-    {
-     "name": "Bruno Leonardo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Joao Paulo",
+     "name": "Heitor",
      "nationality": "Brazil"
     },
     {
@@ -4098,23 +3678,15 @@
      "nationality": "Brazil"
     },
     {
+     "name": "Fernando",
+     "nationality": "Brazil"
+    },
+    {
      "name": "Mancha",
      "nationality": "Brazil"
     },
     {
-     "name": "Eduardo Lopes",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "João Vitor",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Kauan Gomes",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Jackson",
      "nationality": "Brazil"
     },
     {
@@ -4126,27 +3698,15 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Felipe da Fonseca",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Marcio Kalebe",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Giovanni Augusto",
      "nationality": "Brazil"
     },
     {
-     "name": "Yannick Bolasie",
-     "nationality": "DR Congo"
-    },
-    {
-     "name": "Jean Carlos",
+     "name": "Yago Felipe",
      "nationality": "Brazil"
     },
     {
-     "name": "Wermeson",
+     "name": "Bruno Matias",
      "nationality": "Brazil"
     },
     {
@@ -4154,39 +3714,15 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Everton",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Rafael Carvalheira",
      "nationality": "Brazil"
     },
     {
-     "name": "Ênio",
+     "name": "Vinicius",
      "nationality": "Brazil"
     },
     {
-     "name": "Higor Meritao",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Kaká",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Rubens Tadeu",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Italo Vargas",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Wellington",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Rodrigo",
+     "name": "Max Alves",
      "nationality": "Brazil"
     },
     {
@@ -4198,79 +3734,47 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Kauan Godoy",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Kauê Arno",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Yago",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Igor Rampazzo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Kevin Ramírez",
-     "nationality": "Uruguay"
-    },
-    {
-     "name": "Maurício Garcez",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Vinicius",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Alberto Pagnoncelli",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Gleidson",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "João Henrique",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Luizão",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Miguel Miranda",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Iago",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Matheus Milani",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Talison",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Bernardo",
-     "nationality": "Brazil"
+     "name": "Miguel Carvalho",
+     "nationality": "Spain"
     },
     {
      "name": "Rosivan",
      "nationality": "Brazil"
     },
     {
-     "name": "Miguel Carvalho",
-     "nationality": "Spain"
+     "name": "Marcinho",
+     "nationality": "Brazil"
     },
     {
-     "name": "Túlio Oliveira",
+     "name": "Yannick Bolasie",
+     "nationality": "DR Congo"
+    },
+    {
+     "name": "Kevin Ramírez",
+     "nationality": "Uruguay"
+    },
+    {
+     "name": "Dylan Borrero",
+     "nationality": "Colombia"
+    },
+    {
+     "name": "Maurício Garcez",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Bruno Tubarão",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Rubens Tadeu",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Franco Rossi",
+     "nationality": "Uruguay"
+    },
+    {
+     "name": "Tulio Eduardo",
      "nationality": "Brazil"
     }
    ]
@@ -4279,19 +3783,15 @@
    "name": "São Paulo FC",
    "players": [
     {
+     "name": "Rafael",
+     "nationality": "Brazil"
+    },
+    {
      "name": "Carlos Coronel",
      "nationality": "Paraguay"
     },
     {
-     "name": "Rafael Monteiro",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Young",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Felipe",
      "nationality": "Brazil"
     },
     {
@@ -4303,31 +3803,39 @@
      "nationality": "Ecuador"
     },
     {
+     "name": "Iago Borduchi",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Rafael Tolói",
+     "nationality": "Italy"
+    },
+    {
+     "name": "Cédric",
+     "nationality": "Portugal"
+    },
+    {
+     "name": "Wendell",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Buta",
+     "nationality": "Portugal"
+    },
+    {
      "name": "Lucas Ramon",
      "nationality": "Brazil"
     },
     {
-     "name": "Alan Franco",
-     "nationality": "Argentina"
+     "name": "Domingos Duarte",
+     "nationality": "Portugal"
     },
     {
      "name": "Enzo Díaz",
      "nationality": "Argentina"
     },
     {
-     "name": "Luan",
-     "nationality": "Brazil"
-    },
-    {
      "name": "José Sabino",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "João Moreira",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Matheus Doria",
      "nationality": "Brazil"
     },
     {
@@ -4335,19 +3843,11 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Igor Teixeira",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Isac",
      "nationality": "Brazil"
     },
     {
-     "name": "Igor Odoni",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Pedro Henrique",
+     "name": "Pedro Lima",
      "nationality": "Brazil"
     },
     {
@@ -4355,15 +3855,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Raphael",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Luis Osorio",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Lucas Moura",
      "nationality": "Brazil"
     },
     {
@@ -4379,10 +3871,6 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Ferreira",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Damian Bobadilla",
      "nationality": "Paraguay"
     },
@@ -4391,23 +3879,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Felipe Negrucci",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Mateus Manso",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Pedrinho",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Maik",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Hugo",
+     "name": "Newton",
      "nationality": "Brazil"
     },
     {
@@ -4423,6 +3895,14 @@
      "nationality": "Argentina"
     },
     {
+     "name": "Lucas Moura",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "João Victor",
+     "nationality": "Brazil"
+    },
+    {
      "name": "Luciano",
      "nationality": "Brazil"
     },
@@ -4431,11 +3911,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Gonzalo Tapia",
-     "nationality": "Chile"
-    },
-    {
-     "name": "Ryan Rodrigues",
+     "name": "Ferreira",
      "nationality": "Brazil"
     },
     {
@@ -4443,34 +3919,14 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Paulo Sérgio",
+     "name": "Gustavo Santana",
      "nationality": "Brazil"
-    },
-    {
-     "name": "Perivan",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Wendell",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Cédric",
-     "nationality": "Portugal"
-    },
-    {
-     "name": "Rafael Tolói",
-     "nationality": "Italy"
     }
    ]
   },
   "1777": {
    "name": "EC Bahia",
    "players": [
-    {
-     "name": "João Paulo",
-     "nationality": "Brazil"
-    },
     {
      "name": "Ronaldo",
      "nationality": "Brazil"
@@ -4480,23 +3936,11 @@
      "nationality": "Brazil"
     },
     {
+     "name": "Guido Herrera",
+     "nationality": "Argentina"
+    },
+    {
      "name": "Victor",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Gabriel Souza",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Iuri dos Santos",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Fabio Simplicio",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Gilberto",
      "nationality": "Brazil"
     },
     {
@@ -4508,10 +3952,6 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Santiago Ramos",
-     "nationality": "Argentina"
-    },
-    {
      "name": "Luciano Juba",
      "nationality": "Brazil"
     },
@@ -4520,20 +3960,8 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Gabriel Xavier",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Jose Guilherme",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Gerald Santos",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Pedro Henrique",
-     "nationality": "Brazil"
+     "name": "Marco Moreno",
+     "nationality": "Spain"
     },
     {
      "name": "Luiz Gustavo",
@@ -4572,59 +4000,19 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Cristian Olivera",
-     "nationality": "Uruguay"
+     "name": "Roger Gabriel",
+     "nationality": "Brazil"
     },
     {
-     "name": "Mateo Sanabria",
+     "name": "Lautaro López",
      "nationality": "Argentina"
-    },
-    {
-     "name": "Sidney",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Wendel Silva",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Marco Antônio",
-     "nationality": "Brazil"
     },
     {
      "name": "David Martins",
      "nationality": "Brazil"
     },
     {
-     "name": "Daniel Lima",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Saymon",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Gustavo Santana",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Kauê Junior",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Lyan Araujo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Victor Oliveira",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Ryan Nascimento",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "João Victor",
+     "name": "Willian José",
      "nationality": "Brazil"
     },
     {
@@ -4640,12 +4028,16 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Joao Vitor",
-     "nationality": "Brazil"
+     "name": "Cristian Olivera",
+     "nationality": "Uruguay"
     },
     {
-     "name": "Roger Gabriel",
-     "nationality": "Brazil"
+     "name": "Alejo Veliz",
+     "nationality": "Argentina"
+    },
+    {
+     "name": "Mateo Sanabria",
+     "nationality": "Argentina"
     },
     {
      "name": "Erick",
@@ -4660,15 +4052,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Caio Suassuna",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Iago Borduchi",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Willian José",
+     "name": "Kauê Furquim",
      "nationality": "Brazil"
     }
    ]
@@ -5332,19 +4716,11 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Francisco Dyogo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Léo Nannetti",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Pedro Henrique",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Ayrton Lucas",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Emerson Royal",
      "nationality": "Brazil"
     },
     {
@@ -5372,28 +4748,8 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Daniel Sales",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "João Pedro",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Gusttavo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Johnny Goes",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Antonio Da Silva",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Daniel Carvalho",
-     "nationality": "Brazil"
+     "name": "Saúl",
+     "nationality": "Spain"
     },
     {
      "name": "Giorgian De Arrascaeta",
@@ -5408,12 +4764,12 @@
      "nationality": "Chile"
     },
     {
-     "name": "Jorge Carrascal",
-     "nationality": "Colombia"
+     "name": "Jorginho",
+     "nationality": "Italy"
     },
     {
-     "name": "Gonzalo Plata",
-     "nationality": "Ecuador"
+     "name": "Jorge Carrascal",
+     "nationality": "Colombia"
     },
     {
      "name": "Nicolas de la Cruz",
@@ -5424,55 +4780,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Yan",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "João Victor",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Pablo Lucio",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Lucas",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Luiz Felipe",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Joshua",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Ramires",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "João Vitor",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Kaio",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Kaio Júnior",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Juan Sayago",
-     "nationality": "Argentina"
-    },
-    {
      "name": "Pedro",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Éverton",
      "nationality": "Brazil"
     },
     {
@@ -5484,40 +4792,20 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Guilherme",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Douglas Telles",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "João Paulo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Alan Silva",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Ryan de Oliveira",
-     "nationality": "Brazil"
+     "name": "Gonzalo Plata",
+     "nationality": "Ecuador"
     },
     {
      "name": "Samuel Lino",
      "nationality": "Brazil"
     },
     {
-     "name": "Jorginho",
-     "nationality": "Italy"
+     "name": "Anthony Valencia",
+     "nationality": "Ecuador"
     },
     {
-     "name": "Emerson Royal",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Saúl",
-     "nationality": "Spain"
+     "name": "Joaquín Freitas",
+     "nationality": "Argentina"
     }
    ]
   },
@@ -7550,10 +6838,6 @@
      "nationality": "England"
     },
     {
-     "name": "Jacob Farrell",
-     "nationality": "Australia"
-    },
-    {
      "name": "Jayden Meghoma",
      "nationality": "England"
     },
@@ -7567,10 +6851,6 @@
     },
     {
      "name": "Michael Ani",
-     "nationality": "England"
-    },
-    {
-     "name": "Chinedu Agu",
      "nationality": "England"
     },
     {
@@ -7588,10 +6868,6 @@
     {
      "name": "Ebou Adams",
      "nationality": "Gambia"
-    },
-    {
-     "name": "Luke le Roux",
-     "nationality": "South Africa"
     },
     {
      "name": "Márk Kosznovszky",
@@ -7648,10 +6924,6 @@
     {
      "name": "Luke Brooke-Smith",
      "nationality": "New Zealand"
-    },
-    {
-     "name": "Tayo Singerr",
-     "nationality": "England"
     },
     {
      "name": "Nathaniel Chioma",
@@ -7755,6 +7027,10 @@
      "nationality": "France"
     },
     {
+     "name": "Jamie Vardy",
+     "nationality": "England"
+    },
+    {
      "name": "Marcus Edwards",
      "nationality": "England"
     },
@@ -7769,10 +7045,6 @@
     {
      "name": "Jacob Bruun Larsen",
      "nationality": "Denmark"
-    },
-    {
-     "name": "Lyle Foster",
-     "nationality": "South Africa"
     },
     {
      "name": "Zeki Amdouni",
@@ -7854,10 +7126,6 @@
     {
      "name": "Max Bird",
      "nationality": "England"
-    },
-    {
-     "name": "Kanya Fujimoto",
-     "nationality": "Japan"
     },
     {
      "name": "Tomoki Iwata",
@@ -7985,10 +7253,6 @@
      "nationality": "Ireland"
     },
     {
-     "name": "Léo Scienza",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Tom Fellows",
      "nationality": "England"
     },
@@ -8013,16 +7277,16 @@
      "nationality": "Canada"
     },
     {
+     "name": "Léo Scienza",
+     "nationality": "Brazil"
+    },
+    {
      "name": "Lewis Dobbin",
      "nationality": "England"
     },
     {
      "name": "Samuel Edozie",
      "nationality": "England"
-    },
-    {
-     "name": "Damion Downs",
-     "nationality": "USA"
     },
     {
      "name": "Divin Mubama",
@@ -8143,8 +7407,16 @@
      "nationality": "England"
     },
     {
+     "name": "Nicholas Bilokapic",
+     "nationality": "Australia"
+    },
+    {
      "name": "Jacob Widell Zetterström",
      "nationality": "Sweden"
+    },
+    {
+     "name": "Jack Robinson",
+     "nationality": "England"
     },
     {
      "name": "Craig Forsyth",
@@ -8199,10 +7471,6 @@
      "nationality": "Ireland"
     },
     {
-     "name": "Kenzo Goudmijn",
-     "nationality": "Netherlands"
-    },
-    {
      "name": "Oscar Fraulo",
      "nationality": "Denmark"
     },
@@ -8212,10 +7480,6 @@
     },
     {
      "name": "David Ozoh",
-     "nationality": "England"
-    },
-    {
-     "name": "Owen Eames",
      "nationality": "England"
     },
     {
@@ -8340,10 +7604,6 @@
      "nationality": "Slovakia"
     },
     {
-     "name": "Morgan Whittaker",
-     "nationality": "England"
-    },
-    {
      "name": "Kyle Joseph",
      "nationality": "Scotland"
     },
@@ -8421,12 +7681,20 @@
      "nationality": "England"
     },
     {
+     "name": "James Clarridge",
+     "nationality": "England"
+    },
+    {
      "name": "Branimir Mlacic",
      "nationality": "Croatia"
     },
     {
      "name": "Edo Kayembe",
      "nationality": "Congo DR"
+    },
+    {
+     "name": "Krépin Diatta",
+     "nationality": "Senegal"
     },
     {
      "name": "Martín Payero",
@@ -8451,6 +7719,10 @@
     {
      "name": "Myron Boadu",
      "nationality": "Netherlands"
+    },
+    {
+     "name": "Michail Antonio",
+     "nationality": "Jamaica"
     },
     {
      "name": "Kwadwo Baah",
@@ -8538,6 +7810,10 @@
      "nationality": "Kenya"
     },
     {
+     "name": "Zach Mitchell",
+     "nationality": "England"
+    },
+    {
      "name": "Tyler Bindon",
      "nationality": "New Zealand"
     },
@@ -8550,12 +7826,12 @@
      "nationality": "England"
     },
     {
-     "name": "Greg Docherty",
-     "nationality": "Scotland"
-    },
-    {
      "name": "Conor Coventry",
      "nationality": "Ireland"
+    },
+    {
+     "name": "Oliver Skipp",
+     "nationality": "England"
     },
     {
      "name": "Harvey Knibbs",
@@ -8994,10 +8270,6 @@
      "nationality": "England"
     },
     {
-     "name": "Nils Zätterström",
-     "nationality": "Sweden"
-    },
-    {
      "name": "Kalvin Phillips",
      "nationality": "England"
     },
@@ -9034,6 +8306,10 @@
      "nationality": "England"
     },
     {
+     "name": "Jordan Ayew",
+     "nationality": "Ghana"
+    },
+    {
      "name": "Ben Brereton",
      "nationality": "Chile"
     },
@@ -9048,10 +8324,6 @@
     {
      "name": "Ryan Oné",
      "nationality": "Scotland"
-    },
-    {
-     "name": "Ehije Ukaki",
-     "nationality": "Nigeria"
     }
    ]
   },
@@ -9173,6 +8445,10 @@
     {
      "name": "Mihailo Ivanovic",
      "nationality": "Serbia"
+    },
+    {
+     "name": "Yanis Issoufou",
+     "nationality": "France"
     },
     {
      "name": "Kyrell Lisbie",
@@ -9768,10 +9044,6 @@
      "nationality": "England"
     },
     {
-     "name": "Joe Rees",
-     "nationality": "Wales"
-    },
-    {
      "name": "Sam Smith",
      "nationality": "England"
     },
@@ -9784,16 +9056,8 @@
      "nationality": "Wales"
     },
     {
-     "name": "Davis Keillor-Dunn",
-     "nationality": "England"
-    },
-    {
      "name": "Bailey Cadamarteri",
      "nationality": "Jamaica"
-    },
-    {
-     "name": "Samuel Chesworth",
-     "nationality": "Wales"
     }
    ]
   },
@@ -9805,11 +9069,11 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Gabriel Leite",
+     "name": "Pedro Rangel",
      "nationality": "Brazil"
     },
     {
-     "name": "Pedro Rangel",
+     "name": "Pedro Lucas",
      "nationality": "Brazil"
     },
     {
@@ -9817,7 +9081,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Santiago",
+     "name": "Thiago Santos",
      "nationality": "Brazil"
     },
     {
@@ -9827,6 +9091,10 @@
     {
      "name": "Felipe Jonatan",
      "nationality": "Brazil"
+    },
+    {
+     "name": "Fabricio Bustos",
+     "nationality": "Argentina"
     },
     {
      "name": "Tinga",
@@ -9845,7 +9113,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "João Pedro Chermont",
+     "name": "Rodrigo Gelado",
      "nationality": "Brazil"
     },
     {
@@ -9853,19 +9121,11 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Kauan Noveli",
+     "name": "Lucas Taverna",
      "nationality": "Brazil"
     },
     {
-     "name": "Thiago Santos",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Willian Oliveira",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Fernando Sobral",
+     "name": "Richard",
      "nationality": "Brazil"
     },
     {
@@ -9877,52 +9137,20 @@
      "nationality": "Portugal"
     },
     {
-     "name": "Wallisson Luiz",
+     "name": "Nicolas Fonseca",
+     "nationality": "Uruguay"
+    },
+    {
+     "name": "Gustavo Salgueiro",
      "nationality": "Brazil"
     },
     {
-     "name": "Lucas Ronier",
+     "name": "Vini Paulista",
      "nationality": "Brazil"
     },
     {
-     "name": "Pedro Lucas",
+     "name": "Tissi",
      "nationality": "Brazil"
-    },
-    {
-     "name": "Matheus Dalsasso",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Martinelli",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Lucas Taverna",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Vitor Gonçalves",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Khensane",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Paulo Roberto",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Gustavo Oliveira",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Miguel Kayk",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Alejandro Ararat",
-     "nationality": "Colombia"
     },
     {
      "name": "Keno",
@@ -9937,6 +9165,10 @@
      "nationality": "Brazil"
     },
     {
+     "name": "Brian Ocampo",
+     "nationality": "Uruguay"
+    },
+    {
      "name": "Fabinho",
      "nationality": "Brazil"
     },
@@ -9949,7 +9181,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Vini Paulista",
+     "name": "Lucas Ronier",
      "nationality": "Brazil"
     },
     {
@@ -9957,39 +9189,11 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Thiago Azaf",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Joaquín Lavega",
      "nationality": "Uruguay"
     },
     {
-     "name": "Enzo Vagner",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "João Vitor",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Richard",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Daniel Gruber",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Lucas Crepaldi",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "David Alves",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Gabriel Ibson",
+     "name": "Paulo Roberto",
      "nationality": "Brazil"
     }
    ]
@@ -10011,14 +9215,6 @@
     },
     {
      "name": "Gustavo Reis",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Fernando Henrique",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Pedro Henrique",
      "nationality": "Brazil"
     },
     {
@@ -10054,19 +9250,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Cauê",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Ryan",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Weimar Vivas",
-     "nationality": "Colombia"
-    },
-    {
-     "name": "Breno de Moraes",
+     "name": "Ryan Augusto",
      "nationality": "Brazil"
     },
     {
@@ -10082,15 +9266,11 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Bruno Praxedes",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Ignacio Sosa",
      "nationality": "Uruguay"
     },
     {
-     "name": "Lucas Barbosa",
+     "name": "Bruninho",
      "nationality": "Brazil"
     },
     {
@@ -10102,31 +9282,11 @@
      "nationality": "Brazil"
     },
     {
-     "name": "José Herrera",
-     "nationality": "Argentina"
-    },
-    {
      "name": "Gustavinho",
      "nationality": "Brazil"
     },
     {
-     "name": "Yuri Silva",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Gabriel Lopes",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Rafael da Silva",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Yuri Alves",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Jhuan Nunes",
+     "name": "Marcelinho Braz",
      "nationality": "Brazil"
     },
     {
@@ -10142,7 +9302,7 @@
      "nationality": "Paraguay"
     },
     {
-     "name": "João Neto",
+     "name": "Lucas Barbosa",
      "nationality": "Brazil"
     },
     {
@@ -10150,20 +9310,8 @@
      "nationality": "Colombia"
     },
     {
-     "name": "Bruno",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Marcelinho Braz",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Filipe",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Vinicius Mendonça",
-     "nationality": "Brazil"
+     "name": "José Herrera",
+     "nationality": "Argentina"
     },
     {
      "name": "Davi Gomes",
@@ -14640,6 +13788,10 @@
      "nationality": "England"
     },
     {
+     "name": "Airidas Golambeckis",
+     "nationality": "Lithuania"
+    },
+    {
      "name": "Edson Álvarez",
      "nationality": "Mexico"
     },
@@ -14698,6 +13850,10 @@
     {
      "name": "Keiber Lamadrid",
      "nationality": "Venezuela"
+    },
+    {
+     "name": "Joshua Ajala",
+     "nationality": "England"
     }
    ]
   },
@@ -16173,10 +15329,6 @@
      "nationality": "Ireland"
     },
     {
-     "name": "Luke Hutchinson",
-     "nationality": "England"
-    },
-    {
      "name": "Nathan Broome",
      "nationality": "England"
     },
@@ -16210,10 +15362,6 @@
     },
     {
      "name": "Luca Stephenson",
-     "nationality": "England"
-    },
-    {
-     "name": "Joel Randall",
      "nationality": "England"
     },
     {
@@ -16266,10 +15414,6 @@
     },
     {
      "name": "Sam Dalby",
-     "nationality": "England"
-    },
-    {
-     "name": "Max Lott",
      "nationality": "England"
     }
    ]
@@ -17440,6 +16584,10 @@
      "nationality": "Brazil"
     },
     {
+     "name": "Matheus Cunha",
+     "nationality": "Brazil"
+    },
+    {
      "name": "Diego Esser",
      "nationality": "Brazil"
     },
@@ -17452,8 +16600,20 @@
      "nationality": "Argentina"
     },
     {
+     "name": "Guillermo Maripán",
+     "nationality": "Chile"
+    },
+    {
+     "name": "Juninho",
+     "nationality": "Brazil"
+    },
+    {
      "name": "Félix Torres",
      "nationality": "Ecuador"
+    },
+    {
+     "name": "Bruno Gomes",
+     "nationality": "Brazil"
     },
     {
      "name": "Alexandro Bernabei",
@@ -17472,60 +16632,16 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Luis Felipy",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Paulinho",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Juninho",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Clayton",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Pedro Kauã",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Pablo Pereira",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Alisson Rodrigues",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Kauan",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Lazaro",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Carlos Eduardo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Denis Marfo",
-     "nationality": "Ghana"
-    },
-    {
-     "name": "Luiz Felipe",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Bruno Henrique",
      "nationality": "Brazil"
     },
     {
      "name": "Ronaldo",
      "nationality": "Brazil"
+    },
+    {
+     "name": "Niclas Eliasson",
+     "nationality": "Sweden"
     },
     {
      "name": "Thiago Maia",
@@ -17536,19 +16652,15 @@
      "nationality": "Brazil"
     },
     {
+     "name": "Paulinho",
+     "nationality": "Brazil"
+    },
+    {
      "name": "Rodrigo Villagra",
      "nationality": "Argentina"
     },
     {
-     "name": "Alan Rodríguez",
-     "nationality": "Uruguay"
-    },
-    {
-     "name": "Bruno Gomes",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Kayky",
+     "name": "Calebe",
      "nationality": "Brazil"
     },
     {
@@ -17556,39 +16668,23 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Bernardo Jacob",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Raykkonen",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Allex",
      "nationality": "Brazil"
     },
     {
-     "name": "João Kempes",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Richard",
-     "nationality": "Brazil"
+     "name": "Antonio Sanabria",
+     "nationality": "Paraguay"
     },
     {
      "name": "Alerrandro",
      "nationality": "Brazil"
     },
     {
-     "name": "Rafael Borré",
-     "nationality": "Colombia"
-    },
-    {
      "name": "Johan Carbonero",
      "nationality": "Colombia"
     },
     {
-     "name": "Tabata",
+     "name": "Kayky",
      "nationality": "Brazil"
     },
     {
@@ -17596,23 +16692,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "João Victor",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Benjamin Arhin",
-     "nationality": "Ghana"
-    },
-    {
-     "name": "João Pedro",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Filipe Sirio",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Zechmeister",
+     "name": "Raykkonen",
      "nationality": "Brazil"
     }
    ]
@@ -17620,6 +16700,10 @@
   "6685": {
    "name": "Santos FC",
    "players": [
+    {
+     "name": "João Paulo",
+     "nationality": "Brazil"
+    },
     {
      "name": "Gabriel Brazão",
      "nationality": "Brazil"
@@ -17629,11 +16713,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Rodrigo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "João Pedro",
+     "name": "João Fernandes",
      "nationality": "Brazil"
     },
     {
@@ -17641,11 +16721,15 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Mayke",
+     "name": "Lucas Veríssimo",
      "nationality": "Brazil"
     },
     {
-     "name": "Lucas Veríssimo",
+     "name": "Rodinei",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Willian Arão",
      "nationality": "Brazil"
     },
     {
@@ -17657,8 +16741,12 @@
      "nationality": "Argentina"
     },
     {
-     "name": "Zé Ivaldo",
+     "name": "Gabriel Menino",
      "nationality": "Brazil"
+    },
+    {
+     "name": "Alexis Duarte",
+     "nationality": "Paraguay"
     },
     {
      "name": "Vinícius Lira",
@@ -17669,15 +16757,7 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Joāo Paulo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Rafael Gonzaga",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Samuel Mendes",
+     "name": "Arthur",
      "nationality": "Brazil"
     },
     {
@@ -17685,40 +16765,28 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Zé Rafael",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Willian Arão",
-     "nationality": "Brazil"
-    },
-    {
      "name": "João Schmidt",
      "nationality": "Brazil"
     },
     {
-     "name": "Tomás Rincón",
-     "nationality": "Venezuela"
+     "name": "Philippe Coutinho",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Neymar",
+     "nationality": "Brazil"
     },
     {
      "name": "Christian Oliva",
      "nationality": "Uruguay"
     },
     {
-     "name": "Álvaro Barreal",
-     "nationality": "Argentina"
-    },
-    {
-     "name": "Gabriel Menino",
+     "name": "Lima",
      "nationality": "Brazil"
     },
     {
      "name": "Miguelito",
      "nationality": "Bolivia"
-    },
-    {
-     "name": "Mateus Caucaia",
-     "nationality": "Brazil"
     },
     {
      "name": "Gabriel Bontempo",
@@ -17729,27 +16797,15 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Robson Júnior",
+     "name": "Nadson Maia",
      "nationality": "Brazil"
     },
     {
-     "name": "Vidinho",
+     "name": "Pepê Fermino",
      "nationality": "Brazil"
     },
     {
-     "name": "Pedro Paulo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Pedro Assis",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Enzo",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Anthony Carlos Nunes Reis",
+     "name": "Éverton",
      "nationality": "Brazil"
     },
     {
@@ -17761,31 +16817,11 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Neymar",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Alexandre Guedes",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Moises",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Lautaro Diaz",
+     "name": "Álvaro Barreal",
      "nationality": "Argentina"
     },
     {
-     "name": "João Victor",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Fernando Pradella",
-     "nationality": "Brazil"
-    },
-    {
-     "name": "Nadson Maia",
+     "name": "Moises",
      "nationality": "Brazil"
     },
     {
@@ -17793,8 +16829,16 @@
      "nationality": "Argentina"
     },
     {
-     "name": "Adonis Frías",
-     "nationality": "Argentina"
+     "name": "Gustavo Caballero",
+     "nationality": "Paraguay"
+    },
+    {
+     "name": "Enzo",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Andrey Quintino",
+     "nationality": "Brazil"
     }
    ]
   },
@@ -18835,10 +17879,6 @@
      "nationality": "Bosnia-Herzegovina"
     },
     {
-     "name": "Vicente Reyes",
-     "nationality": "Chile"
-    },
-    {
      "name": "Jack Stacey",
      "nationality": "England"
     },
@@ -18893,10 +17933,6 @@
     {
      "name": "Mirko Topić",
      "nationality": "Serbia"
-    },
-    {
-     "name": "Amankwah Forson",
-     "nationality": "Ghana"
     },
     {
      "name": "Ali Ahmed",
@@ -19484,10 +18520,6 @@
      "nationality": "Ireland"
     },
     {
-     "name": "Isak Alemayehu Mulugeta",
-     "nationality": "Sweden"
-    },
-    {
      "name": "Paul Smyth",
      "nationality": "Northern Ireland"
     },
@@ -20045,7 +19077,11 @@
      "nationality": "Wales"
     },
     {
-     "name": "Dakarai Mafico",
+     "name": "Cian Ashford",
+     "nationality": "Wales"
+    },
+    {
+     "name": "Rob Tankiewicz",
      "nationality": "Wales"
     },
     {
@@ -20067,14 +19103,6 @@
     {
      "name": "Yousef Salech",
      "nationality": "Denmark"
-    },
-    {
-     "name": "Cian Ashford",
-     "nationality": "Wales"
-    },
-    {
-     "name": "Charlie Holt",
-     "nationality": "England"
     }
    ]
   },
@@ -20386,10 +19414,6 @@
     {
      "name": "Adam Idah",
      "nationality": "Ireland"
-    },
-    {
-     "name": "Zeidane Inoussa",
-     "nationality": "Sweden"
     },
     {
      "name": "Ronald",
@@ -20808,10 +19832,6 @@
      "nationality": "France"
     },
     {
-     "name": "Alex Williams",
-     "nationality": "Wales"
-    },
-    {
      "name": "Jayson Molumby",
      "nationality": "Ireland"
     },
@@ -20852,10 +19872,6 @@
      "nationality": "Denmark"
     },
     {
-     "name": "Oliver Bostock",
-     "nationality": "Wales"
-    },
-    {
      "name": "Jimmy Morgan",
      "nationality": "England"
     },
@@ -20866,10 +19882,6 @@
     {
      "name": "Kareem Tunde",
      "nationality": "Spain"
-    },
-    {
-     "name": "Alfie Maughan",
-     "nationality": "England"
     }
    ]
   },
@@ -20893,8 +19905,8 @@
      "nationality": "England"
     },
     {
-     "name": "Santiago Bueno",
-     "nationality": "Uruguay"
+     "name": "Ghislain Konan",
+     "nationality": "Ivory Coast"
     },
     {
      "name": "Toti Gomes",
@@ -20915,10 +19927,6 @@
     {
      "name": "Jackson Tchatchoua",
      "nationality": "Belgium"
-    },
-    {
-     "name": "Pedro Lima",
-     "nationality": "Brazil"
     },
     {
      "name": "Jean-Ricner Bellegarde",
@@ -20953,16 +19961,16 @@
      "nationality": "Spain"
     },
     {
-     "name": "Mateus Mané",
-     "nationality": "Portugal"
-    },
-    {
      "name": "Raúl Jiménez",
      "nationality": "Mexico"
     },
     {
      "name": "Adam Armstrong",
      "nationality": "England"
+    },
+    {
+     "name": "Bertrand Traoré",
+     "nationality": "Burkina Faso"
     },
     {
      "name": "Rafiki Said Ahamada",
@@ -20979,6 +19987,14 @@
     {
      "name": "Enso Gonzalez",
      "nationality": "Paraguay"
+    },
+    {
+     "name": "Sean Neave",
+     "nationality": "England"
+    },
+    {
+     "name": "Mateus Mané",
+     "nationality": "Portugal"
     }
    ]
   },
