@@ -151,6 +151,34 @@
       "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
       "source_2": "https://www.macken.xyz/2026/09/svenskar-pa-isen-nar-nhl-startar-pa-disney/",
       "checked": "2026-10-19"
+    },
+    "560614": {
+      "title": "Aston Villa – Manchester City, 24 okt 13.30",
+      "service": "Prime Video",
+      "channel": null,
+      "source": "https://www.tvsporten.nu/liga/premier-league",
+      "source_2": "https://www.tvmatchen.nu/match/aston-villa-manchester-city-1914789",
+      "single_source": true,
+      "note": "tvsporten.nu och tvmatchen.nu delar match-id och räknas som en källa.",
+      "competition": "PL",
+      "matchday": 8,
+      "checked": "2026-10-22"
+    },
+    "nhl-2026020181": {
+      "title": "Dallas – NY Islanders, 25 okt 23.00",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://www.macken.xyz/2026/09/svenskar-pa-isen-nar-nhl-startar-pa-disney/",
+      "source_2": "https://teknikveckan.se/nhl-drar-igang-pa-disney-i-oktober",
+      "checked": "2026-10-22"
+    },
+    "nhl-2026020183": {
+      "title": "Nashville – Colorado, natt mot 26 okt 01.00",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://teknikveckan.se/nhl-drar-igang-pa-disney-i-oktober",
+      "single_source": true,
+      "checked": "2026-10-22"
     }
   }
 }
