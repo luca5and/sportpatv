@@ -1,240 +1,6 @@
 {
- "generated": "2026-10-21T08:37+00:00",
+ "generated": "2026-10-22T04:57+00:00",
  "events": [
-  {
-   "id": "575368",
-   "sport": "Fotboll",
-   "competition": "Champions League",
-   "start": "2026-10-21T16:45:00Z",
-   "title": "Como 1907 – Man United",
-   "swedes": [
-    {
-     "name": "Adrian Lahdo",
-     "team": "Como 1907",
-     "url": "https://sv.wikipedia.org/wiki/Adrian_Lahdo",
-     "page": "spelare/adrian-lahdo/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Como 1907",
-     "page": "lag/como-1907/"
-    },
-    {
-     "name": "Man United",
-     "page": "lag/man-united/"
-    }
-   ]
-  },
-  {
-   "id": "575369",
-   "sport": "Fotboll",
-   "competition": "Champions League",
-   "start": "2026-10-21T16:45:00Z",
-   "title": "Lille – Galatasaray",
-   "swedes": [
-    {
-     "name": "Deniz Gul",
-     "team": "Galatasaray",
-     "url": "https://sv.wikipedia.org/wiki/Deniz_G%C3%BCl",
-     "page": "spelare/deniz-gul/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Lille",
-     "page": "lag/lille/"
-    },
-    {
-     "name": "Galatasaray",
-     "page": "lag/galatasaray/"
-    }
-   ]
-  },
-  {
-   "id": "575374",
-   "sport": "Fotboll",
-   "competition": "Champions League",
-   "start": "2026-10-21T19:00:00Z",
-   "title": "Aston Villa – Viking",
-   "swedes": [
-    {
-     "name": "Victor Nilsson-Lindelöf",
-     "team": "Aston Villa",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Nilsson_Lindel%C3%B6f",
-     "page": "spelare/victor-nilsson-lindelof/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Aston Villa",
-     "page": "lag/aston-villa/"
-    },
-    {
-     "name": "Viking",
-     "page": "lag/viking/"
-    }
-   ]
-  },
-  {
-   "id": "575372",
-   "sport": "Fotboll",
-   "competition": "Champions League",
-   "start": "2026-10-21T19:00:00Z",
-   "title": "Bayern – Arsenal",
-   "swedes": [
-    {
-     "name": "Viktor Gyökeres",
-     "team": "Arsenal",
-     "url": "https://sv.wikipedia.org/wiki/Viktor_Gy%C3%B6keres",
-     "page": "spelare/viktor-gyokeres/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Bayern",
-     "page": "lag/bayern/"
-    },
-    {
-     "name": "Arsenal",
-     "page": "lag/arsenal/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020152",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-10-21T23:30:00Z",
-   "title": "Buffalo Sabres – Philadelphia Flyers",
-   "swedes": [
-    {
-     "name": "Noah Ostlund",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
-     "page": "spelare/noah-ostlund/"
-    },
-    {
-     "name": "Rasmus Dahlin",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
-     "page": "spelare/rasmus-dahlin/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Buffalo Sabres",
-     "page": "lag/buffalo-sabres/"
-    },
-    {
-     "name": "Philadelphia Flyers",
-     "page": "lag/philadelphia-flyers/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020153",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-10-21T23:30:00Z",
-   "title": "Ottawa Senators – Florida Panthers",
-   "swedes": [
-    {
-     "name": "Andre Burakovsky",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky",
-     "page": "spelare/andre-burakovsky/"
-    },
-    {
-     "name": "Fabian Zetterlund",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund",
-     "page": "spelare/fabian-zetterlund/"
-    },
-    {
-     "name": "Linus Ullmark",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark",
-     "page": "spelare/linus-ullmark/"
-    },
-    {
-     "name": "Samuel Ersson",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson",
-     "page": "spelare/samuel-ersson/"
-    },
-    {
-     "name": "William Eklund",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/William_Eklund",
-     "page": "spelare/william-eklund/"
-    },
-    {
-     "name": "Gustav Forsling",
-     "team": "Panthers",
-     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling",
-     "page": "spelare/gustav-forsling/"
-    },
-    {
-     "name": "Jacob Markstrom",
-     "team": "Panthers",
-     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
-     "page": "spelare/jacob-markstrom/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Ottawa Senators",
-     "page": "lag/ottawa-senators/"
-    },
-    {
-     "name": "Florida Panthers",
-     "page": "lag/florida-panthers/"
-    }
-   ]
-  },
   {
    "id": "nhl-2026020154",
    "sport": "Ishockey",
@@ -245,38 +11,32 @@
     {
      "name": "Elias Lindholm",
      "team": "Bruins",
-     "url": "https://sv.wikipedia.org/wiki/Elias_Lindholm",
-     "page": "spelare/elias-lindholm/"
+     "url": "https://sv.wikipedia.org/wiki/Elias_Lindholm"
     },
     {
      "name": "Hampus Lindholm",
      "team": "Bruins",
-     "url": "https://sv.wikipedia.org/wiki/Hampus_Lindholm",
-     "page": "spelare/hampus-lindholm/"
+     "url": "https://sv.wikipedia.org/wiki/Hampus_Lindholm"
     },
     {
      "name": "Adam Edstrom",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
-     "page": "spelare/adam-edstrom/"
+     "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m"
     },
     {
      "name": "Adam Wilsby",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Wilsby",
-     "page": "spelare/adam-wilsby/"
+     "url": "https://sv.wikipedia.org/wiki/Adam_Wilsby"
     },
     {
      "name": "Filip Forsberg",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Forsberg",
-     "page": "spelare/filip-forsberg/"
+     "url": "https://sv.wikipedia.org/wiki/Filip_Forsberg"
     },
     {
      "name": "Nils Hoglander",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
-     "page": "spelare/nils-hoglander/"
+     "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander"
     }
    ],
    "tv": {
@@ -285,17 +45,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Boston Bruins",
-     "page": "lag/boston-bruins/"
-    },
-    {
-     "name": "Nashville Predators",
-     "page": "lag/nashville-predators/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020157",
@@ -307,20 +57,17 @@
     {
      "name": "Jesper Boqvist",
      "team": "Devils",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist",
-     "page": "spelare/jesper-boqvist/"
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist"
     },
     {
      "name": "Jesper Bratt",
      "team": "Devils",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt",
-     "page": "spelare/jesper-bratt/"
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt"
     },
     {
      "name": "Leo Carlsson",
      "team": "Ducks",
-     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
-     "page": "spelare/leo-carlsson/"
+     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson"
     }
    ],
    "tv": {
@@ -329,17 +76,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "New Jersey Devils",
-     "page": "lag/new-jersey-devils/"
-    },
-    {
-     "name": "Anaheim Ducks",
-     "page": "lag/anaheim-ducks/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020156",
@@ -351,44 +88,37 @@
     {
      "name": "Andre Burakovsky",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky",
-     "page": "spelare/andre-burakovsky/"
+     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky"
     },
     {
      "name": "Fabian Zetterlund",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund",
-     "page": "spelare/fabian-zetterlund/"
+     "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund"
     },
     {
      "name": "Linus Ullmark",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark",
-     "page": "spelare/linus-ullmark/"
+     "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark"
     },
     {
      "name": "Samuel Ersson",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson",
-     "page": "spelare/samuel-ersson/"
+     "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson"
     },
     {
      "name": "William Eklund",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/William_Eklund",
-     "page": "spelare/william-eklund/"
+     "url": "https://sv.wikipedia.org/wiki/William_Eklund"
     },
     {
      "name": "Alexander Wennberg",
      "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg",
-     "page": "spelare/alexander-wennberg/"
+     "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg"
     },
     {
      "name": "Ivar Stenberg",
      "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg",
-     "page": "spelare/ivar-stenberg/"
+     "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg"
     }
    ],
    "tv": {
@@ -397,17 +127,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Ottawa Senators",
-     "page": "lag/ottawa-senators/"
-    },
-    {
-     "name": "San Jose Sharks",
-     "page": "lag/san-jose-sharks/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020158",
@@ -419,32 +139,27 @@
     {
      "name": "Elmer Soderblom",
      "team": "Penguins",
-     "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom",
-     "page": "spelare/elmer-soderblom/"
+     "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom"
     },
     {
      "name": "Erik Karlsson",
      "team": "Penguins",
-     "url": null,
-     "page": "spelare/erik-karlsson/"
+     "url": null
     },
     {
      "name": "Rickard Rakell",
      "team": "Penguins",
-     "url": "https://sv.wikipedia.org/wiki/Rickard_Rakell",
-     "page": "spelare/rickard-rakell/"
+     "url": "https://sv.wikipedia.org/wiki/Rickard_Rakell"
     },
     {
      "name": "Gustav Forsling",
      "team": "Panthers",
-     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling",
-     "page": "spelare/gustav-forsling/"
+     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling"
     },
     {
      "name": "Jacob Markstrom",
      "team": "Panthers",
-     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
-     "page": "spelare/jacob-markstrom/"
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m"
     }
    ],
    "tv": {
@@ -453,17 +168,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Pittsburgh Penguins",
-     "page": "lag/pittsburgh-penguins/"
-    },
-    {
-     "name": "Florida Panthers",
-     "page": "lag/florida-panthers/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020155",
@@ -475,26 +180,22 @@
     {
      "name": "Oliver Ekman-Larsson",
      "team": "Maple Leafs",
-     "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson",
-     "page": "spelare/oliver-ekman-larsson/"
+     "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson"
     },
     {
      "name": "William Nylander",
      "team": "Maple Leafs",
-     "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)",
-     "page": "spelare/william-nylander/"
+     "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)"
     },
     {
      "name": "Marcus Pettersson",
      "team": "Rangers",
-     "url": "https://sv.wikipedia.org/wiki/Marcus_Pettersson",
-     "page": "spelare/marcus-pettersson/"
+     "url": "https://sv.wikipedia.org/wiki/Marcus_Pettersson"
     },
     {
      "name": "Mika Zibanejad",
      "team": "Rangers",
-     "url": "https://sv.wikipedia.org/wiki/Mika_Zibanejad",
-     "page": "spelare/mika-zibanejad/"
+     "url": "https://sv.wikipedia.org/wiki/Mika_Zibanejad"
     }
    ],
    "tv": {
@@ -503,17 +204,7 @@
     "channel": null,
     "source": "https://www.macken.xyz/2026/09/svenskar-pa-isen-nar-nhl-startar-pa-disney/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Toronto Maple Leafs",
-     "page": "lag/toronto-maple-leafs/"
-    },
-    {
-     "name": "New York Rangers",
-     "page": "lag/new-york-rangers/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020159",
@@ -525,44 +216,37 @@
     {
      "name": "Emil Heineman",
      "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman",
-     "page": "spelare/emil-heineman/"
+     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman"
     },
     {
      "name": "Simon Holmstrom",
      "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m",
-     "page": "spelare/simon-holmstrom/"
+     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m"
     },
     {
      "name": "Victor Eklund",
      "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund",
-     "page": "spelare/victor-eklund/"
+     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund"
     },
     {
      "name": "Adrian Kempe",
      "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe",
-     "page": "spelare/adrian-kempe/"
+     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe"
     },
     {
      "name": "Andre Lee",
      "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Andre_Lee",
-     "page": "spelare/andre-lee/"
+     "url": "https://sv.wikipedia.org/wiki/Andre_Lee"
     },
     {
      "name": "Anton Forsberg",
      "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg",
-     "page": "spelare/anton-forsberg/"
+     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg"
     },
     {
      "name": "Erik Gustafsson",
      "team": "Kings",
-     "url": null,
-     "page": "spelare/erik-gustafsson/"
+     "url": null
     }
    ],
    "tv": {
@@ -571,17 +255,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "New York Islanders",
-     "page": "lag/new-york-islanders/"
-    },
-    {
-     "name": "Los Angeles Kings",
-     "page": "lag/los-angeles-kings/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020161",
@@ -593,26 +267,22 @@
     {
      "name": "Nils Lundkvist",
      "team": "Stars",
-     "url": "https://sv.wikipedia.org/wiki/Nils_Lundkvist",
-     "page": "spelare/nils-lundkvist/"
+     "url": "https://sv.wikipedia.org/wiki/Nils_Lundkvist"
     },
     {
      "name": "Oskar Bäck",
      "team": "Stars",
-     "url": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck",
-     "page": "spelare/oskar-back/"
+     "url": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck"
     },
     {
      "name": "Isak Rosen",
      "team": "Jets",
-     "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
-     "page": "spelare/isak-rosen/"
+     "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n"
     },
     {
      "name": "Viggo Björck",
      "team": "Jets",
-     "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck",
-     "page": "spelare/viggo-bjorck/"
+     "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck"
     }
    ],
    "tv": {
@@ -621,17 +291,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Dallas Stars",
-     "page": "lag/dallas-stars/"
-    },
-    {
-     "name": "Winnipeg Jets",
-     "page": "lag/winnipeg-jets/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020160",
@@ -643,44 +303,37 @@
     {
      "name": "Jonatan Berggren",
      "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
-     "page": "spelare/jonatan-berggren/"
+     "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren"
     },
     {
      "name": "Otto Stenberg",
      "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Otto_Stenberg",
-     "page": "spelare/otto-stenberg/"
+     "url": "https://sv.wikipedia.org/wiki/Otto_Stenberg"
     },
     {
      "name": "Philip Broberg",
      "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
-     "page": "spelare/philip-broberg/"
+     "url": "https://sv.wikipedia.org/wiki/Philip_Broberg"
     },
     {
      "name": "Theo Lindstein",
      "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Theo_Lindstein",
-     "page": "spelare/theo-lindstein/"
+     "url": "https://sv.wikipedia.org/wiki/Theo_Lindstein"
     },
     {
      "name": "Rasmus Andersson",
      "team": "Golden Knights",
-     "url": null,
-     "page": "spelare/rasmus-andersson/"
+     "url": null
     },
     {
      "name": "Victor Olofsson",
      "team": "Golden Knights",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson",
-     "page": "spelare/victor-olofsson/"
+     "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson"
     },
     {
      "name": "William Karlsson",
      "team": "Golden Knights",
-     "url": "https://sv.wikipedia.org/wiki/William_Karlsson",
-     "page": "spelare/william-karlsson/"
+     "url": "https://sv.wikipedia.org/wiki/William_Karlsson"
     }
    ],
    "tv": {
@@ -689,17 +342,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "St. Louis Blues",
-     "page": "lag/st-louis-blues/"
-    },
-    {
-     "name": "Vegas Golden Knights",
-     "page": "lag/vegas-golden-knights/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020162",
@@ -711,32 +354,27 @@
     {
      "name": "Mikael Backlund",
      "team": "Flames",
-     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund",
-     "page": "spelare/mikael-backlund/"
+     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund"
     },
     {
      "name": "Filip Gustavsson",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson",
-     "page": "spelare/filip-gustavsson/"
+     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson"
     },
     {
      "name": "Jesper Wallstedt",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
-     "page": "spelare/jesper-wallstedt/"
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt"
     },
     {
      "name": "Joel Eriksson Ek",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek",
-     "page": "spelare/joel-eriksson-ek/"
+     "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek"
     },
     {
      "name": "Jonas Brodin",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin",
-     "page": "spelare/jonas-brodin/"
+     "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin"
     }
    ],
    "tv": {
@@ -745,17 +383,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Calgary Flames",
-     "page": "lag/calgary-flames/"
-    },
-    {
-     "name": "Minnesota Wild",
-     "page": "lag/minnesota-wild/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020163",
@@ -767,20 +395,17 @@
     {
      "name": "Filip Hallander",
      "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
-     "page": "spelare/filip-hallander/"
+     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander"
     },
     {
      "name": "Mattias Ekholm",
      "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm",
-     "page": "spelare/mattias-ekholm/"
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm"
     },
     {
      "name": "Mattias Janmark",
      "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark",
-     "page": "spelare/mattias-janmark/"
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark"
     }
    ],
    "tv": {
@@ -789,17 +414,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Edmonton Oilers",
-     "page": "lag/edmonton-oilers/"
-    },
-    {
-     "name": "Carolina Hurricanes",
-     "page": "lag/carolina-hurricanes/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020164",
@@ -811,14 +426,12 @@
     {
      "name": "Adam Larsson",
      "team": "Kraken",
-     "url": null,
-     "page": "spelare/adam-larsson/"
+     "url": null
     },
     {
      "name": "Kevin Stenlund",
      "team": "Mammoth",
-     "url": "https://sv.wikipedia.org/wiki/Kevin_Stenlund",
-     "page": "spelare/kevin-stenlund/"
+     "url": "https://sv.wikipedia.org/wiki/Kevin_Stenlund"
     }
    ],
    "tv": {
@@ -827,17 +440,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Seattle Kraken",
-     "page": "lag/seattle-kraken/"
-    },
-    {
-     "name": "Utah Mammoth",
-     "page": "lag/utah-mammoth/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020165",
@@ -849,80 +452,67 @@
     {
      "name": "Elias Pettersson #25",
      "team": "Canucks",
-     "url": null,
-     "page": "spelare/elias-pettersson-25/"
+     "url": null
     },
     {
      "name": "Elias Pettersson #40",
      "team": "Canucks",
-     "url": null,
-     "page": "spelare/elias-pettersson-40/"
+     "url": null
     },
     {
      "name": "Jonathan Lekkerimäki",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
-     "page": "spelare/jonathan-lekkerimaki/"
+     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki"
     },
     {
      "name": "Liam Ohgren",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
-     "page": "spelare/liam-ohgren/"
+     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren"
     },
     {
      "name": "Linus Karlsson",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
-     "page": "spelare/linus-karlsson/"
+     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson"
     },
     {
      "name": "Tom Willander",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Tom_Willander",
-     "page": "spelare/tom-willander/"
+     "url": "https://sv.wikipedia.org/wiki/Tom_Willander"
     },
     {
      "name": "Albert Johansson",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)",
-     "page": "spelare/albert-johansson/"
+     "url": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)"
     },
     {
      "name": "Andreas Englund",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Andreas_Englund",
-     "page": "spelare/andreas-englund/"
+     "url": "https://sv.wikipedia.org/wiki/Andreas_Englund"
     },
     {
      "name": "Anton Johansson",
      "team": "Red Wings",
-     "url": null,
-     "page": "spelare/anton-johansson/"
+     "url": null
     },
     {
      "name": "Axel Sandin-Pellikka",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Axel_Sandin_Pellikka",
-     "page": "spelare/axel-sandin-pellikka/"
+     "url": "https://sv.wikipedia.org/wiki/Axel_Sandin_Pellikka"
     },
     {
      "name": "Lucas Raymond",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Lucas_Raymond",
-     "page": "spelare/lucas-raymond/"
+     "url": "https://sv.wikipedia.org/wiki/Lucas_Raymond"
     },
     {
      "name": "Viktor Arvidsson",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson",
-     "page": "spelare/viktor-arvidsson/"
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson"
     },
     {
      "name": "William Wallinder",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/William_Wallinder",
-     "page": "spelare/william-wallinder/"
+     "url": "https://sv.wikipedia.org/wiki/William_Wallinder"
     }
    ],
    "tv": {
@@ -931,17 +521,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Vancouver Canucks",
-     "page": "lag/vancouver-canucks/"
-    },
-    {
-     "name": "Detroit Red Wings",
-     "page": "lag/detroit-red-wings/"
-    }
-   ]
+   }
   },
   {
    "id": "558863",
@@ -953,8 +533,7 @@
     {
      "name": "Victor Edvardsen",
      "team": "Go Ahead",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Edvardsen",
-     "page": "spelare/victor-edvardsen/"
+     "url": "https://sv.wikipedia.org/wiki/Victor_Edvardsen"
     }
    ],
    "tv": {
@@ -963,17 +542,7 @@
     "channel": null,
     "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Go Ahead",
-     "page": "lag/go-ahead/"
-    },
-    {
-     "name": "Telstar",
-     "page": "lag/telstar/"
-    }
-   ]
+   }
   },
   {
    "id": "565833",
@@ -985,14 +554,12 @@
     {
      "name": "Hugo Bolin",
      "team": "M'gladbach",
-     "url": "https://sv.wikipedia.org/wiki/Hugo_Bolin",
-     "page": "spelare/hugo-bolin/"
+     "url": "https://sv.wikipedia.org/wiki/Hugo_Bolin"
     },
     {
      "name": "Isac Lidberg",
      "team": "M'gladbach",
-     "url": "https://sv.wikipedia.org/wiki/Isac_Lidberg",
-     "page": "spelare/isac-lidberg/"
+     "url": "https://sv.wikipedia.org/wiki/Isac_Lidberg"
     }
    ],
    "tv": {
@@ -1001,17 +568,7 @@
     "channel": null,
     "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Stuttgart",
-     "page": "lag/stuttgart/"
-    },
-    {
-     "name": "M'gladbach",
-     "page": "lag/m-gladbach/"
-    }
-   ]
+   }
   },
   {
    "id": "559654",
@@ -1023,8 +580,7 @@
     {
      "name": "Isak Jansson",
      "team": "Nice",
-     "url": "https://sv.wikipedia.org/wiki/Isak_Jansson_(fotbollsspelare)",
-     "page": "spelare/isak-jansson/"
+     "url": "https://sv.wikipedia.org/wiki/Isak_Jansson_(fotbollsspelare)"
     }
    ],
    "tv": {
@@ -1033,17 +589,7 @@
     "channel": null,
     "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Brest",
-     "page": "lag/brest/"
-    },
-    {
-     "name": "Nice",
-     "page": "lag/nice/"
-    }
-   ]
+   }
   },
   {
    "id": "558567",
@@ -1055,8 +601,7 @@
     {
      "name": "Noel Törnqvist",
      "team": "Monza",
-     "url": "https://sv.wikipedia.org/wiki/Noel_T%C3%B6rnqvist",
-     "page": "spelare/noel-tornqvist/"
+     "url": "https://sv.wikipedia.org/wiki/Noel_T%C3%B6rnqvist"
     }
    ],
    "tv": {
@@ -1065,17 +610,7 @@
     "channel": null,
     "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Torino",
-     "page": "lag/torino/"
-    },
-    {
-     "name": "Monza",
-     "page": "lag/monza/"
-    }
-   ]
+   }
   },
   {
    "id": "564719",
@@ -1087,8 +622,7 @@
     {
      "name": "Jens Cajuste",
      "team": "Málaga",
-     "url": "https://sv.wikipedia.org/wiki/Jens_Cajuste",
-     "page": "spelare/jens-cajuste/"
+     "url": "https://sv.wikipedia.org/wiki/Jens_Cajuste"
     }
    ],
    "tv": {
@@ -1097,17 +631,7 @@
     "channel": null,
     "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Alavés",
-     "page": "lag/alaves/"
-    },
-    {
-     "name": "Málaga",
-     "page": "lag/malaga/"
-    }
-   ]
+   }
   },
   {
    "id": "567329",
@@ -1119,8 +643,7 @@
     {
      "name": "Victor Andersson",
      "team": "Vitória SC",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Andersson_(fotbollsspelare)",
-     "page": "spelare/victor-andersson/"
+     "url": "https://sv.wikipedia.org/wiki/Victor_Andersson_(fotbollsspelare)"
     }
    ],
    "tv": {
@@ -1129,17 +652,7 @@
     "channel": null,
     "source": null,
     "note": "TV4 Play visar 3 utvalda matcher per omgång"
-   },
-   "teams": [
-    {
-     "name": "Vitória SC",
-     "page": "lag/vitoria-sc/"
-    },
-    {
-     "name": "Marítimo",
-     "page": "lag/maritimo/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020166",
@@ -1151,26 +664,22 @@
     {
      "name": "Anton Frondell",
      "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell",
-     "page": "spelare/anton-frondell/"
+     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell"
     },
     {
      "name": "Arvid Soderblom",
      "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom",
-     "page": "spelare/arvid-soderblom/"
+     "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom"
     },
     {
      "name": "Adam Engstrom",
      "team": "Canadiens",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
-     "page": "spelare/adam-engstrom/"
+     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m"
     },
     {
      "name": "Oliver Kapanen",
      "team": "Canadiens",
-     "url": null,
-     "page": "spelare/oliver-kapanen/"
+     "url": null
     }
    ],
    "tv": {
@@ -1179,17 +688,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Chicago Blackhawks",
-     "page": "lag/chicago-blackhawks/"
-    },
-    {
-     "name": "Montréal Canadiens",
-     "page": "lag/montreal-canadiens/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020167",
@@ -1201,26 +700,22 @@
     {
      "name": "Gabriel Landeskog",
      "team": "Avalanche",
-     "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog",
-     "page": "spelare/gabriel-landeskog/"
+     "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog"
     },
     {
      "name": "Dennis Hildeby",
      "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Dennis_Hildeby",
-     "page": "spelare/dennis-hildeby/"
+     "url": "https://sv.wikipedia.org/wiki/Dennis_Hildeby"
     },
     {
      "name": "Pontus Holmberg",
      "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Pontus_Holmberg",
-     "page": "spelare/pontus-holmberg/"
+     "url": "https://sv.wikipedia.org/wiki/Pontus_Holmberg"
     },
     {
      "name": "Victor Hedman",
      "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Hedman",
-     "page": "spelare/victor-hedman/"
+     "url": "https://sv.wikipedia.org/wiki/Victor_Hedman"
     }
    ],
    "tv": {
@@ -1229,17 +724,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Colorado Avalanche",
-     "page": "lag/colorado-avalanche/"
-    },
-    {
-     "name": "Tampa Bay Lightning",
-     "page": "lag/tampa-bay-lightning/"
-    }
-   ]
+   }
   },
   {
    "id": "560614",
@@ -1251,27 +736,16 @@
     {
      "name": "Victor Nilsson-Lindelöf",
      "team": "Aston Villa",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Nilsson_Lindel%C3%B6f",
-     "page": "spelare/victor-nilsson-lindelof/"
+     "url": "https://sv.wikipedia.org/wiki/Victor_Nilsson_Lindel%C3%B6f"
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Prime Video",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
-   },
-   "teams": [
-    {
-     "name": "Aston Villa",
-     "page": "lag/aston-villa/"
-    },
-    {
-     "name": "Man City",
-     "page": "lag/man-city/"
-    }
-   ]
+    "source": "https://www.tvsporten.nu/liga/premier-league",
+    "note": null
+   }
   },
   {
    "id": "561895",
@@ -1283,8 +757,7 @@
     {
      "name": "Jacob Widell Zetterström",
      "team": "Derby County",
-     "url": "https://sv.wikipedia.org/wiki/Jacob_Widell_Zetterstr%C3%B6m",
-     "page": "spelare/jacob-widell-zetterstrom/"
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Widell_Zetterstr%C3%B6m"
     }
    ],
    "tv": {
@@ -1293,17 +766,7 @@
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Sheffield Utd",
-     "page": "lag/sheffield-utd/"
-    },
-    {
-     "name": "Derby County",
-     "page": "lag/derby-county/"
-    }
-   ]
+   }
   },
   {
    "id": "558560",
@@ -1315,14 +778,12 @@
     {
      "name": "Emil Holm",
      "team": "Bologna",
-     "url": "https://sv.wikipedia.org/wiki/Emil_Holm",
-     "page": "spelare/emil-holm/"
+     "url": "https://sv.wikipedia.org/wiki/Emil_Holm"
     },
     {
      "name": "Jesper Karlsson",
      "team": "Bologna",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Karlsson",
-     "page": "spelare/jesper-karlsson/"
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Karlsson"
     }
    ],
    "tv": {
@@ -1331,17 +792,7 @@
     "channel": null,
     "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Cagliari",
-     "page": "lag/cagliari/"
-    },
-    {
-     "name": "Bologna",
-     "page": "lag/bologna/"
-    }
-   ]
+   }
   },
   {
    "id": "558561",
@@ -1353,8 +804,7 @@
     {
      "name": "Adrian Lahdo",
      "team": "Como 1907",
-     "url": "https://sv.wikipedia.org/wiki/Adrian_Lahdo",
-     "page": "spelare/adrian-lahdo/"
+     "url": "https://sv.wikipedia.org/wiki/Adrian_Lahdo"
     }
    ],
    "tv": {
@@ -1363,17 +813,7 @@
     "channel": null,
     "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Como 1907",
-     "page": "lag/como-1907/"
-    },
-    {
-     "name": "Sassuolo",
-     "page": "lag/sassuolo/"
-    }
-   ]
+   }
   },
   {
    "id": "560616",
@@ -1385,27 +825,16 @@
     {
      "name": "Viktor Gyökeres",
      "team": "Arsenal",
-     "url": "https://sv.wikipedia.org/wiki/Viktor_Gy%C3%B6keres",
-     "page": "spelare/viktor-gyokeres/"
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Gy%C3%B6keres"
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
-   },
-   "teams": [
-    {
-     "name": "Arsenal",
-     "page": "lag/arsenal/"
-    },
-    {
-     "name": "Everton",
-     "page": "lag/everton/"
-    }
-   ]
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
+   }
   },
   {
    "id": "560618",
@@ -1417,33 +846,21 @@
     {
      "name": "Hugo Larsson",
      "team": "Fulham",
-     "url": "https://sv.wikipedia.org/wiki/Hugo_Larsson_(fotbollsspelare)",
-     "page": "spelare/hugo-larsson/"
+     "url": "https://sv.wikipedia.org/wiki/Hugo_Larsson_(fotbollsspelare)"
     },
     {
      "name": "Jonah Kusi-Asare",
      "team": "Fulham",
-     "url": "https://sv.wikipedia.org/wiki/Jonah_Kusi-Asare",
-     "page": "spelare/jonah-kusi-asare/"
+     "url": "https://sv.wikipedia.org/wiki/Jonah_Kusi-Asare"
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
-   },
-   "teams": [
-    {
-     "name": "Coventry City",
-     "page": "lag/coventry-city/"
-    },
-    {
-     "name": "Fulham",
-     "page": "lag/fulham/"
-    }
-   ]
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
+   }
   },
   {
    "id": "561899",
@@ -1455,8 +872,7 @@
     {
      "name": "Hjalmar Ekdal",
      "team": "Burnley",
-     "url": "https://sv.wikipedia.org/wiki/Hjalmar_Ekdal",
-     "page": "spelare/hjalmar-ekdal/"
+     "url": "https://sv.wikipedia.org/wiki/Hjalmar_Ekdal"
     }
    ],
    "tv": {
@@ -1465,17 +881,7 @@
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Lincoln City",
-     "page": "lag/lincoln-city/"
-    },
-    {
-     "name": "Burnley",
-     "page": "lag/burnley/"
-    }
-   ]
+   }
   },
   {
    "id": "561898",
@@ -1487,8 +893,7 @@
     {
      "name": "Jusef Erabi",
      "team": "Preston NE",
-     "url": "https://sv.wikipedia.org/wiki/Jusef_Erabi",
-     "page": "spelare/jusef-erabi/"
+     "url": "https://sv.wikipedia.org/wiki/Jusef_Erabi"
     }
    ],
    "tv": {
@@ -1497,17 +902,7 @@
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Preston NE",
-     "page": "lag/preston-ne/"
-    },
-    {
-     "name": "West Brom",
-     "page": "lag/west-brom/"
-    }
-   ]
+   }
   },
   {
    "id": "561896",
@@ -1519,8 +914,7 @@
     {
      "name": "Melker Widell",
      "team": "Swansea",
-     "url": "https://sv.wikipedia.org/wiki/Melker_Widell",
-     "page": "spelare/melker-widell/"
+     "url": "https://sv.wikipedia.org/wiki/Melker_Widell"
     }
    ],
    "tv": {
@@ -1529,17 +923,7 @@
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "QPR",
-     "page": "lag/qpr/"
-    },
-    {
-     "name": "Swansea",
-     "page": "lag/swansea/"
-    }
-   ]
+   }
   },
   {
    "id": "561897",
@@ -1551,20 +935,17 @@
     {
      "name": "Svante Ingelsson",
      "team": "Stoke",
-     "url": "https://sv.wikipedia.org/wiki/Svante_Ingelsson",
-     "page": "spelare/svante-ingelsson/"
+     "url": "https://sv.wikipedia.org/wiki/Svante_Ingelsson"
     },
     {
      "name": "Viktor Johansson",
      "team": "Stoke",
-     "url": "https://sv.wikipedia.org/wiki/Viktor_Johansson_(fotbollsspelare)",
-     "page": "spelare/viktor-johansson/"
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Johansson_(fotbollsspelare)"
     },
     {
      "name": "Noah Eile",
      "team": "Bristol City",
-     "url": "https://sv.wikipedia.org/wiki/Noah_Eile",
-     "page": "spelare/noah-eile/"
+     "url": "https://sv.wikipedia.org/wiki/Noah_Eile"
     }
    ],
    "tv": {
@@ -1573,17 +954,7 @@
     "channel": null,
     "source": "https://www.sportbusiness.com/geography/sweden/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Stoke",
-     "page": "lag/stoke/"
-    },
-    {
-     "name": "Bristol City",
-     "page": "lag/bristol-city/"
-    }
-   ]
+   }
   },
   {
    "id": "564727",
@@ -1595,8 +966,7 @@
     {
      "name": "Simon Eriksson",
      "team": "Santander",
-     "url": null,
-     "page": "spelare/simon-eriksson/"
+     "url": null
     }
    ],
    "tv": {
@@ -1605,17 +975,7 @@
     "channel": null,
     "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Santander",
-     "page": "lag/santander/"
-    },
-    {
-     "name": "Espanyol",
-     "page": "lag/espanyol/"
-    }
-   ]
+   }
   },
   {
    "id": "559655",
@@ -1627,8 +987,7 @@
     {
      "name": "Sion Oppong",
      "team": "Toulouse",
-     "url": "https://sv.wikipedia.org/wiki/Sion_Oppong",
-     "page": "spelare/sion-oppong/"
+     "url": "https://sv.wikipedia.org/wiki/Sion_Oppong"
     }
    ],
    "tv": {
@@ -1637,17 +996,7 @@
     "channel": null,
     "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Toulouse",
-     "page": "lag/toulouse/"
-    },
-    {
-     "name": "Troyes",
-     "page": "lag/troyes/"
-    }
-   ]
+   }
   },
   {
    "id": "560617",
@@ -1659,33 +1008,21 @@
     {
      "name": "Dejan Kulusevski",
      "team": "Tottenham",
-     "url": "https://sv.wikipedia.org/wiki/Dejan_Kulusevski",
-     "page": "spelare/dejan-kulusevski/"
+     "url": "https://sv.wikipedia.org/wiki/Dejan_Kulusevski"
     },
     {
      "name": "Lucas Bergvall",
      "team": "Tottenham",
-     "url": "https://sv.wikipedia.org/wiki/Lucas_Bergvall",
-     "page": "spelare/lucas-bergvall/"
+     "url": "https://sv.wikipedia.org/wiki/Lucas_Bergvall"
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
-   },
-   "teams": [
-    {
-     "name": "Chelsea",
-     "page": "lag/chelsea/"
-    },
-    {
-     "name": "Tottenham",
-     "page": "lag/tottenham/"
-    }
-   ]
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
+   }
   },
   {
    "id": "565837",
@@ -1697,14 +1034,12 @@
     {
      "name": "Daniel Svensson",
      "team": "Dortmund",
-     "url": "https://sv.wikipedia.org/wiki/Daniel_Svensson_(fotbollsspelare_f%C3%B6dd_2002)",
-     "page": "spelare/daniel-svensson/"
+     "url": "https://sv.wikipedia.org/wiki/Daniel_Svensson_(fotbollsspelare_f%C3%B6dd_2002)"
     },
     {
      "name": "Love Arrhov",
      "team": "Frankfurt",
-     "url": "https://sv.wikipedia.org/wiki/Love_Arrhov",
-     "page": "spelare/love-arrhov/"
+     "url": "https://sv.wikipedia.org/wiki/Love_Arrhov"
     }
    ],
    "tv": {
@@ -1713,17 +1048,7 @@
     "channel": null,
     "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Dortmund",
-     "page": "lag/dortmund/"
-    },
-    {
-     "name": "Frankfurt",
-     "page": "lag/frankfurt/"
-    }
-   ]
+   }
   },
   {
    "id": "558861",
@@ -1735,8 +1060,7 @@
     {
      "name": "Armin Ćulum",
      "team": "Willem II",
-     "url": "https://en.wikipedia.org/wiki/Armin_%C4%86ulum",
-     "page": "spelare/armin-culum/"
+     "url": "https://en.wikipedia.org/wiki/Armin_%C4%86ulum"
     }
    ],
    "tv": {
@@ -1745,17 +1069,7 @@
     "channel": null,
     "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Willem II",
-     "page": "lag/willem-ii/"
-    },
-    {
-     "name": "Cambuur",
-     "page": "lag/cambuur/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020168",
@@ -1767,8 +1081,7 @@
     {
      "name": "Leo Carlsson",
      "team": "Ducks",
-     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
-     "page": "spelare/leo-carlsson/"
+     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson"
     }
    ],
    "tv": {
@@ -1777,17 +1090,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Philadelphia Flyers",
-     "page": "lag/philadelphia-flyers/"
-    },
-    {
-     "name": "Anaheim Ducks",
-     "page": "lag/anaheim-ducks/"
-    }
-   ]
+   }
   },
   {
    "id": "558565",
@@ -1799,8 +1102,7 @@
     {
      "name": "Pontus Almqvist",
      "team": "Parma",
-     "url": "https://sv.wikipedia.org/wiki/Pontus_Almqvist",
-     "page": "spelare/pontus-almqvist/"
+     "url": "https://sv.wikipedia.org/wiki/Pontus_Almqvist"
     }
    ],
    "tv": {
@@ -1809,17 +1111,7 @@
     "channel": null,
     "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Lazio",
-     "page": "lag/lazio/"
-    },
-    {
-     "name": "Parma",
-     "page": "lag/parma/"
-    }
-   ]
+   }
   },
   {
    "id": "558860",
@@ -1831,8 +1123,7 @@
     {
      "name": "Marcus Linday",
      "team": "Heerenveen",
-     "url": "https://sv.wikipedia.org/wiki/Marcus_Linday",
-     "page": "spelare/marcus-linday/"
+     "url": "https://sv.wikipedia.org/wiki/Marcus_Linday"
     }
    ],
    "tv": {
@@ -1841,17 +1132,7 @@
     "channel": null,
     "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Den Haag",
-     "page": "lag/den-haag/"
-    },
-    {
-     "name": "Heerenveen",
-     "page": "lag/heerenveen/"
-    }
-   ]
+   }
   },
   {
    "id": "567335",
@@ -1863,8 +1144,7 @@
     {
      "name": "Andre Picornell",
      "team": "Gil Vicente",
-     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Picornell",
-     "page": "spelare/andre-picornell/"
+     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Picornell"
     }
    ],
    "tv": {
@@ -1873,17 +1153,7 @@
     "channel": null,
     "source": null,
     "note": "TV4 Play visar 3 utvalda matcher per omgång"
-   },
-   "teams": [
-    {
-     "name": "Gil Vicente",
-     "page": "lag/gil-vicente/"
-    },
-    {
-     "name": "Porto",
-     "page": "lag/porto/"
-    }
-   ]
+   }
   },
   {
    "id": "555054",
@@ -1895,8 +1165,7 @@
     {
      "name": "Niclas Eliasson",
      "team": "Internacional",
-     "url": "https://sv.wikipedia.org/wiki/Niclas_Eliasson",
-     "page": "spelare/niclas-eliasson/"
+     "url": "https://sv.wikipedia.org/wiki/Niclas_Eliasson"
     }
    ],
    "tv": {
@@ -1905,17 +1174,7 @@
     "channel": null,
     "source": null,
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Internacional",
-     "page": "lag/internacional/"
-    },
-    {
-     "name": "Botafogo",
-     "page": "lag/botafogo/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020169",
@@ -1927,38 +1186,32 @@
     {
      "name": "Jesper Boqvist",
      "team": "Devils",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist",
-     "page": "spelare/jesper-boqvist/"
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist"
     },
     {
      "name": "Jesper Bratt",
      "team": "Devils",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt",
-     "page": "spelare/jesper-bratt/"
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt"
     },
     {
      "name": "Adrian Kempe",
      "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe",
-     "page": "spelare/adrian-kempe/"
+     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe"
     },
     {
      "name": "Andre Lee",
      "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Andre_Lee",
-     "page": "spelare/andre-lee/"
+     "url": "https://sv.wikipedia.org/wiki/Andre_Lee"
     },
     {
      "name": "Anton Forsberg",
      "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg",
-     "page": "spelare/anton-forsberg/"
+     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg"
     },
     {
      "name": "Erik Gustafsson",
      "team": "Kings",
-     "url": null,
-     "page": "spelare/erik-gustafsson/"
+     "url": null
     }
    ],
    "tv": {
@@ -1967,17 +1220,7 @@
     "channel": null,
     "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "New Jersey Devils",
-     "page": "lag/new-jersey-devils/"
-    },
-    {
-     "name": "Los Angeles Kings",
-     "page": "lag/los-angeles-kings/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020170",
@@ -1989,26 +1232,22 @@
     {
      "name": "Elias Lindholm",
      "team": "Bruins",
-     "url": "https://sv.wikipedia.org/wiki/Elias_Lindholm",
-     "page": "spelare/elias-lindholm/"
+     "url": "https://sv.wikipedia.org/wiki/Elias_Lindholm"
     },
     {
      "name": "Hampus Lindholm",
      "team": "Bruins",
-     "url": "https://sv.wikipedia.org/wiki/Hampus_Lindholm",
-     "page": "spelare/hampus-lindholm/"
+     "url": "https://sv.wikipedia.org/wiki/Hampus_Lindholm"
     },
     {
      "name": "Alexander Wennberg",
      "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg",
-     "page": "spelare/alexander-wennberg/"
+     "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg"
     },
     {
      "name": "Ivar Stenberg",
      "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg",
-     "page": "spelare/ivar-stenberg/"
+     "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg"
     }
    ],
    "tv": {
@@ -2017,17 +1256,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Boston Bruins",
-     "page": "lag/boston-bruins/"
-    },
-    {
-     "name": "San Jose Sharks",
-     "page": "lag/san-jose-sharks/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020174",
@@ -2039,26 +1268,22 @@
     {
      "name": "Emil Andrae",
      "team": "Blue Jackets",
-     "url": "https://sv.wikipedia.org/wiki/Emil_Andrae",
-     "page": "spelare/emil-andrae/"
+     "url": "https://sv.wikipedia.org/wiki/Emil_Andrae"
     },
     {
      "name": "Rasmus Andersson",
      "team": "Golden Knights",
-     "url": null,
-     "page": "spelare/rasmus-andersson/"
+     "url": null
     },
     {
      "name": "Victor Olofsson",
      "team": "Golden Knights",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson",
-     "page": "spelare/victor-olofsson/"
+     "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson"
     },
     {
      "name": "William Karlsson",
      "team": "Golden Knights",
-     "url": "https://sv.wikipedia.org/wiki/William_Karlsson",
-     "page": "spelare/william-karlsson/"
+     "url": "https://sv.wikipedia.org/wiki/William_Karlsson"
     }
    ],
    "tv": {
@@ -2067,17 +1292,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Columbus Blue Jackets",
-     "page": "lag/columbus-blue-jackets/"
-    },
-    {
-     "name": "Vegas Golden Knights",
-     "page": "lag/vegas-golden-knights/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020176",
@@ -2089,32 +1304,27 @@
     {
      "name": "Filip Hallander",
      "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
-     "page": "spelare/filip-hallander/"
+     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander"
     },
     {
      "name": "Mattias Ekholm",
      "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm",
-     "page": "spelare/mattias-ekholm/"
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm"
     },
     {
      "name": "Mattias Janmark",
      "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark",
-     "page": "spelare/mattias-janmark/"
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark"
     },
     {
      "name": "Oliver Ekman-Larsson",
      "team": "Maple Leafs",
-     "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson",
-     "page": "spelare/oliver-ekman-larsson/"
+     "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson"
     },
     {
      "name": "William Nylander",
      "team": "Maple Leafs",
-     "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)",
-     "page": "spelare/william-nylander/"
+     "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)"
     }
    ],
    "tv": {
@@ -2123,17 +1333,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Edmonton Oilers",
-     "page": "lag/edmonton-oilers/"
-    },
-    {
-     "name": "Toronto Maple Leafs",
-     "page": "lag/toronto-maple-leafs/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020171",
@@ -2145,44 +1345,37 @@
     {
      "name": "Andre Burakovsky",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky",
-     "page": "spelare/andre-burakovsky/"
+     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky"
     },
     {
      "name": "Fabian Zetterlund",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund",
-     "page": "spelare/fabian-zetterlund/"
+     "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund"
     },
     {
      "name": "Linus Ullmark",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark",
-     "page": "spelare/linus-ullmark/"
+     "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark"
     },
     {
      "name": "Samuel Ersson",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson",
-     "page": "spelare/samuel-ersson/"
+     "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson"
     },
     {
      "name": "William Eklund",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/William_Eklund",
-     "page": "spelare/william-eklund/"
+     "url": "https://sv.wikipedia.org/wiki/William_Eklund"
     },
     {
      "name": "Marcus Pettersson",
      "team": "Rangers",
-     "url": "https://sv.wikipedia.org/wiki/Marcus_Pettersson",
-     "page": "spelare/marcus-pettersson/"
+     "url": "https://sv.wikipedia.org/wiki/Marcus_Pettersson"
     },
     {
      "name": "Mika Zibanejad",
      "team": "Rangers",
-     "url": "https://sv.wikipedia.org/wiki/Mika_Zibanejad",
-     "page": "spelare/mika-zibanejad/"
+     "url": "https://sv.wikipedia.org/wiki/Mika_Zibanejad"
     }
    ],
    "tv": {
@@ -2191,17 +1384,7 @@
     "channel": null,
     "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Ottawa Senators",
-     "page": "lag/ottawa-senators/"
-    },
-    {
-     "name": "New York Rangers",
-     "page": "lag/new-york-rangers/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020172",
@@ -2213,44 +1396,37 @@
     {
      "name": "Elmer Soderblom",
      "team": "Penguins",
-     "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom",
-     "page": "spelare/elmer-soderblom/"
+     "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom"
     },
     {
      "name": "Erik Karlsson",
      "team": "Penguins",
-     "url": null,
-     "page": "spelare/erik-karlsson/"
+     "url": null
     },
     {
      "name": "Rickard Rakell",
      "team": "Penguins",
-     "url": "https://sv.wikipedia.org/wiki/Rickard_Rakell",
-     "page": "spelare/rickard-rakell/"
+     "url": "https://sv.wikipedia.org/wiki/Rickard_Rakell"
     },
     {
      "name": "Adam Edstrom",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
-     "page": "spelare/adam-edstrom/"
+     "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m"
     },
     {
      "name": "Adam Wilsby",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Wilsby",
-     "page": "spelare/adam-wilsby/"
+     "url": "https://sv.wikipedia.org/wiki/Adam_Wilsby"
     },
     {
      "name": "Filip Forsberg",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Forsberg",
-     "page": "spelare/filip-forsberg/"
+     "url": "https://sv.wikipedia.org/wiki/Filip_Forsberg"
     },
     {
      "name": "Nils Hoglander",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
-     "page": "spelare/nils-hoglander/"
+     "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander"
     }
    ],
    "tv": {
@@ -2259,17 +1435,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Pittsburgh Penguins",
-     "page": "lag/pittsburgh-penguins/"
-    },
-    {
-     "name": "Nashville Predators",
-     "page": "lag/nashville-predators/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020175",
@@ -2281,26 +1447,22 @@
     {
      "name": "Jonatan Berggren",
      "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
-     "page": "spelare/jonatan-berggren/"
+     "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren"
     },
     {
      "name": "Otto Stenberg",
      "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Otto_Stenberg",
-     "page": "spelare/otto-stenberg/"
+     "url": "https://sv.wikipedia.org/wiki/Otto_Stenberg"
     },
     {
      "name": "Philip Broberg",
      "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
-     "page": "spelare/philip-broberg/"
+     "url": "https://sv.wikipedia.org/wiki/Philip_Broberg"
     },
     {
      "name": "Theo Lindstein",
      "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Theo_Lindstein",
-     "page": "spelare/theo-lindstein/"
+     "url": "https://sv.wikipedia.org/wiki/Theo_Lindstein"
     }
    ],
    "tv": {
@@ -2309,17 +1471,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "St. Louis Blues",
-     "page": "lag/st-louis-blues/"
-    },
-    {
-     "name": "Carolina Hurricanes",
-     "page": "lag/carolina-hurricanes/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020173",
@@ -2331,26 +1483,22 @@
     {
      "name": "Rasmus Sandin",
      "team": "Capitals",
-     "url": "https://sv.wikipedia.org/wiki/Rasmus_Sandin",
-     "page": "spelare/rasmus-sandin/"
+     "url": "https://sv.wikipedia.org/wiki/Rasmus_Sandin"
     },
     {
      "name": "Timothy Liljegren",
      "team": "Capitals",
-     "url": "https://sv.wikipedia.org/wiki/Timothy_Liljegren",
-     "page": "spelare/timothy-liljegren/"
+     "url": "https://sv.wikipedia.org/wiki/Timothy_Liljegren"
     },
     {
      "name": "Noah Ostlund",
      "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
-     "page": "spelare/noah-ostlund/"
+     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund"
     },
     {
      "name": "Rasmus Dahlin",
      "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
-     "page": "spelare/rasmus-dahlin/"
+     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin"
     }
    ],
    "tv": {
@@ -2359,17 +1507,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Washington Capitals",
-     "page": "lag/washington-capitals/"
-    },
-    {
-     "name": "Buffalo Sabres",
-     "page": "lag/buffalo-sabres/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020177",
@@ -2381,26 +1519,22 @@
     {
      "name": "Kevin Stenlund",
      "team": "Mammoth",
-     "url": "https://sv.wikipedia.org/wiki/Kevin_Stenlund",
-     "page": "spelare/kevin-stenlund/"
+     "url": "https://sv.wikipedia.org/wiki/Kevin_Stenlund"
     },
     {
      "name": "Dennis Hildeby",
      "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Dennis_Hildeby",
-     "page": "spelare/dennis-hildeby/"
+     "url": "https://sv.wikipedia.org/wiki/Dennis_Hildeby"
     },
     {
      "name": "Pontus Holmberg",
      "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Pontus_Holmberg",
-     "page": "spelare/pontus-holmberg/"
+     "url": "https://sv.wikipedia.org/wiki/Pontus_Holmberg"
     },
     {
      "name": "Victor Hedman",
      "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Hedman",
-     "page": "spelare/victor-hedman/"
+     "url": "https://sv.wikipedia.org/wiki/Victor_Hedman"
     }
    ],
    "tv": {
@@ -2409,17 +1543,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Utah Mammoth",
-     "page": "lag/utah-mammoth/"
-    },
-    {
-     "name": "Tampa Bay Lightning",
-     "page": "lag/tampa-bay-lightning/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020178",
@@ -2431,50 +1555,42 @@
     {
      "name": "Mikael Backlund",
      "team": "Flames",
-     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund",
-     "page": "spelare/mikael-backlund/"
+     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund"
     },
     {
      "name": "Albert Johansson",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)",
-     "page": "spelare/albert-johansson/"
+     "url": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)"
     },
     {
      "name": "Andreas Englund",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Andreas_Englund",
-     "page": "spelare/andreas-englund/"
+     "url": "https://sv.wikipedia.org/wiki/Andreas_Englund"
     },
     {
      "name": "Anton Johansson",
      "team": "Red Wings",
-     "url": null,
-     "page": "spelare/anton-johansson/"
+     "url": null
     },
     {
      "name": "Axel Sandin-Pellikka",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Axel_Sandin_Pellikka",
-     "page": "spelare/axel-sandin-pellikka/"
+     "url": "https://sv.wikipedia.org/wiki/Axel_Sandin_Pellikka"
     },
     {
      "name": "Lucas Raymond",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Lucas_Raymond",
-     "page": "spelare/lucas-raymond/"
+     "url": "https://sv.wikipedia.org/wiki/Lucas_Raymond"
     },
     {
      "name": "Viktor Arvidsson",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson",
-     "page": "spelare/viktor-arvidsson/"
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson"
     },
     {
      "name": "William Wallinder",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/William_Wallinder",
-     "page": "spelare/william-wallinder/"
+     "url": "https://sv.wikipedia.org/wiki/William_Wallinder"
     }
    ],
    "tv": {
@@ -2483,17 +1599,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Calgary Flames",
-     "page": "lag/calgary-flames/"
-    },
-    {
-     "name": "Detroit Red Wings",
-     "page": "lag/detroit-red-wings/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020179",
@@ -2505,32 +1611,27 @@
     {
      "name": "Adam Larsson",
      "team": "Kraken",
-     "url": null,
-     "page": "spelare/adam-larsson/"
+     "url": null
     },
     {
      "name": "Filip Gustavsson",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson",
-     "page": "spelare/filip-gustavsson/"
+     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson"
     },
     {
      "name": "Jesper Wallstedt",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
-     "page": "spelare/jesper-wallstedt/"
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt"
     },
     {
      "name": "Joel Eriksson Ek",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek",
-     "page": "spelare/joel-eriksson-ek/"
+     "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek"
     },
     {
      "name": "Jonas Brodin",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin",
-     "page": "spelare/jonas-brodin/"
+     "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin"
     }
    ],
    "tv": {
@@ -2539,17 +1640,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Seattle Kraken",
-     "page": "lag/seattle-kraken/"
-    },
-    {
-     "name": "Minnesota Wild",
-     "page": "lag/minnesota-wild/"
-    }
-   ]
+   }
   },
   {
    "id": "558859",
@@ -2561,20 +1652,17 @@
     {
      "name": "Kristoffer Peterson",
      "team": "Sittard",
-     "url": "https://sv.wikipedia.org/wiki/Kristoffer_Peterson",
-     "page": "spelare/kristoffer-peterson/"
+     "url": "https://sv.wikipedia.org/wiki/Kristoffer_Peterson"
     },
     {
      "name": "Casper Widell",
      "team": "Excelsior",
-     "url": "https://sv.wikipedia.org/wiki/Casper_Widell",
-     "page": "spelare/casper-widell/"
+     "url": "https://sv.wikipedia.org/wiki/Casper_Widell"
     },
     {
      "name": "Yacqub Finey",
      "team": "Excelsior",
-     "url": null,
-     "page": "spelare/yacqub-finey/"
+     "url": null
     }
    ],
    "tv": {
@@ -2583,17 +1671,7 @@
     "channel": null,
     "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Sittard",
-     "page": "lag/sittard/"
-    },
-    {
-     "name": "Excelsior",
-     "page": "lag/excelsior/"
-    }
-   ]
+   }
   },
   {
    "id": "558563",
@@ -2605,8 +1683,7 @@
     {
      "name": "Alieu Njie",
      "team": "Fiorentina",
-     "url": "https://sv.wikipedia.org/wiki/Alieu_Njie",
-     "page": "spelare/alieu-njie/"
+     "url": "https://sv.wikipedia.org/wiki/Alieu_Njie"
     }
    ],
    "tv": {
@@ -2615,17 +1692,7 @@
     "channel": null,
     "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Inter",
-     "page": "lag/inter/"
-    },
-    {
-     "name": "Fiorentina",
-     "page": "lag/fiorentina/"
-    }
-   ]
+   }
   },
   {
    "id": "558857",
@@ -2637,26 +1704,22 @@
     {
      "name": "Alvin Nordin",
      "team": "Groningen",
-     "url": "https://sv.wikipedia.org/wiki/Alvin_Nordin",
-     "page": "spelare/alvin-nordin/"
+     "url": "https://sv.wikipedia.org/wiki/Alvin_Nordin"
     },
     {
      "name": "Elvis Van Der Laan",
      "team": "Groningen",
-     "url": "https://sv.wikipedia.org/wiki/Elvis_van_der_Laan",
-     "page": "spelare/elvis-van-der-laan/"
+     "url": "https://sv.wikipedia.org/wiki/Elvis_van_der_Laan"
     },
     {
      "name": "Jacob Ondrejka",
      "team": "Groningen",
-     "url": "https://sv.wikipedia.org/wiki/Jacob_Ondrejka",
-     "page": "spelare/jacob-ondrejka/"
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Ondrejka"
     },
     {
      "name": "Malcolm Jeng",
      "team": "Groningen",
-     "url": "https://sv.wikipedia.org/wiki/Malcolm_Jeng",
-     "page": "spelare/malcolm-jeng/"
+     "url": "https://sv.wikipedia.org/wiki/Malcolm_Jeng"
     }
    ],
    "tv": {
@@ -2665,17 +1728,7 @@
     "channel": null,
     "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "NEC",
-     "page": "lag/nec/"
-    },
-    {
-     "name": "Groningen",
-     "page": "lag/groningen/"
-    }
-   ]
+   }
   },
   {
    "id": "558562",
@@ -2687,8 +1740,7 @@
     {
      "name": "Isak Hien",
      "team": "Atalanta",
-     "url": "https://sv.wikipedia.org/wiki/Isak_Hien",
-     "page": "spelare/isak-hien/"
+     "url": "https://sv.wikipedia.org/wiki/Isak_Hien"
     }
    ],
    "tv": {
@@ -2697,17 +1749,7 @@
     "channel": null,
     "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Atalanta",
-     "page": "lag/atalanta/"
-    },
-    {
-     "name": "Frosinone",
-     "page": "lag/frosinone/"
-    }
-   ]
+   }
   },
   {
    "id": "560613",
@@ -2719,27 +1761,16 @@
     {
      "name": "Anthony Elanga",
      "team": "Newcastle",
-     "url": "https://sv.wikipedia.org/wiki/Anthony_Elanga",
-     "page": "spelare/anthony-elanga/"
+     "url": "https://sv.wikipedia.org/wiki/Anthony_Elanga"
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
-   },
-   "teams": [
-    {
-     "name": "Crystal Palace",
-     "page": "lag/crystal-palace/"
-    },
-    {
-     "name": "Newcastle",
-     "page": "lag/newcastle/"
-    }
-   ]
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
+   }
   },
   {
    "id": "560619",
@@ -2751,27 +1782,16 @@
     {
      "name": "Elliot Stroud",
      "team": "Hull City",
-     "url": "https://sv.wikipedia.org/wiki/Elliot_Stroud",
-     "page": "spelare/elliot-stroud/"
+     "url": "https://sv.wikipedia.org/wiki/Elliot_Stroud"
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
-   },
-   "teams": [
-    {
-     "name": "Hull City",
-     "page": "lag/hull-city/"
-    },
-    {
-     "name": "Brentford",
-     "page": "lag/brentford/"
-    }
-   ]
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
+   }
   },
   {
    "id": "560612",
@@ -2783,33 +1803,21 @@
     {
      "name": "Alexander Isak",
      "team": "Liverpool",
-     "url": "https://sv.wikipedia.org/wiki/Alexander_Isak",
-     "page": "spelare/alexander-isak/"
+     "url": "https://sv.wikipedia.org/wiki/Alexander_Isak"
     },
     {
      "name": "Yasin Ayari",
      "team": "Brighton Hove",
-     "url": "https://sv.wikipedia.org/wiki/Yasin_Ayari",
-     "page": "spelare/yasin-ayari/"
+     "url": "https://sv.wikipedia.org/wiki/Yasin_Ayari"
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
-   },
-   "teams": [
-    {
-     "name": "Liverpool",
-     "page": "lag/liverpool/"
-    },
-    {
-     "name": "Brighton Hove",
-     "page": "lag/brighton-hove/"
-    }
-   ]
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
+   }
   },
   {
    "id": "564725",
@@ -2821,14 +1829,12 @@
     {
      "name": "Carl Starfelt",
      "team": "Celta",
-     "url": "https://sv.wikipedia.org/wiki/Carl_Starfelt",
-     "page": "spelare/carl-starfelt/"
+     "url": "https://sv.wikipedia.org/wiki/Carl_Starfelt"
     },
     {
      "name": "Williot Swedberg",
      "team": "Celta",
-     "url": "https://sv.wikipedia.org/wiki/Williot_Swedberg",
-     "page": "spelare/williot-swedberg/"
+     "url": "https://sv.wikipedia.org/wiki/Williot_Swedberg"
     }
    ],
    "tv": {
@@ -2837,17 +1843,7 @@
     "channel": null,
     "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Celta",
-     "page": "lag/celta/"
-    },
-    {
-     "name": "Real Betis",
-     "page": "lag/real-betis/"
-    }
-   ]
+   }
   },
   {
    "id": "559651",
@@ -2859,14 +1855,12 @@
     {
      "name": "Benjamin Brantlind",
      "team": "Strasbourg",
-     "url": "https://sv.wikipedia.org/wiki/Benjamin_Brantlind",
-     "page": "spelare/benjamin-brantlind/"
+     "url": "https://sv.wikipedia.org/wiki/Benjamin_Brantlind"
     },
     {
      "name": "Sebastian Nanasi",
      "team": "Strasbourg",
-     "url": "https://sv.wikipedia.org/wiki/Sebastian_Nanasi",
-     "page": "spelare/sebastian-nanasi/"
+     "url": "https://sv.wikipedia.org/wiki/Sebastian_Nanasi"
     }
    ],
    "tv": {
@@ -2875,17 +1869,7 @@
     "channel": null,
     "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Stade Rennais",
-     "page": "lag/stade-rennais/"
-    },
-    {
-     "name": "Strasbourg",
-     "page": "lag/strasbourg/"
-    }
-   ]
+   }
   },
   {
    "id": "560621",
@@ -2897,33 +1881,21 @@
     {
      "name": "Melker Ellborg",
      "team": "Sunderland",
-     "url": "https://sv.wikipedia.org/wiki/Melker_Ellborg",
-     "page": "spelare/melker-ellborg/"
+     "url": "https://sv.wikipedia.org/wiki/Melker_Ellborg"
     },
     {
      "name": "Gabriel Gudmundsson",
      "team": "Leeds United",
-     "url": "https://sv.wikipedia.org/wiki/Gabriel_Gudmundsson",
-     "page": "spelare/gabriel-gudmundsson/"
+     "url": "https://sv.wikipedia.org/wiki/Gabriel_Gudmundsson"
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
-   },
-   "teams": [
-    {
-     "name": "Sunderland",
-     "page": "lag/sunderland/"
-    },
-    {
-     "name": "Leeds United",
-     "page": "lag/leeds-united/"
-    }
-   ]
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
+   }
   },
   {
    "id": "567334",
@@ -2935,8 +1907,7 @@
     {
      "name": "Gustaf Lagerbielke",
      "team": "Braga",
-     "url": "https://sv.wikipedia.org/wiki/Gustaf_Lagerbielke_(fotbollsspelare)",
-     "page": "spelare/gustaf-lagerbielke/"
+     "url": "https://sv.wikipedia.org/wiki/Gustaf_Lagerbielke_(fotbollsspelare)"
     }
    ],
    "tv": {
@@ -2945,17 +1916,7 @@
     "channel": null,
     "source": null,
     "note": "TV4 Play visar 3 utvalda matcher per omgång"
-   },
-   "teams": [
-    {
-     "name": "CD Nacional",
-     "page": "lag/cd-nacional/"
-    },
-    {
-     "name": "Braga",
-     "page": "lag/braga/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020180",
@@ -2967,26 +1928,22 @@
     {
      "name": "Anton Frondell",
      "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell",
-     "page": "spelare/anton-frondell/"
+     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell"
     },
     {
      "name": "Arvid Soderblom",
      "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom",
-     "page": "spelare/arvid-soderblom/"
+     "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom"
     },
     {
      "name": "Gustav Forsling",
      "team": "Panthers",
-     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling",
-     "page": "spelare/gustav-forsling/"
+     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling"
     },
     {
      "name": "Jacob Markstrom",
      "team": "Panthers",
-     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
-     "page": "spelare/jacob-markstrom/"
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m"
     }
    ],
    "tv": {
@@ -2995,17 +1952,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Chicago Blackhawks",
-     "page": "lag/chicago-blackhawks/"
-    },
-    {
-     "name": "Florida Panthers",
-     "page": "lag/florida-panthers/"
-    }
-   ]
+   }
   },
   {
    "id": "558559",
@@ -3017,8 +1964,7 @@
     {
      "name": "Jesper Karlström",
      "team": "Udinese",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Karlstr%C3%B6m",
-     "page": "spelare/jesper-karlstrom/"
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Karlstr%C3%B6m"
     }
    ],
    "tv": {
@@ -3027,17 +1973,7 @@
     "channel": null,
     "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Udinese",
-     "page": "lag/udinese/"
-    },
-    {
-     "name": "Milan",
-     "page": "lag/milan/"
-    }
-   ]
+   }
   },
   {
    "id": "564723",
@@ -3049,8 +1985,7 @@
     {
      "name": "Roony Bardghji",
      "team": "Barça",
-     "url": "https://sv.wikipedia.org/wiki/Roony_Bardghji",
-     "page": "spelare/roony-bardghji/"
+     "url": "https://sv.wikipedia.org/wiki/Roony_Bardghji"
     }
    ],
    "tv": {
@@ -3059,17 +1994,7 @@
     "channel": null,
     "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Barça",
-     "page": "lag/barca/"
-    },
-    {
-     "name": "Real Madrid",
-     "page": "lag/real-madrid/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020181",
@@ -3081,51 +2006,36 @@
     {
      "name": "Nils Lundkvist",
      "team": "Stars",
-     "url": "https://sv.wikipedia.org/wiki/Nils_Lundkvist",
-     "page": "spelare/nils-lundkvist/"
+     "url": "https://sv.wikipedia.org/wiki/Nils_Lundkvist"
     },
     {
      "name": "Oskar Bäck",
      "team": "Stars",
-     "url": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck",
-     "page": "spelare/oskar-back/"
+     "url": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck"
     },
     {
      "name": "Emil Heineman",
      "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman",
-     "page": "spelare/emil-heineman/"
+     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman"
     },
     {
      "name": "Simon Holmstrom",
      "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m",
-     "page": "spelare/simon-holmstrom/"
+     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m"
     },
     {
      "name": "Victor Eklund",
      "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund",
-     "page": "spelare/victor-eklund/"
+     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund"
     }
    ],
    "tv": {
-    "status": "likely",
-    "service": "Viaplay",
+    "status": "confirmed",
+    "service": "Disney+",
     "channel": null,
-    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "source": "https://www.macken.xyz/2026/09/svenskar-pa-isen-nar-nhl-startar-pa-disney/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Dallas Stars",
-     "page": "lag/dallas-stars/"
-    },
-    {
-     "name": "New York Islanders",
-     "page": "lag/new-york-islanders/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020182",
@@ -3137,26 +2047,22 @@
     {
      "name": "Isak Rosen",
      "team": "Jets",
-     "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
-     "page": "spelare/isak-rosen/"
+     "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n"
     },
     {
      "name": "Viggo Björck",
      "team": "Jets",
-     "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck",
-     "page": "spelare/viggo-bjorck/"
+     "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck"
     },
     {
      "name": "Adam Engstrom",
      "team": "Canadiens",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
-     "page": "spelare/adam-engstrom/"
+     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m"
     },
     {
      "name": "Oliver Kapanen",
      "team": "Canadiens",
-     "url": null,
-     "page": "spelare/oliver-kapanen/"
+     "url": null
     }
    ],
    "tv": {
@@ -3165,17 +2071,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Winnipeg Jets",
-     "page": "lag/winnipeg-jets/"
-    },
-    {
-     "name": "Montréal Canadiens",
-     "page": "lag/montreal-canadiens/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020183",
@@ -3187,51 +2083,36 @@
     {
      "name": "Adam Edstrom",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
-     "page": "spelare/adam-edstrom/"
+     "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m"
     },
     {
      "name": "Adam Wilsby",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Wilsby",
-     "page": "spelare/adam-wilsby/"
+     "url": "https://sv.wikipedia.org/wiki/Adam_Wilsby"
     },
     {
      "name": "Filip Forsberg",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Forsberg",
-     "page": "spelare/filip-forsberg/"
+     "url": "https://sv.wikipedia.org/wiki/Filip_Forsberg"
     },
     {
      "name": "Nils Hoglander",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
-     "page": "spelare/nils-hoglander/"
+     "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander"
     },
     {
      "name": "Gabriel Landeskog",
      "team": "Avalanche",
-     "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog",
-     "page": "spelare/gabriel-landeskog/"
+     "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog"
     }
    ],
    "tv": {
     "status": "likely",
-    "service": "Viaplay",
+    "service": "Disney+",
     "channel": null,
-    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "source": "https://teknikveckan.se/nhl-drar-igang-pa-disney-i-oktober",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Nashville Predators",
-     "page": "lag/nashville-predators/"
-    },
-    {
-     "name": "Colorado Avalanche",
-     "page": "lag/colorado-avalanche/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020184",
@@ -3243,62 +2124,52 @@
     {
      "name": "Elias Pettersson #25",
      "team": "Canucks",
-     "url": null,
-     "page": "spelare/elias-pettersson-25/"
+     "url": null
     },
     {
      "name": "Elias Pettersson #40",
      "team": "Canucks",
-     "url": null,
-     "page": "spelare/elias-pettersson-40/"
+     "url": null
     },
     {
      "name": "Jonathan Lekkerimäki",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
-     "page": "spelare/jonathan-lekkerimaki/"
+     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki"
     },
     {
      "name": "Liam Ohgren",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
-     "page": "spelare/liam-ohgren/"
+     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren"
     },
     {
      "name": "Linus Karlsson",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
-     "page": "spelare/linus-karlsson/"
+     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson"
     },
     {
      "name": "Tom Willander",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Tom_Willander",
-     "page": "spelare/tom-willander/"
+     "url": "https://sv.wikipedia.org/wiki/Tom_Willander"
     },
     {
      "name": "Filip Gustavsson",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson",
-     "page": "spelare/filip-gustavsson/"
+     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson"
     },
     {
      "name": "Jesper Wallstedt",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
-     "page": "spelare/jesper-wallstedt/"
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt"
     },
     {
      "name": "Joel Eriksson Ek",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek",
-     "page": "spelare/joel-eriksson-ek/"
+     "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek"
     },
     {
      "name": "Jonas Brodin",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin",
-     "page": "spelare/jonas-brodin/"
+     "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin"
     }
    ],
    "tv": {
@@ -3307,17 +2178,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Vancouver Canucks",
-     "page": "lag/vancouver-canucks/"
-    },
-    {
-     "name": "Minnesota Wild",
-     "page": "lag/minnesota-wild/"
-    }
-   ]
+   }
   },
   {
    "id": "567331",
@@ -3329,8 +2190,7 @@
     {
      "name": "Samuel Dahl",
      "team": "SL Benfica",
-     "url": "https://sv.wikipedia.org/wiki/Samuel_Dahl",
-     "page": "spelare/samuel-dahl/"
+     "url": "https://sv.wikipedia.org/wiki/Samuel_Dahl"
     }
    ],
    "tv": {
@@ -3339,17 +2199,7 @@
     "channel": null,
     "source": null,
     "note": "TV4 Play visar 3 utvalda matcher per omgång"
-   },
-   "teams": [
-    {
-     "name": "Santa Clara",
-     "page": "lag/santa-clara/"
-    },
-    {
-     "name": "SL Benfica",
-     "page": "lag/sl-benfica/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020185",
@@ -3361,38 +2211,32 @@
     {
      "name": "Marcus Pettersson",
      "team": "Rangers",
-     "url": "https://sv.wikipedia.org/wiki/Marcus_Pettersson",
-     "page": "spelare/marcus-pettersson/"
+     "url": "https://sv.wikipedia.org/wiki/Marcus_Pettersson"
     },
     {
      "name": "Mika Zibanejad",
      "team": "Rangers",
-     "url": "https://sv.wikipedia.org/wiki/Mika_Zibanejad",
-     "page": "spelare/mika-zibanejad/"
+     "url": "https://sv.wikipedia.org/wiki/Mika_Zibanejad"
     },
     {
      "name": "Adrian Kempe",
      "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe",
-     "page": "spelare/adrian-kempe/"
+     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe"
     },
     {
      "name": "Andre Lee",
      "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Andre_Lee",
-     "page": "spelare/andre-lee/"
+     "url": "https://sv.wikipedia.org/wiki/Andre_Lee"
     },
     {
      "name": "Anton Forsberg",
      "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg",
-     "page": "spelare/anton-forsberg/"
+     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg"
     },
     {
      "name": "Erik Gustafsson",
      "team": "Kings",
-     "url": null,
-     "page": "spelare/erik-gustafsson/"
+     "url": null
     }
    ],
    "tv": {
@@ -3401,17 +2245,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "New York Rangers",
-     "page": "lag/new-york-rangers/"
-    },
-    {
-     "name": "Los Angeles Kings",
-     "page": "lag/los-angeles-kings/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020186",
@@ -3423,20 +2257,17 @@
     {
      "name": "Mikael Backlund",
      "team": "Flames",
-     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund",
-     "page": "spelare/mikael-backlund/"
+     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund"
     },
     {
      "name": "Oliver Ekman-Larsson",
      "team": "Maple Leafs",
-     "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson",
-     "page": "spelare/oliver-ekman-larsson/"
+     "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson"
     },
     {
      "name": "William Nylander",
      "team": "Maple Leafs",
-     "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)",
-     "page": "spelare/william-nylander/"
+     "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)"
     }
    ],
    "tv": {
@@ -3445,17 +2276,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Calgary Flames",
-     "page": "lag/calgary-flames/"
-    },
-    {
-     "name": "Toronto Maple Leafs",
-     "page": "lag/toronto-maple-leafs/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020187",
@@ -3467,62 +2288,52 @@
     {
      "name": "Filip Hallander",
      "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
-     "page": "spelare/filip-hallander/"
+     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander"
     },
     {
      "name": "Mattias Ekholm",
      "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm",
-     "page": "spelare/mattias-ekholm/"
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm"
     },
     {
      "name": "Mattias Janmark",
      "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark",
-     "page": "spelare/mattias-janmark/"
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark"
     },
     {
      "name": "Albert Johansson",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)",
-     "page": "spelare/albert-johansson/"
+     "url": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)"
     },
     {
      "name": "Andreas Englund",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Andreas_Englund",
-     "page": "spelare/andreas-englund/"
+     "url": "https://sv.wikipedia.org/wiki/Andreas_Englund"
     },
     {
      "name": "Anton Johansson",
      "team": "Red Wings",
-     "url": null,
-     "page": "spelare/anton-johansson/"
+     "url": null
     },
     {
      "name": "Axel Sandin-Pellikka",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Axel_Sandin_Pellikka",
-     "page": "spelare/axel-sandin-pellikka/"
+     "url": "https://sv.wikipedia.org/wiki/Axel_Sandin_Pellikka"
     },
     {
      "name": "Lucas Raymond",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Lucas_Raymond",
-     "page": "spelare/lucas-raymond/"
+     "url": "https://sv.wikipedia.org/wiki/Lucas_Raymond"
     },
     {
      "name": "Viktor Arvidsson",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson",
-     "page": "spelare/viktor-arvidsson/"
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson"
     },
     {
      "name": "William Wallinder",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/William_Wallinder",
-     "page": "spelare/william-wallinder/"
+     "url": "https://sv.wikipedia.org/wiki/William_Wallinder"
     }
    ],
    "tv": {
@@ -3531,17 +2342,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Edmonton Oilers",
-     "page": "lag/edmonton-oilers/"
-    },
-    {
-     "name": "Detroit Red Wings",
-     "page": "lag/detroit-red-wings/"
-    }
-   ]
+   }
   },
   {
    "id": "558557",
@@ -3553,8 +2354,7 @@
     {
      "name": "Adrian Lahdo",
      "team": "Como 1907",
-     "url": "https://sv.wikipedia.org/wiki/Adrian_Lahdo",
-     "page": "spelare/adrian-lahdo/"
+     "url": "https://sv.wikipedia.org/wiki/Adrian_Lahdo"
     }
    ],
    "tv": {
@@ -3563,17 +2363,7 @@
     "channel": null,
     "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
     "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Torino",
-     "page": "lag/torino/"
-    },
-    {
-     "name": "Como 1907",
-     "page": "lag/como-1907/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020188",
@@ -3585,8 +2375,7 @@
     {
      "name": "Emil Andrae",
      "team": "Blue Jackets",
-     "url": "https://sv.wikipedia.org/wiki/Emil_Andrae",
-     "page": "spelare/emil-andrae/"
+     "url": "https://sv.wikipedia.org/wiki/Emil_Andrae"
     }
    ],
    "tv": {
@@ -3595,17 +2384,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Philadelphia Flyers",
-     "page": "lag/philadelphia-flyers/"
-    },
-    {
-     "name": "Columbus Blue Jackets",
-     "page": "lag/columbus-blue-jackets/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020189",
@@ -3617,14 +2396,12 @@
     {
      "name": "Elias Lindholm",
      "team": "Bruins",
-     "url": "https://sv.wikipedia.org/wiki/Elias_Lindholm",
-     "page": "spelare/elias-lindholm/"
+     "url": "https://sv.wikipedia.org/wiki/Elias_Lindholm"
     },
     {
      "name": "Hampus Lindholm",
      "team": "Bruins",
-     "url": "https://sv.wikipedia.org/wiki/Hampus_Lindholm",
-     "page": "spelare/hampus-lindholm/"
+     "url": "https://sv.wikipedia.org/wiki/Hampus_Lindholm"
     }
    ],
    "tv": {
@@ -3633,17 +2410,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Carolina Hurricanes",
-     "page": "lag/carolina-hurricanes/"
-    },
-    {
-     "name": "Boston Bruins",
-     "page": "lag/boston-bruins/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020190",
@@ -3655,38 +2422,32 @@
     {
      "name": "Anton Frondell",
      "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell",
-     "page": "spelare/anton-frondell/"
+     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell"
     },
     {
      "name": "Arvid Soderblom",
      "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom",
-     "page": "spelare/arvid-soderblom/"
+     "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom"
     },
     {
      "name": "Adrian Kempe",
      "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe",
-     "page": "spelare/adrian-kempe/"
+     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe"
     },
     {
      "name": "Andre Lee",
      "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Andre_Lee",
-     "page": "spelare/andre-lee/"
+     "url": "https://sv.wikipedia.org/wiki/Andre_Lee"
     },
     {
      "name": "Anton Forsberg",
      "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg",
-     "page": "spelare/anton-forsberg/"
+     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg"
     },
     {
      "name": "Erik Gustafsson",
      "team": "Kings",
-     "url": null,
-     "page": "spelare/erik-gustafsson/"
+     "url": null
     }
    ],
    "tv": {
@@ -3695,17 +2456,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Chicago Blackhawks",
-     "page": "lag/chicago-blackhawks/"
-    },
-    {
-     "name": "Los Angeles Kings",
-     "page": "lag/los-angeles-kings/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020193",
@@ -3717,26 +2468,22 @@
     {
      "name": "Nils Lundkvist",
      "team": "Stars",
-     "url": "https://sv.wikipedia.org/wiki/Nils_Lundkvist",
-     "page": "spelare/nils-lundkvist/"
+     "url": "https://sv.wikipedia.org/wiki/Nils_Lundkvist"
     },
     {
      "name": "Oskar Bäck",
      "team": "Stars",
-     "url": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck",
-     "page": "spelare/oskar-back/"
+     "url": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck"
     },
     {
      "name": "Jesper Boqvist",
      "team": "Devils",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist",
-     "page": "spelare/jesper-boqvist/"
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist"
     },
     {
      "name": "Jesper Bratt",
      "team": "Devils",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt",
-     "page": "spelare/jesper-bratt/"
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt"
     }
    ],
    "tv": {
@@ -3745,17 +2492,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Dallas Stars",
-     "page": "lag/dallas-stars/"
-    },
-    {
-     "name": "New Jersey Devils",
-     "page": "lag/new-jersey-devils/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020192",
@@ -3767,44 +2504,37 @@
     {
      "name": "Adam Edstrom",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
-     "page": "spelare/adam-edstrom/"
+     "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m"
     },
     {
      "name": "Adam Wilsby",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Wilsby",
-     "page": "spelare/adam-wilsby/"
+     "url": "https://sv.wikipedia.org/wiki/Adam_Wilsby"
     },
     {
      "name": "Filip Forsberg",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Forsberg",
-     "page": "spelare/filip-forsberg/"
+     "url": "https://sv.wikipedia.org/wiki/Filip_Forsberg"
     },
     {
      "name": "Nils Hoglander",
      "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
-     "page": "spelare/nils-hoglander/"
+     "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander"
     },
     {
      "name": "Emil Heineman",
      "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman",
-     "page": "spelare/emil-heineman/"
+     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman"
     },
     {
      "name": "Simon Holmstrom",
      "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m",
-     "page": "spelare/simon-holmstrom/"
+     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m"
     },
     {
      "name": "Victor Eklund",
      "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund",
-     "page": "spelare/victor-eklund/"
+     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund"
     }
    ],
    "tv": {
@@ -3813,17 +2543,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Nashville Predators",
-     "page": "lag/nashville-predators/"
-    },
-    {
-     "name": "New York Islanders",
-     "page": "lag/new-york-islanders/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020191",
@@ -3835,38 +2555,32 @@
     {
      "name": "Jonatan Berggren",
      "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
-     "page": "spelare/jonatan-berggren/"
+     "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren"
     },
     {
      "name": "Otto Stenberg",
      "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Otto_Stenberg",
-     "page": "spelare/otto-stenberg/"
+     "url": "https://sv.wikipedia.org/wiki/Otto_Stenberg"
     },
     {
      "name": "Philip Broberg",
      "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
-     "page": "spelare/philip-broberg/"
+     "url": "https://sv.wikipedia.org/wiki/Philip_Broberg"
     },
     {
      "name": "Theo Lindstein",
      "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Theo_Lindstein",
-     "page": "spelare/theo-lindstein/"
+     "url": "https://sv.wikipedia.org/wiki/Theo_Lindstein"
     },
     {
      "name": "Adam Engstrom",
      "team": "Canadiens",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
-     "page": "spelare/adam-engstrom/"
+     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m"
     },
     {
      "name": "Oliver Kapanen",
      "team": "Canadiens",
-     "url": null,
-     "page": "spelare/oliver-kapanen/"
+     "url": null
     }
    ],
    "tv": {
@@ -3875,17 +2589,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "St. Louis Blues",
-     "page": "lag/st-louis-blues/"
-    },
-    {
-     "name": "Montréal Canadiens",
-     "page": "lag/montreal-canadiens/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020194",
@@ -3897,26 +2601,22 @@
     {
      "name": "Isak Rosen",
      "team": "Jets",
-     "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
-     "page": "spelare/isak-rosen/"
+     "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n"
     },
     {
      "name": "Viggo Björck",
      "team": "Jets",
-     "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck",
-     "page": "spelare/viggo-bjorck/"
+     "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck"
     },
     {
      "name": "Gustav Forsling",
      "team": "Panthers",
-     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling",
-     "page": "spelare/gustav-forsling/"
+     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling"
     },
     {
      "name": "Jacob Markstrom",
      "team": "Panthers",
-     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
-     "page": "spelare/jacob-markstrom/"
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m"
     }
    ],
    "tv": {
@@ -3925,17 +2625,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Winnipeg Jets",
-     "page": "lag/winnipeg-jets/"
-    },
-    {
-     "name": "Florida Panthers",
-     "page": "lag/florida-panthers/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020195",
@@ -3947,32 +2637,27 @@
     {
      "name": "Kevin Stenlund",
      "team": "Mammoth",
-     "url": "https://sv.wikipedia.org/wiki/Kevin_Stenlund",
-     "page": "spelare/kevin-stenlund/"
+     "url": "https://sv.wikipedia.org/wiki/Kevin_Stenlund"
     },
     {
      "name": "Filip Gustavsson",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson",
-     "page": "spelare/filip-gustavsson/"
+     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson"
     },
     {
      "name": "Jesper Wallstedt",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
-     "page": "spelare/jesper-wallstedt/"
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt"
     },
     {
      "name": "Joel Eriksson Ek",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek",
-     "page": "spelare/joel-eriksson-ek/"
+     "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek"
     },
     {
      "name": "Jonas Brodin",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin",
-     "page": "spelare/jonas-brodin/"
+     "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin"
     }
    ],
    "tv": {
@@ -3981,17 +2666,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Utah Mammoth",
-     "page": "lag/utah-mammoth/"
-    },
-    {
-     "name": "Minnesota Wild",
-     "page": "lag/minnesota-wild/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020197",
@@ -4003,44 +2678,37 @@
     {
      "name": "Leo Carlsson",
      "team": "Ducks",
-     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
-     "page": "spelare/leo-carlsson/"
+     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson"
     },
     {
      "name": "Elias Pettersson #25",
      "team": "Canucks",
-     "url": null,
-     "page": "spelare/elias-pettersson-25/"
+     "url": null
     },
     {
      "name": "Elias Pettersson #40",
      "team": "Canucks",
-     "url": null,
-     "page": "spelare/elias-pettersson-40/"
+     "url": null
     },
     {
      "name": "Jonathan Lekkerimäki",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
-     "page": "spelare/jonathan-lekkerimaki/"
+     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki"
     },
     {
      "name": "Liam Ohgren",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
-     "page": "spelare/liam-ohgren/"
+     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren"
     },
     {
      "name": "Linus Karlsson",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
-     "page": "spelare/linus-karlsson/"
+     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson"
     },
     {
      "name": "Tom Willander",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Tom_Willander",
-     "page": "spelare/tom-willander/"
+     "url": "https://sv.wikipedia.org/wiki/Tom_Willander"
     }
    ],
    "tv": {
@@ -4049,17 +2717,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Anaheim Ducks",
-     "page": "lag/anaheim-ducks/"
-    },
-    {
-     "name": "Vancouver Canucks",
-     "page": "lag/vancouver-canucks/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020196",
@@ -4071,50 +2729,42 @@
     {
      "name": "Rasmus Andersson",
      "team": "Golden Knights",
-     "url": null,
-     "page": "spelare/rasmus-andersson/"
+     "url": null
     },
     {
      "name": "Victor Olofsson",
      "team": "Golden Knights",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson",
-     "page": "spelare/victor-olofsson/"
+     "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson"
     },
     {
      "name": "William Karlsson",
      "team": "Golden Knights",
-     "url": "https://sv.wikipedia.org/wiki/William_Karlsson",
-     "page": "spelare/william-karlsson/"
+     "url": "https://sv.wikipedia.org/wiki/William_Karlsson"
     },
     {
      "name": "Andre Burakovsky",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky",
-     "page": "spelare/andre-burakovsky/"
+     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky"
     },
     {
      "name": "Fabian Zetterlund",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund",
-     "page": "spelare/fabian-zetterlund/"
+     "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund"
     },
     {
      "name": "Linus Ullmark",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark",
-     "page": "spelare/linus-ullmark/"
+     "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark"
     },
     {
      "name": "Samuel Ersson",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson",
-     "page": "spelare/samuel-ersson/"
+     "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson"
     },
     {
      "name": "William Eklund",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/William_Eklund",
-     "page": "spelare/william-eklund/"
+     "url": "https://sv.wikipedia.org/wiki/William_Eklund"
     }
    ],
    "tv": {
@@ -4123,17 +2773,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "Vegas Golden Knights",
-     "page": "lag/vegas-golden-knights/"
-    },
-    {
-     "name": "Ottawa Senators",
-     "page": "lag/ottawa-senators/"
-    }
-   ]
+   }
   },
   {
    "id": "nhl-2026020198",
@@ -4145,26 +2785,22 @@
     {
      "name": "Alexander Wennberg",
      "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg",
-     "page": "spelare/alexander-wennberg/"
+     "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg"
     },
     {
      "name": "Ivar Stenberg",
      "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg",
-     "page": "spelare/ivar-stenberg/"
+     "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg"
     },
     {
      "name": "Noah Ostlund",
      "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
-     "page": "spelare/noah-ostlund/"
+     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund"
     },
     {
      "name": "Rasmus Dahlin",
      "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
-     "page": "spelare/rasmus-dahlin/"
+     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin"
     }
    ],
    "tv": {
@@ -4173,17 +2809,7 @@
     "channel": null,
     "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
     "note": null
-   },
-   "teams": [
-    {
-     "name": "San Jose Sharks",
-     "page": "lag/san-jose-sharks/"
-    },
-    {
-     "name": "Buffalo Sabres",
-     "page": "lag/buffalo-sabres/"
-    }
-   ]
+   }
   }
  ]
 }
