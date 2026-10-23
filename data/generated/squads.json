@@ -245,10 +245,6 @@
      "nationality": "Germany"
     },
     {
-     "name": "Justin Diehl",
-     "nationality": "Germany"
-    },
-    {
      "name": "Leo Sauer",
      "nationality": "Slovakia"
     }
@@ -683,10 +679,6 @@
     {
      "name": "Jay Enem",
      "nationality": "Netherlands"
-    },
-    {
-     "name": "Nicolò Cambiaghi",
-     "nationality": "Italy"
     },
     {
      "name": "Samuel Mbangula",
@@ -2209,10 +2201,6 @@
     {
      "name": "Markus Kolke",
      "nationality": "Germany"
-    },
-    {
-     "name": "Karl Hein",
-     "nationality": "Estonia"
     },
     {
      "name": "Stefan Smarkalev",
@@ -6330,10 +6318,6 @@
      "nationality": "Israel"
     },
     {
-     "name": "Rubén Sánchez",
-     "nationality": "Spain"
-    },
-    {
      "name": "Buba",
      "nationality": "Spain"
     },
@@ -6411,6 +6395,10 @@
     },
     {
      "name": "Adam",
+     "nationality": "Spain"
+    },
+    {
+     "name": "Ruben Sanchez",
      "nationality": "Spain"
     }
    ]
@@ -6590,10 +6578,6 @@
     {
      "name": "Tim Oermann",
      "nationality": "Germany"
-    },
-    {
-     "name": "Guéla Doué",
-     "nationality": "Cote d'Ivoire"
     },
     {
      "name": "Jonas Hofmann",
@@ -8770,10 +8754,6 @@
      "nationality": "Germany"
     },
     {
-     "name": "Giannis Konstantelias",
-     "nationality": "Greece"
-    },
-    {
      "name": "Carney Chukwuemeka",
      "nationality": "Austria"
     },
@@ -10055,10 +10035,6 @@
      "nationality": "Italy"
     },
     {
-     "name": "Cristian Volpato",
-     "nationality": "Italy"
-    },
-    {
      "name": "Darryl Bakola",
      "nationality": "France"
     },
@@ -10543,7 +10519,7 @@
      "nationality": "Spain"
     },
     {
-     "name": "Samu Omorodion",
+     "name": "Samu Aghehowa",
      "nationality": "Spain"
     },
     {
@@ -10725,6 +10701,10 @@
      "nationality": "Mali"
     },
     {
+     "name": "Axel Camblan",
+     "nationality": "France"
+    },
+    {
      "name": "Joseph Nonge",
      "nationality": "Belgium"
     },
@@ -10739,10 +10719,6 @@
     {
      "name": "Mama Baldé",
      "nationality": "Guinea-Bissau"
-    },
-    {
-     "name": "Axel Camblan",
-     "nationality": "France"
     },
     {
      "name": "Noah Edjouma",
@@ -10848,6 +10824,10 @@
     {
      "name": "Tadjidine M'Madi",
      "nationality": "France"
+    },
+    {
+     "name": "Ibrahim Gomis",
+     "nationality": "Morocco"
     }
    ]
   },
@@ -11336,6 +11316,10 @@
     {
      "name": "Rémi Himbert",
      "nationality": "France"
+    },
+    {
+     "name": "Ángel García",
+     "nationality": "France"
     }
    ]
   },
@@ -11635,10 +11619,6 @@
     {
      "name": "Esteban Lepaul",
      "nationality": "France"
-    },
-    {
-     "name": "Issa Soumaré",
-     "nationality": "Senegal"
     },
     {
      "name": "Eliezer Mayenda",
@@ -20175,10 +20155,6 @@
      "nationality": "Spain"
     },
     {
-     "name": "Pablo Barrios",
-     "nationality": "Spain"
-    },
-    {
      "name": "Kang-in Lee",
      "nationality": "South Korea"
     },
@@ -20494,10 +20470,6 @@
      "nationality": "Netherlands"
     },
     {
-     "name": "Omar El Hilali",
-     "nationality": "Morocco"
-    },
-    {
      "name": "Roger Hinojo",
      "nationality": "Spain"
     },
@@ -20809,7 +20781,7 @@
      "nationality": "Spain"
     },
     {
-     "name": "Angel Recio",
+     "name": "Ángel Recio",
      "nationality": "Spain"
     },
     {
@@ -21485,10 +21457,6 @@
     {
      "name": "Bernardo",
      "nationality": "Brazil"
-    },
-    {
-     "name": "Stefan Lekovic",
-     "nationality": "Serbia"
     },
     {
      "name": "Max Scholze",
