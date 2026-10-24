@@ -1,304 +1,6 @@
 {
- "generated": "2026-10-23T08:35+00:00",
+ "generated": "2026-10-24T08:10+00:00",
  "events": [
-  {
-   "id": "558863",
-   "sport": "Fotboll",
-   "competition": "Eredivisie",
-   "start": "2026-10-23T18:00:00Z",
-   "title": "Go Ahead – Telstar",
-   "swedes": [
-    {
-     "name": "Victor Edvardsen",
-     "team": "Go Ahead",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Edvardsen",
-     "page": "spelare/victor-edvardsen/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Go Ahead",
-     "page": "lag/go-ahead/"
-    },
-    {
-     "name": "Telstar",
-     "page": "lag/telstar/"
-    }
-   ]
-  },
-  {
-   "id": "565833",
-   "sport": "Fotboll",
-   "competition": "Bundesliga",
-   "start": "2026-10-23T18:30:00Z",
-   "title": "Stuttgart – M'gladbach",
-   "swedes": [
-    {
-     "name": "Hugo Bolin",
-     "team": "M'gladbach",
-     "url": "https://sv.wikipedia.org/wiki/Hugo_Bolin",
-     "page": "spelare/hugo-bolin/"
-    },
-    {
-     "name": "Isac Lidberg",
-     "team": "M'gladbach",
-     "url": "https://sv.wikipedia.org/wiki/Isac_Lidberg",
-     "page": "spelare/isac-lidberg/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Stuttgart",
-     "page": "lag/stuttgart/"
-    },
-    {
-     "name": "M'gladbach",
-     "page": "lag/m-gladbach/"
-    }
-   ]
-  },
-  {
-   "id": "559654",
-   "sport": "Fotboll",
-   "competition": "Ligue 1",
-   "start": "2026-10-23T18:45:00Z",
-   "title": "Brest – Nice",
-   "swedes": [
-    {
-     "name": "Isak Jansson",
-     "team": "Nice",
-     "url": "https://sv.wikipedia.org/wiki/Isak_Jansson_(fotbollsspelare)",
-     "page": "spelare/isak-jansson/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Brest",
-     "page": "lag/brest/"
-    },
-    {
-     "name": "Nice",
-     "page": "lag/nice/"
-    }
-   ]
-  },
-  {
-   "id": "558567",
-   "sport": "Fotboll",
-   "competition": "Serie A",
-   "start": "2026-10-23T18:45:00Z",
-   "title": "Torino – Monza",
-   "swedes": [
-    {
-     "name": "Noel Törnqvist",
-     "team": "Monza",
-     "url": "https://sv.wikipedia.org/wiki/Noel_T%C3%B6rnqvist",
-     "page": "spelare/noel-tornqvist/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "TV4 Play",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Torino",
-     "page": "lag/torino/"
-    },
-    {
-     "name": "Monza",
-     "page": "lag/monza/"
-    }
-   ]
-  },
-  {
-   "id": "564719",
-   "sport": "Fotboll",
-   "competition": "La Liga",
-   "start": "2026-10-23T19:00:00Z",
-   "title": "Alavés – Málaga",
-   "swedes": [
-    {
-     "name": "Jens Cajuste",
-     "team": "Málaga",
-     "url": "https://sv.wikipedia.org/wiki/Jens_Cajuste",
-     "page": "spelare/jens-cajuste/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Disney+",
-    "channel": null,
-    "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Alavés",
-     "page": "lag/alaves/"
-    },
-    {
-     "name": "Málaga",
-     "page": "lag/malaga/"
-    }
-   ]
-  },
-  {
-   "id": "567329",
-   "sport": "Fotboll",
-   "competition": "Primeira Liga",
-   "start": "2026-10-23T19:45:00Z",
-   "title": "Vitória SC – Marítimo",
-   "swedes": [
-    {
-     "name": "Victor Andersson",
-     "team": "Vitória SC",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Andersson_(fotbollsspelare)",
-     "page": "spelare/victor-andersson/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "TV4 Play visar 3 utvalda matcher per omgång"
-   },
-   "teams": [
-    {
-     "name": "Vitória SC",
-     "page": "lag/vitoria-sc/"
-    },
-    {
-     "name": "Marítimo",
-     "page": "lag/maritimo/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020166",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-10-24T00:00:00Z",
-   "title": "Chicago Blackhawks – Montréal Canadiens",
-   "swedes": [
-    {
-     "name": "Anton Frondell",
-     "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell",
-     "page": "spelare/anton-frondell/"
-    },
-    {
-     "name": "Arvid Soderblom",
-     "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom",
-     "page": "spelare/arvid-soderblom/"
-    },
-    {
-     "name": "Adam Engstrom",
-     "team": "Canadiens",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
-     "page": "spelare/adam-engstrom/"
-    },
-    {
-     "name": "Oliver Kapanen",
-     "team": "Canadiens",
-     "url": null,
-     "page": "spelare/oliver-kapanen/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Chicago Blackhawks",
-     "page": "lag/chicago-blackhawks/"
-    },
-    {
-     "name": "Montréal Canadiens",
-     "page": "lag/montreal-canadiens/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020167",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-10-24T01:00:00Z",
-   "title": "Colorado Avalanche – Tampa Bay Lightning",
-   "swedes": [
-    {
-     "name": "Gabriel Landeskog",
-     "team": "Avalanche",
-     "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog",
-     "page": "spelare/gabriel-landeskog/"
-    },
-    {
-     "name": "Dennis Hildeby",
-     "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Dennis_Hildeby",
-     "page": "spelare/dennis-hildeby/"
-    },
-    {
-     "name": "Pontus Holmberg",
-     "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Pontus_Holmberg",
-     "page": "spelare/pontus-holmberg/"
-    },
-    {
-     "name": "Victor Hedman",
-     "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Hedman",
-     "page": "spelare/victor-hedman/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Colorado Avalanche",
-     "page": "lag/colorado-avalanche/"
-    },
-    {
-     "name": "Tampa Bay Lightning",
-     "page": "lag/tampa-bay-lightning/"
-    }
-   ]
-  },
   {
    "id": "560614",
    "sport": "Fotboll",
@@ -4264,6 +3966,156 @@
     {
      "name": "Vancouver Canucks",
      "page": "lag/vancouver-canucks/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020214",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-10-30T22:00:00Z",
+   "title": "Vegas Golden Knights – New Jersey Devils",
+   "swedes": [
+    {
+     "name": "Alexander Holtz",
+     "team": "Golden Knights",
+     "url": "https://sv.wikipedia.org/wiki/Alexander_Holtz",
+     "page": "spelare/alexander-holtz/"
+    },
+    {
+     "name": "Rasmus Andersson",
+     "team": "Golden Knights",
+     "url": null,
+     "page": "spelare/rasmus-andersson/"
+    },
+    {
+     "name": "Victor Olofsson",
+     "team": "Golden Knights",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson",
+     "page": "spelare/victor-olofsson/"
+    },
+    {
+     "name": "William Karlsson",
+     "team": "Golden Knights",
+     "url": "https://sv.wikipedia.org/wiki/William_Karlsson",
+     "page": "spelare/william-karlsson/"
+    },
+    {
+     "name": "Jesper Boqvist",
+     "team": "Devils",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist",
+     "page": "spelare/jesper-boqvist/"
+    },
+    {
+     "name": "Jesper Bratt",
+     "team": "Devils",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt",
+     "page": "spelare/jesper-bratt/"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
+   },
+   "teams": [
+    {
+     "name": "Vegas Golden Knights",
+     "page": "lag/vegas-golden-knights/"
+    },
+    {
+     "name": "New Jersey Devils",
+     "page": "lag/new-jersey-devils/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020215",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-10-30T23:00:00Z",
+   "title": "Florida Panthers – Winnipeg Jets",
+   "swedes": [
+    {
+     "name": "Gustav Forsling",
+     "team": "Panthers",
+     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling",
+     "page": "spelare/gustav-forsling/"
+    },
+    {
+     "name": "Jacob Markstrom",
+     "team": "Panthers",
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
+     "page": "spelare/jacob-markstrom/"
+    },
+    {
+     "name": "Isak Rosen",
+     "team": "Jets",
+     "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
+     "page": "spelare/isak-rosen/"
+    },
+    {
+     "name": "Viggo Björck",
+     "team": "Jets",
+     "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck",
+     "page": "spelare/viggo-bjorck/"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
+   },
+   "teams": [
+    {
+     "name": "Florida Panthers",
+     "page": "lag/florida-panthers/"
+    },
+    {
+     "name": "Winnipeg Jets",
+     "page": "lag/winnipeg-jets/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020216",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-10-31T00:00:00Z",
+   "title": "Calgary Flames – Seattle Kraken",
+   "swedes": [
+    {
+     "name": "Mikael Backlund",
+     "team": "Flames",
+     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund",
+     "page": "spelare/mikael-backlund/"
+    },
+    {
+     "name": "Adam Larsson",
+     "team": "Kraken",
+     "url": null,
+     "page": "spelare/adam-larsson/"
+    }
+   ],
+   "tv": {
+    "status": "likely",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
+    "note": null
+   },
+   "teams": [
+    {
+     "name": "Calgary Flames",
+     "page": "lag/calgary-flames/"
+    },
+    {
+     "name": "Seattle Kraken",
+     "page": "lag/seattle-kraken/"
     }
    ]
   }
