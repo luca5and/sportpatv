@@ -179,6 +179,39 @@
       "source": "https://teknikveckan.se/nhl-drar-igang-pa-disney-i-oktober",
       "single_source": true,
       "checked": "2026-10-22"
+    },
+    "nhl-2026020204": {
+      "title": "Tampa Bay – Winnipeg, natt mot 30 okt 00.00",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://www.macken.xyz/2026/09/svenskar-pa-isen-nar-nhl-startar-pa-disney/",
+      "source_2": "https://teknikveckan.se/nhl-drar-igang-pa-disney-i-oktober",
+      "checked": "2026-10-26"
+    },
+    "nhl-2026020219": {
+      "title": "Nashville – Tampa Bay, 31 okt 19.00",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://www.macken.xyz/2026/09/svenskar-pa-isen-nar-nhl-startar-pa-disney/",
+      "source_2": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+      "checked": "2026-10-26"
+    },
+    "nhl-2026020222": {
+      "title": "San Jose – Ottawa, 31 okt 21.00",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://www.macken.xyz/2026/09/svenskar-pa-isen-nar-nhl-startar-pa-disney/",
+      "source_2": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+      "checked": "2026-10-26"
+    },
+    "nhl-2026020220": {
+      "title": "NY Islanders – Edmonton, 31 okt",
+      "service": "Disney+",
+      "channel": null,
+      "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+      "single_source": true,
+      "note": "VMhockey och Teknikveckan anger 20.30, men NHL:s schema säger 19.00. Räknas som en källa tills tiden stämmer.",
+      "checked": "2026-10-26"
     }
   }
 }
