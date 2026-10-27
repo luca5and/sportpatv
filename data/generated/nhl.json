@@ -2,54 +2,6 @@
  "games": [
   {
    "away": {
-    "abbrev": "LAK",
-    "name": "Los Angeles Kings",
-    "short": "Kings"
-   },
-   "home": {
-    "abbrev": "NYR",
-    "name": "New York Rangers",
-    "short": "Rangers"
-   },
-   "id": "2026020185",
-   "start": "2026-10-26T23:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "TOR",
-    "name": "Toronto Maple Leafs",
-    "short": "Maple Leafs"
-   },
-   "home": {
-    "abbrev": "CGY",
-    "name": "Calgary Flames",
-    "short": "Flames"
-   },
-   "id": "2026020186",
-   "start": "2026-10-27T00:30:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "DET",
-    "name": "Detroit Red Wings",
-    "short": "Red Wings"
-   },
-   "home": {
-    "abbrev": "EDM",
-    "name": "Edmonton Oilers",
-    "short": "Oilers"
-   },
-   "id": "2026020187",
-   "start": "2026-10-27T01:30:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
     "abbrev": "CBJ",
     "name": "Columbus Blue Jackets",
     "short": "Blue Jackets"
@@ -751,6 +703,70 @@
    "start": "2026-11-02T01:00:00Z",
    "state": "FUT",
    "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "VGK",
+    "name": "Vegas Golden Knights",
+    "short": "Golden Knights"
+   },
+   "home": {
+    "abbrev": "BOS",
+    "name": "Boston Bruins",
+    "short": "Bruins"
+   },
+   "id": "2026020232",
+   "start": "2026-11-03T00:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "DET",
+    "name": "Detroit Red Wings",
+    "short": "Red Wings"
+   },
+   "home": {
+    "abbrev": "FLA",
+    "name": "Florida Panthers",
+    "short": "Panthers"
+   },
+   "id": "2026020233",
+   "start": "2026-11-03T00:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "COL",
+    "name": "Colorado Avalanche",
+    "short": "Avalanche"
+   },
+   "home": {
+    "abbrev": "CHI",
+    "name": "Chicago Blackhawks",
+    "short": "Blackhawks"
+   },
+   "id": "2026020234",
+   "start": "2026-11-03T01:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "CGY",
+    "name": "Calgary Flames",
+    "short": "Flames"
+   },
+   "home": {
+    "abbrev": "SJS",
+    "name": "San Jose Sharks",
+    "short": "Sharks"
+   },
+   "id": "2026020235",
+   "start": "2026-11-03T02:00:00Z",
+   "state": "FUT",
+   "type": 2
   }
  ],
  "rosters": {
@@ -1132,6 +1148,11 @@
   ],
   "CAR": [
    {
+    "born": "2001-10-02",
+    "country": "RUS",
+    "name": "Alexander Nikishin"
+   },
+   {
     "born": "2000-03-26",
     "country": "RUS",
     "name": "Andrei Svechnikov"
@@ -1235,11 +1256,6 @@
     "born": "1993-04-20",
     "country": "USA",
     "name": "Shayne Gostisbehere"
-   },
-   {
-    "born": "1999-07-27",
-    "country": "USA",
-    "name": "Skyler Brind'Amour"
    },
    {
     "born": "1991-11-14",
@@ -1730,11 +1746,6 @@
     "name": "T.J. Hughes"
    },
    {
-    "born": "2001-03-13",
-    "country": "CAN",
-    "name": "Taylor Makar"
-   },
-   {
     "born": "2003-05-15",
     "country": "CAN",
     "name": "Zachary L'Heureux"
@@ -1795,11 +1806,6 @@
     "born": "2001-02-23",
     "country": "CAN",
     "name": "Justin Hryckowian"
-   },
-   {
-    "born": "1995-07-12",
-    "country": "CAN",
-    "name": "Kyle Burroughs"
    },
    {
     "born": "1997-08-13",
@@ -2965,6 +2971,11 @@
     "name": "Jean-Gabriel Pageau"
    },
    {
+    "born": "2006-09-21",
+    "country": "CAN",
+    "name": "Kashawn Aitcheson"
+   },
+   {
     "born": "1999-04-29",
     "country": "USA",
     "name": "Kyle MacLean"
@@ -3003,6 +3014,11 @@
     "born": "1991-03-28",
     "country": "CZE",
     "name": "Ondrej Palat"
+   },
+   {
+    "born": "1996-05-31",
+    "country": "SWE",
+    "name": "Pierre Engvall"
    },
    {
     "born": "1994-10-06",
@@ -3117,11 +3133,6 @@
     "name": "Matt Rempe"
    },
    {
-    "born": "2001-03-09",
-    "country": "CAN",
-    "name": "Matthew Robertson"
-   },
-   {
     "born": "1993-04-18",
     "country": "SWE",
     "name": "Mika Zibanejad"
@@ -3150,11 +3161,6 @@
     "born": "1998-10-21",
     "country": "CAN",
     "name": "Sean Durzi"
-   },
-   {
-    "born": "1995-06-08",
-    "country": "CAN",
-    "name": "Spencer Martin"
    },
    {
     "born": "1998-02-18",
@@ -4474,11 +4480,6 @@
     "name": "Adin Hill"
    },
    {
-    "born": "2002-01-23",
-    "country": "SWE",
-    "name": "Alexander Holtz"
-   },
-   {
     "born": "2003-06-26",
     "country": "CAN",
     "name": "Braeden Bowman"
@@ -4517,6 +4518,11 @@
     "born": "1997-04-28",
     "country": "CAN",
     "name": "Jeremy Lauzon"
+   },
+   {
+    "born": "1999-03-31",
+    "country": "DNK",
+    "name": "Jonas Rondbjerg"
    },
    {
     "born": "1999-07-22",
@@ -4778,14 +4784,14 @@
     "name": "Ivan Miroshnichenko"
    },
    {
+    "born": "1999-07-22",
+    "country": "USA",
+    "name": "Jack St. Ivany"
+   },
+   {
     "born": "1998-03-31",
     "country": "USA",
     "name": "Jakob Chychrun"
-   },
-   {
-    "born": "1999-07-22",
-    "country": "USA",
-    "name": "John St. Ivany"
    },
    {
     "born": "1998-05-05",
