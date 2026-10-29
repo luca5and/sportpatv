@@ -2,70 +2,6 @@
  "games": [
   {
    "away": {
-    "abbrev": "PHI",
-    "name": "Philadelphia Flyers",
-    "short": "Flyers"
-   },
-   "home": {
-    "abbrev": "WSH",
-    "name": "Washington Capitals",
-    "short": "Capitals"
-   },
-   "id": "2026020199",
-   "start": "2026-10-28T23:30:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "CGY",
-    "name": "Calgary Flames",
-    "short": "Flames"
-   },
-   "home": {
-    "abbrev": "EDM",
-    "name": "Edmonton Oilers",
-    "short": "Oilers"
-   },
-   "id": "2026020200",
-   "start": "2026-10-29T00:30:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "NJD",
-    "name": "New Jersey Devils",
-    "short": "Devils"
-   },
-   "home": {
-    "abbrev": "COL",
-    "name": "Colorado Avalanche",
-    "short": "Avalanche"
-   },
-   "id": "2026020201",
-   "start": "2026-10-29T01:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "TOR",
-    "name": "Toronto Maple Leafs",
-    "short": "Maple Leafs"
-   },
-   "home": {
-    "abbrev": "SEA",
-    "name": "Seattle Kraken",
-    "short": "Kraken"
-   },
-   "id": "2026020202",
-   "start": "2026-10-29T02:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
     "abbrev": "WPG",
     "name": "Winnipeg Jets",
     "short": "Jets"
@@ -765,6 +701,70 @@
    },
    "id": "2026020246",
    "start": "2026-11-04T02:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "OTT",
+    "name": "Ottawa Senators",
+    "short": "Senators"
+   },
+   "home": {
+    "abbrev": "BUF",
+    "name": "Buffalo Sabres",
+    "short": "Sabres"
+   },
+   "id": "2026020247",
+   "start": "2026-11-05T00:30:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "CHI",
+    "name": "Chicago Blackhawks",
+    "short": "Blackhawks"
+   },
+   "home": {
+    "abbrev": "FLA",
+    "name": "Florida Panthers",
+    "short": "Panthers"
+   },
+   "id": "2026020248",
+   "start": "2026-11-05T00:30:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "SJS",
+    "name": "San Jose Sharks",
+    "short": "Sharks"
+   },
+   "home": {
+    "abbrev": "LAK",
+    "name": "Los Angeles Kings",
+    "short": "Kings"
+   },
+   "id": "2026020249",
+   "start": "2026-11-05T03:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "CGY",
+    "name": "Calgary Flames",
+    "short": "Flames"
+   },
+   "home": {
+    "abbrev": "SEA",
+    "name": "Seattle Kraken",
+    "short": "Kraken"
+   },
+   "id": "2026020250",
+   "start": "2026-11-05T03:00:00Z",
    "state": "FUT",
    "type": 2
   }
@@ -1771,11 +1771,6 @@
     "born": "1988-05-28",
     "country": "CAN",
     "name": "David Perron"
-   },
-   {
-    "born": "2004-05-19",
-    "country": "CAN",
-    "name": "Dylan Hryckowian"
    },
    {
     "born": "1994-05-23",
@@ -3454,11 +3449,6 @@
     "name": "Arturs Silovs"
    },
    {
-    "born": "2002-10-10",
-    "country": "USA",
-    "name": "Avery Hayes"
-   },
-   {
     "born": "2007-04-19",
     "country": "CAN",
     "name": "Ben Kindel"
@@ -3472,11 +3462,6 @@
     "born": "1992-05-11",
     "country": "USA",
     "name": "Bryan Rust"
-   },
-   {
-    "born": "2004-03-03",
-    "country": "USA",
-    "name": "Chase Pietila"
    },
    {
     "born": "1999-06-26",
@@ -3753,6 +3738,11 @@
     "name": "Dmitry Orlov"
    },
    {
+    "born": "2004-02-04",
+    "country": "SWE",
+    "name": "Filip Bystedt"
+   },
+   {
     "born": "2005-11-30",
     "country": "RUS",
     "name": "Igor Chernyshov"
@@ -3773,9 +3763,9 @@
     "name": "Kiefer Sherwood"
    },
    {
-    "born": "2004-12-21",
-    "country": "CAN",
-    "name": "Luca Cagnoni"
+    "born": "1998-02-04",
+    "country": "CZE",
+    "name": "Libor Hajek"
    },
    {
     "born": "2006-06-13",
@@ -4122,6 +4112,11 @@
     "born": "1993-11-05",
     "country": "CAN",
     "name": "Colton Sissons"
+   },
+   {
+    "born": "1996-05-15",
+    "country": "USA",
+    "name": "Dakota Joshua"
    },
    {
     "born": "1994-01-05",
@@ -4812,11 +4807,6 @@
     "born": "1995-03-01",
     "country": "USA",
     "name": "Matt Roy"
-   },
-   {
-    "born": "1999-06-25",
-    "country": "USA",
-    "name": "Mitchell Gibson"
    },
    {
     "born": "1998-06-24",
