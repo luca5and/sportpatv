@@ -212,6 +212,16 @@
       "single_source": true,
       "note": "VMhockey och Teknikveckan anger 20.30, men NHL:s schema säger 19.00. Räknas som en källa tills tiden stämmer.",
       "checked": "2026-10-26"
+    },
+    "560626": {
+      "title": "Chelsea – Manchester United, 31 okt 13.30",
+      "service": "Prime Video",
+      "channel": null,
+      "source": "https://hurbra.se/sport-pa-tv-i-veckan-26-oktober-1-november-2026/",
+      "source_2": "https://www.tvsporten.nu/liga/premier-league",
+      "competition": "PL",
+      "matchday": 9,
+      "checked": "2026-10-29"
     }
   }
 }
