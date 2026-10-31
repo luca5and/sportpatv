@@ -2,54 +2,6 @@
  "games": [
   {
    "away": {
-    "abbrev": "NJD",
-    "name": "New Jersey Devils",
-    "short": "Devils"
-   },
-   "home": {
-    "abbrev": "VGK",
-    "name": "Vegas Golden Knights",
-    "short": "Golden Knights"
-   },
-   "id": "2026020214",
-   "start": "2026-10-30T22:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "WPG",
-    "name": "Winnipeg Jets",
-    "short": "Jets"
-   },
-   "home": {
-    "abbrev": "FLA",
-    "name": "Florida Panthers",
-    "short": "Panthers"
-   },
-   "id": "2026020215",
-   "start": "2026-10-30T23:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "SEA",
-    "name": "Seattle Kraken",
-    "short": "Kraken"
-   },
-   "home": {
-    "abbrev": "CGY",
-    "name": "Calgary Flames",
-    "short": "Flames"
-   },
-   "id": "2026020216",
-   "start": "2026-10-31T00:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
     "abbrev": "CHI",
     "name": "Chicago Blackhawks",
     "short": "Blackhawks"
@@ -767,6 +719,54 @@
    "start": "2026-11-06T02:30:00Z",
    "state": "FUT",
    "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "CBJ",
+    "name": "Columbus Blue Jackets",
+    "short": "Blue Jackets"
+   },
+   "home": {
+    "abbrev": "BUF",
+    "name": "Buffalo Sabres",
+    "short": "Sabres"
+   },
+   "id": "2026020262",
+   "start": "2026-11-07T00:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "SJS",
+    "name": "San Jose Sharks",
+    "short": "Sharks"
+   },
+   "home": {
+    "abbrev": "MIN",
+    "name": "Minnesota Wild",
+    "short": "Wild"
+   },
+   "id": "2026020263",
+   "start": "2026-11-07T01:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "ANA",
+    "name": "Anaheim Ducks",
+    "short": "Ducks"
+   },
+   "home": {
+    "abbrev": "CGY",
+    "name": "Calgary Flames",
+    "short": "Flames"
+   },
+   "id": "2026020264",
+   "start": "2026-11-07T01:00:00Z",
+   "state": "FUT",
+   "type": 2
   }
  ],
  "rosters": {
@@ -1407,6 +1407,11 @@
     "name": "Adam Klapka"
    },
    {
+    "born": "2002-12-16",
+    "country": "RUS",
+    "name": "Arsenii Sergeev"
+   },
+   {
     "born": "2004-11-16",
     "country": "RUS",
     "name": "Aydar Suniev"
@@ -1505,6 +1510,11 @@
     "born": "2004-02-15",
     "country": "SVK",
     "name": "Simon Nemec"
+   },
+   {
+    "born": "2003-06-07",
+    "country": "SWE",
+    "name": "William Stromgren"
    },
    {
     "born": "2002-03-09",
@@ -1828,11 +1838,6 @@
     "name": "Matt Duchene"
    },
    {
-    "born": "2003-12-27",
-    "country": "USA",
-    "name": "Matthew Seminoff"
-   },
-   {
     "born": "1996-10-29",
     "country": "FIN",
     "name": "Mikko Rantanen"
@@ -1913,11 +1918,6 @@
     "born": "2004-06-10",
     "country": "SWE",
     "name": "Anton Johansson"
-   },
-   {
-    "born": "2005-03-11",
-    "country": "SWE",
-    "name": "Axel Sandin-Pellikka"
    },
    {
     "born": "1991-05-09",
@@ -2443,11 +2443,6 @@
     "name": "Cameron Crotty"
    },
    {
-    "born": "2003-01-14",
-    "country": "CAN",
-    "name": "Carson Lambos"
-   },
-   {
     "born": "2003-12-22",
     "country": "RUS",
     "name": "Danila Yurov"
@@ -2491,11 +2486,6 @@
     "born": "1991-08-10",
     "country": "USA",
     "name": "Marcus Foligno"
-   },
-   {
-    "born": "1998-11-03",
-    "country": "CAN",
-    "name": "Mason Shaw"
    },
    {
     "born": "2001-04-05",
@@ -3950,6 +3940,11 @@
     "name": "Ross Johnston"
    },
    {
+    "born": "2005-01-05",
+    "country": "SWE",
+    "name": "Theo Lindstein"
+   },
+   {
     "born": "2000-03-01",
     "country": "CAN",
     "name": "Tyler Tucker"
@@ -4388,6 +4383,11 @@
     "name": "Guillaume Brisebois"
    },
    {
+    "born": "2002-02-02",
+    "country": "CAN",
+    "name": "Jacob Quillan"
+   },
+   {
     "born": "1996-10-17",
     "country": "CAN",
     "name": "Jake DeBrusk"
@@ -4485,11 +4485,6 @@
     "name": "Brett Howden"
    },
    {
-    "born": "2003-06-13",
-    "country": "CAN",
-    "name": "Cameron Whitehead"
-   },
-   {
     "born": "1998-08-13",
     "country": "CAN",
     "name": "Carter Hart"
@@ -4513,6 +4508,11 @@
     "born": "1997-04-28",
     "country": "CAN",
     "name": "Jeremy Lauzon"
+   },
+   {
+    "born": "1999-03-31",
+    "country": "DNK",
+    "name": "Jonas Rondbjerg"
    },
    {
     "born": "1999-07-22",
