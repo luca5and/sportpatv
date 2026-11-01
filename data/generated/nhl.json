@@ -13,7 +13,7 @@
    },
    "id": "2026020227",
    "start": "2026-11-01T18:00:00Z",
-   "state": "FUT",
+   "state": "PRE",
    "type": 2
   },
   {
@@ -1078,11 +1078,6 @@
     "name": "Conor Timmins"
    },
    {
-    "born": "1996-10-30",
-    "country": "USA",
-    "name": "Dennis Gilbert"
-   },
-   {
     "born": "2001-09-19",
     "country": "CAN",
     "name": "Jack Quinn"
@@ -1733,11 +1728,6 @@
     "name": "Gabriel Landeskog"
    },
    {
-    "born": "2004-10-05",
-    "country": "USA",
-    "name": "Gavin Brindley"
-   },
-   {
     "born": "1992-06-25",
     "country": "CAN",
     "name": "Jaden Schwartz"
@@ -1990,6 +1980,11 @@
     "born": "1993-07-14",
     "country": "USA",
     "name": "John Gibson"
+   },
+   {
+    "born": "1998-08-07",
+    "country": "USA",
+    "name": "John Leonard"
    },
    {
     "born": "1992-03-20",
@@ -2829,11 +2824,6 @@
     "name": "Nico Hischier"
    },
    {
-    "born": "2001-10-06",
-    "country": "CAN",
-    "name": "Rémi Poirier"
-   },
-   {
     "born": "1993-02-12",
     "country": "USA",
     "name": "Stefan Noesen"
@@ -3013,11 +3003,6 @@
     "name": "Ilya Sorokin"
    },
    {
-    "born": "2004-02-15",
-    "country": "CAN",
-    "name": "Isaiah George"
-   },
-   {
     "born": "1992-11-11",
     "country": "CAN",
     "name": "Jean-Gabriel Pageau"
@@ -3173,6 +3158,11 @@
     "born": "2002-06-29",
     "country": "CAN",
     "name": "Matt Rempe"
+   },
+   {
+    "born": "2001-03-09",
+    "country": "CAN",
+    "name": "Matthew Robertson"
    },
    {
     "born": "1993-04-18",
@@ -3569,11 +3559,6 @@
     "born": "1993-05-05",
     "country": "SWE",
     "name": "Rickard Rakell"
-   },
-   {
-    "born": "2004-03-30",
-    "country": "USA",
-    "name": "Rutger McGroarty"
    },
    {
     "born": "1998-05-12",
@@ -4617,11 +4602,6 @@
     "name": "Victor Olofsson"
    },
    {
-    "born": "2001-03-02",
-    "country": "FIN",
-    "name": "Ville Heinola"
-   },
-   {
     "born": "1993-01-08",
     "country": "SWE",
     "name": "William Karlsson"
@@ -4864,6 +4844,11 @@
     "born": "2005-01-21",
     "country": "USA",
     "name": "Ryan Leonard"
+   },
+   {
+    "born": "2001-10-06",
+    "country": "CAN",
+    "name": "Rémi Poirier"
    },
    {
     "born": "1999-04-30",
