@@ -1,1384 +1,6 @@
 {
- "generated": "2026-10-31T09:42+00:00",
+ "generated": "2026-11-01T10:33+00:00",
  "events": [
-  {
-   "id": "561908",
-   "sport": "Fotboll",
-   "competition": "Championship",
-   "start": "2026-10-31T12:30:00Z",
-   "title": "Stoke – Preston NE",
-   "swedes": [
-    {
-     "name": "Svante Ingelsson",
-     "team": "Stoke",
-     "url": "https://sv.wikipedia.org/wiki/Svante_Ingelsson",
-     "page": "spelare/svante-ingelsson/"
-    },
-    {
-     "name": "Viktor Johansson",
-     "team": "Stoke",
-     "url": "https://sv.wikipedia.org/wiki/Viktor_Johansson_(fotbollsspelare)",
-     "page": "spelare/viktor-johansson/"
-    },
-    {
-     "name": "Jusef Erabi",
-     "team": "Preston NE",
-     "url": "https://sv.wikipedia.org/wiki/Jusef_Erabi",
-     "page": "spelare/jusef-erabi/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Stoke",
-     "page": "lag/stoke/"
-    },
-    {
-     "name": "Preston NE",
-     "page": "lag/preston-ne/"
-    }
-   ]
-  },
-  {
-   "id": "558539",
-   "sport": "Fotboll",
-   "competition": "Serie A",
-   "start": "2026-10-31T14:00:00Z",
-   "title": "Bologna – Monza",
-   "swedes": [
-    {
-     "name": "Emil Holm",
-     "team": "Bologna",
-     "url": "https://sv.wikipedia.org/wiki/Emil_Holm",
-     "page": "spelare/emil-holm/"
-    },
-    {
-     "name": "Jesper Karlsson",
-     "team": "Bologna",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Karlsson",
-     "page": "spelare/jesper-karlsson/"
-    },
-    {
-     "name": "Noel Törnqvist",
-     "team": "Monza",
-     "url": "https://sv.wikipedia.org/wiki/Noel_T%C3%B6rnqvist",
-     "page": "spelare/noel-tornqvist/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "TV4 Play",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Bologna",
-     "page": "lag/bologna/"
-    },
-    {
-     "name": "Monza",
-     "page": "lag/monza/"
-    }
-   ]
-  },
-  {
-   "id": "565839",
-   "sport": "Fotboll",
-   "competition": "Bundesliga",
-   "start": "2026-10-31T14:30:00Z",
-   "title": "M'gladbach – SC Paderborn",
-   "swedes": [
-    {
-     "name": "Hugo Bolin",
-     "team": "M'gladbach",
-     "url": "https://sv.wikipedia.org/wiki/Hugo_Bolin",
-     "page": "spelare/hugo-bolin/"
-    },
-    {
-     "name": "Isac Lidberg",
-     "team": "M'gladbach",
-     "url": "https://sv.wikipedia.org/wiki/Isac_Lidberg",
-     "page": "spelare/isac-lidberg/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "M'gladbach",
-     "page": "lag/m-gladbach/"
-    },
-    {
-     "name": "SC Paderborn",
-     "page": "lag/sc-paderborn/"
-    }
-   ]
-  },
-  {
-   "id": "561909",
-   "sport": "Fotboll",
-   "competition": "Championship",
-   "start": "2026-10-31T15:00:00Z",
-   "title": "Bolton – Bristol City",
-   "swedes": [
-    {
-     "name": "Noah Eile",
-     "team": "Bristol City",
-     "url": "https://sv.wikipedia.org/wiki/Noah_Eile",
-     "page": "spelare/noah-eile/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Bolton",
-     "page": "lag/bolton/"
-    },
-    {
-     "name": "Bristol City",
-     "page": "lag/bristol-city/"
-    }
-   ]
-  },
-  {
-   "id": "560624",
-   "sport": "Fotboll",
-   "competition": "Premier League",
-   "start": "2026-10-31T15:00:00Z",
-   "title": "Bournemouth – Leeds United",
-   "swedes": [
-    {
-     "name": "Gabriel Gudmundsson",
-     "team": "Leeds United",
-     "url": "https://sv.wikipedia.org/wiki/Gabriel_Gudmundsson",
-     "page": "spelare/gabriel-gudmundsson/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Bournemouth",
-     "page": "lag/bournemouth/"
-    },
-    {
-     "name": "Leeds United",
-     "page": "lag/leeds-united/"
-    }
-   ]
-  },
-  {
-   "id": "561912",
-   "sport": "Fotboll",
-   "competition": "Championship",
-   "start": "2026-10-31T15:00:00Z",
-   "title": "Burnley – Portsmouth",
-   "swedes": [
-    {
-     "name": "Hjalmar Ekdal",
-     "team": "Burnley",
-     "url": "https://sv.wikipedia.org/wiki/Hjalmar_Ekdal",
-     "page": "spelare/hjalmar-ekdal/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Burnley",
-     "page": "lag/burnley/"
-    },
-    {
-     "name": "Portsmouth",
-     "page": "lag/portsmouth/"
-    }
-   ]
-  },
-  {
-   "id": "560625",
-   "sport": "Fotboll",
-   "competition": "Premier League",
-   "start": "2026-10-31T15:00:00Z",
-   "title": "Coventry City – Sunderland",
-   "swedes": [
-    {
-     "name": "Melker Ellborg",
-     "team": "Sunderland",
-     "url": "https://sv.wikipedia.org/wiki/Melker_Ellborg",
-     "page": "spelare/melker-ellborg/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Coventry City",
-     "page": "lag/coventry-city/"
-    },
-    {
-     "name": "Sunderland",
-     "page": "lag/sunderland/"
-    }
-   ]
-  },
-  {
-   "id": "560629",
-   "sport": "Fotboll",
-   "competition": "Premier League",
-   "start": "2026-10-31T15:00:00Z",
-   "title": "Hull City – Ipswich Town",
-   "swedes": [
-    {
-     "name": "Elliot Stroud",
-     "team": "Hull City",
-     "url": "https://sv.wikipedia.org/wiki/Elliot_Stroud",
-     "page": "spelare/elliot-stroud/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Hull City",
-     "page": "lag/hull-city/"
-    },
-    {
-     "name": "Ipswich Town",
-     "page": "lag/ipswich-town/"
-    }
-   ]
-  },
-  {
-   "id": "560623",
-   "sport": "Fotboll",
-   "competition": "Premier League",
-   "start": "2026-10-31T15:00:00Z",
-   "title": "Man City – Brighton Hove",
-   "swedes": [
-    {
-     "name": "Yasin Ayari",
-     "team": "Brighton Hove",
-     "url": "https://sv.wikipedia.org/wiki/Yasin_Ayari",
-     "page": "spelare/yasin-ayari/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Man City",
-     "page": "lag/man-city/"
-    },
-    {
-     "name": "Brighton Hove",
-     "page": "lag/brighton-hove/"
-    }
-   ]
-  },
-  {
-   "id": "561913",
-   "sport": "Fotboll",
-   "competition": "Championship",
-   "start": "2026-10-31T15:00:00Z",
-   "title": "Millwall – Derby County",
-   "swedes": [
-    {
-     "name": "Jacob Widell Zetterström",
-     "team": "Derby County",
-     "url": "https://sv.wikipedia.org/wiki/Jacob_Widell_Zetterstr%C3%B6m",
-     "page": "spelare/jacob-widell-zetterstrom/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Millwall",
-     "page": "lag/millwall/"
-    },
-    {
-     "name": "Derby County",
-     "page": "lag/derby-county/"
-    }
-   ]
-  },
-  {
-   "id": "561907",
-   "sport": "Fotboll",
-   "competition": "Championship",
-   "start": "2026-10-31T15:00:00Z",
-   "title": "Swansea – Blackburn",
-   "swedes": [
-    {
-     "name": "Melker Widell",
-     "team": "Swansea",
-     "url": "https://sv.wikipedia.org/wiki/Melker_Widell",
-     "page": "spelare/melker-widell/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Swansea",
-     "page": "lag/swansea/"
-    },
-    {
-     "name": "Blackburn",
-     "page": "lag/blackburn/"
-    }
-   ]
-  },
-  {
-   "id": "564735",
-   "sport": "Fotboll",
-   "competition": "La Liga",
-   "start": "2026-10-31T15:15:00Z",
-   "title": "Rayo Vallecano – Celta",
-   "swedes": [
-    {
-     "name": "Carl Starfelt",
-     "team": "Celta",
-     "url": "https://sv.wikipedia.org/wiki/Carl_Starfelt",
-     "page": "spelare/carl-starfelt/"
-    },
-    {
-     "name": "Williot Swedberg",
-     "team": "Celta",
-     "url": "https://sv.wikipedia.org/wiki/Williot_Swedberg",
-     "page": "spelare/williot-swedberg/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Disney+",
-    "channel": null,
-    "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Rayo Vallecano",
-     "page": "lag/rayo-vallecano/"
-    },
-    {
-     "name": "Celta",
-     "page": "lag/celta/"
-    }
-   ]
-  },
-  {
-   "id": "558854",
-   "sport": "Fotboll",
-   "competition": "Eredivisie",
-   "start": "2026-10-31T15:30:00Z",
-   "title": "Feyenoord – Sittard",
-   "swedes": [
-    {
-     "name": "Kristoffer Peterson",
-     "team": "Sittard",
-     "url": "https://sv.wikipedia.org/wiki/Kristoffer_Peterson",
-     "page": "spelare/kristoffer-peterson/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Feyenoord",
-     "page": "lag/feyenoord/"
-    },
-    {
-     "name": "Sittard",
-     "page": "lag/sittard/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020217",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-10-31T17:00:00Z",
-   "title": "Boston Bruins – Chicago Blackhawks",
-   "swedes": [
-    {
-     "name": "Elias Lindholm",
-     "team": "Bruins",
-     "url": "https://sv.wikipedia.org/wiki/Elias_Lindholm",
-     "page": "spelare/elias-lindholm/"
-    },
-    {
-     "name": "Hampus Lindholm",
-     "team": "Bruins",
-     "url": "https://sv.wikipedia.org/wiki/Hampus_Lindholm",
-     "page": "spelare/hampus-lindholm/"
-    },
-    {
-     "name": "Anton Frondell",
-     "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell",
-     "page": "spelare/anton-frondell/"
-    },
-    {
-     "name": "Arvid Soderblom",
-     "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom",
-     "page": "spelare/arvid-soderblom/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Boston Bruins",
-     "page": "lag/boston-bruins/"
-    },
-    {
-     "name": "Chicago Blackhawks",
-     "page": "lag/chicago-blackhawks/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020218",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-10-31T17:00:00Z",
-   "title": "Detroit Red Wings – St. Louis Blues",
-   "swedes": [
-    {
-     "name": "Albert Johansson",
-     "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)",
-     "page": "spelare/albert-johansson/"
-    },
-    {
-     "name": "Andreas Englund",
-     "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Andreas_Englund",
-     "page": "spelare/andreas-englund/"
-    },
-    {
-     "name": "Anton Johansson",
-     "team": "Red Wings",
-     "url": null,
-     "page": "spelare/anton-johansson/"
-    },
-    {
-     "name": "Lucas Raymond",
-     "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Lucas_Raymond",
-     "page": "spelare/lucas-raymond/"
-    },
-    {
-     "name": "Viktor Arvidsson",
-     "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson",
-     "page": "spelare/viktor-arvidsson/"
-    },
-    {
-     "name": "William Wallinder",
-     "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/William_Wallinder",
-     "page": "spelare/william-wallinder/"
-    },
-    {
-     "name": "Jonatan Berggren",
-     "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
-     "page": "spelare/jonatan-berggren/"
-    },
-    {
-     "name": "Philip Broberg",
-     "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
-     "page": "spelare/philip-broberg/"
-    },
-    {
-     "name": "Theo Lindstein",
-     "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Theo_Lindstein",
-     "page": "spelare/theo-lindstein/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Detroit Red Wings",
-     "page": "lag/detroit-red-wings/"
-    },
-    {
-     "name": "St. Louis Blues",
-     "page": "lag/st-louis-blues/"
-    }
-   ]
-  },
-  {
-   "id": "558542",
-   "sport": "Fotboll",
-   "competition": "Serie A",
-   "start": "2026-10-31T17:00:00Z",
-   "title": "Udinese – Roma",
-   "swedes": [
-    {
-     "name": "Jesper Karlström",
-     "team": "Udinese",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Karlstr%C3%B6m",
-     "page": "spelare/jesper-karlstrom/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "TV4 Play",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Udinese",
-     "page": "lag/udinese/"
-    },
-    {
-     "name": "Roma",
-     "page": "lag/roma/"
-    }
-   ]
-  },
-  {
-   "id": "565845",
-   "sport": "Fotboll",
-   "competition": "Bundesliga",
-   "start": "2026-10-31T17:30:00Z",
-   "title": "Bayern – Dortmund",
-   "swedes": [
-    {
-     "name": "Daniel Svensson",
-     "team": "Dortmund",
-     "url": "https://sv.wikipedia.org/wiki/Daniel_Svensson_(fotbollsspelare_f%C3%B6dd_2002)",
-     "page": "spelare/daniel-svensson/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Bayern",
-     "page": "lag/bayern/"
-    },
-    {
-     "name": "Dortmund",
-     "page": "lag/dortmund/"
-    }
-   ]
-  },
-  {
-   "id": "564736",
-   "sport": "Fotboll",
-   "competition": "La Liga",
-   "start": "2026-10-31T17:30:00Z",
-   "title": "Real Betis – Málaga",
-   "swedes": [
-    {
-     "name": "Jens Cajuste",
-     "team": "Málaga",
-     "url": "https://sv.wikipedia.org/wiki/Jens_Cajuste",
-     "page": "spelare/jens-cajuste/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Disney+",
-    "channel": null,
-    "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Real Betis",
-     "page": "lag/real-betis/"
-    },
-    {
-     "name": "Málaga",
-     "page": "lag/malaga/"
-    }
-   ]
-  },
-  {
-   "id": "560627",
-   "sport": "Fotboll",
-   "competition": "Premier League",
-   "start": "2026-10-31T17:30:00Z",
-   "title": "Tottenham – Crystal Palace",
-   "swedes": [
-    {
-     "name": "Dejan Kulusevski",
-     "team": "Tottenham",
-     "url": "https://sv.wikipedia.org/wiki/Dejan_Kulusevski",
-     "page": "spelare/dejan-kulusevski/"
-    },
-    {
-     "name": "Lucas Bergvall",
-     "team": "Tottenham",
-     "url": "https://sv.wikipedia.org/wiki/Lucas_Bergvall",
-     "page": "spelare/lucas-bergvall/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Tottenham",
-     "page": "lag/tottenham/"
-    },
-    {
-     "name": "Crystal Palace",
-     "page": "lag/crystal-palace/"
-    }
-   ]
-  },
-  {
-   "id": "558852",
-   "sport": "Fotboll",
-   "competition": "Eredivisie",
-   "start": "2026-10-31T17:45:00Z",
-   "title": "Heerenveen – NEC",
-   "swedes": [
-    {
-     "name": "Marcus Linday",
-     "team": "Heerenveen",
-     "url": "https://sv.wikipedia.org/wiki/Marcus_Linday",
-     "page": "spelare/marcus-linday/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Heerenveen",
-     "page": "lag/heerenveen/"
-    },
-    {
-     "name": "NEC",
-     "page": "lag/nec/"
-    }
-   ]
-  },
-  {
-   "id": "558853",
-   "sport": "Fotboll",
-   "competition": "Eredivisie",
-   "start": "2026-10-31T17:45:00Z",
-   "title": "PSV – Willem II",
-   "swedes": [
-    {
-     "name": "Armin Ćulum",
-     "team": "Willem II",
-     "url": "https://en.wikipedia.org/wiki/Armin_%C4%86ulum",
-     "page": "spelare/armin-culum/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "PSV",
-     "page": "lag/psv/"
-    },
-    {
-     "name": "Willem II",
-     "page": "lag/willem-ii/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020219",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-10-31T18:00:00Z",
-   "title": "Nashville Predators – Tampa Bay Lightning",
-   "swedes": [
-    {
-     "name": "Adam Edstrom",
-     "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
-     "page": "spelare/adam-edstrom/"
-    },
-    {
-     "name": "Adam Wilsby",
-     "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Wilsby",
-     "page": "spelare/adam-wilsby/"
-    },
-    {
-     "name": "Filip Forsberg",
-     "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Forsberg",
-     "page": "spelare/filip-forsberg/"
-    },
-    {
-     "name": "Nils Hoglander",
-     "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
-     "page": "spelare/nils-hoglander/"
-    },
-    {
-     "name": "Dennis Hildeby",
-     "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Dennis_Hildeby",
-     "page": "spelare/dennis-hildeby/"
-    },
-    {
-     "name": "Pontus Holmberg",
-     "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Pontus_Holmberg",
-     "page": "spelare/pontus-holmberg/"
-    },
-    {
-     "name": "Victor Hedman",
-     "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Hedman",
-     "page": "spelare/victor-hedman/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Disney+",
-    "channel": null,
-    "source": "https://www.macken.xyz/2026/09/svenskar-pa-isen-nar-nhl-startar-pa-disney/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Nashville Predators",
-     "page": "lag/nashville-predators/"
-    },
-    {
-     "name": "Tampa Bay Lightning",
-     "page": "lag/tampa-bay-lightning/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020220",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-10-31T18:00:00Z",
-   "title": "New York Islanders – Edmonton Oilers",
-   "swedes": [
-    {
-     "name": "Emil Heineman",
-     "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman",
-     "page": "spelare/emil-heineman/"
-    },
-    {
-     "name": "Simon Holmstrom",
-     "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m",
-     "page": "spelare/simon-holmstrom/"
-    },
-    {
-     "name": "Victor Eklund",
-     "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund",
-     "page": "spelare/victor-eklund/"
-    },
-    {
-     "name": "Filip Hallander",
-     "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
-     "page": "spelare/filip-hallander/"
-    },
-    {
-     "name": "Mattias Ekholm",
-     "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm",
-     "page": "spelare/mattias-ekholm/"
-    },
-    {
-     "name": "Mattias Janmark",
-     "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark",
-     "page": "spelare/mattias-janmark/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Disney+",
-    "channel": null,
-    "source": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "New York Islanders",
-     "page": "lag/new-york-islanders/"
-    },
-    {
-     "name": "Edmonton Oilers",
-     "page": "lag/edmonton-oilers/"
-    }
-   ]
-  },
-  {
-   "id": "560628",
-   "sport": "Fotboll",
-   "competition": "Premier League",
-   "start": "2026-10-31T20:00:00Z",
-   "title": "Aston Villa – Fulham",
-   "swedes": [
-    {
-     "name": "Victor Nilsson-Lindelöf",
-     "team": "Aston Villa",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Nilsson_Lindel%C3%B6f",
-     "page": "spelare/victor-nilsson-lindelof/"
-    },
-    {
-     "name": "Hugo Larsson",
-     "team": "Fulham",
-     "url": "https://sv.wikipedia.org/wiki/Hugo_Larsson_(fotbollsspelare)",
-     "page": "spelare/hugo-larsson/"
-    },
-    {
-     "name": "Jonah Kusi-Asare",
-     "team": "Fulham",
-     "url": "https://sv.wikipedia.org/wiki/Jonah_Kusi-Asare",
-     "page": "spelare/jonah-kusi-asare/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Aston Villa",
-     "page": "lag/aston-villa/"
-    },
-    {
-     "name": "Fulham",
-     "page": "lag/fulham/"
-    }
-   ]
-  },
-  {
-   "id": "564732",
-   "sport": "Fotboll",
-   "competition": "La Liga",
-   "start": "2026-10-31T20:00:00Z",
-   "title": "Barça – Alavés",
-   "swedes": [
-    {
-     "name": "Roony Bardghji",
-     "team": "Barça",
-     "url": "https://sv.wikipedia.org/wiki/Roony_Bardghji",
-     "page": "spelare/roony-bardghji/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Disney+",
-    "channel": null,
-    "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Barça",
-     "page": "lag/barca/"
-    },
-    {
-     "name": "Alavés",
-     "page": "lag/alaves/"
-    }
-   ]
-  },
-  {
-   "id": "558850",
-   "sport": "Fotboll",
-   "competition": "Eredivisie",
-   "start": "2026-10-31T20:00:00Z",
-   "title": "Cambuur – Go Ahead",
-   "swedes": [
-    {
-     "name": "Victor Edvardsen",
-     "team": "Go Ahead",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Edvardsen",
-     "page": "spelare/victor-edvardsen/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Cambuur",
-     "page": "lag/cambuur/"
-    },
-    {
-     "name": "Go Ahead",
-     "page": "lag/go-ahead/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020221",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-10-31T20:00:00Z",
-   "title": "Los Angeles Kings – Buffalo Sabres",
-   "swedes": [
-    {
-     "name": "Adrian Kempe",
-     "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe",
-     "page": "spelare/adrian-kempe/"
-    },
-    {
-     "name": "Andre Lee",
-     "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Andre_Lee",
-     "page": "spelare/andre-lee/"
-    },
-    {
-     "name": "Anton Forsberg",
-     "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg",
-     "page": "spelare/anton-forsberg/"
-    },
-    {
-     "name": "Erik Gustafsson",
-     "team": "Kings",
-     "url": null,
-     "page": "spelare/erik-gustafsson/"
-    },
-    {
-     "name": "Noah Ostlund",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
-     "page": "spelare/noah-ostlund/"
-    },
-    {
-     "name": "Rasmus Dahlin",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
-     "page": "spelare/rasmus-dahlin/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Los Angeles Kings",
-     "page": "lag/los-angeles-kings/"
-    },
-    {
-     "name": "Buffalo Sabres",
-     "page": "lag/buffalo-sabres/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020222",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-10-31T20:00:00Z",
-   "title": "San Jose Sharks – Ottawa Senators",
-   "swedes": [
-    {
-     "name": "Alexander Wennberg",
-     "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg",
-     "page": "spelare/alexander-wennberg/"
-    },
-    {
-     "name": "Filip Bystedt",
-     "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Bystedt",
-     "page": "spelare/filip-bystedt/"
-    },
-    {
-     "name": "Ivar Stenberg",
-     "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg",
-     "page": "spelare/ivar-stenberg/"
-    },
-    {
-     "name": "Andre Burakovsky",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky",
-     "page": "spelare/andre-burakovsky/"
-    },
-    {
-     "name": "Fabian Zetterlund",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund",
-     "page": "spelare/fabian-zetterlund/"
-    },
-    {
-     "name": "Jonas Johansson",
-     "team": "Senators",
-     "url": null,
-     "page": "spelare/jonas-johansson/"
-    },
-    {
-     "name": "Linus Ullmark",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark",
-     "page": "spelare/linus-ullmark/"
-    },
-    {
-     "name": "Samuel Ersson",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson",
-     "page": "spelare/samuel-ersson/"
-    },
-    {
-     "name": "William Eklund",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/William_Eklund",
-     "page": "spelare/william-eklund/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Disney+",
-    "channel": null,
-    "source": "https://www.macken.xyz/2026/09/svenskar-pa-isen-nar-nhl-startar-pa-disney/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "San Jose Sharks",
-     "page": "lag/san-jose-sharks/"
-    },
-    {
-     "name": "Ottawa Senators",
-     "page": "lag/ottawa-senators/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020223",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-10-31T23:00:00Z",
-   "title": "Montréal Canadiens – Pittsburgh Penguins",
-   "swedes": [
-    {
-     "name": "Adam Engstrom",
-     "team": "Canadiens",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
-     "page": "spelare/adam-engstrom/"
-    },
-    {
-     "name": "Oliver Kapanen",
-     "team": "Canadiens",
-     "url": null,
-     "page": "spelare/oliver-kapanen/"
-    },
-    {
-     "name": "Elmer Soderblom",
-     "team": "Penguins",
-     "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom",
-     "page": "spelare/elmer-soderblom/"
-    },
-    {
-     "name": "Erik Karlsson",
-     "team": "Penguins",
-     "url": null,
-     "page": "spelare/erik-karlsson/"
-    },
-    {
-     "name": "Rickard Rakell",
-     "team": "Penguins",
-     "url": "https://sv.wikipedia.org/wiki/Rickard_Rakell",
-     "page": "spelare/rickard-rakell/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Montréal Canadiens",
-     "page": "lag/montreal-canadiens/"
-    },
-    {
-     "name": "Pittsburgh Penguins",
-     "page": "lag/pittsburgh-penguins/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020224",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-10-31T23:00:00Z",
-   "title": "Vancouver Canucks – Toronto Maple Leafs",
-   "swedes": [
-    {
-     "name": "Elias Pettersson #25",
-     "team": "Canucks",
-     "url": null,
-     "page": "spelare/elias-pettersson-25/"
-    },
-    {
-     "name": "Elias Pettersson #40",
-     "team": "Canucks",
-     "url": null,
-     "page": "spelare/elias-pettersson-40/"
-    },
-    {
-     "name": "Jonathan Lekkerimäki",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
-     "page": "spelare/jonathan-lekkerimaki/"
-    },
-    {
-     "name": "Liam Ohgren",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
-     "page": "spelare/liam-ohgren/"
-    },
-    {
-     "name": "Linus Karlsson",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
-     "page": "spelare/linus-karlsson/"
-    },
-    {
-     "name": "Tom Willander",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Tom_Willander",
-     "page": "spelare/tom-willander/"
-    },
-    {
-     "name": "Oliver Ekman-Larsson",
-     "team": "Maple Leafs",
-     "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson",
-     "page": "spelare/oliver-ekman-larsson/"
-    },
-    {
-     "name": "William Nylander",
-     "team": "Maple Leafs",
-     "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)",
-     "page": "spelare/william-nylander/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/nhl-disney-plus-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Vancouver Canucks",
-     "page": "lag/vancouver-canucks/"
-    },
-    {
-     "name": "Toronto Maple Leafs",
-     "page": "lag/toronto-maple-leafs/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020225",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-01T00:00:00Z",
-   "title": "Dallas Stars – Columbus Blue Jackets",
-   "swedes": [
-    {
-     "name": "Nils Lundkvist",
-     "team": "Stars",
-     "url": "https://sv.wikipedia.org/wiki/Nils_Lundkvist",
-     "page": "spelare/nils-lundkvist/"
-    },
-    {
-     "name": "Oskar Bäck",
-     "team": "Stars",
-     "url": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck",
-     "page": "spelare/oskar-back/"
-    },
-    {
-     "name": "Emil Andrae",
-     "team": "Blue Jackets",
-     "url": "https://sv.wikipedia.org/wiki/Emil_Andrae",
-     "page": "spelare/emil-andrae/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Dallas Stars",
-     "page": "lag/dallas-stars/"
-    },
-    {
-     "name": "Columbus Blue Jackets",
-     "page": "lag/columbus-blue-jackets/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020226",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-01T02:00:00Z",
-   "title": "Colorado Avalanche – Calgary Flames",
-   "swedes": [
-    {
-     "name": "Gabriel Landeskog",
-     "team": "Avalanche",
-     "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog",
-     "page": "spelare/gabriel-landeskog/"
-    },
-    {
-     "name": "Mikael Backlund",
-     "team": "Flames",
-     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund",
-     "page": "spelare/mikael-backlund/"
-    },
-    {
-     "name": "William Stromgren",
-     "team": "Flames",
-     "url": null,
-     "page": "spelare/william-stromgren/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Colorado Avalanche",
-     "page": "lag/colorado-avalanche/"
-    },
-    {
-     "name": "Calgary Flames",
-     "page": "lag/calgary-flames/"
-    }
-   ]
-  },
   {
    "id": "558543",
    "sport": "Fotboll",
@@ -4576,6 +3198,1234 @@
     {
      "name": "San Jose Sharks",
      "page": "lag/san-jose-sharks/"
+    }
+   ]
+  },
+  {
+   "id": "561939",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-11-07T12:30:00Z",
+   "title": "Bristol City – Norwich",
+   "swedes": [
+    {
+     "name": "Noah Eile",
+     "team": "Bristol City",
+     "url": "https://sv.wikipedia.org/wiki/Noah_Eile",
+     "page": "spelare/noah-eile/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Bristol City",
+     "page": "lag/bristol-city/"
+    },
+    {
+     "name": "Norwich",
+     "page": "lag/norwich/"
+    }
+   ]
+  },
+  {
+   "id": "560632",
+   "sport": "Fotboll",
+   "competition": "Premier League",
+   "start": "2026-11-07T12:30:00Z",
+   "title": "Leeds United – Tottenham",
+   "swedes": [
+    {
+     "name": "Gabriel Gudmundsson",
+     "team": "Leeds United",
+     "url": "https://sv.wikipedia.org/wiki/Gabriel_Gudmundsson",
+     "page": "spelare/gabriel-gudmundsson/"
+    },
+    {
+     "name": "Dejan Kulusevski",
+     "team": "Tottenham",
+     "url": "https://sv.wikipedia.org/wiki/Dejan_Kulusevski",
+     "page": "spelare/dejan-kulusevski/"
+    },
+    {
+     "name": "Lucas Bergvall",
+     "team": "Tottenham",
+     "url": "https://sv.wikipedia.org/wiki/Lucas_Bergvall",
+     "page": "spelare/lucas-bergvall/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Prime Video"
+   },
+   "teams": [
+    {
+     "name": "Leeds United",
+     "page": "lag/leeds-united/"
+    },
+    {
+     "name": "Tottenham",
+     "page": "lag/tottenham/"
+    }
+   ]
+  },
+  {
+   "id": "561938",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-11-07T12:30:00Z",
+   "title": "Portsmouth – Stoke",
+   "swedes": [
+    {
+     "name": "Svante Ingelsson",
+     "team": "Stoke",
+     "url": "https://sv.wikipedia.org/wiki/Svante_Ingelsson",
+     "page": "spelare/svante-ingelsson/"
+    },
+    {
+     "name": "Viktor Johansson",
+     "team": "Stoke",
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Johansson_(fotbollsspelare)",
+     "page": "spelare/viktor-johansson/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Portsmouth",
+     "page": "lag/portsmouth/"
+    },
+    {
+     "name": "Stoke",
+     "page": "lag/stoke/"
+    }
+   ]
+  },
+  {
+   "id": "564744",
+   "sport": "Fotboll",
+   "competition": "La Liga",
+   "start": "2026-11-07T13:00:00Z",
+   "title": "Málaga – Santander",
+   "swedes": [
+    {
+     "name": "Jens Cajuste",
+     "team": "Málaga",
+     "url": "https://sv.wikipedia.org/wiki/Jens_Cajuste",
+     "page": "spelare/jens-cajuste/"
+    },
+    {
+     "name": "Simon Eriksson",
+     "team": "Santander",
+     "url": null,
+     "page": "spelare/simon-eriksson/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Disney+",
+    "channel": null,
+    "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Málaga",
+     "page": "lag/malaga/"
+    },
+    {
+     "name": "Santander",
+     "page": "lag/santander/"
+    }
+   ]
+  },
+  {
+   "id": "565850",
+   "sport": "Fotboll",
+   "competition": "Bundesliga",
+   "start": "2026-11-07T14:30:00Z",
+   "title": "Dortmund – Elversberg",
+   "swedes": [
+    {
+     "name": "Daniel Svensson",
+     "team": "Dortmund",
+     "url": "https://sv.wikipedia.org/wiki/Daniel_Svensson_(fotbollsspelare_f%C3%B6dd_2002)",
+     "page": "spelare/daniel-svensson/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Dortmund",
+     "page": "lag/dortmund/"
+    },
+    {
+     "name": "Elversberg",
+     "page": "lag/elversberg/"
+    }
+   ]
+  },
+  {
+   "id": "565853",
+   "sport": "Fotboll",
+   "competition": "Bundesliga",
+   "start": "2026-11-07T14:30:00Z",
+   "title": "SC Paderborn – Frankfurt",
+   "swedes": [
+    {
+     "name": "Love Arrhov",
+     "team": "Frankfurt",
+     "url": "https://sv.wikipedia.org/wiki/Love_Arrhov",
+     "page": "spelare/love-arrhov/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "SC Paderborn",
+     "page": "lag/sc-paderborn/"
+    },
+    {
+     "name": "Frankfurt",
+     "page": "lag/frankfurt/"
+    }
+   ]
+  },
+  {
+   "id": "560640",
+   "sport": "Fotboll",
+   "competition": "Premier League",
+   "start": "2026-11-07T15:00:00Z",
+   "title": "Arsenal – Hull City",
+   "swedes": [
+    {
+     "name": "Viktor Gyökeres",
+     "team": "Arsenal",
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Gy%C3%B6keres",
+     "page": "spelare/viktor-gyokeres/"
+    },
+    {
+     "name": "Elliot Stroud",
+     "team": "Hull City",
+     "url": "https://sv.wikipedia.org/wiki/Elliot_Stroud",
+     "page": "spelare/elliot-stroud/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Prime Video"
+   },
+   "teams": [
+    {
+     "name": "Arsenal",
+     "page": "lag/arsenal/"
+    },
+    {
+     "name": "Hull City",
+     "page": "lag/hull-city/"
+    }
+   ]
+  },
+  {
+   "id": "561940",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-11-07T15:00:00Z",
+   "title": "Birmingham – Swansea",
+   "swedes": [
+    {
+     "name": "Melker Widell",
+     "team": "Swansea",
+     "url": "https://sv.wikipedia.org/wiki/Melker_Widell",
+     "page": "spelare/melker-widell/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Birmingham",
+     "page": "lag/birmingham/"
+    },
+    {
+     "name": "Swansea",
+     "page": "lag/swansea/"
+    }
+   ]
+  },
+  {
+   "id": "561930",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-11-07T15:00:00Z",
+   "title": "Cardiff – Burnley",
+   "swedes": [
+    {
+     "name": "Hjalmar Ekdal",
+     "team": "Burnley",
+     "url": "https://sv.wikipedia.org/wiki/Hjalmar_Ekdal",
+     "page": "spelare/hjalmar-ekdal/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Cardiff",
+     "page": "lag/cardiff/"
+    },
+    {
+     "name": "Burnley",
+     "page": "lag/burnley/"
+    }
+   ]
+  },
+  {
+   "id": "560633",
+   "sport": "Fotboll",
+   "competition": "Premier League",
+   "start": "2026-11-07T15:00:00Z",
+   "title": "Fulham – Newcastle",
+   "swedes": [
+    {
+     "name": "Hugo Larsson",
+     "team": "Fulham",
+     "url": "https://sv.wikipedia.org/wiki/Hugo_Larsson_(fotbollsspelare)",
+     "page": "spelare/hugo-larsson/"
+    },
+    {
+     "name": "Jonah Kusi-Asare",
+     "team": "Fulham",
+     "url": "https://sv.wikipedia.org/wiki/Jonah_Kusi-Asare",
+     "page": "spelare/jonah-kusi-asare/"
+    },
+    {
+     "name": "Anthony Elanga",
+     "team": "Newcastle",
+     "url": "https://sv.wikipedia.org/wiki/Anthony_Elanga",
+     "page": "spelare/anthony-elanga/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Prime Video"
+   },
+   "teams": [
+    {
+     "name": "Fulham",
+     "page": "lag/fulham/"
+    },
+    {
+     "name": "Newcastle",
+     "page": "lag/newcastle/"
+    }
+   ]
+  },
+  {
+   "id": "561937",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-11-07T15:00:00Z",
+   "title": "Preston NE – Southampton",
+   "swedes": [
+    {
+     "name": "Jusef Erabi",
+     "team": "Preston NE",
+     "url": "https://sv.wikipedia.org/wiki/Jusef_Erabi",
+     "page": "spelare/jusef-erabi/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Preston NE",
+     "page": "lag/preston-ne/"
+    },
+    {
+     "name": "Southampton",
+     "page": "lag/southampton/"
+    }
+   ]
+  },
+  {
+   "id": "558844",
+   "sport": "Fotboll",
+   "competition": "Eredivisie",
+   "start": "2026-11-07T15:30:00Z",
+   "title": "Sittard – Telstar",
+   "swedes": [
+    {
+     "name": "Kristoffer Peterson",
+     "team": "Sittard",
+     "url": "https://sv.wikipedia.org/wiki/Kristoffer_Peterson",
+     "page": "spelare/kristoffer-peterson/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Sittard",
+     "page": "lag/sittard/"
+    },
+    {
+     "name": "Telstar",
+     "page": "lag/telstar/"
+    }
+   ]
+  },
+  {
+   "id": "558535",
+   "sport": "Fotboll",
+   "competition": "Serie A",
+   "start": "2026-11-07T17:00:00Z",
+   "title": "Parma – Bologna",
+   "swedes": [
+    {
+     "name": "Pontus Almqvist",
+     "team": "Parma",
+     "url": "https://sv.wikipedia.org/wiki/Pontus_Almqvist",
+     "page": "spelare/pontus-almqvist/"
+    },
+    {
+     "name": "Emil Holm",
+     "team": "Bologna",
+     "url": "https://sv.wikipedia.org/wiki/Emil_Holm",
+     "page": "spelare/emil-holm/"
+    },
+    {
+     "name": "Jesper Karlsson",
+     "team": "Bologna",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Karlsson",
+     "page": "spelare/jesper-karlsson/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "TV4 Play",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Parma",
+     "page": "lag/parma/"
+    },
+    {
+     "name": "Bologna",
+     "page": "lag/bologna/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020265",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-07T17:30:00Z",
+   "title": "Washington Capitals – Florida Panthers",
+   "swedes": [
+    {
+     "name": "Rasmus Sandin",
+     "team": "Capitals",
+     "url": "https://sv.wikipedia.org/wiki/Rasmus_Sandin",
+     "page": "spelare/rasmus-sandin/"
+    },
+    {
+     "name": "Timothy Liljegren",
+     "team": "Capitals",
+     "url": "https://sv.wikipedia.org/wiki/Timothy_Liljegren",
+     "page": "spelare/timothy-liljegren/"
+    },
+    {
+     "name": "Gustav Forsling",
+     "team": "Panthers",
+     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling",
+     "page": "spelare/gustav-forsling/"
+    },
+    {
+     "name": "Jacob Markstrom",
+     "team": "Panthers",
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
+     "page": "spelare/jacob-markstrom/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Washington Capitals",
+     "page": "lag/washington-capitals/"
+    },
+    {
+     "name": "Florida Panthers",
+     "page": "lag/florida-panthers/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020266",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-07T18:00:00Z",
+   "title": "Nashville Predators – St. Louis Blues",
+   "swedes": [
+    {
+     "name": "Adam Edstrom",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
+     "page": "spelare/adam-edstrom/"
+    },
+    {
+     "name": "Adam Wilsby",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Adam_Wilsby",
+     "page": "spelare/adam-wilsby/"
+    },
+    {
+     "name": "Filip Forsberg",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Filip_Forsberg",
+     "page": "spelare/filip-forsberg/"
+    },
+    {
+     "name": "Nils Hoglander",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
+     "page": "spelare/nils-hoglander/"
+    },
+    {
+     "name": "Jonatan Berggren",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
+     "page": "spelare/jonatan-berggren/"
+    },
+    {
+     "name": "Philip Broberg",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
+     "page": "spelare/philip-broberg/"
+    },
+    {
+     "name": "Theo Lindstein",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Theo_Lindstein",
+     "page": "spelare/theo-lindstein/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Nashville Predators",
+     "page": "lag/nashville-predators/"
+    },
+    {
+     "name": "St. Louis Blues",
+     "page": "lag/st-louis-blues/"
+    }
+   ]
+  },
+  {
+   "id": "558843",
+   "sport": "Fotboll",
+   "competition": "Eredivisie",
+   "start": "2026-11-07T20:00:00Z",
+   "title": "Excelsior – Go Ahead",
+   "swedes": [
+    {
+     "name": "Casper Widell",
+     "team": "Excelsior",
+     "url": "https://sv.wikipedia.org/wiki/Casper_Widell",
+     "page": "spelare/casper-widell/"
+    },
+    {
+     "name": "Yacqub Finey",
+     "team": "Excelsior",
+     "url": null,
+     "page": "spelare/yacqub-finey/"
+    },
+    {
+     "name": "Victor Edvardsen",
+     "team": "Go Ahead",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Edvardsen",
+     "page": "spelare/victor-edvardsen/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Excelsior",
+     "page": "lag/excelsior/"
+    },
+    {
+     "name": "Go Ahead",
+     "page": "lag/go-ahead/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020267",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-07T22:00:00Z",
+   "title": "Seattle Kraken – New York Rangers",
+   "swedes": [
+    {
+     "name": "Adam Larsson",
+     "team": "Kraken",
+     "url": null,
+     "page": "spelare/adam-larsson/"
+    },
+    {
+     "name": "Marcus Pettersson",
+     "team": "Rangers",
+     "url": "https://sv.wikipedia.org/wiki/Marcus_Pettersson",
+     "page": "spelare/marcus-pettersson/"
+    },
+    {
+     "name": "Mika Zibanejad",
+     "team": "Rangers",
+     "url": "https://sv.wikipedia.org/wiki/Mika_Zibanejad",
+     "page": "spelare/mika-zibanejad/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Seattle Kraken",
+     "page": "lag/seattle-kraken/"
+    },
+    {
+     "name": "New York Rangers",
+     "page": "lag/new-york-rangers/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020270",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-08T00:00:00Z",
+   "title": "New York Islanders – New Jersey Devils",
+   "swedes": [
+    {
+     "name": "Emil Heineman",
+     "team": "Islanders",
+     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman",
+     "page": "spelare/emil-heineman/"
+    },
+    {
+     "name": "Simon Holmstrom",
+     "team": "Islanders",
+     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m",
+     "page": "spelare/simon-holmstrom/"
+    },
+    {
+     "name": "Victor Eklund",
+     "team": "Islanders",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund",
+     "page": "spelare/victor-eklund/"
+    },
+    {
+     "name": "Jesper Boqvist",
+     "team": "Devils",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist",
+     "page": "spelare/jesper-boqvist/"
+    },
+    {
+     "name": "Jesper Bratt",
+     "team": "Devils",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt",
+     "page": "spelare/jesper-bratt/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "New York Islanders",
+     "page": "lag/new-york-islanders/"
+    },
+    {
+     "name": "New Jersey Devils",
+     "page": "lag/new-jersey-devils/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020269",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-08T00:00:00Z",
+   "title": "Ottawa Senators – Utah Mammoth",
+   "swedes": [
+    {
+     "name": "Andre Burakovsky",
+     "team": "Senators",
+     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky",
+     "page": "spelare/andre-burakovsky/"
+    },
+    {
+     "name": "Fabian Zetterlund",
+     "team": "Senators",
+     "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund",
+     "page": "spelare/fabian-zetterlund/"
+    },
+    {
+     "name": "Jonas Johansson",
+     "team": "Senators",
+     "url": null,
+     "page": "spelare/jonas-johansson/"
+    },
+    {
+     "name": "Linus Ullmark",
+     "team": "Senators",
+     "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark",
+     "page": "spelare/linus-ullmark/"
+    },
+    {
+     "name": "Samuel Ersson",
+     "team": "Senators",
+     "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson",
+     "page": "spelare/samuel-ersson/"
+    },
+    {
+     "name": "William Eklund",
+     "team": "Senators",
+     "url": "https://sv.wikipedia.org/wiki/William_Eklund",
+     "page": "spelare/william-eklund/"
+    },
+    {
+     "name": "Kevin Stenlund",
+     "team": "Mammoth",
+     "url": "https://sv.wikipedia.org/wiki/Kevin_Stenlund",
+     "page": "spelare/kevin-stenlund/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Ottawa Senators",
+     "page": "lag/ottawa-senators/"
+    },
+    {
+     "name": "Utah Mammoth",
+     "page": "lag/utah-mammoth/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020268",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-08T00:00:00Z",
+   "title": "Toronto Maple Leafs – Montréal Canadiens",
+   "swedes": [
+    {
+     "name": "Oliver Ekman-Larsson",
+     "team": "Maple Leafs",
+     "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson",
+     "page": "spelare/oliver-ekman-larsson/"
+    },
+    {
+     "name": "William Nylander",
+     "team": "Maple Leafs",
+     "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)",
+     "page": "spelare/william-nylander/"
+    },
+    {
+     "name": "Adam Engstrom",
+     "team": "Canadiens",
+     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
+     "page": "spelare/adam-engstrom/"
+    },
+    {
+     "name": "Oliver Kapanen",
+     "team": "Canadiens",
+     "url": null,
+     "page": "spelare/oliver-kapanen/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Toronto Maple Leafs",
+     "page": "lag/toronto-maple-leafs/"
+    },
+    {
+     "name": "Montréal Canadiens",
+     "page": "lag/montreal-canadiens/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020271",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-08T01:00:00Z",
+   "title": "Carolina Hurricanes – Chicago Blackhawks",
+   "swedes": [
+    {
+     "name": "Anton Frondell",
+     "team": "Blackhawks",
+     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell",
+     "page": "spelare/anton-frondell/"
+    },
+    {
+     "name": "Arvid Soderblom",
+     "team": "Blackhawks",
+     "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom",
+     "page": "spelare/arvid-soderblom/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Carolina Hurricanes",
+     "page": "lag/carolina-hurricanes/"
+    },
+    {
+     "name": "Chicago Blackhawks",
+     "page": "lag/chicago-blackhawks/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020272",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-08T01:00:00Z",
+   "title": "Dallas Stars – San Jose Sharks",
+   "swedes": [
+    {
+     "name": "Nils Lundkvist",
+     "team": "Stars",
+     "url": "https://sv.wikipedia.org/wiki/Nils_Lundkvist",
+     "page": "spelare/nils-lundkvist/"
+    },
+    {
+     "name": "Oskar Bäck",
+     "team": "Stars",
+     "url": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck",
+     "page": "spelare/oskar-back/"
+    },
+    {
+     "name": "Alexander Wennberg",
+     "team": "Sharks",
+     "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg",
+     "page": "spelare/alexander-wennberg/"
+    },
+    {
+     "name": "Filip Bystedt",
+     "team": "Sharks",
+     "url": "https://sv.wikipedia.org/wiki/Filip_Bystedt",
+     "page": "spelare/filip-bystedt/"
+    },
+    {
+     "name": "Ivar Stenberg",
+     "team": "Sharks",
+     "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg",
+     "page": "spelare/ivar-stenberg/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Dallas Stars",
+     "page": "lag/dallas-stars/"
+    },
+    {
+     "name": "San Jose Sharks",
+     "page": "lag/san-jose-sharks/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020273",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-08T01:00:00Z",
+   "title": "Minnesota Wild – Tampa Bay Lightning",
+   "swedes": [
+    {
+     "name": "Filip Gustavsson",
+     "team": "Wild",
+     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson",
+     "page": "spelare/filip-gustavsson/"
+    },
+    {
+     "name": "Jesper Wallstedt",
+     "team": "Wild",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
+     "page": "spelare/jesper-wallstedt/"
+    },
+    {
+     "name": "Joel Eriksson Ek",
+     "team": "Wild",
+     "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek",
+     "page": "spelare/joel-eriksson-ek/"
+    },
+    {
+     "name": "Jonas Brodin",
+     "team": "Wild",
+     "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin",
+     "page": "spelare/jonas-brodin/"
+    },
+    {
+     "name": "Dennis Hildeby",
+     "team": "Lightning",
+     "url": "https://sv.wikipedia.org/wiki/Dennis_Hildeby",
+     "page": "spelare/dennis-hildeby/"
+    },
+    {
+     "name": "Pontus Holmberg",
+     "team": "Lightning",
+     "url": "https://sv.wikipedia.org/wiki/Pontus_Holmberg",
+     "page": "spelare/pontus-holmberg/"
+    },
+    {
+     "name": "Victor Hedman",
+     "team": "Lightning",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Hedman",
+     "page": "spelare/victor-hedman/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Minnesota Wild",
+     "page": "lag/minnesota-wild/"
+    },
+    {
+     "name": "Tampa Bay Lightning",
+     "page": "lag/tampa-bay-lightning/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020274",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-08T02:00:00Z",
+   "title": "Colorado Avalanche – Detroit Red Wings",
+   "swedes": [
+    {
+     "name": "Gabriel Landeskog",
+     "team": "Avalanche",
+     "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog",
+     "page": "spelare/gabriel-landeskog/"
+    },
+    {
+     "name": "Albert Johansson",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)",
+     "page": "spelare/albert-johansson/"
+    },
+    {
+     "name": "Andreas Englund",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Andreas_Englund",
+     "page": "spelare/andreas-englund/"
+    },
+    {
+     "name": "Anton Johansson",
+     "team": "Red Wings",
+     "url": null,
+     "page": "spelare/anton-johansson/"
+    },
+    {
+     "name": "Lucas Raymond",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Lucas_Raymond",
+     "page": "spelare/lucas-raymond/"
+    },
+    {
+     "name": "Viktor Arvidsson",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson",
+     "page": "spelare/viktor-arvidsson/"
+    },
+    {
+     "name": "William Wallinder",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/William_Wallinder",
+     "page": "spelare/william-wallinder/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Colorado Avalanche",
+     "page": "lag/colorado-avalanche/"
+    },
+    {
+     "name": "Detroit Red Wings",
+     "page": "lag/detroit-red-wings/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020275",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-08T02:00:00Z",
+   "title": "Los Angeles Kings – Pittsburgh Penguins",
+   "swedes": [
+    {
+     "name": "Adrian Kempe",
+     "team": "Kings",
+     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe",
+     "page": "spelare/adrian-kempe/"
+    },
+    {
+     "name": "Andre Lee",
+     "team": "Kings",
+     "url": "https://sv.wikipedia.org/wiki/Andre_Lee",
+     "page": "spelare/andre-lee/"
+    },
+    {
+     "name": "Anton Forsberg",
+     "team": "Kings",
+     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg",
+     "page": "spelare/anton-forsberg/"
+    },
+    {
+     "name": "Erik Gustafsson",
+     "team": "Kings",
+     "url": null,
+     "page": "spelare/erik-gustafsson/"
+    },
+    {
+     "name": "Elmer Soderblom",
+     "team": "Penguins",
+     "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom",
+     "page": "spelare/elmer-soderblom/"
+    },
+    {
+     "name": "Erik Karlsson",
+     "team": "Penguins",
+     "url": null,
+     "page": "spelare/erik-karlsson/"
+    },
+    {
+     "name": "Rickard Rakell",
+     "team": "Penguins",
+     "url": "https://sv.wikipedia.org/wiki/Rickard_Rakell",
+     "page": "spelare/rickard-rakell/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Los Angeles Kings",
+     "page": "lag/los-angeles-kings/"
+    },
+    {
+     "name": "Pittsburgh Penguins",
+     "page": "lag/pittsburgh-penguins/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020276",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-08T03:00:00Z",
+   "title": "Edmonton Oilers – Vancouver Canucks",
+   "swedes": [
+    {
+     "name": "Filip Hallander",
+     "team": "Oilers",
+     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
+     "page": "spelare/filip-hallander/"
+    },
+    {
+     "name": "Mattias Ekholm",
+     "team": "Oilers",
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm",
+     "page": "spelare/mattias-ekholm/"
+    },
+    {
+     "name": "Mattias Janmark",
+     "team": "Oilers",
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark",
+     "page": "spelare/mattias-janmark/"
+    },
+    {
+     "name": "Elias Pettersson #25",
+     "team": "Canucks",
+     "url": null,
+     "page": "spelare/elias-pettersson-25/"
+    },
+    {
+     "name": "Elias Pettersson #40",
+     "team": "Canucks",
+     "url": null,
+     "page": "spelare/elias-pettersson-40/"
+    },
+    {
+     "name": "Jonathan Lekkerimäki",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
+     "page": "spelare/jonathan-lekkerimaki/"
+    },
+    {
+     "name": "Liam Ohgren",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
+     "page": "spelare/liam-ohgren/"
+    },
+    {
+     "name": "Linus Karlsson",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
+     "page": "spelare/linus-karlsson/"
+    },
+    {
+     "name": "Tom Willander",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Tom_Willander",
+     "page": "spelare/tom-willander/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Edmonton Oilers",
+     "page": "lag/edmonton-oilers/"
+    },
+    {
+     "name": "Vancouver Canucks",
+     "page": "lag/vancouver-canucks/"
     }
    ]
   }
