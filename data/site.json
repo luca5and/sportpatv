@@ -1,6 +1,6 @@
 {
-  "_info": "Sidans adress. Byt base_url när sportpatv.se är kopplad, så uppdateras sitemap, canonical-länkar och delningslänkar.",
-  "base_url": "https://luca5and.github.io/sportpatv",
+  "_info": "Sidans adress. base_url används i sitemap, canonical-länkar och delningslänkar. Domänen patv.se (Strato) pekar på GitHub Pages via docs/CNAME.",
+  "base_url": "https://patv.se",
   "name": "Sport på TV",
   "coffee_url": "https://buymeacoffee.com/lucasand"
 }
