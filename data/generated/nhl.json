@@ -1754,6 +1754,11 @@
     "name": "Josh Manson"
    },
    {
+    "born": "1998-02-10",
+    "country": "CAN",
+    "name": "Keaton Middleton"
+   },
+   {
     "born": "1996-08-14",
     "country": "USA",
     "name": "Logan O'Connor"
@@ -3354,11 +3359,6 @@
    }
   ],
   "PHI": [
-   {
-    "born": "2003-11-20",
-    "country": "USA",
-    "name": "Alex Bump"
-   },
    {
     "born": "2001-01-05",
     "country": "USA",
