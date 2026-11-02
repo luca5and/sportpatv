@@ -24,6 +24,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
 DATA_FILE = DOCS / "data" / "swedes-on-tv.json"
 REGISTRY_FILE = ROOT / "data" / "generated" / "pages.json"
+CHANGED_FILE = ROOT / "data" / "generated" / "changed-urls.txt"
 TEMPLATE = ROOT / "templates" / "index.html"
 SITE = json.loads((ROOT / "data" / "site.json").read_text())
 RIGHTS = json.loads((ROOT / "data" / "broadcasters.json").read_text()).get("competitions", {})
@@ -389,10 +390,15 @@ def render_sitemap(registry, today):
         + [f"spelare/{s}/" for s in sorted(registry["players"])] \
         + [f"lag/{s}/" for s in sorted(registry["teams"])]
     known = registry.setdefault("lastmod", {})
+    changed = []
     for path in paths:
         h = PAGE_HASHES.get(path)
         if h and known.get(path, {}).get("hash") != h:
             known[path] = {"hash": h, "date": today}
+            changed.append(f"{base}/{path}")
+    # Läses av scripts/indexnow.py, som berättar för Bing m.fl. vilka sidor som ändrats.
+    CHANGED_FILE.parent.mkdir(parents=True, exist_ok=True)
+    CHANGED_FILE.write_text("".join(u + "\n" for u in changed))
     body = "".join(f"  <url><loc>{esc(base + '/' + p)}</loc><lastmod>{known.get(p, {}).get('date', today)}</lastmod></url>\n"
                    for p in paths)
     urls = paths

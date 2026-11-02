@@ -34,6 +34,9 @@ jobs:
       - run: python scripts/fetch_nhl.py
       - run: python scripts/build.py
       - run: python scripts/render.py
+      - name: Meddela Bing m.fl. om ändrade sidor (IndexNow)
+        run: python scripts/indexnow.py
+        continue-on-error: true
       - name: Spara ändringar
         run: |
           git config user.name "github-actions[bot]"
