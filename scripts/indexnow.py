@@ -48,14 +48,17 @@ def main():
         return 0
     body = json.dumps(payload(urls)).encode()
     req = urllib.request.Request(ENDPOINT, data=body, method="POST",
-                                 headers={"Content-Type": "application/json; charset=utf-8"})
+                                 headers={"Content-Type": "application/json; charset=utf-8",
+                                          # Pythons standard-User-Agent blockeras (403)
+                                          "User-Agent": f"patv.se IndexNow (+{SITE['base_url']})"})
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
             print(f"IndexNow: skickade {len(urls)} adresser, svar {resp.status}")
         if first:
             FIRST_DONE.write_text("Hela sitemap skickad till IndexNow en gång.\n")
     except urllib.error.HTTPError as e:
-        print(f"IndexNow: svar {e.code} {e.reason} – försöker igen nästa natt")
+        detail = e.read()[:300].decode("utf-8", "replace").strip()
+        print(f"IndexNow: svar {e.code} {e.reason} {detail} – försöker igen nästa natt")
     except (urllib.error.URLError, TimeoutError) as e:
         print(f"IndexNow: kunde inte nå tjänsten ({e}) – försöker igen nästa natt")
     return 0
