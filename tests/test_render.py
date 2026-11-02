@@ -96,3 +96,13 @@ class RightsTest(unittest.TestCase):
         out = render.where_to_watch("A <b>", ["Serie A"])
         self.assertIn("A &lt;b&gt;", out)
         self.assertEqual(render.where_to_watch("A", []), "")
+
+
+class LeagueTest(unittest.TestCase):
+    def test_league_links_only_for_known_leagues(self):
+        links = render.league_links(["Premier League", "Okänd"], "../../")
+        self.assertEqual(links, ['<a href="../../liga/premier-league/">Premier League på TV</a>'])
+
+    def test_every_league_has_about_text(self):
+        for r in render.leagues():
+            self.assertTrue(r.get("about"), r["name"])
