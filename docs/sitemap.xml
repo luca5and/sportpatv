@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://patv.se/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://patv.se/liga/premier-league/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://patv.se/liga/championship/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://patv.se/liga/serie-a/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://patv.se/liga/bundesliga/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://patv.se/liga/la-liga/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://patv.se/liga/ligue-1/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://patv.se/liga/eredivisie/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://patv.se/liga/champions-league/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://patv.se/liga/primeira-liga/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://patv.se/liga/brasileirao/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://patv.se/liga/nhl/</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://patv.se/spelare/adam-edstrom/</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://patv.se/spelare/adam-engstrom/</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://patv.se/spelare/adam-larsson/</loc><lastmod>2026-11-02</lastmod></url>

@@ -13,7 +13,8 @@
       "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
       "verified": null,
       "default": "Viaplay",
-      "per_round_exception": "Prime Video"
+      "per_round_exception": "Prime Video",
+      "about": "Viaplay visar 342 av säsongens 380 matcher. Prime Video har 38 exklusiva matcher, en per omgång – oftast lördagens match kl 13.30. Vilken match Prime Video tar varierar, så den kontrolleras inför varje omgång."
     },
     "ELC": {
       "name": "Championship",
@@ -23,7 +24,8 @@
       "coverage": "all",
       "note": "Avtal t.o.m. 2027/28 enligt SportBusiness",
       "source": "https://www.sportbusiness.com/geography/sweden/",
-      "verified": null
+      "verified": null,
+      "about": "Viaplay visar Championship i Sverige, med avtal till och med säsongen 2027/28."
     },
     "SA": {
       "name": "Serie A",
@@ -33,7 +35,8 @@
       "coverage": "all",
       "note": "Kräver TV4 Play Sport",
       "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
-      "verified": null
+      "verified": null,
+      "about": "TV4 Play visar Serie A i Sverige. Matcherna kräver paketet TV4 Play Sport."
     },
     "BL1": {
       "name": "Bundesliga",
@@ -43,7 +46,8 @@
       "coverage": "all",
       "note": "Avtal till 2029",
       "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
-      "verified": null
+      "verified": null,
+      "about": "Viaplay visar Bundesliga i Sverige, med avtal till 2029."
     },
     "PD": {
       "name": "La Liga",
@@ -53,7 +57,8 @@
       "coverage": "all",
       "note": "Sänds under ESPN-varumärket i Disney+, 2026/27–2029/30",
       "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
-      "verified": null
+      "verified": null,
+      "about": "Disney+ visar La Liga under ESPN-namnet, säsongerna 2026/27 till 2029/30."
     },
     "FL1": {
       "name": "Ligue 1",
@@ -63,7 +68,8 @@
       "coverage": "all",
       "note": "Exklusivt i Norden t.o.m. 2028/29, alla matcher i streamingtjänsten (Live Soccer TV). En guide anger SportExpressen Play – avvikande.",
       "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
-      "verified": null
+      "verified": null,
+      "about": "Viaplay har Ligue 1 exklusivt i Norden till och med 2028/29, med alla matcher i streamingtjänsten."
     },
     "DED": {
       "name": "Eredivisie",
@@ -73,7 +79,8 @@
       "coverage": "all",
       "note": "Viaplay, alla matcher (Cybernews, speltipssidan, bredbandsval). tv-app.se anger Mola men är äldre.",
       "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
-      "verified": null
+      "verified": null,
+      "about": "Viaplay visar alla matcher i Eredivisie."
     },
     "CL": {
       "name": "Champions League",
@@ -83,7 +90,8 @@
       "coverage": "all",
       "note": "Viaplay sänder alla matcher 2026/27, sista säsongen. Disney+ tar över 2027/28.",
       "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-      "verified": null
+      "verified": null,
+      "about": "Viaplay visar alla matcher säsongen 2026/27, den sista säsongen med Viaplay. Från 2027/28 tar Disney+ över."
     },
     "PPL": {
       "name": "Primeira Liga",
@@ -94,7 +102,8 @@
       "note": "TV4 Play visar tre utvalda matcher per omgång 2026/27 (Fotbollskanalen, hurbra, tvmatchen).",
       "source": "https://www.fotbollskanalen.se/artiklar/primeira-liga/se-den-portugisiska-ligan-pa-tv4-play---premiar-i-helgen",
       "verified": null,
-      "per_round": 3
+      "per_round": 3,
+      "about": "TV4 Play visar tre utvalda matcher per omgång. Vilka det blir kontrolleras inför varje omgång; övriga matcher sänds inte i Sverige."
     },
     "BSA": {
       "name": "Brasileirão",
@@ -102,7 +111,8 @@
       "coverage": "unknown",
       "note": "Ingen svensk rättighetshavare hittad.",
       "source": null,
-      "verified": null
+      "verified": null,
+      "about": "Vi har inte hittat någon svensk kanal eller streamingtjänst som visar Brasileirão. Hittar vi en uppdateras sidan."
     },
     "NHL": {
       "name": "NHL",
@@ -117,7 +127,9 @@
       "verified": null,
       "default": "Viaplay",
       "exceptions_known_until": "2026-10-31",
-      "disney_list": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/"
+      "disney_list": "https://vmhockey.se/klart-har-ar-de-forsta-nhl-matcherna-som-visas-pa-disney/",
+      "about": "Viaplay visar minst 900 matcher i grundserien. Disney+ har 160 exklusiva matcher per säsong från 2026/27, som bara går där. Disney+ släpper sina matcher en period i taget – innan dess står matchen som \"Ej bekräftat\"."
     }
-  }
+  },
+  "_info_about": "about = kort offentlig text på ligasidan (patv.se/liga/...). Skriv bara det som källorna i note/source säger."
 }

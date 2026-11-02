@@ -4,6 +4,7 @@ Läser docs/data/swedes-on-tv.json (från build.py) och skriver:
 - docs/index.html: startsidan med dagens matcher redan i HTML:en
 - docs/spelare/<namn>/: en sida per svensk spelare
 - docs/lag/<namn>/: en sida per lag med svenskar
+- docs/liga/<namn>/: en sida per liga – vem som visar den i Sverige och veckans matcher
 - docs/sitemap.xml och docs/robots.txt
 Sidorna finns kvar även när spelaren inte har någon match, så att adresser som
 Google redan känner till inte försvinner. lastmod i sitemap ändras bara när
@@ -100,6 +101,15 @@ def rights_sentence(competition):
     if r.get("coverage") == "selected" and r.get("per_round"):
         return f"{services[0]} visar {r['per_round']} utvalda matcher per omgång i {competition}."
     return f"{competition} visas delvis på {' och '.join(services)} i Sverige."
+
+
+def league_slug(competition):
+    return slugify(competition)
+
+
+def league_links(competitions, prefix):
+    known = {v.get("name") for v in RIGHTS.values() if isinstance(v, dict)}
+    return [f'<a href="{prefix}liga/{league_slug(c)}/">{esc(c)} på TV</a>' for c in competitions if c in known]
 
 
 def where_to_watch(subject, competitions, extra=""):
@@ -281,6 +291,7 @@ def render_player(slug, entry, events, updated):
         links.append(f'<a href="{esc(entry["wiki"])}" rel="noopener" target="_blank">Om {esc(name)} på Wikipedia</a>')
     if team_slug:
         links.append(f'<a href="../../{esc(team_slug)}">{esc(team)} på TV</a>')
+    links += league_links(entry.get("competitions", []), "../../")
     write(DOCS / "spelare" / slug / "index.html", page_html(
         title=f"{name} på TV – nästa match och kanal | {SITE['name']}",
         description=description, path=f"spelare/{slug}/", h1=f"{name} på TV",
@@ -305,8 +316,41 @@ def render_team(slug, entry, events, updated):
     write(DOCS / "lag" / slug / "index.html", page_html(
         title=f"{name} på TV – matcher och kanal | {SITE['name']}",
         description=description, path=f"lag/{slug}/", h1=f"{name} på TV",
-        lede=lede, events=mine, links="", updated=updated,
+        lede=lede, events=mine, links=" · ".join(league_links(entry.get("competitions", []), "../../")),
+        updated=updated,
         watch=where_to_watch(name, entry.get("competitions", []))))
+
+
+def render_league(r, events, registry, updated):
+    name, slug = r["name"], league_slug(r["name"])
+    mine = [e for e in events if e["competition"] == name]
+    rights = rights_sentence(name)
+    count = f"{len(mine)} matcher med svenskar de närmaste sju dagarna." if mine else \
+        "Inga matcher med svenskar de närmaste sju dagarna."
+    lede = f"{esc(rights)} {esc(count)}"
+    players = sorted(((e["name"], s) for s, e in registry["players"].items() if name in e.get("competitions", [])),
+                     key=lambda x: x[0])
+    teams = sorted(((e["name"], s) for s, e in registry["teams"].items() if name in e.get("competitions", [])),
+                   key=lambda x: x[0])
+    parts = [f'<section class="watch"><h2>Vem visar {esc(name)} i Sverige?</h2>'
+             f'<p>{esc(r.get("about") or rights)}'
+             + (f' <a href="{esc(r["source"])}" rel="noopener" target="_blank">Källa</a>.' if r.get("source") else "")
+             + "</p></section>"]
+    if players:
+        parts.append(f'<section class="watch"><h2>Svenskar i {esc(name)}</h2><p class="players">'
+                     + ", ".join(f'<a href="../../spelare/{s}/">{esc(n)}</a>' for n, s in players) + "</p></section>")
+    if teams:
+        parts.append(f'<section class="watch"><h2>Lagen</h2><p class="players">'
+                     + ", ".join(f'<a href="../../lag/{s}/">{esc(n)}</a>' for n, s in teams) + "</p></section>")
+    description = f"{rights} Tider och kanal för veckans matcher med svenskar i {name}."
+    write(DOCS / "liga" / slug / "index.html", page_html(
+        title=f"{name} på TV i Sverige – kanal, tider och svenskarna | {SITE['name']}",
+        description=description, path=f"liga/{slug}/", h1=f"{name} på TV",
+        lede=lede, events=mine, links="", updated=updated, watch="\n    ".join(parts)))
+
+
+def leagues():
+    return [r for r in RIGHTS.values() if isinstance(r, dict) and r.get("name")]
 
 
 def render_index(events, registry, updated):
@@ -331,6 +375,8 @@ def render_index(events, registry, updated):
                                     "url": SITE["base_url"] + "/", "inLanguage": "sv-SE"}),
         "{{LIST}}": "".join(event_html(e) for e in first),
         "{{PLAYER_LINKS}}": links,
+        "{{LEAGUE_LINKS}}": ", ".join(f'<a href="liga/{league_slug(r["name"])}/">{esc(r["name"])}</a>'
+                                      for r in leagues()),
         "{{UPDATED}}": esc(updated),
     }.items():
         page = page.replace(key, value)
@@ -339,7 +385,8 @@ def render_index(events, registry, updated):
 
 def render_sitemap(registry, today):
     base = SITE["base_url"]
-    paths = [""] + [f"spelare/{s}/" for s in sorted(registry["players"])] \
+    paths = [""] + [f"liga/{league_slug(r['name'])}/" for r in leagues()] \
+        + [f"spelare/{s}/" for s in sorted(registry["players"])] \
         + [f"lag/{s}/" for s in sorted(registry["teams"])]
     known = registry.setdefault("lastmod", {})
     for path in paths:
@@ -373,13 +420,16 @@ def main(now=None):
         render_player(slug, entry, events, updated)
     for slug, entry in registry["teams"].items():
         render_team(slug, entry, events, updated)
+    for r in leagues():
+        render_league(r, events, registry, updated)
     render_index(events, registry, updated)
     count = render_sitemap(registry, today)
 
     DATA_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n")  # nu med sidadresser
     REGISTRY_FILE.parent.mkdir(parents=True, exist_ok=True)
     REGISTRY_FILE.write_text(json.dumps(registry, ensure_ascii=False, indent=1, sort_keys=True) + "\n")
-    print(f'{len(registry["players"])} spelarsidor, {len(registry["teams"])} lagsidor, {count} adresser i sitemap')
+    print(f'{len(registry["players"])} spelarsidor, {len(registry["teams"])} lagsidor, '
+          f'{len(leagues())} ligasidor, {count} adresser i sitemap')
 
 
 if __name__ == "__main__":
