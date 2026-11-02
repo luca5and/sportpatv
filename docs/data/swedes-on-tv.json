@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T15:46+00:00",
+ "generated": "2026-11-02T15:51+00:00",
  "events": [
   {
    "id": "558541",
@@ -111,7 +111,7 @@
    "title": "Gil Vicente – Vitória SC",
    "swedes": [
     {
-     "name": "Andre Picornell",
+     "name": "André Picornell",
      "team": "Gil Vicente",
      "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Picornell",
      "page": "spelare/andre-picornell/"
@@ -243,7 +243,7 @@
      "page": "spelare/gustav-forsling/"
     },
     {
-     "name": "Jacob Markstrom",
+     "name": "Jacob Markström",
      "team": "Panthers",
      "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
      "page": "spelare/jacob-markstrom/"
@@ -317,7 +317,7 @@
      "page": "spelare/anton-frondell/"
     },
     {
-     "name": "Arvid Soderblom",
+     "name": "Arvid Söderblom",
      "team": "Blackhawks",
      "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom",
      "page": "spelare/arvid-soderblom/"
@@ -411,7 +411,7 @@
    "title": "Galatasaray – Stuttgart",
    "swedes": [
     {
-     "name": "Deniz Gul",
+     "name": "Deniz Gül",
      "team": "Galatasaray",
      "url": "https://sv.wikipedia.org/wiki/Deniz_G%C3%BCl",
      "page": "spelare/deniz-gul/"
@@ -615,7 +615,7 @@
      "page": "spelare/roony-bardghji/"
     },
     {
-     "name": "Victor Nilsson-Lindelöf",
+     "name": "Victor Nilsson Lindelöf",
      "team": "Aston Villa",
      "url": "https://sv.wikipedia.org/wiki/Victor_Nilsson_Lindel%C3%B6f",
      "page": "spelare/victor-nilsson-lindelof/"
@@ -685,7 +685,7 @@
    "title": "Montréal Canadiens – Winnipeg Jets",
    "swedes": [
     {
-     "name": "Adam Engstrom",
+     "name": "Adam Engström",
      "team": "Canadiens",
      "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
      "page": "spelare/adam-engstrom/"
@@ -703,7 +703,7 @@
      "page": "spelare/elias-salomonsson/"
     },
     {
-     "name": "Isak Rosen",
+     "name": "Isak Rosén",
      "team": "Jets",
      "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
      "page": "spelare/isak-rosen/"
@@ -847,7 +847,7 @@
    "title": "Pittsburgh Penguins – Vegas Golden Knights",
    "swedes": [
     {
-     "name": "Elmer Soderblom",
+     "name": "Elmer Söderblom",
      "team": "Penguins",
      "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom",
      "page": "spelare/elmer-soderblom/"
@@ -989,7 +989,7 @@
    "title": "Toronto Maple Leafs – Utah Mammoth",
    "swedes": [
     {
-     "name": "Oliver Ekman-Larsson",
+     "name": "Oliver Ekman Larsson",
      "team": "Maple Leafs",
      "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson",
      "page": "spelare/oliver-ekman-larsson/"
@@ -1127,7 +1127,7 @@
      "page": "spelare/jesper-bratt/"
     },
     {
-     "name": "Filip Hallander",
+     "name": "Filip Hållander",
      "team": "Oilers",
      "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
      "page": "spelare/filip-hallander/"
@@ -1171,7 +1171,7 @@
    "title": "Nashville Predators – Carolina Hurricanes",
    "swedes": [
     {
-     "name": "Adam Edstrom",
+     "name": "Adam Edström",
      "team": "Predators",
      "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
      "page": "spelare/adam-edstrom/"
@@ -1189,7 +1189,7 @@
      "page": "spelare/filip-forsberg/"
     },
     {
-     "name": "Nils Hoglander",
+     "name": "Nils Höglander",
      "team": "Predators",
      "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
      "page": "spelare/nils-hoglander/"
@@ -1239,7 +1239,7 @@
      "page": "spelare/jonathan-lekkerimaki/"
     },
     {
-     "name": "Liam Ohgren",
+     "name": "Liam Öhgren",
      "team": "Canucks",
      "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
      "page": "spelare/liam-ohgren/"
@@ -1449,7 +1449,7 @@
    "title": "Buffalo Sabres – Ottawa Senators",
    "swedes": [
     {
-     "name": "Noah Ostlund",
+     "name": "Noah Östlund",
      "team": "Sabres",
      "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
      "page": "spelare/noah-ostlund/"
@@ -1461,7 +1461,7 @@
      "page": "spelare/rasmus-dahlin/"
     },
     {
-     "name": "Andre Burakovsky",
+     "name": "André Burakovsky",
      "team": "Senators",
      "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky",
      "page": "spelare/andre-burakovsky/"
@@ -1529,7 +1529,7 @@
      "page": "spelare/gustav-forsling/"
     },
     {
-     "name": "Jacob Markstrom",
+     "name": "Jacob Markström",
      "team": "Panthers",
      "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
      "page": "spelare/jacob-markstrom/"
@@ -1541,7 +1541,7 @@
      "page": "spelare/anton-frondell/"
     },
     {
-     "name": "Arvid Soderblom",
+     "name": "Arvid Söderblom",
      "team": "Blackhawks",
      "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom",
      "page": "spelare/arvid-soderblom/"
@@ -1809,7 +1809,7 @@
    "title": "Montréal Canadiens – Utah Mammoth",
    "swedes": [
     {
-     "name": "Adam Engstrom",
+     "name": "Adam Engström",
      "team": "Canadiens",
      "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
      "page": "spelare/adam-engstrom/"
@@ -1915,7 +1915,7 @@
      "page": "spelare/emil-heineman/"
     },
     {
-     "name": "Simon Holmstrom",
+     "name": "Simon Holmström",
      "team": "Islanders",
      "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m",
      "page": "spelare/simon-holmstrom/"
@@ -1991,7 +1991,7 @@
    "title": "Pittsburgh Penguins – Boston Bruins",
    "swedes": [
     {
-     "name": "Elmer Soderblom",
+     "name": "Elmer Söderblom",
      "team": "Penguins",
      "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom",
      "page": "spelare/elmer-soderblom/"
@@ -2071,7 +2071,7 @@
      "page": "spelare/anton-frondell/"
     },
     {
-     "name": "Arvid Soderblom",
+     "name": "Arvid Söderblom",
      "team": "Blackhawks",
      "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom",
      "page": "spelare/arvid-soderblom/"
@@ -2109,7 +2109,7 @@
      "page": "spelare/elias-salomonsson/"
     },
     {
-     "name": "Isak Rosen",
+     "name": "Isak Rosén",
      "team": "Jets",
      "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
      "page": "spelare/isak-rosen/"
@@ -2139,7 +2139,7 @@
      "page": "spelare/jonathan-lekkerimaki/"
     },
     {
-     "name": "Liam Ohgren",
+     "name": "Liam Öhgren",
      "team": "Canucks",
      "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
      "page": "spelare/liam-ohgren/"
@@ -2183,7 +2183,7 @@
    "title": "Edmonton Oilers – Anaheim Ducks",
    "swedes": [
     {
-     "name": "Filip Hallander",
+     "name": "Filip Hållander",
      "team": "Oilers",
      "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
      "page": "spelare/filip-hallander/"
@@ -2239,7 +2239,7 @@
      "page": "spelare/gabriel-landeskog/"
     },
     {
-     "name": "Adam Edstrom",
+     "name": "Adam Edström",
      "team": "Predators",
      "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
      "page": "spelare/adam-edstrom/"
@@ -2257,7 +2257,7 @@
      "page": "spelare/filip-forsberg/"
     },
     {
-     "name": "Nils Hoglander",
+     "name": "Nils Höglander",
      "team": "Predators",
      "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
      "page": "spelare/nils-hoglander/"
@@ -2467,7 +2467,7 @@
    "title": "Buffalo Sabres – Columbus Blue Jackets",
    "swedes": [
     {
-     "name": "Noah Ostlund",
+     "name": "Noah Östlund",
      "team": "Sabres",
      "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
      "page": "spelare/noah-ostlund/"
@@ -3111,7 +3111,7 @@
      "page": "spelare/gustav-forsling/"
     },
     {
-     "name": "Jacob Markstrom",
+     "name": "Jacob Markström",
      "team": "Panthers",
      "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
      "page": "spelare/jacob-markstrom/"
@@ -3143,7 +3143,7 @@
    "title": "Nashville Predators – St. Louis Blues",
    "swedes": [
     {
-     "name": "Adam Edstrom",
+     "name": "Adam Edström",
      "team": "Predators",
      "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
      "page": "spelare/adam-edstrom/"
@@ -3161,7 +3161,7 @@
      "page": "spelare/filip-forsberg/"
     },
     {
-     "name": "Nils Hoglander",
+     "name": "Nils Höglander",
      "team": "Predators",
      "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
      "page": "spelare/nils-hoglander/"
@@ -3305,7 +3305,7 @@
      "page": "spelare/emil-heineman/"
     },
     {
-     "name": "Simon Holmstrom",
+     "name": "Simon Holmström",
      "team": "Islanders",
      "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m",
      "page": "spelare/simon-holmstrom/"
@@ -3355,7 +3355,7 @@
    "title": "Ottawa Senators – Utah Mammoth",
    "swedes": [
     {
-     "name": "Andre Burakovsky",
+     "name": "André Burakovsky",
      "team": "Senators",
      "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky",
      "page": "spelare/andre-burakovsky/"
@@ -3423,7 +3423,7 @@
    "title": "Toronto Maple Leafs – Montréal Canadiens",
    "swedes": [
     {
-     "name": "Oliver Ekman-Larsson",
+     "name": "Oliver Ekman Larsson",
      "team": "Maple Leafs",
      "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson",
      "page": "spelare/oliver-ekman-larsson/"
@@ -3435,7 +3435,7 @@
      "page": "spelare/william-nylander/"
     },
     {
-     "name": "Adam Engstrom",
+     "name": "Adam Engström",
      "team": "Canadiens",
      "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
      "page": "spelare/adam-engstrom/"
@@ -3479,7 +3479,7 @@
      "page": "spelare/anton-frondell/"
     },
     {
-     "name": "Arvid Soderblom",
+     "name": "Arvid Söderblom",
      "team": "Blackhawks",
      "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom",
      "page": "spelare/arvid-soderblom/"
@@ -3727,7 +3727,7 @@
      "page": "spelare/erik-gustafsson/"
     },
     {
-     "name": "Elmer Soderblom",
+     "name": "Elmer Söderblom",
      "team": "Penguins",
      "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom",
      "page": "spelare/elmer-soderblom/"
@@ -3771,7 +3771,7 @@
    "title": "Edmonton Oilers – Vancouver Canucks",
    "swedes": [
     {
-     "name": "Filip Hallander",
+     "name": "Filip Hållander",
      "team": "Oilers",
      "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
      "page": "spelare/filip-hallander/"
@@ -3807,7 +3807,7 @@
      "page": "spelare/jonathan-lekkerimaki/"
     },
     {
-     "name": "Liam Ohgren",
+     "name": "Liam Öhgren",
      "team": "Canucks",
      "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
      "page": "spelare/liam-ohgren/"
@@ -4017,7 +4017,7 @@
    "title": "Santa Clara – Gil Vicente",
    "swedes": [
     {
-     "name": "Andre Picornell",
+     "name": "André Picornell",
      "team": "Gil Vicente",
      "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Picornell",
      "page": "spelare/andre-picornell/"
@@ -4055,7 +4055,7 @@
      "page": "spelare/alvin-nordin/"
     },
     {
-     "name": "Elvis Van Der Laan",
+     "name": "Elvis van der Laan",
      "team": "Groningen",
      "url": "https://sv.wikipedia.org/wiki/Elvis_van_der_Laan",
      "page": "spelare/elvis-van-der-laan/"
@@ -4131,7 +4131,7 @@
    "title": "Man United – Aston Villa",
    "swedes": [
     {
-     "name": "Victor Nilsson-Lindelöf",
+     "name": "Victor Nilsson Lindelöf",
      "team": "Aston Villa",
      "url": "https://sv.wikipedia.org/wiki/Victor_Nilsson_Lindel%C3%B6f",
      "page": "spelare/victor-nilsson-lindelof/"
@@ -4251,7 +4251,7 @@
      "page": "spelare/gustav-forsling/"
     },
     {
-     "name": "Jacob Markstrom",
+     "name": "Jacob Markström",
      "team": "Panthers",
      "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
      "page": "spelare/jacob-markstrom/"
@@ -4411,7 +4411,7 @@
    "title": "Buffalo Sabres – Vegas Golden Knights",
    "swedes": [
     {
-     "name": "Noah Ostlund",
+     "name": "Noah Östlund",
      "team": "Sabres",
      "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
      "page": "spelare/noah-ostlund/"
@@ -4505,7 +4505,7 @@
      "page": "spelare/elias-salomonsson/"
     },
     {
-     "name": "Isak Rosen",
+     "name": "Isak Rosén",
      "team": "Jets",
      "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
      "page": "spelare/isak-rosen/"
@@ -4599,7 +4599,7 @@
    "title": "Toronto Maple Leafs – New Jersey Devils",
    "swedes": [
     {
-     "name": "Oliver Ekman-Larsson",
+     "name": "Oliver Ekman Larsson",
      "team": "Maple Leafs",
      "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson",
      "page": "spelare/oliver-ekman-larsson/"
@@ -4655,7 +4655,7 @@
      "page": "spelare/leo-carlsson/"
     },
     {
-     "name": "Elmer Soderblom",
+     "name": "Elmer Söderblom",
      "team": "Penguins",
      "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom",
      "page": "spelare/elmer-soderblom/"

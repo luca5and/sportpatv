@@ -5,15 +5,17 @@ Läser docs/data/swedes-on-tv.json (från build.py) och skriver:
 - docs/spelare/<namn>/: en sida per svensk spelare
 - docs/lag/<namn>/: en sida per lag med svenskar
 - docs/sitemap.xml och docs/robots.txt
-Sidorna finns kvar 60 dagar efter att spelaren senast hade en match, så att
-adresserna inte försvinner mellan veckorna.
+Sidorna finns kvar även när spelaren inte har någon match, så att adresser som
+Google redan känner till inte försvinner. lastmod i sitemap ändras bara när
+sidans innehåll ändras.
 """
 import datetime as dt
+import hashlib
 import html
 import json
 import re
-import shutil
 import unicodedata
+import urllib.parse
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -23,10 +25,10 @@ DATA_FILE = DOCS / "data" / "swedes-on-tv.json"
 REGISTRY_FILE = ROOT / "data" / "generated" / "pages.json"
 TEMPLATE = ROOT / "templates" / "index.html"
 SITE = json.loads((ROOT / "data" / "site.json").read_text())
+RIGHTS = json.loads((ROOT / "data" / "broadcasters.json").read_text()).get("competitions", {})
 
 TZ = ZoneInfo("Europe/Stockholm")
 NIGHT_END = 6       # matcher före 06:00 hör till kvällen innan
-KEEP_DAYS = 60      # så länge en sida finns kvar utan matcher
 WEEKDAYS = ["mån", "tis", "ons", "tors", "fre", "lör", "sön"]
 MONTHS = ["jan", "feb", "mars", "apr", "maj", "juni", "juli", "aug", "sep", "okt", "nov", "dec"]
 TV_TEXT = {"none": "Sänds inte i Sverige", "unknown": "Ej bekräftat"}
@@ -69,6 +71,48 @@ def teams_of(event):
     return event["title"].split(" – ", 1)
 
 
+def wiki_name(name, url):
+    """Wikipedias stavning när den bara skiljer sig i å/ä/ö och accenter.
+
+    NHL:s data saknar svenska tecken (Adam Edstrom), men folk söker på Adam Edström."""
+    if not url or "/wiki/" not in url:
+        return name
+    title = urllib.parse.unquote(url.rsplit("/wiki/", 1)[1]).replace("_", " ")
+    title = re.sub(r"\s*\([^)]*\)$", "", title).strip()
+    return title if title and slugify(title) == slugify(name) else name
+
+
+def rights_sentence(competition):
+    """En mening om vem som visar turneringen i Sverige, från data/broadcasters.json."""
+    r = next((v for v in RIGHTS.values() if isinstance(v, dict) and v.get("name") == competition), None)
+    if not r or not r.get("services"):
+        return f"Vi har inte hittat någon svensk kanal som visar {competition}."
+    services = r["services"]
+    if r.get("coverage") == "all":
+        return f"{competition} visas på {' och '.join(services)} i Sverige."
+    if r.get("coverage") == "split" and r.get("per_round_exception"):
+        return (f"{competition} visas på {r['default']} i Sverige, utom en match per omgång "
+                f"som bara går på {r['per_round_exception']}.")
+    if r.get("coverage") == "split":
+        other = [x for x in services if x != r.get("default")]
+        return (f"{competition} visas på {r.get('default') or services[0]} i Sverige, "
+                f"men vissa matcher går bara på {' och '.join(other)}.")
+    if r.get("coverage") == "selected" and r.get("per_round"):
+        return f"{services[0]} visar {r['per_round']} utvalda matcher per omgång i {competition}."
+    return f"{competition} visas delvis på {' och '.join(services)} i Sverige."
+
+
+def where_to_watch(subject, competitions, extra=""):
+    """Text som alltid finns på sidan, även när det inte är någon match i veckan."""
+    sentences = [rights_sentence(c) for c in competitions]
+    if not sentences:
+        return ""
+    return (f'<section class="watch"><h2>Var kan man se {esc(subject)} på TV?</h2>'
+            f'<p>{esc(extra)}{esc(" ".join(sentences))} '
+            f'Tiderna här är svensk tid och kanalen kontrolleras mot flera källor. '
+            f'Står det "Ej bekräftat" vet vi inte säkert än.</p></section>')
+
+
 # --- adresser -------------------------------------------------------------
 
 def assign_pages(events, registry, today):
@@ -93,19 +137,25 @@ def assign_pages(events, registry, today):
         for name in teams_of(e):
             slug = claim(teams, f'{e["sport"]}|{name}', slugify(name), e["sport"])
             teams[slug].update({"name": name, "sport": e["sport"], "last_seen": today})
+            add_competition(teams[slug], e["competition"])
             e["teams"].append({"name": name, "page": f"lag/{slug}/"})
         for s in e["swedes"]:
+            s["name"] = wiki_name(s["name"], s.get("url"))
             key = s.get("url") or f'{s["name"]}|{s["team"]}'
             slug = claim(players, key, slugify(s["name"]), s["team"])
             players[slug].update({"name": s["name"], "team": s["team"], "sport": e["sport"],
                                   "wiki": s.get("url"), "last_seen": today})
+            add_competition(players[slug], e["competition"])
+            full = next((t for t in e["teams"] if s["team"] and s["team"] in t["name"]), None)
+            if full:  # NHL ger bara "Predators"; spara "Nashville Predators" och lagsidan
+                players[slug].update({"team_full": full["name"], "team_page": full["page"]})
             s["page"] = f"spelare/{slug}/"
 
-    cutoff = (dt.date.fromisoformat(today) - dt.timedelta(days=KEEP_DAYS)).isoformat()
-    for kind, table in (("spelare", players), ("lag", teams)):
-        for slug in [s for s, e in table.items() if e.get("last_seen", today) < cutoff]:
-            del table[slug]
-            shutil.rmtree(DOCS / kind / slug, ignore_errors=True)
+
+def add_competition(entry, competition):
+    comps = entry.setdefault("competitions", [])
+    if competition not in comps:
+        comps.append(competition)
 
 
 # --- HTML -----------------------------------------------------------------
@@ -146,7 +196,7 @@ def json_ld(data):
     return json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
 
 
-def page_html(*, title, description, path, h1, lede, events, links, updated):
+def page_html(*, title, description, path, h1, lede, events, links, updated, watch=""):
     prefix = "../../"
     items = "".join(event_html(e, prefix, show_day=True) for e in events) or '<li class="empty-row">Inga matcher de närmaste sju dagarna.</li>'
     ld = {"@context": "https://schema.org", "@type": "ItemList",
@@ -167,7 +217,10 @@ def page_html(*, title, description, path, h1, lede, events, links, updated):
   <meta property="og:title" content="{esc(h1)}">
   <meta property="og:description" content="{esc(description)}">
   <meta property="og:url" content="{esc(url)}">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📺</text></svg>">
+  <meta property="og:image" content="{esc(SITE["base_url"])}/og.png">
+  <link rel="icon" href="{prefix}favicon.ico" sizes="32x32">
+  <link rel="icon" href="{prefix}icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="{prefix}apple-touch-icon.png">
   <link rel="stylesheet" href="{prefix}style.css">
   <script type="application/ld+json">{json_ld(ld)}</script>
 </head>
@@ -177,7 +230,7 @@ def page_html(*, title, description, path, h1, lede, events, links, updated):
       <a class="logo" href="{prefix}">på<span>TV</span><small>Svenskarna i sporten</small></a>
       <nav class="tabs" aria-label="Flikar">
         <a class="tab" href="{prefix}">🇸🇪 Svenskarna</a>
-        <a class="coffee" href="{esc(SITE["coffee_url"])}" rel="noopener" target="_blank">☕ Bjud på kaffe</a>
+        <a class="coffee" href="{esc(SITE["coffee_url"])}" rel="noopener" target="_blank" aria-label="Bjud på kaffe">☕<span class="txt"> Bjud på kaffe</span></a>
       </nav>
     </div>
   </header>
@@ -186,6 +239,7 @@ def page_html(*, title, description, path, h1, lede, events, links, updated):
     <h1 class="intro">{esc(h1)}</h1>
     <p class="lede">{lede}</p>
     <ol class="list">{items}</ol>
+    {watch}
     <p class="links">{links}</p>
   </main>
   <footer class="wrap foot">
@@ -198,13 +252,20 @@ def page_html(*, title, description, path, h1, lede, events, links, updated):
 """
 
 
+PAGE_HASHES = {}   # adress -> hash av innehållet utan "Uppdaterad ..."-raden
+
+
 def write(path, text):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(text)
+    if path.name == "index.html":
+        url_path = path.parent.relative_to(DOCS).as_posix()
+        stable = re.sub(r"Uppdaterad [^<]*", "", text)
+        PAGE_HASHES["" if url_path == "." else url_path + "/"] = hashlib.sha1(stable.encode()).hexdigest()
 
 
 def render_player(slug, entry, events, updated):
-    name, team = entry["name"], entry["team"]
+    name, team = entry["name"], entry.get("team_full") or entry["team"]
     mine = [e for e in events if any(s.get("page") == f"spelare/{slug}/" for s in e["swedes"])]
     if mine:
         e = mine[0]
@@ -214,7 +275,7 @@ def render_player(slug, entry, events, updated):
     else:
         lede = f"{esc(name)} ({esc(team)}) har ingen match på TV de närmaste sju dagarna."
         description = f"Var du ser {name} ({team}) på TV i Sverige. Inga matcher de närmaste sju dagarna."
-    team_slug = next((t["page"] for e in mine for t in e["teams"] if team in t["name"]), None)
+    team_slug = entry.get("team_page") or next((t["page"] for e in mine for t in e["teams"] if team in t["name"]), None)
     links = []
     if entry.get("wiki"):
         links.append(f'<a href="{esc(entry["wiki"])}" rel="noopener" target="_blank">Om {esc(name)} på Wikipedia</a>')
@@ -223,7 +284,8 @@ def render_player(slug, entry, events, updated):
     write(DOCS / "spelare" / slug / "index.html", page_html(
         title=f"{name} på TV – nästa match och kanal | {SITE['name']}",
         description=description, path=f"spelare/{slug}/", h1=f"{name} på TV",
-        lede=lede, events=mine, links=" · ".join(links), updated=updated))
+        lede=lede, events=mine, links=" · ".join(links), updated=updated,
+        watch=where_to_watch(name, entry.get("competitions", []), f"{name} spelar i {team}. ")))
 
 
 def render_team(slug, entry, events, updated):
@@ -243,7 +305,8 @@ def render_team(slug, entry, events, updated):
     write(DOCS / "lag" / slug / "index.html", page_html(
         title=f"{name} på TV – matcher och kanal | {SITE['name']}",
         description=description, path=f"lag/{slug}/", h1=f"{name} på TV",
-        lede=lede, events=mine, links="", updated=updated))
+        lede=lede, events=mine, links="", updated=updated,
+        watch=where_to_watch(name, entry.get("competitions", []))))
 
 
 def render_index(events, registry, updated):
@@ -263,6 +326,9 @@ def render_index(events, registry, updated):
         "{{BASE_URL}}": esc(SITE["base_url"]),
         "{{COFFEE_URL}}": esc(SITE["coffee_url"]),
         "{{JSONLD}}": json_ld(ld),
+        "{{SITE_JSONLD}}": json_ld({"@context": "https://schema.org", "@type": "WebSite",
+                                    "name": SITE["name"], "alternateName": ["patv.se", "Svenskar på TV"],
+                                    "url": SITE["base_url"] + "/", "inLanguage": "sv-SE"}),
         "{{LIST}}": "".join(event_html(e) for e in first),
         "{{PLAYER_LINKS}}": links,
         "{{UPDATED}}": esc(updated),
@@ -273,9 +339,16 @@ def render_index(events, registry, updated):
 
 def render_sitemap(registry, today):
     base = SITE["base_url"]
-    urls = [f"{base}/"] + [f"{base}/spelare/{s}/" for s in sorted(registry["players"])] \
-        + [f"{base}/lag/{s}/" for s in sorted(registry["teams"])]
-    body = "".join(f"  <url><loc>{esc(u)}</loc><lastmod>{today}</lastmod></url>\n" for u in urls)
+    paths = [""] + [f"spelare/{s}/" for s in sorted(registry["players"])] \
+        + [f"lag/{s}/" for s in sorted(registry["teams"])]
+    known = registry.setdefault("lastmod", {})
+    for path in paths:
+        h = PAGE_HASHES.get(path)
+        if h and known.get(path, {}).get("hash") != h:
+            known[path] = {"hash": h, "date": today}
+    body = "".join(f"  <url><loc>{esc(base + '/' + p)}</loc><lastmod>{known.get(p, {}).get('date', today)}</lastmod></url>\n"
+                   for p in paths)
+    urls = paths
     write(DOCS / "sitemap.xml",
           f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{body}</urlset>\n')
     write(DOCS / "robots.txt", f"User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\n")

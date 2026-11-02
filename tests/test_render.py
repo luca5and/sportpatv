@@ -47,10 +47,27 @@ class AssignPagesTest(unittest.TestCase):
         render.assign_pages(second, registry, "2026-10-10")
         self.assertEqual(second[1]["swedes"][0]["page"], "spelare/viktor-johansson/")
 
-    def test_old_pages_are_dropped_after_keep_days(self):
+    def test_old_pages_are_kept_for_google(self):
         registry = {"players": {"gammal": {"key": "k", "last_seen": "2026-01-01"}}, "teams": {}}
         render.assign_pages([], registry, "2026-10-09")
-        self.assertNotIn("gammal", registry["players"])
+        self.assertIn("gammal", registry["players"])
+
+    def test_nhl_names_get_swedish_letters_from_wikipedia(self):
+        events = [event("A – B", [{"name": "Adam Edstrom", "team": "Predators",
+                                   "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m"}])]
+        registry = {}
+        render.assign_pages(events, registry, "2026-10-10")
+        self.assertEqual(events[0]["swedes"][0]["name"], "Adam Edström")
+        self.assertEqual(events[0]["swedes"][0]["page"], "spelare/adam-edstrom/")
+        self.assertEqual(registry["players"]["adam-edstrom"]["competitions"], ["X"])
+
+    def test_wiki_name_only_when_same_letters(self):
+        self.assertEqual(render.wiki_name("Isak Rosen", "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n"), "Isak Rosén")
+        self.assertEqual(render.wiki_name("Elias Pettersson",
+                         "https://sv.wikipedia.org/wiki/Elias_Pettersson_(ishockeyspelare_f%C3%B6dd_1998)"),
+                         "Elias Pettersson")
+        self.assertEqual(render.wiki_name("Hugo Larsson", "https://sv.wikipedia.org/wiki/Hugo_Andersson"), "Hugo Larsson")
+        self.assertEqual(render.wiki_name("X", None), "X")
 
 
 class HtmlTest(unittest.TestCase):
@@ -65,3 +82,17 @@ class HtmlTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class RightsTest(unittest.TestCase):
+    def test_rights_sentences(self):
+        self.assertIn("Viaplay", render.rights_sentence("Premier League"))
+        self.assertIn("Prime Video", render.rights_sentence("Premier League"))
+        self.assertIn("Disney+", render.rights_sentence("NHL"))
+        self.assertIn("TV4 Play", render.rights_sentence("Serie A"))
+        self.assertIn("inte hittat", render.rights_sentence("Okänd liga"))
+
+    def test_where_to_watch_escapes(self):
+        out = render.where_to_watch("A <b>", ["Serie A"])
+        self.assertIn("A &lt;b&gt;", out)
+        self.assertEqual(render.where_to_watch("A", []), "")

@@ -109,3 +109,8 @@ a { color: var(--accent); }
 .about { max-width: 65ch; }
 .about p { margin: 10px 0 0; }
 .foot .coffee { margin-top: 4px; }
+
+.watch { max-width: 65ch; margin: 22px 0 0; }
+.watch h2 { font-size: 1.05rem; margin: 0 0 4px; letter-spacing: -0.01em; }
+.watch p { color: var(--muted); margin: 0; }
+@media (max-width: 420px) { .top .coffee .txt { display: none; } }

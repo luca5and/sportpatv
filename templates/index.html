@@ -12,9 +12,13 @@
   <meta property="og:title" content="Svenskar på TV idag">
   <meta property="og:description" content="{{DESCRIPTION}}">
   <meta property="og:url" content="{{BASE_URL}}/">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📺</text></svg>">
+  <meta property="og:image" content="{{BASE_URL}}/og.png">
+  <link rel="icon" href="favicon.ico" sizes="32x32">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="stylesheet" href="style.css">
   <script type="application/ld+json">{{JSONLD}}</script>
+  <script type="application/ld+json">{{SITE_JSONLD}}</script>
 </head>
 <body>
   <header class="top">
@@ -22,7 +26,7 @@
       <a class="logo" href="./">på<span>TV</span><small>Svenskarna i sporten</small></a>
       <nav class="tabs" aria-label="Flikar">
         <a class="tab active" href="./" aria-current="page">🇸🇪 Svenskarna</a>
-        <a class="coffee" href="{{COFFEE_URL}}" rel="noopener" target="_blank">☕ Bjud på kaffe</a>
+        <a class="coffee" href="{{COFFEE_URL}}" rel="noopener" target="_blank" aria-label="Bjud på kaffe">☕<span class="txt"> Bjud på kaffe</span></a>
       </nav>
     </div>
   </header>
