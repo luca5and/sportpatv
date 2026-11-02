@@ -41,7 +41,8 @@ a { color: var(--accent); }
 .top { background: var(--card); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 2; }
 .top .wrap { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 56px; flex-wrap: wrap; }
 .logo { font-size: 1.25rem; font-weight: 800; margin: 0; letter-spacing: -0.02em; color: var(--text); text-decoration: none; }
-.logo span { color: var(--accent); margin: 0 1px; }
+.logo span { color: var(--accent); margin-left: 1px; }
+.logo small { display: block; font-size: 0.72rem; font-weight: 500; letter-spacing: 0; color: var(--muted); margin-top: -2px; }
 .tabs { display: flex; gap: 4px; align-items: center; flex-wrap: wrap; }
 .tab { padding: 8px 12px; border-radius: 999px; text-decoration: none; color: var(--muted); font-weight: 600; font-size: 0.95rem; }
 .tab.active { background: var(--accent); color: var(--on-accent); }

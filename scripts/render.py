@@ -174,9 +174,9 @@ def page_html(*, title, description, path, h1, lede, events, links, updated):
 <body>
   <header class="top">
     <div class="wrap">
-      <a class="logo" href="{prefix}">Sport<span>på</span>TV</a>
+      <a class="logo" href="{prefix}">på<span>TV</span><small>Svenskarna i sporten</small></a>
       <nav class="tabs" aria-label="Flikar">
-        <a class="tab" href="{prefix}">🇸🇪 Svenskar på TV</a>
+        <a class="tab" href="{prefix}">🇸🇪 Svenskarna</a>
         <a class="coffee" href="{esc(SITE["coffee_url"])}" rel="noopener" target="_blank">☕ Bjud på kaffe</a>
       </nav>
     </div>
