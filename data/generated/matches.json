@@ -508,28 +508,6 @@
    }
   },
   {
-   "id": "575382",
-   "start": "2026-11-03T20:00:00Z",
-   "status": "TIMED",
-   "matchday": 4,
-   "competition": {
-    "code": "CL",
-    "name": "UEFA Champions League"
-   },
-   "home": {
-    "id": 94,
-    "name": "Villarreal CF",
-    "shortName": "Villarreal",
-    "tla": "VIL"
-   },
-   "away": {
-    "id": 524,
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG"
-   }
-  },
-  {
    "id": "575384",
    "start": "2026-11-03T20:00:00Z",
    "status": "TIMED",
@@ -571,6 +549,28 @@
     "name": "Aston Villa FC",
     "shortName": "Aston Villa",
     "tla": "AVL"
+   }
+  },
+  {
+   "id": "575382",
+   "start": "2026-11-03T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 4,
+   "competition": {
+    "code": "CL",
+    "name": "UEFA Champions League"
+   },
+   "home": {
+    "id": 94,
+    "name": "Villarreal CF",
+    "shortName": "Villarreal",
+    "tla": "VIL"
+   },
+   "away": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG"
    }
   },
   {
@@ -772,28 +772,6 @@
    }
   },
   {
-   "id": "575392",
-   "start": "2026-11-04T20:00:00Z",
-   "status": "TIMED",
-   "matchday": 4,
-   "competition": {
-    "code": "CL",
-    "name": "UEFA Champions League"
-   },
-   "home": {
-    "id": 503,
-    "name": "FC Porto",
-    "shortName": "Porto",
-    "tla": "FCP"
-   },
-   "away": {
-    "id": 113,
-    "name": "SSC Napoli",
-    "shortName": "Napoli",
-    "tla": "NAP"
-   }
-  },
-  {
    "id": "575388",
    "start": "2026-11-04T20:00:00Z",
    "status": "TIMED",
@@ -879,6 +857,28 @@
     "name": "Wolverhampton Wanderers FC",
     "shortName": "Wolverhampton",
     "tla": "WOL"
+   }
+  },
+  {
+   "id": "575392",
+   "start": "2026-11-04T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 4,
+   "competition": {
+    "code": "CL",
+    "name": "UEFA Champions League"
+   },
+   "home": {
+    "id": 503,
+    "name": "FC Porto",
+    "shortName": "Porto",
+    "tla": "FCP"
+   },
+   "away": {
+    "id": 113,
+    "name": "SSC Napoli",
+    "shortName": "Napoli",
+    "tla": "NAP"
    }
   },
   {
@@ -1454,28 +1454,6 @@
    }
   },
   {
-   "id": "561937",
-   "start": "2026-11-07T15:00:00Z",
-   "status": "TIMED",
-   "matchday": 15,
-   "competition": {
-    "code": "ELC",
-    "name": "Championship"
-   },
-   "home": {
-    "id": 1081,
-    "name": "Preston North End FC",
-    "shortName": "Preston NE",
-    "tla": "PNE"
-   },
-   "away": {
-    "id": 340,
-    "name": "Southampton FC",
-    "shortName": "Southampton",
-    "tla": "SOU"
-   }
-  },
-  {
    "id": "561929",
    "start": "2026-11-07T15:00:00Z",
    "status": "TIMED",
@@ -1561,6 +1539,28 @@
     "name": "Newcastle United FC",
     "shortName": "Newcastle",
     "tla": "NEW"
+   }
+  },
+  {
+   "id": "561937",
+   "start": "2026-11-07T15:00:00Z",
+   "status": "TIMED",
+   "matchday": 15,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 1081,
+    "name": "Preston North End FC",
+    "shortName": "Preston NE",
+    "tla": "PNE"
+   },
+   "away": {
+    "id": 340,
+    "name": "Southampton FC",
+    "shortName": "Southampton",
+    "tla": "SOU"
    }
   },
   {
@@ -1806,28 +1806,6 @@
    }
   },
   {
-   "id": "564739",
-   "start": "2026-11-07T17:30:00Z",
-   "status": "TIMED",
-   "matchday": 12,
-   "competition": {
-    "code": "PD",
-    "name": "Primera Division"
-   },
-   "home": {
-    "id": 79,
-    "name": "CA Osasuna",
-    "shortName": "Osasuna",
-    "tla": "OSA"
-   },
-   "away": {
-    "id": 77,
-    "name": "Athletic Club",
-    "shortName": "Athletic",
-    "tla": "ATH"
-   }
-  },
-  {
    "id": "565849",
    "start": "2026-11-07T17:30:00Z",
    "status": "TIMED",
@@ -1847,6 +1825,28 @@
     "name": "SV Werder Bremen",
     "shortName": "Bremen",
     "tla": "SVW"
+   }
+  },
+  {
+   "id": "564739",
+   "start": "2026-11-07T17:30:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "PD",
+    "name": "Primera Division"
+   },
+   "home": {
+    "id": 79,
+    "name": "CA Osasuna",
+    "shortName": "Osasuna",
+    "tla": "OSA"
+   },
+   "away": {
+    "id": 77,
+    "name": "Athletic Club",
+    "shortName": "Athletic",
+    "tla": "ATH"
    }
   },
   {
