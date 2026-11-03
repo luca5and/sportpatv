@@ -2,70 +2,6 @@
  "games": [
   {
    "away": {
-    "abbrev": "VGK",
-    "name": "Vegas Golden Knights",
-    "short": "Golden Knights"
-   },
-   "home": {
-    "abbrev": "BOS",
-    "name": "Boston Bruins",
-    "short": "Bruins"
-   },
-   "id": "2026020232",
-   "start": "2026-11-03T00:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "DET",
-    "name": "Detroit Red Wings",
-    "short": "Red Wings"
-   },
-   "home": {
-    "abbrev": "FLA",
-    "name": "Florida Panthers",
-    "short": "Panthers"
-   },
-   "id": "2026020233",
-   "start": "2026-11-03T00:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "COL",
-    "name": "Colorado Avalanche",
-    "short": "Avalanche"
-   },
-   "home": {
-    "abbrev": "CHI",
-    "name": "Chicago Blackhawks",
-    "short": "Blackhawks"
-   },
-   "id": "2026020234",
-   "start": "2026-11-03T01:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "CGY",
-    "name": "Calgary Flames",
-    "short": "Flames"
-   },
-   "home": {
-    "abbrev": "SJS",
-    "name": "San Jose Sharks",
-    "short": "Sharks"
-   },
-   "id": "2026020235",
-   "start": "2026-11-03T02:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
     "abbrev": "UTA",
     "name": "Utah Mammoth",
     "short": "Mammoth"
@@ -815,6 +751,54 @@
    "start": "2026-11-09T01:00:00Z",
    "state": "FUT",
    "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "NYR",
+    "name": "New York Rangers",
+    "short": "Rangers"
+   },
+   "home": {
+    "abbrev": "EDM",
+    "name": "Edmonton Oilers",
+    "short": "Oilers"
+   },
+   "id": "2026020283",
+   "start": "2026-11-10T01:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "PHI",
+    "name": "Philadelphia Flyers",
+    "short": "Flyers"
+   },
+   "home": {
+    "abbrev": "VAN",
+    "name": "Vancouver Canucks",
+    "short": "Canucks"
+   },
+   "id": "2026020284",
+   "start": "2026-11-10T02:30:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "NYI",
+    "name": "New York Islanders",
+    "short": "Islanders"
+   },
+   "home": {
+    "abbrev": "SJS",
+    "name": "San Jose Sharks",
+    "short": "Sharks"
+   },
+   "id": "2026020285",
+   "start": "2026-11-10T03:00:00Z",
+   "state": "FUT",
+   "type": 2
   }
  ],
  "rosters": {
@@ -870,6 +854,11 @@
     "name": "Judd Caulfield"
    },
    {
+    "born": "1993-03-23",
+    "country": "CAN",
+    "name": "Laurent Brossoit"
+   },
+   {
     "born": "2004-12-26",
     "country": "SWE",
     "name": "Leo Carlsson"
@@ -885,14 +874,9 @@
     "name": "Mikael Granlund"
    },
    {
-    "born": "1990-09-21",
-    "country": "USA",
-    "name": "Nick Jensen"
-   },
-   {
-    "born": "2008-06-27",
-    "country": "USA",
-    "name": "Nikita Klepov"
+    "born": "2004-12-01",
+    "country": "CAN",
+    "name": "Nico Myatovic"
    },
    {
     "born": "2001-09-10",
@@ -2267,11 +2251,6 @@
     "name": "Cole Schwindt"
    },
    {
-    "born": "2001-06-14",
-    "country": "USA",
-    "name": "Cooper Black"
-   },
-   {
     "born": "1990-10-29",
     "country": "RUS",
     "name": "Dmitry Kulikov"
@@ -3151,6 +3130,11 @@
     "name": "James Reimer"
    },
    {
+    "born": "2003-07-20",
+    "country": "CZE",
+    "name": "Jaroslav Chmelar"
+   },
+   {
     "born": "1994-04-28",
     "country": "FIN",
     "name": "Joonas Korpisalo"
@@ -3209,11 +3193,6 @@
     "born": "1998-10-21",
     "country": "CAN",
     "name": "Sean Durzi"
-   },
-   {
-    "born": "1998-02-18",
-    "country": "CAN",
-    "name": "Taylor Raddysh"
    },
    {
     "born": "2001-04-30",
@@ -3941,11 +3920,6 @@
     "born": "2001-11-15",
     "country": "CAN",
     "name": "Justin Barron"
-   },
-   {
-    "born": "2003-04-15",
-    "country": "CAN",
-    "name": "Logan Mailloux"
    },
    {
     "born": "2003-01-30",
