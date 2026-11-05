@@ -2,70 +2,6 @@
  "games": [
   {
    "away": {
-    "abbrev": "OTT",
-    "name": "Ottawa Senators",
-    "short": "Senators"
-   },
-   "home": {
-    "abbrev": "BUF",
-    "name": "Buffalo Sabres",
-    "short": "Sabres"
-   },
-   "id": "2026020247",
-   "start": "2026-11-05T00:30:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "CHI",
-    "name": "Chicago Blackhawks",
-    "short": "Blackhawks"
-   },
-   "home": {
-    "abbrev": "FLA",
-    "name": "Florida Panthers",
-    "short": "Panthers"
-   },
-   "id": "2026020248",
-   "start": "2026-11-05T00:30:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "SJS",
-    "name": "San Jose Sharks",
-    "short": "Sharks"
-   },
-   "home": {
-    "abbrev": "LAK",
-    "name": "Los Angeles Kings",
-    "short": "Kings"
-   },
-   "id": "2026020249",
-   "start": "2026-11-05T03:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "CGY",
-    "name": "Calgary Flames",
-    "short": "Flames"
-   },
-   "home": {
-    "abbrev": "SEA",
-    "name": "Seattle Kraken",
-    "short": "Kraken"
-   },
-   "id": "2026020250",
-   "start": "2026-11-05T03:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
     "abbrev": "UTA",
     "name": "Utah Mammoth",
     "short": "Mammoth"
@@ -733,6 +669,102 @@
    },
    "id": "2026020292",
    "start": "2026-11-11T03:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "TBL",
+    "name": "Tampa Bay Lightning",
+    "short": "Lightning"
+   },
+   "home": {
+    "abbrev": "BUF",
+    "name": "Buffalo Sabres",
+    "short": "Sabres"
+   },
+   "id": "2026020293",
+   "start": "2026-11-12T00:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "NYR",
+    "name": "New York Rangers",
+    "short": "Rangers"
+   },
+   "home": {
+    "abbrev": "CGY",
+    "name": "Calgary Flames",
+    "short": "Flames"
+   },
+   "id": "2026020294",
+   "start": "2026-11-12T00:30:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "PHI",
+    "name": "Philadelphia Flyers",
+    "short": "Flyers"
+   },
+   "home": {
+    "abbrev": "EDM",
+    "name": "Edmonton Oilers",
+    "short": "Oilers"
+   },
+   "id": "2026020295",
+   "start": "2026-11-12T02:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "UTA",
+    "name": "Utah Mammoth",
+    "short": "Mammoth"
+   },
+   "home": {
+    "abbrev": "VGK",
+    "name": "Vegas Golden Knights",
+    "short": "Golden Knights"
+   },
+   "id": "2026020296",
+   "start": "2026-11-12T02:30:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "NSH",
+    "name": "Nashville Predators",
+    "short": "Predators"
+   },
+   "home": {
+    "abbrev": "ANA",
+    "name": "Anaheim Ducks",
+    "short": "Ducks"
+   },
+   "id": "2026020297",
+   "start": "2026-11-12T03:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "PIT",
+    "name": "Pittsburgh Penguins",
+    "short": "Penguins"
+   },
+   "home": {
+    "abbrev": "SJS",
+    "name": "San Jose Sharks",
+    "short": "Sharks"
+   },
+   "id": "2026020298",
+   "start": "2026-11-12T03:00:00Z",
    "state": "FUT",
    "type": 2
   }
@@ -1679,11 +1711,6 @@
     "name": "Josh Manson"
    },
    {
-    "born": "1998-02-10",
-    "country": "CAN",
-    "name": "Keaton Middleton"
-   },
-   {
     "born": "1996-08-14",
     "country": "USA",
     "name": "Logan O'Connor"
@@ -2464,11 +2491,6 @@
     "born": "1991-08-10",
     "country": "USA",
     "name": "Marcus Foligno"
-   },
-   {
-    "born": "1998-11-03",
-    "country": "CAN",
-    "name": "Mason Shaw"
    },
    {
     "born": "2001-04-05",
@@ -3726,11 +3748,6 @@
     "name": "Kiefer Sherwood"
    },
    {
-    "born": "1998-02-04",
-    "country": "CZE",
-    "name": "Libor Hajek"
-   },
-   {
     "born": "2006-06-13",
     "country": "CAN",
     "name": "Macklin Celebrini"
@@ -4468,11 +4485,6 @@
     "name": "Jeremy Lauzon"
    },
    {
-    "born": "1999-03-31",
-    "country": "DNK",
-    "name": "Jonas Rondbjerg"
-   },
-   {
     "born": "1999-07-22",
     "country": "USA",
     "name": "Marc Gatcomb"
@@ -4548,11 +4560,6 @@
     "born": "1993-12-21",
     "country": "USA",
     "name": "Alex Iafallo"
-   },
-   {
-    "born": "2003-12-19",
-    "country": "FIN",
-    "name": "Brad Lambert"
    },
    {
     "born": "1999-03-03",
@@ -4700,11 +4707,6 @@
     "born": "2006-06-28",
     "country": "USA",
     "name": "Cole Hutson"
-   },
-   {
-    "born": "1992-04-20",
-    "country": "CAN",
-    "name": "Dylan McIlrath"
    },
    {
     "born": "1997-03-07",
