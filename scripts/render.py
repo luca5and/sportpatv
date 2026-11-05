@@ -238,9 +238,8 @@ def page_html(*, title, description, path, h1, lede, events, links, updated, wat
 <body>
   <header class="top">
     <div class="wrap">
-      <a class="logo" href="{prefix}">på<span>TV</span><small>Svenskarna i sporten</small></a>
-      <nav class="tabs" aria-label="Flikar">
-        <a class="tab" href="{prefix}">🇸🇪 Svenskarna</a>
+      <a class="logo" href="{prefix}" aria-label="Svenskar på TV – startsidan"><span class="brand"><span class="flag">🇸🇪 Svenskar</span>på<span class="tvword">TV</span></span><small>i fotboll och NHL</small></a>
+      <nav class="tabs" aria-label="Länkar">
         <a class="coffee" href="{esc(SITE["coffee_url"])}" rel="noopener" target="_blank" aria-label="Bjud på kaffe">☕<span class="txt"> Bjud på kaffe</span></a>
       </nav>
     </div>

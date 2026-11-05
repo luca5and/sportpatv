@@ -3,7 +3,7 @@
   "base_url": "https://patv.se",
   "name": "påTV",
   "coffee_url": "https://buymeacoffee.com/lucasand",
-  "tagline": "Svenskarna i sporten – var du ser dem",
+  "tagline": "Svenskar i sporten – var du ser dem",
   "indexnow_key": "a55b9daffb7040d4bc30a629e69d7881",
   "_info_indexnow": "Nyckel för IndexNow (Bing m.fl.). Samma värde måste ligga i docs/<nyckel>.txt. Den är offentlig, ingen hemlighet."
 }
