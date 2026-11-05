@@ -1,290 +1,6 @@
 {
- "generated": "2026-11-04T10:57+00:00",
+ "generated": "2026-11-05T05:56+00:00",
  "events": [
-  {
-   "id": "575387",
-   "sport": "Fotboll",
-   "competition": "Champions League",
-   "start": "2026-11-04T17:45:00Z",
-   "title": "Fenerbahçe – Liverpool",
-   "swedes": [
-    {
-     "name": "Alexander Isak",
-     "team": "Liverpool",
-     "url": "https://sv.wikipedia.org/wiki/Alexander_Isak",
-     "page": "spelare/alexander-isak/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Fenerbahçe",
-     "page": "lag/fenerbahce/"
-    },
-    {
-     "name": "Liverpool",
-     "page": "lag/liverpool/"
-    }
-   ]
-  },
-  {
-   "id": "561926",
-   "sport": "Fotboll",
-   "competition": "Championship",
-   "start": "2026-11-04T20:00:00Z",
-   "title": "Bristol City – Wolverhampton",
-   "swedes": [
-    {
-     "name": "Noah Eile",
-     "team": "Bristol City",
-     "url": "https://sv.wikipedia.org/wiki/Noah_Eile",
-     "page": "spelare/noah-eile/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Bristol City",
-     "page": "lag/bristol-city/"
-    },
-    {
-     "name": "Wolverhampton",
-     "page": "lag/wolverhampton/"
-    }
-   ]
-  },
-  {
-   "id": "575391",
-   "sport": "Fotboll",
-   "competition": "Champions League",
-   "start": "2026-11-04T20:00:00Z",
-   "title": "Dortmund – Real Betis",
-   "swedes": [
-    {
-     "name": "Daniel Svensson",
-     "team": "Dortmund",
-     "url": "https://sv.wikipedia.org/wiki/Daniel_Svensson_(fotbollsspelare_f%C3%B6dd_2002)",
-     "page": "spelare/daniel-svensson/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Dortmund",
-     "page": "lag/dortmund/"
-    },
-    {
-     "name": "Real Betis",
-     "page": "lag/real-betis/"
-    }
-   ]
-  },
-  {
-   "id": "575393",
-   "sport": "Fotboll",
-   "competition": "Champions League",
-   "start": "2026-11-04T20:00:00Z",
-   "title": "RC Lens – Como 1907",
-   "swedes": [
-    {
-     "name": "Adrian Lahdo",
-     "team": "Como 1907",
-     "url": "https://sv.wikipedia.org/wiki/Adrian_Lahdo",
-     "page": "spelare/adrian-lahdo/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "RC Lens",
-     "page": "lag/rc-lens/"
-    },
-    {
-     "name": "Como 1907",
-     "page": "lag/como-1907/"
-    }
-   ]
-  },
-  {
-   "id": "575389",
-   "sport": "Fotboll",
-   "competition": "Champions League",
-   "start": "2026-11-04T20:00:00Z",
-   "title": "Slavia Praha – Arsenal",
-   "swedes": [
-    {
-     "name": "Viktor Gyökeres",
-     "team": "Arsenal",
-     "url": "https://sv.wikipedia.org/wiki/Viktor_Gy%C3%B6keres",
-     "page": "spelare/viktor-gyokeres/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.tvmatchen.nu/sport/fotboll/champions-league-tv-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Slavia Praha",
-     "page": "lag/slavia-praha/"
-    },
-    {
-     "name": "Arsenal",
-     "page": "lag/arsenal/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020247",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-05T00:30:00Z",
-   "title": "Buffalo Sabres – Ottawa Senators",
-   "swedes": [
-    {
-     "name": "Noah Östlund",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
-     "page": "spelare/noah-ostlund/"
-    },
-    {
-     "name": "Rasmus Dahlin",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
-     "page": "spelare/rasmus-dahlin/"
-    },
-    {
-     "name": "André Burakovsky",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky",
-     "page": "spelare/andre-burakovsky/"
-    },
-    {
-     "name": "Fabian Zetterlund",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund",
-     "page": "spelare/fabian-zetterlund/"
-    },
-    {
-     "name": "Jonas Johansson",
-     "team": "Senators",
-     "url": null,
-     "page": "spelare/jonas-johansson/"
-    },
-    {
-     "name": "Linus Ullmark",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark",
-     "page": "spelare/linus-ullmark/"
-    },
-    {
-     "name": "Samuel Ersson",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson",
-     "page": "spelare/samuel-ersson/"
-    },
-    {
-     "name": "William Eklund",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/William_Eklund",
-     "page": "spelare/william-eklund/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Buffalo Sabres",
-     "page": "lag/buffalo-sabres/"
-    },
-    {
-     "name": "Ottawa Senators",
-     "page": "lag/ottawa-senators/"
-    }
-   ]
-  },
-  {
-   "id": "nhl-2026020248",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-05T00:30:00Z",
-   "title": "Florida Panthers – Chicago Blackhawks",
-   "swedes": [
-    {
-     "name": "Gustav Forsling",
-     "team": "Panthers",
-     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling",
-     "page": "spelare/gustav-forsling/"
-    },
-    {
-     "name": "Jacob Markström",
-     "team": "Panthers",
-     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
-     "page": "spelare/jacob-markstrom/"
-    },
-    {
-     "name": "Anton Frondell",
-     "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell",
-     "page": "spelare/anton-frondell/"
-    },
-    {
-     "name": "Arvid Söderblom",
-     "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom",
-     "page": "spelare/arvid-soderblom/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Florida Panthers",
-     "page": "lag/florida-panthers/"
-    },
-    {
-     "name": "Chicago Blackhawks",
-     "page": "lag/chicago-blackhawks/"
-    }
-   ]
-  },
   {
    "id": "nhl-2026020249",
    "sport": "Ishockey",
@@ -1394,11 +1110,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Prime Video",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
+    "source": "https://hurbra.se/fotboll-pa-tv-vecka-45-2026/",
+    "note": null
    },
    "teams": [
     {
@@ -1572,11 +1288,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    },
    "teams": [
     {
@@ -1680,11 +1396,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    },
    "teams": [
     {
@@ -2610,11 +2326,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    },
    "teams": [
     {
@@ -2642,11 +2358,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    },
    "teams": [
     {
@@ -2712,11 +2428,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    },
    "teams": [
     {
@@ -2858,11 +2574,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Troligen Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    },
    "teams": [
     {
@@ -3010,11 +2726,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "TV4 Play visar 3 utvalda matcher per omgång"
+    "status": "confirmed",
+    "service": "TV4 Play",
+    "channel": "TV4 Sportkanalen",
+    "source": "https://www.tv4play.se/program/463807529258de1ca81b",
+    "note": null
    },
    "teams": [
     {
@@ -3106,11 +2822,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "TV4 Play",
     "channel": null,
-    "source": null,
-    "note": "TV4 Play visar 3 utvalda matcher per omgång"
+    "source": "https://www.tvmatchen.nu/match/estrela-amadora-benfica-lissabon-1922436",
+    "note": null
    },
    "teams": [
     {
