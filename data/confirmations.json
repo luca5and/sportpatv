@@ -222,6 +222,37 @@
       "competition": "PL",
       "matchday": 9,
       "checked": "2026-10-29"
+    },
+    "560632": {
+      "title": "Leeds United – Tottenham, 7 nov 13.30",
+      "service": "Prime Video",
+      "channel": null,
+      "source": "https://hurbra.se/fotboll-pa-tv-vecka-45-2026/",
+      "single_source": true,
+      "note": "tvsporten.nu/tvmatchen.nu angav Viaplay den 2 nov. Räknas som en källa tills fler bekräftar.",
+      "competition": "PL",
+      "matchday": 10,
+      "checked": "2026-11-05"
+    },
+    "567349": {
+      "title": "Vitória SC – Porto, 8 nov 19.00",
+      "service": "TV4 Play",
+      "channel": "TV4 Sportkanalen",
+      "source": "https://www.tv4play.se/program/463807529258de1ca81b",
+      "source_2": "https://www.tvmatchen.nu/match/vitoria-guimaraes-fc-porto-1922443",
+      "competition": "PPL",
+      "matchday": 11,
+      "checked": "2026-11-05"
+    },
+    "567355": {
+      "title": "Amadora – Benfica, 8 nov 21.30",
+      "service": "TV4 Play",
+      "channel": null,
+      "source": "https://www.tvmatchen.nu/match/estrela-amadora-benfica-lissabon-1922436",
+      "single_source": true,
+      "competition": "PPL",
+      "matchday": 11,
+      "checked": "2026-11-05"
     }
   }
 }
