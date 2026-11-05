@@ -232,7 +232,7 @@ def page_html(*, title, description, path, h1, lede, events, links, updated, wat
   <link rel="icon" href="{prefix}favicon.ico" sizes="32x32">
   <link rel="icon" href="{prefix}icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="{prefix}apple-touch-icon.png">
-  <link rel="stylesheet" href="{prefix}style.css">
+  <link rel="stylesheet" href="{prefix}{asset("style.css")}">
   <script type="application/ld+json">{json_ld(ld)}</script>
 </head>
 <body>
@@ -256,10 +256,15 @@ def page_html(*, title, description, path, h1, lede, events, links, updated, wat
     <p>Ingen reklam, inga cookies. Tider i svensk tid. {esc(updated)}</p>
     <p><a class="coffee" href="{esc(SITE["coffee_url"])}" rel="noopener" target="_blank">☕ Bjud på kaffe</a></p>
   </footer>
-  <script src="{prefix}usage.js" defer></script>
+  <script src="{prefix}{asset("usage.js")}" defer></script>
 </body>
 </html>
 """
+
+
+def asset(name):
+    """Adress med versionsnummer, så att mobiler inte blandar ny HTML med gammal CSS/JS ur cachen."""
+    return f"{name}?v={hashlib.sha1((DOCS / name).read_bytes()).hexdigest()[:8]}"
 
 
 PAGE_HASHES = {}   # adress -> hash av innehållet utan "Uppdaterad ..."-raden
@@ -369,6 +374,9 @@ def render_index(events, registry, updated):
         "{{DESCRIPTION}}": esc(description),
         "{{BASE_URL}}": esc(SITE["base_url"]),
         "{{COFFEE_URL}}": esc(SITE["coffee_url"]),
+        "{{STYLE_CSS}}": asset("style.css"),
+        "{{APP_JS}}": asset("app.js"),
+        "{{USAGE_JS}}": asset("usage.js"),
         "{{JSONLD}}": json_ld(ld),
         "{{SITE_JSONLD}}": json_ld({"@context": "https://schema.org", "@type": "WebSite",
                                     "name": SITE["name"], "alternateName": ["patv.se", "Svenskar på TV"],
