@@ -106,3 +106,8 @@ class LeagueTest(unittest.TestCase):
     def test_every_league_has_about_text(self):
         for r in render.leagues():
             self.assertTrue(r.get("about"), r["name"])
+
+
+class AssetTest(unittest.TestCase):
+    def test_asset_has_version(self):
+        self.assertRegex(render.asset("style.css"), r"^style\.css\?v=[0-9a-f]{8}$")
