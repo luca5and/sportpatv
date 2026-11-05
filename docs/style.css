@@ -41,8 +41,11 @@ a { color: var(--accent); }
 .top { background: var(--card); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 2; }
 .top .wrap { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 56px; flex-wrap: wrap; }
 .logo { font-size: 1.25rem; font-weight: 800; margin: 0; letter-spacing: -0.02em; color: var(--text); text-decoration: none; }
-.logo span { color: var(--accent); margin-left: 1px; }
-.logo small { display: block; font-size: 0.72rem; font-weight: 500; letter-spacing: 0; color: var(--muted); margin-top: -2px; }
+.logo .brand { display: flex; align-items: center; }
+.logo .flag { background: var(--accent); color: var(--on-accent); font-size: 0.95rem; font-weight: 700; letter-spacing: 0;
+  padding: 5px 11px; border-radius: 999px; margin-right: 7px; }
+.logo .tvword { color: var(--accent); margin-left: 1px; }
+.logo small { display: block; font-size: 0.72rem; font-weight: 500; letter-spacing: 0; color: var(--muted); margin-top: 3px; }
 .tabs { display: flex; gap: 4px; align-items: center; flex-wrap: wrap; }
 .tab { padding: 8px 12px; border-radius: 999px; text-decoration: none; color: var(--muted); font-weight: 600; font-size: 0.95rem; }
 .tab.active { background: var(--accent); color: var(--on-accent); }
@@ -113,4 +116,4 @@ a { color: var(--accent); }
 .watch { max-width: 65ch; margin: 22px 0 0; }
 .watch h2 { font-size: 1.05rem; margin: 0 0 4px; letter-spacing: -0.01em; }
 .watch p { color: var(--muted); margin: 0; }
-@media (max-width: 420px) { .top .coffee .txt { display: none; } }
+@media (max-width: 370px) { .top .coffee .txt { display: none; } }
