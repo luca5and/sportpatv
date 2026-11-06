@@ -6926,10 +6926,6 @@
      "nationality": "New Zealand"
     },
     {
-     "name": "Nathaniel Chioma",
-     "nationality": "England"
-    },
-    {
      "name": "Ryan Kavuma-McQueen",
      "nationality": "England"
     },
@@ -7435,6 +7431,10 @@
      "nationality": "England"
     },
     {
+     "name": "Shane Duffy",
+     "nationality": "Ireland"
+    },
+    {
      "name": "Derry Murkin",
      "nationality": "England"
     },
@@ -7501,6 +7501,10 @@
     {
      "name": "Filip Bilbija",
      "nationality": "Germany"
+    },
+    {
+     "name": "Lars-Jörgen Salvesen",
+     "nationality": "Norway"
     },
     {
      "name": "Mohammed Fuseini",
@@ -8181,6 +8185,10 @@
      "nationality": "England"
     },
     {
+     "name": "Nathanael Kalembo",
+     "nationality": "England"
+    },
+    {
      "name": "Jean-Philippe Mateta",
      "nationality": "France"
     },
@@ -8510,10 +8518,6 @@
     {
      "name": "Rio Cardines",
      "nationality": "Trinidad & Tobago"
-    },
-    {
-     "name": "Seb Naylor",
-     "nationality": "England"
     },
     {
      "name": "Joe Williams",
@@ -9375,6 +9379,10 @@
      "nationality": "Argentina"
     },
     {
+     "name": "Kayki",
+     "nationality": "Brazil"
+    },
+    {
      "name": "Marcelinho",
      "nationality": "Brazil"
     },
@@ -9409,10 +9417,6 @@
     {
      "name": "Patrick de Paula",
      "nationality": "Brazil"
-    },
-    {
-     "name": "Diego Hernández",
-     "nationality": "Uruguay"
     },
     {
      "name": "Franco Catarozzi",
@@ -9471,6 +9475,10 @@
      "nationality": "Brazil"
     },
     {
+     "name": "Diego Hernández",
+     "nationality": "Uruguay"
+    },
+    {
      "name": "Jája Silva",
      "nationality": "Brazil"
     },
@@ -9501,10 +9509,6 @@
     {
      "name": "Duplexe Tchamba",
      "nationality": "Cameroon"
-    },
-    {
-     "name": "Kayki",
-     "nationality": "Brazil"
     }
    ]
   },
@@ -9580,10 +9584,6 @@
      "nationality": "Brazil"
     },
     {
-     "name": "Everton",
-     "nationality": "Brazil"
-    },
-    {
      "name": "Lucas Mugni",
      "nationality": "Argentina"
     },
@@ -9641,6 +9641,10 @@
     },
     {
      "name": "Negueba",
+     "nationality": "Brazil"
+    },
+    {
+     "name": "Everton",
      "nationality": "Brazil"
     },
     {
@@ -11993,6 +11997,10 @@
      "nationality": "Spain"
     },
     {
+     "name": "Pablo García",
+     "nationality": "Spain"
+    },
+    {
      "name": "Álvaro Mantilla",
      "nationality": "Spain"
     },
@@ -12051,10 +12059,6 @@
     {
      "name": "Giorgi Guliashvili",
      "nationality": "Georgia"
-    },
-    {
-     "name": "Pablo García",
-     "nationality": "Spain"
     },
     {
      "name": "Arana",
@@ -13836,6 +13840,10 @@
      "nationality": "France"
     },
     {
+     "name": "Keiber Lamadrid",
+     "nationality": "Venezuela"
+    },
+    {
      "name": "Divine Mukasa",
      "nationality": "England"
     },
@@ -13866,10 +13874,6 @@
     {
      "name": "Edvin Austbø",
      "nationality": "Norway"
-    },
-    {
-     "name": "Keiber Lamadrid",
-     "nationality": "Venezuela"
     },
     {
      "name": "Joshua Ajala",
@@ -14034,6 +14038,10 @@
      "nationality": "Netherlands"
     },
     {
+     "name": "Rasmus Gjelsvik Steigen",
+     "nationality": "Norway"
+    },
+    {
      "name": "Jonathan Debes",
      "nationality": "Norway"
     },
@@ -14122,10 +14130,6 @@
      "nationality": "Iceland"
     },
     {
-     "name": "Rasmus Gjelsvik Steigen",
-     "nationality": "Norway"
-    },
-    {
      "name": "Sondre Tveiten",
      "nationality": "Norway"
     },
@@ -14149,6 +14153,10 @@
     {
      "name": "Nikita Haikin",
      "nationality": "Russia"
+    },
+    {
+     "name": "Martin Lund Andersen",
+     "nationality": "Norway"
     },
     {
      "name": "Fredrik Bjørkan",
@@ -14187,6 +14195,14 @@
      "nationality": "Norway"
     },
     {
+     "name": "Matias Bobo Høgsæt Jaiteh",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Tobias Solbakken",
+     "nationality": "Norway"
+    },
+    {
      "name": "Patrick Berg",
      "nationality": "Norway"
     },
@@ -14212,6 +14228,22 @@
     },
     {
      "name": "Teo Ingilæ",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Erling Eliassen",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Levi Monsen Yeboah",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Milton Käld",
+     "nationality": "Finland"
+    },
+    {
+     "name": "Jesper Rabben Nygård",
      "nationality": "Norway"
     },
     {
@@ -14248,6 +14280,10 @@
     },
     {
      "name": "Hindrin Najah Chooly",
+     "nationality": "Norway"
+    },
+    {
+     "name": "Jakob Strand",
      "nationality": "Norway"
     }
    ]
@@ -15066,6 +15102,10 @@
      "nationality": "Scotland"
     },
     {
+     "name": "Moussa Baradji",
+     "nationality": "France"
+    },
+    {
      "name": "Oladapo Afolayan",
      "nationality": "England"
     },
@@ -15434,6 +15474,10 @@
     },
     {
      "name": "Sam Dalby",
+     "nationality": "England"
+    },
+    {
+     "name": "Samuel Iling Junior",
      "nationality": "England"
     }
    ]
@@ -16519,10 +16563,6 @@
      "nationality": "Poland"
     },
     {
-     "name": "Guilherme Peixoto",
-     "nationality": "Portugal"
-    },
-    {
      "name": "Ruud Nijstad",
      "nationality": "Netherlands"
     },
@@ -16549,6 +16589,10 @@
     {
      "name": "Jordy Bawuah",
      "nationality": "Belgium"
+    },
+    {
+     "name": "Guilherme Peixoto",
+     "nationality": "Portugal"
     },
     {
      "name": "Marko Pjaca",
@@ -17935,6 +17979,10 @@
      "nationality": "Northern Ireland"
     },
     {
+     "name": "Bruno Alves",
+     "nationality": "Brazil"
+    },
+    {
      "name": "Sam Field",
      "nationality": "England"
     },
@@ -18784,6 +18832,10 @@
     {
      "name": "Joon-ho Bae",
      "nationality": "South Korea"
+    },
+    {
+     "name": "Djibril Soumaré",
+     "nationality": "Senegal"
     },
     {
      "name": "Sam Gallagher",
