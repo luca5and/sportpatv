@@ -111,3 +111,8 @@ class LeagueTest(unittest.TestCase):
 class AssetTest(unittest.TestCase):
     def test_asset_has_version(self):
         self.assertRegex(render.asset("style.css"), r"^style\.css\?v=[0-9a-f]{8}$")
+
+
+class TeamNameTest(unittest.TestCase):
+    def test_short_names_get_full_names(self):
+        self.assertEqual(render.TEAM_NAMES["AZ"], "AZ Alkmaar")
