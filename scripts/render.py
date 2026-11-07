@@ -309,6 +309,8 @@ def render_player(slug, entry, events, updated):
 def render_team(slug, entry, events, updated):
     short = entry["name"]
     name = TEAM_NAMES.get(short, short)  # "AZ" -> "AZ Alkmaar" i titel och rubrik
+    if name != short and short not in name:
+        name = f"{name} ({short})"  # "Paris Saint-Germain (PSG)" så att båda sökningarna träffar
     mine = [e for e in events if any(t["page"] == f"lag/{slug}/" for t in e["teams"])]
     swedes = sorted({s["name"] for e in mine for s in e["swedes"] if s["team"] in short or short in s["team"]})
     if mine:
