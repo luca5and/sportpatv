@@ -27,6 +27,7 @@ REGISTRY_FILE = ROOT / "data" / "generated" / "pages.json"
 CHANGED_FILE = ROOT / "data" / "generated" / "changed-urls.txt"
 TEMPLATE = ROOT / "templates" / "index.html"
 SITE = json.loads((ROOT / "data" / "site.json").read_text())
+TEAM_NAMES = json.loads((ROOT / "data" / "team_names.json").read_text())["names"]
 RIGHTS = json.loads((ROOT / "data" / "broadcasters.json").read_text()).get("competitions", {})
 
 TZ = ZoneInfo("Europe/Stockholm")
@@ -231,6 +232,7 @@ def page_html(*, title, description, path, h1, lede, events, links, updated, wat
   <meta property="og:image" content="{esc(SITE["base_url"])}/og.png">
   <link rel="icon" href="{prefix}favicon.ico" sizes="32x32">
   <link rel="icon" href="{prefix}icon.svg" type="image/svg+xml">
+  <link rel="icon" href="{prefix}icon-192.png" type="image/png" sizes="192x192">
   <link rel="apple-touch-icon" href="{prefix}apple-touch-icon.png">
   <link rel="stylesheet" href="{prefix}{asset("style.css")}">
   <script type="application/ld+json">{json_ld(ld)}</script>
@@ -305,9 +307,10 @@ def render_player(slug, entry, events, updated):
 
 
 def render_team(slug, entry, events, updated):
-    name = entry["name"]
+    short = entry["name"]
+    name = TEAM_NAMES.get(short, short)  # "AZ" -> "AZ Alkmaar" i titel och rubrik
     mine = [e for e in events if any(t["page"] == f"lag/{slug}/" for t in e["teams"])]
-    swedes = sorted({s["name"] for e in mine for s in e["swedes"] if s["team"] in name or name in s["team"]})
+    swedes = sorted({s["name"] for e in mine for s in e["swedes"] if s["team"] in short or short in s["team"]})
     if mine:
         e = mine[0]
         lede = (f"Nästa match med svenskar: <b>{esc(e['title'])}</b>, {esc(fmt_when(e['start']))}. "

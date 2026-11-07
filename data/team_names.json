@@ -1,0 +1,11 @@
+{
+  "_info": "Fullständiga lagnamn på lagsidorna (titel och rubrik) när datakällans namn är en förkortning som ingen söker på. Adressen ändras inte.",
+  "names": {
+    "AZ": "AZ Alkmaar",
+    "PSV": "PSV Eindhoven",
+    "NEC": "NEC Nijmegen",
+    "HSV": "Hamburger SV",
+    "PSG": "Paris Saint-Germain",
+    "QPR": "Queens Park Rangers"
+  }
+}
