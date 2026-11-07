@@ -46,5 +46,7 @@ jobs:
             echo "Inga ändringar"
           else
             git commit -m "Uppdatera data $(date -u +%Y-%m-%d)"
-            git push
+            # main kan ha ändrats under körningen (t.ex. en sammanslagen PR):
+            # lägg då nattens data ovanpå och försök igen
+            git push || (git pull --rebase -X theirs origin main && git push)
           fi
