@@ -259,6 +259,7 @@ def page_html(*, title, description, path, h1, lede, events, links, updated, wat
     <p><a class="coffee" href="{esc(SITE["coffee_url"])}" rel="noopener" target="_blank">☕ Bjud på kaffe</a></p>
   </footer>
   <script src="{prefix}{asset("usage.js")}" defer></script>
+  <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
 """
