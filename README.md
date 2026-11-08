@@ -38,11 +38,10 @@ Buy Me a Coffee-länken står i `data/site.json`. En GitHub Action
 2. Lägg in den i GitHub: *Settings → Secrets and variables → Actions → New
    repository secret*, namn `FOOTBALL_DATA_TOKEN`.
 3. Kör *Actions → Uppdatera data → Run workflow* (schemat kör bara på `main`).
-4. Publicera mappen `docs/`:
-   - **Cloudflare Pages** (gratis, fungerar med privat repo, tillåter reklam):
-     koppla repot, build command tomt, output directory `docs`.
-   - **GitHub Pages** (gratis bara för publika repon): *Settings → Pages →
-     Deploy from branch → main → /docs*.
+4. Publicera mappen `docs/`. Sidan ligger på **Vercel** (projekt `sportpatv`,
+   domän patv.se): `vercel.json` säger att inget byggs och att `docs/`
+   publiceras. Vercel publicerar vid varje push till `main`, alltså även efter
+   nattens uppdatering. Vercel Web Analytics är påslaget i projektet.
 
 ## Lokalt
 
