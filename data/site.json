@@ -1,5 +1,5 @@
 {
-  "_info": "Sidans adress. base_url används i sitemap, canonical-länkar och delningslänkar. Domänen patv.se (Strato) pekar på GitHub Pages via docs/CNAME.",
+  "_info": "Sidans adress. base_url används i sitemap, canonical-länkar och delningslänkar. Domänen patv.se är registrerad hos Strato med Vercels namnservrar; sidan ligger i Vercel-projektet sportpatv.",
   "base_url": "https://patv.se",
   "name": "påTV",
   "coffee_url": "https://buymeacoffee.com/lucasand",
