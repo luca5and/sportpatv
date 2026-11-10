@@ -117,3 +117,5 @@ a { color: var(--accent); }
 .watch h2 { font-size: 1.05rem; margin: 0 0 4px; letter-spacing: -0.01em; }
 .watch p { color: var(--muted); margin: 0; }
 @media (max-width: 370px) { .top .coffee .txt { display: none; } }
+.day-h { font-size: 1.05rem; margin: 22px 0 6px; letter-spacing: -0.01em; }
+.weekend-link { margin: 8px 0 0; font-weight: 600; }

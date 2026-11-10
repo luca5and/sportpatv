@@ -5,6 +5,7 @@ Läser docs/data/swedes-on-tv.json (från build.py) och skriver:
 - docs/spelare/<namn>/: en sida per svensk spelare
 - docs/lag/<namn>/: en sida per lag med svenskar
 - docs/liga/<namn>/: en sida per liga – vem som visar den i Sverige och veckans matcher
+- docs/helgen/: "Svenskar på TV i helgen" – fredag till söndag, uppdateras varje natt
 - docs/sitemap.xml och docs/robots.txt
 Sidorna finns kvar även när spelaren inte har någon match, så att adresser som
 Google redan känner till inte försvinner. lastmod i sitemap ändras bara när
@@ -208,9 +209,10 @@ def json_ld(data):
     return json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
 
 
-def page_html(*, title, description, path, h1, lede, events, links, updated, watch=""):
-    prefix = "../../"
+def page_html(*, title, description, path, h1, lede, events, links, updated, watch="", list_html=None):
+    prefix = "../" * path.count("/")  # "spelare/x/" -> "../../", "helgen/" -> "../"
     items = "".join(event_html(e, prefix, show_day=True) for e in events) or '<li class="empty-row">Inga matcher de närmaste sju dagarna.</li>'
+    body = list_html if list_html is not None else f'<ol class="list">{items}</ol>'
     ld = {"@context": "https://schema.org", "@type": "ItemList",
           "itemListElement": [{"@type": "ListItem", "position": i + 1, "item": sports_event_ld(e)}
                               for i, e in enumerate(events)]}
@@ -250,11 +252,12 @@ def page_html(*, title, description, path, h1, lede, events, links, updated, wat
     <nav class="crumbs"><a href="{prefix}">Alla svenskar på TV</a></nav>
     <h1 class="intro">{esc(h1)}</h1>
     <p class="lede">{lede}</p>
-    <ol class="list">{items}</ol>
+    {body}
     {watch}
     <p class="links">{links}</p>
   </main>
   <footer class="wrap foot">
+    <p><a href="{prefix}helgen/">Svenskar på TV i helgen</a> · <a href="{prefix}">Alla matcher idag</a></p>
     <p>Ingen reklam, inga cookies. Tider i svensk tid. {esc(updated)}</p>
     <p><a class="coffee" href="{esc(SITE["coffee_url"])}" rel="noopener" target="_blank">☕ Bjud på kaffe</a></p>
   </footer>
@@ -364,6 +367,48 @@ def leagues():
     return [r for r in RIGHTS.values() if isinstance(r, dict) and r.get("name")]
 
 
+def weekend_days(today):
+    """Fredag–söndag för den här helgen (om den pågår) annars nästa."""
+    friday = today + dt.timedelta(days=(4 - today.weekday()) % 7) if today.weekday() < 4 \
+        else today - dt.timedelta(days=today.weekday() - 4)
+    return [friday + dt.timedelta(days=i) for i in range(3)]
+
+
+def fmt_range(days):
+    a, b = days[0], days[-1]
+    if a.month == b.month:
+        return f"{a.day}–{b.day} {MONTHS[b.month - 1]}"
+    return f"{a.day} {MONTHS[a.month - 1]}–{b.day} {MONTHS[b.month - 1]}"
+
+
+def render_weekend(events, today, updated):
+    days = weekend_days(today)
+    mine = [e for e in events if event_day(e["start"]) in days]
+    span = fmt_range(days)
+    prefix = "../"
+    groups = []
+    for d in days:
+        todays = [e for e in mine if event_day(e["start"]) == d]
+        items = "".join(event_html(e, prefix) for e in todays) or \
+            '<li class="empty-row">Inga matcher med svenskar den här dagen.</li>'
+        groups.append(f'<h2 class="day-h">{esc(fmt_day(d)).capitalize()}</h2><ol class="list">{items}</ol>')
+    names = list(dict.fromkeys(s["name"] for e in mine for s in e["swedes"]))
+    comps = list(dict.fromkeys(e["competition"] for e in mine))
+    if mine:
+        lede = (f"Fredag till söndag {esc(span)}: <b>{len(mine)} matcher</b> med "
+                f"{len(names)} svenskar i {esc(', '.join(comps))}. Kanal och tid för varje match, i svensk tid.")
+        description = (f"Sport på TV i helgen {span}: {len(mine)} matcher med svenskar"
+                       + (f", bl.a. {', '.join(names[:3])}" if names else "") + ". Kanal och tid för varje match.")
+    else:
+        lede = f"Fredag till söndag {esc(span)}: inga matcher med svenskar i fotboll eller NHL just nu."
+        description = f"Sport på TV i helgen {span}: matcher med svenskar i fotboll och NHL, kanal och tid."
+    leagues_html = " · ".join(league_links(comps, prefix))
+    write(DOCS / "helgen" / "index.html", page_html(
+        title=f"Sport på TV i helgen {span} – svenskarna i fotboll och NHL | {SITE['name']}",
+        description=description, path="helgen/", h1="Svenskar på TV i helgen",
+        lede=lede, events=mine, links=leagues_html, updated=updated, list_html="\n    ".join(groups)))
+
+
 def render_index(events, registry, updated):
     days = sorted({event_day(e["start"]) for e in events})
     first = [e for e in events if days and event_day(e["start"]) == days[0]]
@@ -399,7 +444,7 @@ def render_index(events, registry, updated):
 
 def render_sitemap(registry, today):
     base = SITE["base_url"]
-    paths = [""] + [f"liga/{league_slug(r['name'])}/" for r in leagues()] \
+    paths = ["", "helgen/"] + [f"liga/{league_slug(r['name'])}/" for r in leagues()] \
         + [f"spelare/{s}/" for s in sorted(registry["players"])] \
         + [f"lag/{s}/" for s in sorted(registry["teams"])]
     known = registry.setdefault("lastmod", {})
@@ -441,6 +486,7 @@ def main(now=None):
         render_team(slug, entry, events, updated)
     for r in leagues():
         render_league(r, events, registry, updated)
+    render_weekend(events, now.astimezone(TZ).date(), updated)
     render_index(events, registry, updated)
     count = render_sitemap(registry, today)
 
