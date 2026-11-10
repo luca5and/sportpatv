@@ -116,3 +116,15 @@ class AssetTest(unittest.TestCase):
 class TeamNameTest(unittest.TestCase):
     def test_short_names_get_full_names(self):
         self.assertEqual(render.TEAM_NAMES["AZ"], "AZ Alkmaar")
+
+
+class WeekendTest(unittest.TestCase):
+    def test_weekend_days(self):
+        import datetime as dt
+        fri, sat, sun = dt.date(2026, 11, 13), dt.date(2026, 11, 14), dt.date(2026, 11, 15)
+        for today in (dt.date(2026, 11, 9), dt.date(2026, 11, 12), fri, sat, sun):  # mån, tors, fre, lör, sön
+            self.assertEqual(render.weekend_days(today), [fri, sat, sun], today)
+
+    def test_range_across_months(self):
+        import datetime as dt
+        self.assertEqual(render.fmt_range(render.weekend_days(dt.date(2026, 10, 30))), "30 okt–1 nov")
