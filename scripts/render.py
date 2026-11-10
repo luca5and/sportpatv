@@ -218,16 +218,12 @@ def event_html(e, prefix="", show_day=False):
     )
 
 
-def sports_event_ld(e):
-    return {
-        "@type": "SportsEvent",
-        "name": f'{e["title"]} ({e["competition"]})',
-        "startDate": e["start"],
-        "sport": e["sport"],
-        "eventStatus": "https://schema.org/EventScheduled",
-        "competitor": [{"@type": "SportsTeam", "name": n} for n in teams_of(e)],
-        "description": f'Svenskar: {", ".join(s["name"] for s in e["swedes"])}. TV i Sverige: {tv_text(e["tv"])}.',
-    }
+def breadcrumb_ld(h1, url):
+    """Strukturerad data: påTV › sidan. Matcherna märks inte som Event, eftersom
+    Googles Event-format kräver arena/adress som en TV-guide inte har."""
+    return {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": SITE["name"], "item": SITE["base_url"] + "/"},
+        {"@type": "ListItem", "position": 2, "name": h1, "item": url}]}
 
 
 def json_ld(data):
@@ -238,10 +234,8 @@ def page_html(*, title, description, path, h1, lede, events, links, updated, wat
     prefix = "../" * path.count("/")  # "spelare/x/" -> "../../", "helgen/" -> "../"
     items = "".join(event_html(e, prefix, show_day=True) for e in events) or '<li class="empty-row">Inga matcher de närmaste sju dagarna.</li>'
     body = list_html if list_html is not None else f'<ol class="list">{items}</ol>'
-    ld = {"@context": "https://schema.org", "@type": "ItemList",
-          "itemListElement": [{"@type": "ListItem", "position": i + 1, "item": sports_event_ld(e)}
-                              for i, e in enumerate(events)]}
     url = f'{SITE["base_url"]}/{path}'
+    ld = breadcrumb_ld(h1, url)
     return f"""<!doctype html>
 <html lang="sv">
 <head>
@@ -481,9 +475,6 @@ def render_index(events, registry, updated):
     seen = list(dict.fromkeys(s["name"] for e in events[:40] for s in e["swedes"]))[:3]
     description = ("Var du ser svenskarna i fotboll och NHL på TV idag"
                    + (f" – {', '.join(seen)} och fler" if seen else "") + ". Kanal och tid för varje match.")
-    ld = {"@context": "https://schema.org", "@type": "ItemList",
-          "itemListElement": [{"@type": "ListItem", "position": i + 1, "item": sports_event_ld(e)}
-                              for i, e in enumerate(events[:50])]}
     page = TEMPLATE.read_text()
     for key, value in {
         "{{DESCRIPTION}}": esc(description),
@@ -492,7 +483,6 @@ def render_index(events, registry, updated):
         "{{STYLE_CSS}}": asset("style.css"),
         "{{APP_JS}}": asset("app.js"),
         "{{USAGE_JS}}": asset("usage.js"),
-        "{{JSONLD}}": json_ld(ld),
         "{{SITE_JSONLD}}": json_ld({"@context": "https://schema.org", "@type": "WebSite",
                                     "name": SITE["name"], "alternateName": ["patv.se", "Svenskar på TV"],
                                     "url": SITE["base_url"] + "/", "inLanguage": "sv-SE"}),
