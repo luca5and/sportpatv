@@ -165,6 +165,31 @@ def assign_pages(events, registry, today):
             s["page"] = f"spelare/{slug}/"
 
 
+def record_results(results, registry):
+    """Sparar senaste resultatet per spelare och lag, så att det finns kvar när matchen
+    försvunnit ur datan. Skapar inga nya sidor."""
+    players, teams = registry.get("players", {}), registry.get("teams", {})
+    by_player = {e["key"]: e for e in players.values()}
+    by_team = {e["key"]: e for e in teams.values()}
+    for r in sorted(results, key=lambda r: r["start"]):
+        if not r.get("score"):
+            continue
+        last = {"title": r["title"], "score": r["score"], "start": r["start"], "competition": r["competition"]}
+        entries = [by_team.get(f'{r["sport"]}|{name}') for name in teams_of(r)]
+        entries += [by_player.get(s.get("url") or f'{s["name"]}|{s["team"]}') for s in r["swedes"]]
+        for entry in entries:
+            if entry is not None and entry.get("last", {}).get("start", "") <= r["start"]:
+                entry["last"] = last
+
+
+def last_match_text(entry):
+    last = entry.get("last")
+    if not last:
+        return ""
+    return (f'Senaste matchen: <b>{esc(last["title"])} {esc(last["score"])}</b>, '
+            f'{esc(fmt_day(event_day(last["start"])))} ({esc(last["competition"])}).')
+
+
 def add_competition(entry, competition):
     comps = entry.setdefault("competitions", [])
     if competition not in comps:
@@ -296,6 +321,10 @@ def render_player(slug, entry, events, updated):
     else:
         lede = f"{esc(name)} ({esc(team)}) har ingen match på TV de närmaste sju dagarna."
         description = f"Var du ser {name} ({team}) på TV i Sverige. Inga matcher de närmaste sju dagarna."
+    if entry.get("last"):
+        lede += " " + last_match_text(entry)
+        if not mine:
+            description += f' Senaste matchen: {entry["last"]["title"]} {entry["last"]["score"]}.'
     team_slug = entry.get("team_page") or next((t["page"] for e in mine for t in e["teams"] if team in t["name"]), None)
     links = []
     if entry.get("wiki"):
@@ -327,6 +356,8 @@ def render_team(slug, entry, events, updated):
         description = f"Var du ser {name} på TV i Sverige."
     if swedes:
         lede += " Svenskar i laget: " + esc(", ".join(swedes)) + "."
+    if entry.get("last"):
+        lede += " " + last_match_text(entry)
     write(DOCS / "lag" / slug / "index.html", page_html(
         title=f"{name} på TV – matcher och kanal | {SITE['name']}",
         description=description, path=f"lag/{slug}/", h1=f"{name} på TV",
@@ -511,6 +542,7 @@ def main(now=None):
         registry = {}
 
     assign_pages(events, registry, today)
+    record_results(data.get("results", []), registry)
     stamp = now.astimezone(TZ)
     updated = f"Uppdaterad {fmt_day(stamp.date())} {stamp:%H:%M}."
 

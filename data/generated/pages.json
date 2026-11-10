@@ -2,7 +2,7 @@
  "lastmod": {
   "": {
    "date": "2026-11-10",
-   "hash": "c9d4205d885eb2d44cef7eca04f69fb63afe2285"
+   "hash": "8a325e9c178a971334627b5dfdc9d2de4d9ded51"
   },
   "helgen/": {
    "date": "2026-11-10",
@@ -222,7 +222,7 @@
   },
   "lag/edmonton-oilers/": {
    "date": "2026-11-10",
-   "hash": "a0ff00c5da1513a15ad56d64b63dc06ae42e84ba"
+   "hash": "ec8c9938a09cccfb71ba806039c7a87ed39b7215"
   },
   "lag/elche/": {
    "date": "2026-11-10",
@@ -450,11 +450,11 @@
   },
   "lag/new-york-islanders/": {
    "date": "2026-11-10",
-   "hash": "75c8bfe6395fb4848ffe49f620f65b8aa39b0cad"
+   "hash": "3244c28bec77d882a570e7c7c84b541888361573"
   },
   "lag/new-york-rangers/": {
    "date": "2026-11-10",
-   "hash": "fb937ba5eee87afcf4ea3467f0d46aa636a19b1d"
+   "hash": "710011a098b766fdcd8e9cc0ab5814f11420197e"
   },
   "lag/newcastle/": {
    "date": "2026-11-10",
@@ -490,7 +490,7 @@
   },
   "lag/philadelphia-flyers/": {
    "date": "2026-11-10",
-   "hash": "1faf9867d45544c656e26c5422be3e9262422480"
+   "hash": "915fdf17a4b8a977bb240d062b004fa2e84eddf2"
   },
   "lag/pittsburgh-penguins/": {
    "date": "2026-11-10",
@@ -558,7 +558,7 @@
   },
   "lag/san-jose-sharks/": {
    "date": "2026-11-10",
-   "hash": "4d5ed51b8c6bd9770db20a77d1505abbf9cd18f9"
+   "hash": "07cdb554aaf100bf401e11477701bd513b3cc201"
   },
   "lag/santa-clara/": {
    "date": "2026-11-10",
@@ -690,7 +690,7 @@
   },
   "lag/vancouver-canucks/": {
    "date": "2026-11-10",
-   "hash": "554aa9dff9723037dd94cb65c941c252b0a31569"
+   "hash": "db8bdd63dd50471c7859e64cd976105cded375d4"
   },
   "lag/vegas-golden-knights/": {
    "date": "2026-11-10",
@@ -778,7 +778,7 @@
   },
   "liga/nhl/": {
    "date": "2026-11-10",
-   "hash": "61105e3842bf7546ec12a677aa4910ed31b31d4d"
+   "hash": "e41f49575235604da73b488f856e4547fe38c9be"
   },
   "liga/premier-league/": {
    "date": "2026-11-10",
@@ -830,7 +830,7 @@
   },
   "spelare/alexander-wennberg/": {
    "date": "2026-11-10",
-   "hash": "59017a6eb91973875c7537a3d31c261377dbfbb8"
+   "hash": "fc71944c34aaf8cf0ff386d22dd17e51fea45193"
   },
   "spelare/alieu-njie/": {
    "date": "2026-11-10",
@@ -922,11 +922,11 @@
   },
   "spelare/elias-pettersson-25/": {
    "date": "2026-11-10",
-   "hash": "70624199a12bb43e69b2c991bbce95d94a7fa758"
+   "hash": "4e38a91862a561a43d0982d4040499376b4a28bf"
   },
   "spelare/elias-pettersson-40/": {
    "date": "2026-11-10",
-   "hash": "b30415135016cb6170c52e6c7361c0c1cdb8ef66"
+   "hash": "0e55702e378d59f8a366c692042676b8f6a22ba6"
   },
   "spelare/elias-salomonsson/": {
    "date": "2026-11-10",
@@ -950,7 +950,7 @@
   },
   "spelare/emil-heineman/": {
    "date": "2026-11-10",
-   "hash": "bf99ca852f1a188c45558643ceccc9b431ed8d19"
+   "hash": "43d66219c0c51a26432c38a161a3c8079d8b169b"
   },
   "spelare/emil-holm/": {
    "date": "2026-11-10",
@@ -970,7 +970,7 @@
   },
   "spelare/filip-bystedt/": {
    "date": "2026-11-10",
-   "hash": "86470d85ba053c8e9cffbbf8e76090effe344d3e"
+   "hash": "69c1e98722effa508827f40dd5368c9dc1fcf179"
   },
   "spelare/filip-forsberg/": {
    "date": "2026-11-10",
@@ -982,7 +982,7 @@
   },
   "spelare/filip-hallander/": {
    "date": "2026-11-10",
-   "hash": "cbc741ceaa5b0b01ca0a9e1c93c7e7a8322e69af"
+   "hash": "d0e52ba1c69fa77229bef438e953f9451c9f7639"
   },
   "spelare/gabriel-gudmundsson/": {
    "date": "2026-11-10",
@@ -1046,7 +1046,7 @@
   },
   "spelare/ivar-stenberg/": {
    "date": "2026-11-10",
-   "hash": "a7b3c4f439c447fb8cb1c6bdfceb2d32b8f63c4d"
+   "hash": "3dab1712f9b34488076d42ae4ad36d201651725b"
   },
   "spelare/jacob-markstrom/": {
    "date": "2026-11-10",
@@ -1106,7 +1106,7 @@
   },
   "spelare/jonathan-lekkerimaki/": {
    "date": "2026-11-10",
-   "hash": "d8743e8db806fdb9497fb05d9ca11a3cd50df561"
+   "hash": "17649913e004f2676119456a74f9b5bdd9f52149"
   },
   "spelare/jusef-erabi/": {
    "date": "2026-11-10",
@@ -1126,11 +1126,11 @@
   },
   "spelare/liam-ohgren/": {
    "date": "2026-11-10",
-   "hash": "60fb1b40dbeac3fd6ccfb5fc99a147881b32c0ce"
+   "hash": "0810a1ef0998c968f368bca1aa0299af4c67252b"
   },
   "spelare/linus-karlsson/": {
    "date": "2026-11-10",
-   "hash": "b7d18f1446b89d5bd5003d8071e9e3896260c014"
+   "hash": "b7c04387967c49c3a81a257ccb0a2b6b74d039a1"
   },
   "spelare/linus-ullmark/": {
    "date": "2026-11-10",
@@ -1158,15 +1158,15 @@
   },
   "spelare/marcus-pettersson/": {
    "date": "2026-11-10",
-   "hash": "bd17185f9816c7aa0893fa0429198919ae03de0f"
+   "hash": "4e871aa4ded6a5987572cac110916b1512a3b17b"
   },
   "spelare/mattias-ekholm/": {
    "date": "2026-11-10",
-   "hash": "dbba6b06122e045743fb058794f7bc7fffc4e32e"
+   "hash": "5ecb4758e2bb14156d8464d7e5da8086b35f519c"
   },
   "spelare/mattias-janmark/": {
    "date": "2026-11-10",
-   "hash": "c8f14fa6431d30d7323179d9b27ecdf92ba530aa"
+   "hash": "1354a9e4f7366571da07c22a5c4654daa4a0a65c"
   },
   "spelare/melker-ellborg/": {
    "date": "2026-11-10",
@@ -1178,7 +1178,7 @@
   },
   "spelare/mika-zibanejad/": {
    "date": "2026-11-10",
-   "hash": "30ad6490cf1f4aa7a4a84cd11beccd480db3bd80"
+   "hash": "33c2269e920ee9f63d1ca66f9e4388cf376d936e"
   },
   "spelare/mikael-backlund/": {
    "date": "2026-11-10",
@@ -1282,7 +1282,7 @@
   },
   "spelare/simon-holmstrom/": {
    "date": "2026-11-10",
-   "hash": "fe3627c8cf1110061ed9743855259f662a69ed3e"
+   "hash": "364da8d220603fccc47fe8c617fc2c75e8c7e180"
   },
   "spelare/sion-oppong/": {
    "date": "2026-11-10",
@@ -1302,7 +1302,7 @@
   },
   "spelare/tom-willander/": {
    "date": "2026-11-10",
-   "hash": "85e6201a6a0c3cbd57895f7f60fef026750a578d"
+   "hash": "fbbd367d267f9732c4617895b35101cdcdbd46c5"
   },
   "spelare/victor-andersson/": {
    "date": "2026-11-10",
@@ -1314,7 +1314,7 @@
   },
   "spelare/victor-eklund/": {
    "date": "2026-11-10",
-   "hash": "495d306a2dd8dcb9acd4bfd23e49f07c48d5f4b7"
+   "hash": "1676973fc64134bc7c277342e5bde0e36da96858"
   },
   "spelare/victor-hedman/": {
    "date": "2026-11-10",

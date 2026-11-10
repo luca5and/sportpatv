@@ -255,3 +255,32 @@ class CurrentClubTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class ResultsTest(unittest.TestCase):
+    def test_football_score_only_when_finished(self):
+        import fetch_matches
+        self.assertEqual(fetch_matches.score({"status": "FINISHED", "score": {"fullTime": {"home": 2, "away": 1}}}),
+                         {"home": 2, "away": 1})
+        self.assertIsNone(fetch_matches.score({"status": "TIMED", "score": {"fullTime": {"home": None, "away": None}}}))
+
+    def test_nhl_score_with_overtime(self):
+        import fetch_nhl
+        g = {"gameState": "OFF", "homeTeam": {"score": 3}, "awayTeam": {"score": 2},
+             "gameOutcome": {"lastPeriodType": "OT"}}
+        self.assertEqual(build.score_text(fetch_nhl.score(g)), "3–2 efter förlängning")
+        self.assertIsNone(fetch_nhl.score({"gameState": "FUT", "homeTeam": {}, "awayTeam": {}}))
+
+    def test_finished_nhl_game_goes_to_results_not_events(self):
+        rosters = {"TOR": [{"name": "William Nylander", "country": "SWE"}]}
+        t = {"abbrev": "TOR", "name": "Toronto Maple Leafs", "short": "Maple Leafs"}
+        o = {"abbrev": "DET", "name": "Detroit Red Wings", "short": "Red Wings"}
+        nhl = {"rosters": rosters, "games": [
+            {"id": "1", "start": "2026-11-08T00:00:00Z", "state": "OFF", "type": 2, "home": t, "away": o,
+             "score": {"home": 4, "away": 1, "period": "REG"}},
+            {"id": "2", "start": "2099-11-12T00:00:00Z", "state": "FUT", "type": 2, "home": t, "away": o}]}
+        results = []
+        events = build.nhl_events(nhl, {}, {}, {}, results=results)
+        self.assertEqual([e["id"] for e in events], ["nhl-2"])
+        self.assertEqual((results[0]["id"], results[0]["score"]), ("nhl-1", "4–1"))
+        self.assertEqual(build.nhl_events(nhl, {}, {}, {}), events)  # utan results-lista som förut
