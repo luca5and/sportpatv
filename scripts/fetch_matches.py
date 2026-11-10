@@ -1,4 +1,5 @@
-"""Hämtar kommande fotbollsmatcher från football-data.org (gratisnivån).
+"""Hämtar fotbollsmatcher från football-data.org (gratisnivån): två dagar bakåt
+(för resultat) och en vecka framåt.
 
 Kräver miljövariabeln FOOTBALL_DATA_TOKEN. Skriver data/generated/matches.json.
 """
@@ -12,6 +13,15 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "generated" / "matches.json"
 DAYS_AHEAD = 7  # gratisnivån tillåter högst 10 dagar per anrop
+DAYS_BACK = 2   # gårdagens och förrgårdens resultat
+
+
+def score(m):
+    """Slutresultat för spelade matcher, annars None."""
+    full = (m.get("score") or {}).get("fullTime") or {}
+    if m.get("status") != "FINISHED" or full.get("home") is None or full.get("away") is None:
+        return None
+    return {"home": full["home"], "away": full["away"]}
 
 
 def main():
@@ -23,7 +33,7 @@ def main():
     today = dt.date.today()
     url = (
         "https://api.football-data.org/v4/matches"
-        f"?dateFrom={today.isoformat()}&dateTo={(today + dt.timedelta(days=DAYS_AHEAD)).isoformat()}"
+        f"?dateFrom={(today - dt.timedelta(days=DAYS_BACK)).isoformat()}&dateTo={(today + dt.timedelta(days=DAYS_AHEAD)).isoformat()}"
     )
     req = urllib.request.Request(url, headers={"X-Auth-Token": token})
     try:
@@ -42,6 +52,7 @@ def main():
             "competition": {"code": m["competition"]["code"], "name": m["competition"]["name"]},
             "home": {k: m["homeTeam"].get(k) for k in ("id", "name", "shortName", "tla")},
             "away": {k: m["awayTeam"].get(k) for k in ("id", "name", "shortName", "tla")},
+            "score": score(m),
         }
         for m in data.get("matches", [])
     ]

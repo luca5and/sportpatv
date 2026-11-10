@@ -171,13 +171,24 @@ NHL_FINISHED = {"OFF", "FINAL"}
 NHL_TYPES = {1: "NHL försäsong", 2: "NHL", 3: "NHL slutspel"}
 
 
-def nhl_events(nhl, rights, confirmations, people, removed=()):
-    """Ishockey: NHL-matcher där minst ett lag har en svensk i truppen."""
+def score_text(score):
+    """{"home": 2, "away": 1, "period": "OT"} -> "2–1 efter förlängning"."""
+    if not score:
+        return None
+    extra = {"OT": " efter förlängning", "SO": " efter straffar"}.get(score.get("period"), "")
+    return f'{score["home"]}–{score["away"]}{extra}'
+
+
+def nhl_events(nhl, rights, confirmations, people, removed=(), results=None):
+    """Ishockey: NHL-matcher där minst ett lag har en svensk i truppen.
+
+    Färdiga matcher med resultat läggs i results (om listan skickas med)."""
     events = []
     rosters = nhl.get("rosters") or {  # äldre format: bara namn på svenskfödda
         team: [{"name": n, "country": "SWE"} for n in names] for team, names in nhl.get("swedes", {}).items()}
     for g in nhl.get("games", []):
-        if g.get("state") in NHL_FINISHED:
+        finished = g.get("state") in NHL_FINISHED
+        if finished and (results is None or not g.get("score")):
             continue
         swedes = []
         for side in ("home", "away"):
@@ -197,6 +208,11 @@ def nhl_events(nhl, rights, confirmations, people, removed=()):
         if not swedes:
             continue
         eid = "nhl-" + g["id"]
+        if finished:
+            results.append({"id": eid, "sport": "Ishockey", "competition": NHL_TYPES.get(g.get("type"), "NHL"),
+                            "start": g["start"], "title": f'{g["home"]["name"]} – {g["away"]["name"]}',
+                            "score": score_text(g["score"]), "swedes": swedes})
+            continue
         events.append({
             "id": eid,
             "sport": "Ishockey",
@@ -228,9 +244,10 @@ def build(now=None):
 
     index = build_club_index(players, manual)
     counts = round_counts(matches, rights, confirmations)
-    events = []
+    events, results = [], []
     for m in matches:
-        if m.get("status") in ("FINISHED", "CANCELLED", "POSTPONED", "AWARDED"):
+        finished = m.get("status") == "FINISHED" and m.get("score")
+        if m.get("status") in ("FINISHED", "CANCELLED", "POSTPONED", "AWARDED") and not finished:
             continue
         swedes = []
         for team in (m["home"], m["away"]):
@@ -239,19 +256,25 @@ def build(now=None):
                 swedes.append(swede)
         if not swedes:
             continue
+        title = f'{m["home"].get("shortName") or m["home"]["name"]} – {m["away"].get("shortName") or m["away"]["name"]}'
+        competition = rights.get(m["competition"]["code"], {}).get("name") or m["competition"]["name"]
+        if finished:
+            results.append({"id": m["id"], "sport": "Fotboll", "competition": competition, "start": m["start"],
+                            "title": title, "score": score_text(m["score"]), "swedes": swedes})
+            continue
         events.append({
             "id": m["id"],
             "sport": "Fotboll",
-            "competition": rights.get(m["competition"]["code"], {}).get("name") or m["competition"]["name"],
+            "competition": competition,
             "start": m["start"],
-            "title": f'{m["home"].get("shortName") or m["home"]["name"]} – {m["away"].get("shortName") or m["away"]["name"]}',
+            "title": title,
             "swedes": swedes,
             "tv": tv_status(m["id"], m["competition"]["code"], rights, confirmations,
                             counts.get((m["competition"]["code"], m.get("matchday")), 0)),
         })
 
     events += nhl_events(load(DATA / "generated" / "nhl.json", {}) or {}, rights, confirmations, people,
-                         set(manual.get("remove", [])))
+                         set(manual.get("remove", [])), results)
 
     for e in manual_events:
         e = dict(e)
@@ -264,7 +287,8 @@ def build(now=None):
     cutoff = now - dt.timedelta(hours=3)  # visa pågående matcher en stund till
     events = [e for e in events if dt.datetime.fromisoformat(e["start"].replace("Z", "+00:00")) >= cutoff]
     events.sort(key=lambda e: (e["start"], e["title"]))
-    return {"generated": now.isoformat(timespec="minutes"), "events": events}
+    results.sort(key=lambda e: (e["start"], e["title"]))
+    return {"generated": now.isoformat(timespec="minutes"), "events": events, "results": results}
 
 
 def main():

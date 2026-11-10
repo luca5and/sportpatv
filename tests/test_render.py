@@ -141,3 +141,21 @@ class QuickLinksTest(unittest.TestCase):
         self.assertLess(out.index(">H1<"), out.index(">F1<"))
         self.assertIn(">F1<", out)          # fotbollsspelaren trängs inte undan
         self.assertIn("liga/serie-a/", out)  # alla ligor länkas, även utan matcher
+
+
+class LastMatchTest(unittest.TestCase):
+    def test_last_result_saved_on_player_and_team(self):
+        events = [event("Liverpool – Arsenal", [{"name": "Alexander Isak", "team": "Liverpool", "url": "w/Isak"}])]
+        registry = {}
+        render.assign_pages(events, registry, "2026-11-01")
+        older = {"title": "Liverpool – Arsenal", "sport": "Fotboll", "competition": "Premier League",
+                 "start": "2026-11-01T16:30:00Z", "score": "2–1",
+                 "swedes": [{"name": "Alexander Isak", "team": "Liverpool", "url": "w/Isak"}]}
+        newer = dict(older, start="2026-11-04T20:00:00Z", score="0–0", title="Liverpool – Arsenal")
+        render.record_results([newer, older], registry)
+        isak = registry["players"]["alexander-isak"]
+        self.assertEqual(isak["last"]["score"], "0–0")  # nyast vinner
+        self.assertEqual(registry["teams"]["liverpool"]["last"]["score"], "0–0")
+        self.assertIn("Senaste matchen: <b>Liverpool – Arsenal 0–0</b>", render.last_match_text(isak))
+        render.record_results([{**older, "swedes": [{"name": "Okänd", "team": "X"}]}], registry)
+        self.assertNotIn("okand", registry["players"])  # inga nya sidor från resultat

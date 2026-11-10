@@ -1,4 +1,4 @@
-"""Hämtar NHL-matcher kommande vecka och svenskarna i varje lag.
+"""Hämtar NHL-matcher (två dagar bakåt för resultat, en vecka framåt) och svenskarna i varje lag.
 
 Källa: NHL:s publika webb-API (api-web.nhle.com). Det är inofficiellt och
 saknar publicerade villkor; vi använder bara fakta (tider, lag, spelare).
@@ -33,6 +33,14 @@ def team(t):
     return {"abbrev": t["abbrev"], "name": name or t["abbrev"], "short": text(t.get("commonName")) or t["abbrev"]}
 
 
+def score(g):
+    """Slutresultat för färdiga matcher; "OT"/"SO" om de avgjordes i förlängning/straffar."""
+    home, away = g["homeTeam"].get("score"), g["awayTeam"].get("score")
+    if g.get("gameState") not in ("OFF", "FINAL") or home is None or away is None:
+        return None
+    return {"home": home, "away": away, "period": (g.get("gameOutcome") or {}).get("lastPeriodType")}
+
+
 def parse_schedule(data):
     games = []
     for day in data.get("gameWeek", []):
@@ -44,6 +52,7 @@ def parse_schedule(data):
                 "type": g.get("gameType"),
                 "home": team(g["homeTeam"]),
                 "away": team(g["awayTeam"]),
+                "score": score(g),
             })
     return games
 
@@ -73,6 +82,12 @@ def main():
     except Exception as exc:
         print(f"NHL-schema misslyckades, behåller gammalt: {exc}", file=sys.stderr)
         games = old.get("games", [])
+    try:  # de senaste dagarnas resultat
+        seen = {g["id"] for g in games}
+        past = parse_schedule(get(f"/schedule/{(dt.date.today() - dt.timedelta(days=2)).isoformat()}"))
+        games = [g for g in past if g["id"] not in seen and g.get("score")] + games
+    except Exception as exc:
+        print(f"NHL-resultat misslyckades, hoppar över: {exc}", file=sys.stderr)
 
     rosters = dict(old.get("rosters", {}))
     teams = sorted({g[side]["abbrev"] for g in games for side in ("home", "away")})
