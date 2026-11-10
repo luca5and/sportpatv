@@ -128,3 +128,16 @@ class WeekendTest(unittest.TestCase):
     def test_range_across_months(self):
         import datetime as dt
         self.assertEqual(render.fmt_range(render.weekend_days(dt.date(2026, 10, 30))), "30 okt–1 nov")
+
+
+class QuickLinksTest(unittest.TestCase):
+    def test_players_alternate_between_leagues(self):
+        def ev(comp, names):
+            e = event("A – B", [{"name": n, "team": "A", "page": f"spelare/{n.lower()}/"} for n in names])
+            e["competition"] = comp
+            return e
+        events = [ev("NHL", ["H1", "H2", "H3"]), ev("NHL", ["H1", "H2", "H3"]), ev("Premier League", ["F1"])]
+        out = render.quick_links(events, limit=3)
+        self.assertLess(out.index(">H1<"), out.index(">F1<"))
+        self.assertIn(">F1<", out)          # fotbollsspelaren trängs inte undan
+        self.assertIn("liga/serie-a/", out)  # alla ligor länkas, även utan matcher

@@ -119,3 +119,6 @@ a { color: var(--accent); }
 @media (max-width: 370px) { .top .coffee .txt { display: none; } }
 .day-h { font-size: 1.05rem; margin: 22px 0 6px; letter-spacing: -0.01em; }
 .weekend-link { margin: 8px 0 0; font-weight: 600; }
+.quick { display: flex; flex-wrap: wrap; gap: 8px; }
+.quick .chip { text-decoration: none; }
+.quick-links { margin: 8px 0 18px; }

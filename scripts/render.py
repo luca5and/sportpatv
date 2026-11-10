@@ -409,6 +409,39 @@ def render_weekend(events, today, updated):
         lede=lede, events=mine, links=leagues_html, updated=updated, list_html="\n    ".join(groups)))
 
 
+def quick_links(events, limit=16):
+    """Synliga länkar på startsidan: alla ligor och svenskar som spelar i veckan.
+
+    Spelarna väljs växelvis från ligorna, så att NHL (3–4 matcher i veckan) inte
+    tränger undan fotbollen."""
+    from collections import Counter
+    comps = Counter(e["competition"] for e in events)
+    league_html = "".join(
+        f'<a class="chip" href="liga/{league_slug(r["name"])}/">{esc(r["name"])}'
+        + (f'<span class="count">{comps[r["name"]]}</span>' if comps[r["name"]] else "") + "</a>"
+        for r in sorted(leagues(), key=lambda r: (-comps[r["name"]], r["name"])))
+    per_league, pages = {}, {}
+    for e in events:
+        for s in e["swedes"]:
+            per_league.setdefault(e["competition"], Counter())[s["name"]] += 1
+            pages[s["name"]] = s["page"]
+    queues = [[n for n, _ in sorted(c.items(), key=lambda x: (-x[1], x[0]))]
+              for _, c in sorted(per_league.items(), key=lambda x: (-sum(x[1].values()), x[0]))]
+    picked = []
+    while len(picked) < limit and any(queues):
+        for q in queues:
+            while q and q[0] in picked:
+                q.pop(0)
+            if q and len(picked) < limit:
+                picked.append(q.pop(0))
+    player_html = "".join(f'<a class="chip" href="{esc(pages[n])}">{esc(n)}</a>' for n in picked)
+    parts = [f'<h2 class="day-h">Ligor och kanaler</h2><nav class="quick" aria-label="Ligor">{league_html}</nav>']
+    if player_html:
+        parts.append(f'<h2 class="day-h">Svenskar som spelar i veckan</h2>'
+                     f'<nav class="quick" aria-label="Spelare">{player_html}</nav>')
+    return "\n    ".join(parts)
+
+
 def render_index(events, registry, updated):
     days = sorted({event_day(e["start"]) for e in events})
     first = [e for e in events if days and event_day(e["start"]) == days[0]]
@@ -434,6 +467,7 @@ def render_index(events, registry, updated):
                                     "url": SITE["base_url"] + "/", "inLanguage": "sv-SE"}),
         "{{LIST}}": "".join(event_html(e) for e in first),
         "{{PLAYER_LINKS}}": links,
+        "{{QUICK_LINKS}}": quick_links(events),
         "{{LEAGUE_LINKS}}": ", ".join(f'<a href="liga/{league_slug(r["name"])}/">{esc(r["name"])}</a>'
                                       for r in leagues()),
         "{{UPDATED}}": esc(updated),
