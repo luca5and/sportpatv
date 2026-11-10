@@ -4182,11 +4182,6 @@
     "name": "Dennis Hildeby"
    },
    {
-    "born": "2002-07-03",
-    "country": "USA",
-    "name": "Dominic James"
-   },
-   {
     "born": "2001-02-02",
     "country": "NOR",
     "name": "Emil Lilleberg"
@@ -4245,6 +4240,11 @@
     "born": "1989-06-13",
     "country": "USA",
     "name": "Ryan McDonagh"
+   },
+   {
+    "born": "2006-03-30",
+    "country": "CAN",
+    "name": "Sam O'Reilly"
    },
    {
     "born": "1992-07-30",
@@ -4382,6 +4382,11 @@
     "born": "1991-07-17",
     "country": "SWE",
     "name": "Oliver Ekman-Larsson"
+   },
+   {
+    "born": "2002-01-30",
+    "country": "CAN",
+    "name": "Ryan Tverberg"
    },
    {
     "born": "1988-09-20",
