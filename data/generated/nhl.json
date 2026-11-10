@@ -2,54 +2,6 @@
  "games": [
   {
    "away": {
-    "abbrev": "NYR",
-    "name": "New York Rangers",
-    "short": "Rangers"
-   },
-   "home": {
-    "abbrev": "EDM",
-    "name": "Edmonton Oilers",
-    "short": "Oilers"
-   },
-   "id": "2026020283",
-   "start": "2026-11-10T01:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "PHI",
-    "name": "Philadelphia Flyers",
-    "short": "Flyers"
-   },
-   "home": {
-    "abbrev": "VAN",
-    "name": "Vancouver Canucks",
-    "short": "Canucks"
-   },
-   "id": "2026020284",
-   "start": "2026-11-10T02:30:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "NYI",
-    "name": "New York Islanders",
-    "short": "Islanders"
-   },
-   "home": {
-    "abbrev": "SJS",
-    "name": "San Jose Sharks",
-    "short": "Sharks"
-   },
-   "id": "2026020285",
-   "start": "2026-11-10T03:00:00Z",
-   "state": "FUT",
-   "type": 2
-  },
-  {
-   "away": {
     "abbrev": "COL",
     "name": "Colorado Avalanche",
     "short": "Avalanche"
@@ -765,6 +717,38 @@
    },
    "id": "2026020330",
    "start": "2026-11-16T02:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "MTL",
+    "name": "Montréal Canadiens",
+    "short": "Canadiens"
+   },
+   "home": {
+    "abbrev": "NYR",
+    "name": "New York Rangers",
+    "short": "Rangers"
+   },
+   "id": "2026020331",
+   "start": "2026-11-17T00:30:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "VAN",
+    "name": "Vancouver Canucks",
+    "short": "Canucks"
+   },
+   "home": {
+    "abbrev": "UTA",
+    "name": "Utah Mammoth",
+    "short": "Mammoth"
+   },
+   "id": "2026020332",
+   "start": "2026-11-17T02:30:00Z",
    "state": "FUT",
    "type": 2
   }
@@ -1559,11 +1543,6 @@
     "name": "Artyom Levshunov"
    },
    {
-    "born": "1999-08-19",
-    "country": "SWE",
-    "name": "Arvid Soderblom"
-   },
-   {
     "born": "2001-06-13",
     "country": "CAN",
     "name": "Bowen Byram"
@@ -1582,6 +1561,11 @@
     "born": "1997-04-16",
     "country": "CAN",
     "name": "Dillon Boucher"
+   },
+   {
+    "born": "2002-07-19",
+    "country": "USA",
+    "name": "Drew Commesso"
    },
    {
     "born": "2003-01-15",
@@ -1660,6 +1644,11 @@
    }
   ],
   "COL": [
+   {
+    "born": "2002-08-12",
+    "country": "USA",
+    "name": "Alex Gagne"
+   },
    {
     "born": "1995-07-04",
     "country": "FIN",
@@ -1866,6 +1855,11 @@
     "born": "1996-11-17",
     "country": "FIN",
     "name": "Roope Hintz"
+   },
+   {
+    "born": "2001-10-06",
+    "country": "CAN",
+    "name": "Rémi Poirier"
    },
    {
     "born": "1998-02-03",
@@ -3718,11 +3712,6 @@
     "name": "Eric Pohlkamp"
    },
    {
-    "born": "2004-02-04",
-    "country": "SWE",
-    "name": "Filip Bystedt"
-   },
-   {
     "born": "2005-11-30",
     "country": "RUS",
     "name": "Igor Chernyshov"
@@ -3800,11 +3789,6 @@
   ],
   "STL": [
    {
-    "born": "2006-06-28",
-    "country": "CZE",
-    "name": "Adam Jiricek"
-   },
-   {
     "born": "2004-02-06",
     "country": "FIN",
     "name": "Aleksanteri Kaskimaki"
@@ -3818,6 +3802,11 @@
     "born": "1996-11-26",
     "country": "USA",
     "name": "Brandon Carlo"
+   },
+   {
+    "born": "1994-02-02",
+    "country": "SWE",
+    "name": "Calle Rosen"
    },
    {
     "born": "1991-12-05",
@@ -3913,11 +3902,6 @@
     "born": "1994-02-18",
     "country": "CAN",
     "name": "Ross Johnston"
-   },
-   {
-    "born": "2005-01-05",
-    "country": "SWE",
-    "name": "Theo Lindstein"
    },
    {
     "born": "2000-03-01",
@@ -4749,6 +4733,11 @@
     "name": "Jordan Kyrou"
    },
    {
+    "born": "1992-01-30",
+    "country": "USA",
+    "name": "Justin Holl"
+   },
+   {
     "born": "2002-03-24",
     "country": "CAN",
     "name": "Justin Sourdif"
@@ -4782,11 +4771,6 @@
     "born": "2005-01-21",
     "country": "USA",
     "name": "Ryan Leonard"
-   },
-   {
-    "born": "2001-10-06",
-    "country": "CAN",
-    "name": "Rémi Poirier"
    },
    {
     "born": "1999-04-30",
