@@ -159,3 +159,11 @@ class LastMatchTest(unittest.TestCase):
         self.assertIn("Senaste matchen: <b>Liverpool – Arsenal 0–0</b>", render.last_match_text(isak))
         render.record_results([{**older, "swedes": [{"name": "Okänd", "team": "X"}]}], registry)
         self.assertNotIn("okand", registry["players"])  # inga nya sidor från resultat
+
+
+class StructuredDataTest(unittest.TestCase):
+    def test_breadcrumb_not_event(self):
+        ld = render.breadcrumb_ld("NHL på TV", "https://patv.se/liga/nhl/")
+        self.assertEqual(ld["@type"], "BreadcrumbList")
+        self.assertEqual(ld["itemListElement"][1]["item"], "https://patv.se/liga/nhl/")
+        self.assertNotIn("SportsEvent", render.json_ld(ld))
