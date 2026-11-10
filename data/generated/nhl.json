@@ -2,6 +2,195 @@
  "games": [
   {
    "away": {
+    "abbrev": "FLA",
+    "name": "Florida Panthers",
+    "short": "Panthers"
+   },
+   "home": {
+    "abbrev": "BOS",
+    "name": "Boston Bruins",
+    "short": "Bruins"
+   },
+   "id": "2026020277",
+   "score": {
+    "away": 1,
+    "home": 4,
+    "period": "REG"
+   },
+   "start": "2026-11-08T18:00:00Z",
+   "state": "OFF",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "VGK",
+    "name": "Vegas Golden Knights",
+    "short": "Golden Knights"
+   },
+   "home": {
+    "abbrev": "BUF",
+    "name": "Buffalo Sabres",
+    "short": "Sabres"
+   },
+   "id": "2026020278",
+   "score": {
+    "away": 4,
+    "home": 1,
+    "period": "REG"
+   },
+   "start": "2026-11-08T20:30:00Z",
+   "state": "OFF",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "TBL",
+    "name": "Tampa Bay Lightning",
+    "short": "Lightning"
+   },
+   "home": {
+    "abbrev": "WPG",
+    "name": "Winnipeg Jets",
+    "short": "Jets"
+   },
+   "id": "2026020280",
+   "score": {
+    "away": 3,
+    "home": 4,
+    "period": "REG"
+   },
+   "start": "2026-11-08T23:00:00Z",
+   "state": "OFF",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "NJD",
+    "name": "New Jersey Devils",
+    "short": "Devils"
+   },
+   "home": {
+    "abbrev": "TOR",
+    "name": "Toronto Maple Leafs",
+    "short": "Maple Leafs"
+   },
+   "id": "2026020279",
+   "score": {
+    "away": 4,
+    "home": 0,
+    "period": "REG"
+   },
+   "start": "2026-11-09T00:00:00Z",
+   "state": "OFF",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "PHI",
+    "name": "Philadelphia Flyers",
+    "short": "Flyers"
+   },
+   "home": {
+    "abbrev": "CGY",
+    "name": "Calgary Flames",
+    "short": "Flames"
+   },
+   "id": "2026020281",
+   "score": {
+    "away": 3,
+    "home": 4,
+    "period": "OT"
+   },
+   "start": "2026-11-09T00:00:00Z",
+   "state": "OFF",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "PIT",
+    "name": "Pittsburgh Penguins",
+    "short": "Penguins"
+   },
+   "home": {
+    "abbrev": "ANA",
+    "name": "Anaheim Ducks",
+    "short": "Ducks"
+   },
+   "id": "2026020282",
+   "score": {
+    "away": 2,
+    "home": 5,
+    "period": "REG"
+   },
+   "start": "2026-11-09T01:00:00Z",
+   "state": "OFF",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "NYR",
+    "name": "New York Rangers",
+    "short": "Rangers"
+   },
+   "home": {
+    "abbrev": "EDM",
+    "name": "Edmonton Oilers",
+    "short": "Oilers"
+   },
+   "id": "2026020283",
+   "score": {
+    "away": 1,
+    "home": 3,
+    "period": "REG"
+   },
+   "start": "2026-11-10T01:00:00Z",
+   "state": "OFF",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "PHI",
+    "name": "Philadelphia Flyers",
+    "short": "Flyers"
+   },
+   "home": {
+    "abbrev": "VAN",
+    "name": "Vancouver Canucks",
+    "short": "Canucks"
+   },
+   "id": "2026020284",
+   "score": {
+    "away": 3,
+    "home": 1,
+    "period": "REG"
+   },
+   "start": "2026-11-10T02:30:00Z",
+   "state": "OFF",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "NYI",
+    "name": "New York Islanders",
+    "short": "Islanders"
+   },
+   "home": {
+    "abbrev": "SJS",
+    "name": "San Jose Sharks",
+    "short": "Sharks"
+   },
+   "id": "2026020285",
+   "score": {
+    "away": 2,
+    "home": 3,
+    "period": "SO"
+   },
+   "start": "2026-11-10T03:00:00Z",
+   "state": "OFF",
+   "type": 2
+  },
+  {
+   "away": {
     "abbrev": "COL",
     "name": "Colorado Avalanche",
     "short": "Avalanche"
@@ -12,6 +201,7 @@
     "short": "Maple Leafs"
    },
    "id": "2026020286",
+   "score": null,
    "start": "2026-11-11T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -28,6 +218,7 @@
     "short": "Canadiens"
    },
    "id": "2026020287",
+   "score": null,
    "start": "2026-11-11T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -44,6 +235,7 @@
     "short": "Senators"
    },
    "id": "2026020288",
+   "score": null,
    "start": "2026-11-11T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -60,6 +252,7 @@
     "short": "Jets"
    },
    "id": "2026020291",
+   "score": null,
    "start": "2026-11-11T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -76,6 +269,7 @@
     "short": "Blue Jackets"
    },
    "id": "2026020289",
+   "score": null,
    "start": "2026-11-11T00:30:00Z",
    "state": "FUT",
    "type": 2
@@ -92,6 +286,7 @@
     "short": "Blues"
    },
    "id": "2026020290",
+   "score": null,
    "start": "2026-11-11T01:00:00Z",
    "state": "FUT",
    "type": 2
@@ -108,6 +303,7 @@
     "short": "Kings"
    },
    "id": "2026020292",
+   "score": null,
    "start": "2026-11-11T03:00:00Z",
    "state": "FUT",
    "type": 2
@@ -124,6 +320,7 @@
     "short": "Sabres"
    },
    "id": "2026020293",
+   "score": null,
    "start": "2026-11-12T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -140,6 +337,7 @@
     "short": "Flames"
    },
    "id": "2026020294",
+   "score": null,
    "start": "2026-11-12T00:30:00Z",
    "state": "FUT",
    "type": 2
@@ -156,6 +354,7 @@
     "short": "Oilers"
    },
    "id": "2026020295",
+   "score": null,
    "start": "2026-11-12T02:00:00Z",
    "state": "FUT",
    "type": 2
@@ -172,6 +371,7 @@
     "short": "Golden Knights"
    },
    "id": "2026020296",
+   "score": null,
    "start": "2026-11-12T02:30:00Z",
    "state": "FUT",
    "type": 2
@@ -188,6 +388,7 @@
     "short": "Ducks"
    },
    "id": "2026020297",
+   "score": null,
    "start": "2026-11-12T03:00:00Z",
    "state": "FUT",
    "type": 2
@@ -204,6 +405,7 @@
     "short": "Sharks"
    },
    "id": "2026020298",
+   "score": null,
    "start": "2026-11-12T03:00:00Z",
    "state": "FUT",
    "type": 2
@@ -220,6 +422,7 @@
     "short": "Kraken"
    },
    "id": "2026020309",
+   "score": null,
    "start": "2026-11-12T17:00:00Z",
    "state": "FUT",
    "type": 2
@@ -236,6 +439,7 @@
     "short": "Bruins"
    },
    "id": "2026020299",
+   "score": null,
    "start": "2026-11-13T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -252,6 +456,7 @@
     "short": "Maple Leafs"
    },
    "id": "2026020300",
+   "score": null,
    "start": "2026-11-13T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -268,6 +473,7 @@
     "short": "Senators"
    },
    "id": "2026020301",
+   "score": null,
    "start": "2026-11-13T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -284,6 +490,7 @@
     "short": "Devils"
    },
    "id": "2026020303",
+   "score": null,
    "start": "2026-11-13T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -300,6 +507,7 @@
     "short": "Blue Jackets"
    },
    "id": "2026020304",
+   "score": null,
    "start": "2026-11-13T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -316,6 +524,7 @@
     "short": "Panthers"
    },
    "id": "2026020302",
+   "score": null,
    "start": "2026-11-13T00:30:00Z",
    "state": "FUT",
    "type": 2
@@ -332,6 +541,7 @@
     "short": "Blackhawks"
    },
    "id": "2026020305",
+   "score": null,
    "start": "2026-11-13T01:00:00Z",
    "state": "FUT",
    "type": 2
@@ -348,6 +558,7 @@
     "short": "Stars"
    },
    "id": "2026020306",
+   "score": null,
    "start": "2026-11-13T01:00:00Z",
    "state": "FUT",
    "type": 2
@@ -364,6 +575,7 @@
     "short": "Mammoth"
    },
    "id": "2026020307",
+   "score": null,
    "start": "2026-11-13T02:00:00Z",
    "state": "FUT",
    "type": 2
@@ -380,6 +592,7 @@
     "short": "Kings"
    },
    "id": "2026020308",
+   "score": null,
    "start": "2026-11-13T03:00:00Z",
    "state": "FUT",
    "type": 2
@@ -396,6 +609,7 @@
     "short": "Canucks"
    },
    "id": "2026020310",
+   "score": null,
    "start": "2026-11-14T02:00:00Z",
    "state": "FUT",
    "type": 2
@@ -412,6 +626,7 @@
     "short": "Golden Knights"
    },
    "id": "2026020311",
+   "score": null,
    "start": "2026-11-14T03:00:00Z",
    "state": "FUT",
    "type": 2
@@ -428,6 +643,7 @@
     "short": "Hurricanes"
    },
    "id": "2026020321",
+   "score": null,
    "start": "2026-11-14T18:00:00Z",
    "state": "FUT",
    "type": 2
@@ -444,6 +660,7 @@
     "short": "Blackhawks"
    },
    "id": "2026020312",
+   "score": null,
    "start": "2026-11-14T20:30:00Z",
    "state": "FUT",
    "type": 2
@@ -460,6 +677,7 @@
     "short": "Bruins"
    },
    "id": "2026020313",
+   "score": null,
    "start": "2026-11-15T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -476,6 +694,7 @@
     "short": "Maple Leafs"
    },
    "id": "2026020314",
+   "score": null,
    "start": "2026-11-15T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -492,6 +711,7 @@
     "short": "Canadiens"
    },
    "id": "2026020315",
+   "score": null,
    "start": "2026-11-15T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -508,6 +728,7 @@
     "short": "Lightning"
    },
    "id": "2026020316",
+   "score": null,
    "start": "2026-11-15T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -524,6 +745,7 @@
     "short": "Penguins"
    },
    "id": "2026020317",
+   "score": null,
    "start": "2026-11-15T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -540,6 +762,7 @@
     "short": "Capitals"
    },
    "id": "2026020318",
+   "score": null,
    "start": "2026-11-15T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -556,6 +779,7 @@
     "short": "Blue Jackets"
    },
    "id": "2026020319",
+   "score": null,
    "start": "2026-11-15T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -572,6 +796,7 @@
     "short": "Blues"
    },
    "id": "2026020320",
+   "score": null,
    "start": "2026-11-15T00:00:00Z",
    "state": "FUT",
    "type": 2
@@ -588,6 +813,7 @@
     "short": "Stars"
    },
    "id": "2026020322",
+   "score": null,
    "start": "2026-11-15T01:00:00Z",
    "state": "FUT",
    "type": 2
@@ -604,6 +830,7 @@
     "short": "Mammoth"
    },
    "id": "2026020323",
+   "score": null,
    "start": "2026-11-15T02:00:00Z",
    "state": "FUT",
    "type": 2
@@ -620,6 +847,7 @@
     "short": "Ducks"
    },
    "id": "2026020324",
+   "score": null,
    "start": "2026-11-15T03:00:00Z",
    "state": "FUT",
    "type": 2
@@ -636,6 +864,7 @@
     "short": "Kings"
    },
    "id": "2026020325",
+   "score": null,
    "start": "2026-11-15T03:00:00Z",
    "state": "FUT",
    "type": 2
@@ -652,6 +881,7 @@
     "short": "Flyers"
    },
    "id": "2026020326",
+   "score": null,
    "start": "2026-11-16T00:30:00Z",
    "state": "FUT",
    "type": 2
@@ -668,6 +898,7 @@
     "short": "Stars"
    },
    "id": "2026020327",
+   "score": null,
    "start": "2026-11-16T01:00:00Z",
    "state": "FUT",
    "type": 2
@@ -684,6 +915,7 @@
     "short": "Ducks"
    },
    "id": "2026020328",
+   "score": null,
    "start": "2026-11-16T01:00:00Z",
    "state": "FUT",
    "type": 2
@@ -700,6 +932,7 @@
     "short": "Golden Knights"
    },
    "id": "2026020329",
+   "score": null,
    "start": "2026-11-16T02:00:00Z",
    "state": "FUT",
    "type": 2
@@ -716,6 +949,7 @@
     "short": "Sharks"
    },
    "id": "2026020330",
+   "score": null,
    "start": "2026-11-16T02:00:00Z",
    "state": "FUT",
    "type": 2
@@ -732,6 +966,7 @@
     "short": "Rangers"
    },
    "id": "2026020331",
+   "score": null,
    "start": "2026-11-17T00:30:00Z",
    "state": "FUT",
    "type": 2
@@ -748,6 +983,7 @@
     "short": "Mammoth"
    },
    "id": "2026020332",
+   "score": null,
    "start": "2026-11-17T02:30:00Z",
    "state": "FUT",
    "type": 2

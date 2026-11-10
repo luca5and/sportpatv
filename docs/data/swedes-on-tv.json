@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T10:56+00:00",
+ "generated": "2026-11-10T10:59+00:00",
  "events": [
   {
    "id": "nhl-2026020287",
@@ -2560,5 +2560,561 @@
    ]
   }
  ],
- "results": []
+ "results": [
+  {
+   "id": "558840",
+   "sport": "Fotboll",
+   "competition": "Eredivisie",
+   "start": "2026-11-08T11:15:00Z",
+   "title": "Heerenveen – Feyenoord",
+   "score": "5–3",
+   "swedes": [
+    {
+     "name": "Marcus Linday",
+     "team": "Heerenveen",
+     "url": "https://sv.wikipedia.org/wiki/Marcus_Linday"
+    }
+   ]
+  },
+  {
+   "id": "560638",
+   "sport": "Fotboll",
+   "competition": "Premier League",
+   "start": "2026-11-08T14:00:00Z",
+   "title": "Brighton Hove – Brentford",
+   "score": "2–0",
+   "swedes": [
+    {
+     "name": "Yasin Ayari",
+     "team": "Brighton Hove",
+     "url": "https://sv.wikipedia.org/wiki/Yasin_Ayari"
+    }
+   ]
+  },
+  {
+   "id": "560635",
+   "sport": "Fotboll",
+   "competition": "Premier League",
+   "start": "2026-11-08T14:00:00Z",
+   "title": "Crystal Palace – Liverpool",
+   "score": "1–3",
+   "swedes": [
+    {
+     "name": "Alexander Isak",
+     "team": "Liverpool",
+     "url": "https://sv.wikipedia.org/wiki/Alexander_Isak"
+    }
+   ]
+  },
+  {
+   "id": "558538",
+   "sport": "Fotboll",
+   "competition": "Serie A",
+   "start": "2026-11-08T14:00:00Z",
+   "title": "Monza – Atalanta",
+   "score": "0–1",
+   "swedes": [
+    {
+     "name": "Noel Törnqvist",
+     "team": "Monza",
+     "url": "https://sv.wikipedia.org/wiki/Noel_T%C3%B6rnqvist"
+    },
+    {
+     "name": "Isak Hien",
+     "team": "Atalanta",
+     "url": "https://sv.wikipedia.org/wiki/Isak_Hien"
+    }
+   ]
+  },
+  {
+   "id": "560636",
+   "sport": "Fotboll",
+   "competition": "Premier League",
+   "start": "2026-11-08T14:00:00Z",
+   "title": "Sunderland – Chelsea",
+   "score": "1–0",
+   "swedes": [
+    {
+     "name": "Melker Ellborg",
+     "team": "Sunderland",
+     "url": "https://sv.wikipedia.org/wiki/Melker_Ellborg"
+    }
+   ]
+  },
+  {
+   "id": "567351",
+   "sport": "Fotboll",
+   "competition": "Primeira Liga",
+   "start": "2026-11-08T15:30:00Z",
+   "title": "Santa Clara – Gil Vicente",
+   "score": "1–2",
+   "swedes": [
+    {
+     "name": "Andre Picornell",
+     "team": "Gil Vicente",
+     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Picornell"
+    }
+   ]
+  },
+  {
+   "id": "558837",
+   "sport": "Fotboll",
+   "competition": "Eredivisie",
+   "start": "2026-11-08T15:45:00Z",
+   "title": "AZ – Groningen",
+   "score": "4–3",
+   "swedes": [
+    {
+     "name": "Alvin Nordin",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Alvin_Nordin"
+    },
+    {
+     "name": "Elvis Van Der Laan",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Elvis_van_der_Laan"
+    },
+    {
+     "name": "Jacob Ondrejka",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Ondrejka"
+    },
+    {
+     "name": "Malcolm Jeng",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Malcolm_Jeng"
+    }
+   ]
+  },
+  {
+   "id": "559634",
+   "sport": "Fotboll",
+   "competition": "Ligue 1",
+   "start": "2026-11-08T16:15:00Z",
+   "title": "Angers SCO – Nice",
+   "score": "0–2",
+   "swedes": [
+    {
+     "name": "Isak Jansson",
+     "team": "Nice",
+     "url": "https://sv.wikipedia.org/wiki/Isak_Jansson_(fotbollsspelare)"
+    }
+   ]
+  },
+  {
+   "id": "560639",
+   "sport": "Fotboll",
+   "competition": "Premier League",
+   "start": "2026-11-08T16:30:00Z",
+   "title": "Man United – Aston Villa",
+   "score": "4–4",
+   "swedes": [
+    {
+     "name": "Victor Nilsson-Lindelöf",
+     "team": "Aston Villa",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Nilsson_Lindel%C3%B6f"
+    }
+   ]
+  },
+  {
+   "id": "558530",
+   "sport": "Fotboll",
+   "competition": "Serie A",
+   "start": "2026-11-08T17:00:00Z",
+   "title": "Inter – Como 1907",
+   "score": "2–0",
+   "swedes": [
+    {
+     "name": "Adrian Lahdo",
+     "team": "Como 1907",
+     "url": "https://sv.wikipedia.org/wiki/Adrian_Lahdo"
+    }
+   ]
+  },
+  {
+   "id": "564742",
+   "sport": "Fotboll",
+   "competition": "La Liga",
+   "start": "2026-11-08T17:30:00Z",
+   "title": "Celta – Levante",
+   "score": "0–0",
+   "swedes": [
+    {
+     "name": "Carl Starfelt",
+     "team": "Celta",
+     "url": "https://sv.wikipedia.org/wiki/Carl_Starfelt"
+    },
+    {
+     "name": "Williot Swedberg",
+     "team": "Celta",
+     "url": "https://sv.wikipedia.org/wiki/Williot_Swedberg"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020277",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-08T18:00:00Z",
+   "title": "Boston Bruins – Florida Panthers",
+   "score": "4–1",
+   "swedes": [
+    {
+     "name": "Elias Lindholm",
+     "team": "Bruins",
+     "url": "https://sv.wikipedia.org/wiki/Elias_Lindholm"
+    },
+    {
+     "name": "Hampus Lindholm",
+     "team": "Bruins",
+     "url": "https://sv.wikipedia.org/wiki/Hampus_Lindholm"
+    },
+    {
+     "name": "Gustav Forsling",
+     "team": "Panthers",
+     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling"
+    },
+    {
+     "name": "Jacob Markstrom",
+     "team": "Panthers",
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m"
+    }
+   ]
+  },
+  {
+   "id": "567349",
+   "sport": "Fotboll",
+   "competition": "Primeira Liga",
+   "start": "2026-11-08T18:00:00Z",
+   "title": "Vitória SC – Porto",
+   "score": "1–2",
+   "swedes": [
+    {
+     "name": "Victor Andersson",
+     "team": "Vitória SC",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Andersson_(fotbollsspelare)"
+    }
+   ]
+  },
+  {
+   "id": "558529",
+   "sport": "Fotboll",
+   "competition": "Serie A",
+   "start": "2026-11-08T19:45:00Z",
+   "title": "Fiorentina – Juventus",
+   "score": "2–2",
+   "swedes": [
+    {
+     "name": "Alieu Njie",
+     "team": "Fiorentina",
+     "url": "https://sv.wikipedia.org/wiki/Alieu_Njie"
+    }
+   ]
+  },
+  {
+   "id": "564746",
+   "sport": "Fotboll",
+   "competition": "La Liga",
+   "start": "2026-11-08T20:00:00Z",
+   "title": "Atleti – Barça",
+   "score": "1–2",
+   "swedes": [
+    {
+     "name": "Roony Bardghji",
+     "team": "Barça",
+     "url": "https://sv.wikipedia.org/wiki/Roony_Bardghji"
+    }
+   ]
+  },
+  {
+   "id": "567355",
+   "sport": "Fotboll",
+   "competition": "Primeira Liga",
+   "start": "2026-11-08T20:30:00Z",
+   "title": "Amadora – SL Benfica",
+   "score": "2–3",
+   "swedes": [
+    {
+     "name": "Samuel Dahl",
+     "team": "SL Benfica",
+     "url": "https://sv.wikipedia.org/wiki/Samuel_Dahl"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020278",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-08T20:30:00Z",
+   "title": "Buffalo Sabres – Vegas Golden Knights",
+   "score": "1–4",
+   "swedes": [
+    {
+     "name": "Noah Ostlund",
+     "team": "Sabres",
+     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund"
+    },
+    {
+     "name": "Rasmus Dahlin",
+     "team": "Sabres",
+     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin"
+    },
+    {
+     "name": "Rasmus Andersson",
+     "team": "Golden Knights",
+     "url": null
+    },
+    {
+     "name": "Victor Olofsson",
+     "team": "Golden Knights",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson"
+    },
+    {
+     "name": "William Karlsson",
+     "team": "Golden Knights",
+     "url": "https://sv.wikipedia.org/wiki/William_Karlsson"
+    }
+   ]
+  },
+  {
+   "id": "567354",
+   "sport": "Fotboll",
+   "competition": "Primeira Liga",
+   "start": "2026-11-08T20:30:00Z",
+   "title": "Rio Ave – Braga",
+   "score": "0–1",
+   "swedes": [
+    {
+     "name": "Gustaf Lagerbielke",
+     "team": "Braga",
+     "url": "https://sv.wikipedia.org/wiki/Gustaf_Lagerbielke_(fotbollsspelare)"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020280",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-08T23:00:00Z",
+   "title": "Winnipeg Jets – Tampa Bay Lightning",
+   "score": "4–3",
+   "swedes": [
+    {
+     "name": "Isak Rosen",
+     "team": "Jets",
+     "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n"
+    },
+    {
+     "name": "Viggo Björck",
+     "team": "Jets",
+     "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck"
+    },
+    {
+     "name": "Dennis Hildeby",
+     "team": "Lightning",
+     "url": "https://sv.wikipedia.org/wiki/Dennis_Hildeby"
+    },
+    {
+     "name": "Pontus Holmberg",
+     "team": "Lightning",
+     "url": "https://sv.wikipedia.org/wiki/Pontus_Holmberg"
+    },
+    {
+     "name": "Victor Hedman",
+     "team": "Lightning",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Hedman"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020281",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-09T00:00:00Z",
+   "title": "Calgary Flames – Philadelphia Flyers",
+   "score": "4–3 efter förlängning",
+   "swedes": [
+    {
+     "name": "Mikael Backlund",
+     "team": "Flames",
+     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund"
+    },
+    {
+     "name": "William Stromgren",
+     "team": "Flames",
+     "url": null
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020279",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-09T00:00:00Z",
+   "title": "Toronto Maple Leafs – New Jersey Devils",
+   "score": "0–4",
+   "swedes": [
+    {
+     "name": "Oliver Ekman-Larsson",
+     "team": "Maple Leafs",
+     "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson"
+    },
+    {
+     "name": "William Nylander",
+     "team": "Maple Leafs",
+     "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)"
+    },
+    {
+     "name": "Jesper Boqvist",
+     "team": "Devils",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist"
+    },
+    {
+     "name": "Jesper Bratt",
+     "team": "Devils",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020282",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-09T01:00:00Z",
+   "title": "Anaheim Ducks – Pittsburgh Penguins",
+   "score": "5–2",
+   "swedes": [
+    {
+     "name": "Leo Carlsson",
+     "team": "Ducks",
+     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson"
+    },
+    {
+     "name": "Elmer Soderblom",
+     "team": "Penguins",
+     "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom"
+    },
+    {
+     "name": "Erik Karlsson",
+     "team": "Penguins",
+     "url": null
+    },
+    {
+     "name": "Rickard Rakell",
+     "team": "Penguins",
+     "url": "https://sv.wikipedia.org/wiki/Rickard_Rakell"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020283",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-10T01:00:00Z",
+   "title": "Edmonton Oilers – New York Rangers",
+   "score": "3–1",
+   "swedes": [
+    {
+     "name": "Filip Hallander",
+     "team": "Oilers",
+     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander"
+    },
+    {
+     "name": "Mattias Ekholm",
+     "team": "Oilers",
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm"
+    },
+    {
+     "name": "Mattias Janmark",
+     "team": "Oilers",
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark"
+    },
+    {
+     "name": "Marcus Pettersson",
+     "team": "Rangers",
+     "url": "https://sv.wikipedia.org/wiki/Marcus_Pettersson"
+    },
+    {
+     "name": "Mika Zibanejad",
+     "team": "Rangers",
+     "url": "https://sv.wikipedia.org/wiki/Mika_Zibanejad"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020284",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-10T02:30:00Z",
+   "title": "Vancouver Canucks – Philadelphia Flyers",
+   "score": "1–3",
+   "swedes": [
+    {
+     "name": "Elias Pettersson #25",
+     "team": "Canucks",
+     "url": null
+    },
+    {
+     "name": "Elias Pettersson #40",
+     "team": "Canucks",
+     "url": null
+    },
+    {
+     "name": "Jonathan Lekkerimäki",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki"
+    },
+    {
+     "name": "Liam Ohgren",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren"
+    },
+    {
+     "name": "Linus Karlsson",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson"
+    },
+    {
+     "name": "Tom Willander",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Tom_Willander"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020285",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-10T03:00:00Z",
+   "title": "San Jose Sharks – New York Islanders",
+   "score": "3–2 efter straffar",
+   "swedes": [
+    {
+     "name": "Alexander Wennberg",
+     "team": "Sharks",
+     "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg"
+    },
+    {
+     "name": "Ivar Stenberg",
+     "team": "Sharks",
+     "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg"
+    },
+    {
+     "name": "Emil Heineman",
+     "team": "Islanders",
+     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman"
+    },
+    {
+     "name": "Simon Holmstrom",
+     "team": "Islanders",
+     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m"
+    },
+    {
+     "name": "Victor Eklund",
+     "team": "Islanders",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund"
+    }
+   ]
+  }
+ ]
 }
