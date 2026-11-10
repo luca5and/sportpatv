@@ -271,6 +271,12 @@
    "title": "St. Louis Blues – Detroit Red Wings",
    "swedes": [
     {
+     "name": "Calle Rosén",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Calle_Ros%C3%A9n",
+     "page": "spelare/calle-rosen/"
+    },
+    {
      "name": "Jonatan Berggren",
      "team": "Blues",
      "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
@@ -281,12 +287,6 @@
      "team": "Blues",
      "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
      "page": "spelare/philip-broberg/"
-    },
-    {
-     "name": "Theo Lindstein",
-     "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Theo_Lindstein",
-     "page": "spelare/theo-lindstein/"
     },
     {
      "name": "Albert Johansson",
@@ -685,12 +685,6 @@
      "team": "Sharks",
      "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg",
      "page": "spelare/alexander-wennberg/"
-    },
-    {
-     "name": "Filip Bystedt",
-     "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Bystedt",
-     "page": "spelare/filip-bystedt/"
     },
     {
      "name": "Ivar Stenberg",
@@ -1123,12 +1117,6 @@
      "page": "spelare/anton-frondell/"
     },
     {
-     "name": "Arvid Söderblom",
-     "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom",
-     "page": "spelare/arvid-soderblom/"
-    },
-    {
      "name": "Noah Östlund",
      "team": "Sabres",
      "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
@@ -1223,6 +1211,12 @@
      "page": "spelare/kevin-stenlund/"
     },
     {
+     "name": "Calle Rosén",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Calle_Ros%C3%A9n",
+     "page": "spelare/calle-rosen/"
+    },
+    {
      "name": "Jonatan Berggren",
      "team": "Blues",
      "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
@@ -1233,12 +1227,6 @@
      "team": "Blues",
      "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
      "page": "spelare/philip-broberg/"
-    },
-    {
-     "name": "Theo Lindstein",
-     "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Theo_Lindstein",
-     "page": "spelare/theo-lindstein/"
     }
    ],
    "tv": {
@@ -1515,12 +1503,6 @@
      "page": "spelare/anton-frondell/"
     },
     {
-     "name": "Arvid Söderblom",
-     "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Arvid_S%C3%B6derblom",
-     "page": "spelare/arvid-soderblom/"
-    },
-    {
      "name": "Isak Rosén",
      "team": "Jets",
      "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
@@ -1739,6 +1721,12 @@
    "title": "St. Louis Blues – Florida Panthers",
    "swedes": [
     {
+     "name": "Calle Rosén",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Calle_Ros%C3%A9n",
+     "page": "spelare/calle-rosen/"
+    },
+    {
      "name": "Jonatan Berggren",
      "team": "Blues",
      "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
@@ -1749,12 +1737,6 @@
      "team": "Blues",
      "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
      "page": "spelare/philip-broberg/"
-    },
-    {
-     "name": "Theo Lindstein",
-     "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Theo_Lindstein",
-     "page": "spelare/theo-lindstein/"
     },
     {
      "name": "Gustav Forsling",
@@ -2041,12 +2023,6 @@
      "team": "Sharks",
      "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg",
      "page": "spelare/alexander-wennberg/"
-    },
-    {
-     "name": "Filip Bystedt",
-     "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Bystedt",
-     "page": "spelare/filip-bystedt/"
     },
     {
      "name": "Ivar Stenberg",
@@ -2337,12 +2313,6 @@
      "page": "spelare/alexander-wennberg/"
     },
     {
-     "name": "Filip Bystedt",
-     "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Bystedt",
-     "page": "spelare/filip-bystedt/"
-    },
-    {
      "name": "Ivar Stenberg",
      "team": "Sharks",
      "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg",
@@ -2464,6 +2434,124 @@
     {
      "name": "Vegas Golden Knights",
      "page": "lag/vegas-golden-knights/"
+    },
+    {
+     "name": "Vancouver Canucks",
+     "page": "lag/vancouver-canucks/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020331",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-17T00:30:00Z",
+   "title": "New York Rangers – Montréal Canadiens",
+   "swedes": [
+    {
+     "name": "Marcus Pettersson",
+     "team": "Rangers",
+     "url": "https://sv.wikipedia.org/wiki/Marcus_Pettersson",
+     "page": "spelare/marcus-pettersson/"
+    },
+    {
+     "name": "Mika Zibanejad",
+     "team": "Rangers",
+     "url": "https://sv.wikipedia.org/wiki/Mika_Zibanejad",
+     "page": "spelare/mika-zibanejad/"
+    },
+    {
+     "name": "Adam Engström",
+     "team": "Canadiens",
+     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
+     "page": "spelare/adam-engstrom/"
+    },
+    {
+     "name": "Oliver Kapanen",
+     "team": "Canadiens",
+     "url": null,
+     "page": "spelare/oliver-kapanen/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "New York Rangers",
+     "page": "lag/new-york-rangers/"
+    },
+    {
+     "name": "Montréal Canadiens",
+     "page": "lag/montreal-canadiens/"
+    }
+   ]
+  },
+  {
+   "id": "nhl-2026020332",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-17T02:30:00Z",
+   "title": "Utah Mammoth – Vancouver Canucks",
+   "swedes": [
+    {
+     "name": "Kevin Stenlund",
+     "team": "Mammoth",
+     "url": "https://sv.wikipedia.org/wiki/Kevin_Stenlund",
+     "page": "spelare/kevin-stenlund/"
+    },
+    {
+     "name": "Elias Pettersson #25",
+     "team": "Canucks",
+     "url": null,
+     "page": "spelare/elias-pettersson-25/"
+    },
+    {
+     "name": "Elias Pettersson #40",
+     "team": "Canucks",
+     "url": null,
+     "page": "spelare/elias-pettersson-40/"
+    },
+    {
+     "name": "Jonathan Lekkerimäki",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
+     "page": "spelare/jonathan-lekkerimaki/"
+    },
+    {
+     "name": "Liam Öhgren",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
+     "page": "spelare/liam-ohgren/"
+    },
+    {
+     "name": "Linus Karlsson",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
+     "page": "spelare/linus-karlsson/"
+    },
+    {
+     "name": "Tom Willander",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Tom_Willander",
+     "page": "spelare/tom-willander/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Troligen Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Utah Mammoth",
+     "page": "lag/utah-mammoth/"
     },
     {
      "name": "Vancouver Canucks",
