@@ -134,11 +134,15 @@ def tv_status(match_id, competition_code, rights, confirmations, round_count=0, 
     if coverage == "selected" and r.get("per_round") and round_count >= r["per_round"]:
         return {"status": "none", "service": None, "channel": None, "source": None,
                 "note": f'Inte bland omgångens {r["per_round"]} matcher på {services[0]}'}
+    label = None
     if coverage == "selected" and services and r.get("per_round"):
         note = f'{services[0]} visar {r["per_round"]} utvalda matcher per omgång'
+    elif len(services) > 1:
+        # Delad liga utan känd fördelning: visa tjänsterna på märket, fortfarande grått
+        label, note = " eller ".join(services), "Kolla närmare matchen"
     else:
         note = ("Troligen " + " eller ".join(services)) if services else None
-    return {"status": "unknown", "service": None, "channel": None, "source": None, "note": note}
+    return {"status": "unknown", "service": None, "channel": None, "source": None, "note": note, "label": label}
 
 
 def round_counts(matches, rights, confirmations):

@@ -59,7 +59,7 @@
     if (tv.status === "none") {
       return el("span", { class: "badge none" }, ["Sänds inte i Sverige"]);
     }
-    return el("span", { class: "badge unknown" }, ["Ej bekräftat"]);
+    return el("span", { class: "badge unknown", title: "Ej bekräftat" }, [tv.label || "Ej bekräftat"]);
   }
 
   function renderEvent(e) {

@@ -160,7 +160,8 @@ class NhlTest(unittest.TestCase):
         self.assertEqual(e["swedes"][0]["team"], "Maple Leafs")
         removed = build.nhl_events(nhl, rights, {}, people, {"William Nylander", "Oliver Ekman-Larsson"})
         self.assertEqual(removed, [])
-        self.assertEqual((e["tv"]["status"], e["tv"]["note"]), ("unknown", "Troligen Viaplay eller Disney+"))
+        self.assertEqual((e["tv"]["status"], e["tv"]["label"], e["tv"]["note"]),
+                         ("unknown", "Viaplay eller Disney+", "Kolla närmare matchen"))
 
 
 class TvStatusTest(unittest.TestCase):
@@ -196,7 +197,8 @@ class TvStatusTest(unittest.TestCase):
 
     def test_unchecked_is_never_guessed(self):
         pl = build.tv_status("3", "PL", self.rights, {})
-        self.assertEqual((pl["status"], pl["service"], pl["note"]), ("unknown", None, "Troligen Viaplay eller Prime Video"))
+        self.assertEqual((pl["status"], pl["service"], pl["label"], pl["note"]),
+                         ("unknown", None, "Viaplay eller Prime Video", "Kolla närmare matchen"))
         self.assertEqual(build.tv_status("4", "CL", self.rights, {})["status"], "unknown")
         self.assertIsNone(build.tv_status("5", "XX", self.rights, {})["note"])
 
