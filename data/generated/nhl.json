@@ -287,7 +287,7 @@
    "id": "2026020309",
    "score": null,
    "start": "2026-11-12T17:00:00Z",
-   "state": "FUT",
+   "state": "PRE",
    "type": 2
   },
   {
@@ -2692,11 +2692,6 @@
     "name": "Joel Edmundson"
    },
    {
-    "born": "2003-03-10",
-    "country": "USA",
-    "name": "Kenny Connors"
-   },
-   {
     "born": "1996-07-22",
     "country": "CHE",
     "name": "Kevin Fiala"
@@ -3066,6 +3061,11 @@
     "born": "1997-05-06",
     "country": "CHE",
     "name": "Jonas Siegenthaler"
+   },
+   {
+    "born": "2004-11-07",
+    "country": "FIN",
+    "name": "Lenni Hameenaho"
    },
    {
     "born": "2002-02-21",
@@ -4383,6 +4383,11 @@
     "born": "1997-05-22",
     "country": "USA",
     "name": "Brandon Duhaime"
+   },
+   {
+    "born": "2001-10-22",
+    "country": "USA",
+    "name": "Brendan Brisson"
    },
    {
     "born": "1989-12-20",
