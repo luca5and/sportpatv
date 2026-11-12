@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-11",
+ "fetched": "2026-11-12",
  "matches": [
   {
    "id": "555085",
@@ -44,6 +44,98 @@
     "name": "CR Vasco da Gama",
     "shortName": "Vasco da Gama",
     "tla": "VAS"
+   },
+   "score": null
+  },
+  {
+   "id": "555081",
+   "start": "2026-11-18T22:30:00Z",
+   "status": "TIMED",
+   "matchday": 35,
+   "competition": {
+    "code": "BSA",
+    "name": "Campeonato Brasileiro Série A"
+   },
+   "home": {
+    "id": 4241,
+    "name": "Coritiba FBC",
+    "shortName": "Coritiba",
+    "tla": "COR"
+   },
+   "away": {
+    "id": 6685,
+    "name": "Santos FC",
+    "shortName": "Santos",
+    "tla": "SAN"
+   },
+   "score": null
+  },
+  {
+   "id": "555086",
+   "start": "2026-11-18T23:00:00Z",
+   "status": "TIMED",
+   "matchday": 35,
+   "competition": {
+    "code": "BSA",
+    "name": "Campeonato Brasileiro Série A"
+   },
+   "home": {
+    "id": 4287,
+    "name": "Clube do Remo",
+    "shortName": "Clube do Remo",
+    "tla": "CRE"
+   },
+   "away": {
+    "id": 1772,
+    "name": "Chapecoense AF",
+    "shortName": "Chapecoense",
+    "tla": "CHA"
+   },
+   "score": null
+  },
+  {
+   "id": "555083",
+   "start": "2026-11-18T23:30:00Z",
+   "status": "TIMED",
+   "matchday": 35,
+   "competition": {
+    "code": "BSA",
+    "name": "Campeonato Brasileiro Série A"
+   },
+   "home": {
+    "id": 1783,
+    "name": "CR Flamengo",
+    "shortName": "Flamengo",
+    "tla": "FLA"
+   },
+   "away": {
+    "id": 1768,
+    "name": "CA Paranaense",
+    "shortName": "Paranaense",
+    "tla": "CAP"
+   },
+   "score": null
+  },
+  {
+   "id": "555082",
+   "start": "2026-11-18T23:30:00Z",
+   "status": "TIMED",
+   "matchday": 35,
+   "competition": {
+    "code": "BSA",
+    "name": "Campeonato Brasileiro Série A"
+   },
+   "home": {
+    "id": 1771,
+    "name": "Cruzeiro EC",
+    "shortName": "Cruzeiro",
+    "tla": "CRU"
+   },
+   "away": {
+    "id": 1769,
+    "name": "SE Palmeiras",
+    "shortName": "Palmeiras",
+    "tla": "PAL"
    },
    "score": null
   }
