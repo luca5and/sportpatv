@@ -68,6 +68,8 @@ def tv_text(tv):
     if tv["status"] in ("confirmed", "likely"):
         label = f'{tv["service"]} · {tv["channel"]}' if tv.get("channel") else tv["service"]
         return label + ("" if tv["status"] == "confirmed" else " (bör sändas)")
+    if tv.get("label"):
+        return f'{tv["label"]} (ej bekräftat)'
     return TV_TEXT.get(tv["status"], "Ej bekräftat")
 
 
@@ -201,7 +203,7 @@ def add_competition(entry, competition):
 def event_html(e, prefix="", show_day=False):
     tv = e["tv"]
     cls = tv["status"] if tv["status"] in ("confirmed", "likely", "none") else "unknown"
-    label = TV_TEXT.get(tv["status"]) or (f'{tv["service"]} · {tv["channel"]}' if tv.get("channel") else tv["service"])
+    label = tv.get("label") or TV_TEXT.get(tv["status"]) or (f'{tv["service"]} · {tv["channel"]}' if tv.get("channel") else tv["service"])
     note = tv.get("note") if tv["status"] != "confirmed" and tv.get("note") != "Sänds inte i Sverige" else None
     swedes = "".join(
         f'<span class="swede"><a href="{esc(prefix + s["page"])}">{esc(s["name"])}</a> <small>{esc(s["team"])}</small></span>'
