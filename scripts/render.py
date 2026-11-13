@@ -220,6 +220,16 @@ def event_html(e, prefix="", show_day=False):
     )
 
 
+DATEMOD = "__DATEMOD__"            # ersätts med sidans ändringsdatum (ÅÅÅÅ-MM-DD) i fill_dates
+DATEMOD_TEXT = "__DATEMOD_TEXT__"  # ... och med t.ex. "fre 13 nov"
+UPDATED_TOP = f'<p class="updated">Uppdaterad <time datetime="{DATEMOD}">{DATEMOD_TEXT}</time></p>'
+
+
+def webpage_ld(name, url):
+    return {"@context": "https://schema.org", "@type": "WebPage", "name": name, "url": url,
+            "inLanguage": "sv-SE", "dateModified": DATEMOD}
+
+
 def breadcrumb_ld(h1, url):
     """Strukturerad data: påTV › sidan. Matcherna märks inte som Event, eftersom
     Googles Event-format kräver arena/adress som en TV-guide inte har."""
@@ -237,7 +247,7 @@ def page_html(*, title, description, path, h1, lede, events, links, updated, wat
     items = "".join(event_html(e, prefix, show_day=True) for e in events) or '<li class="empty-row">Inga matcher de närmaste sju dagarna.</li>'
     body = list_html if list_html is not None else f'<ol class="list">{items}</ol>'
     url = f'{SITE["base_url"]}/{path}'
-    ld = breadcrumb_ld(h1, url)
+    ld = [breadcrumb_ld(h1, url), webpage_ld(h1, url)]
     return f"""<!doctype html>
 <html lang="sv">
 <head>
@@ -273,6 +283,7 @@ def page_html(*, title, description, path, h1, lede, events, links, updated, wat
     <nav class="crumbs"><a href="{prefix}">Alla svenskar på TV</a></nav>
     <h1 class="intro">{esc(h1)}</h1>
     <p class="lede">{lede}</p>
+    {UPDATED_TOP}
     {body}
     {watch}
     <p class="links">{links}</p>
@@ -485,6 +496,8 @@ def render_index(events, registry, updated):
         "{{STYLE_CSS}}": asset("style.css"),
         "{{APP_JS}}": asset("app.js"),
         "{{USAGE_JS}}": asset("usage.js"),
+        "{{UPDATED_TOP}}": UPDATED_TOP,
+        "{{PAGE_JSONLD}}": json_ld(webpage_ld("Svenskar på TV idag", SITE["base_url"] + "/")),
         "{{SITE_JSONLD}}": json_ld({"@context": "https://schema.org", "@type": "WebSite",
                                     "name": SITE["name"], "alternateName": ["patv.se", "Svenskar på TV"],
                                     "url": SITE["base_url"] + "/", "inLanguage": "sv-SE"}),
@@ -497,6 +510,20 @@ def render_index(events, registry, updated):
     }.items():
         page = page.replace(key, value)
     write(DOCS / "index.html", page)
+
+
+def fill_dates(paths, known, today):
+    """Sätter in sidans ändringsdatum (samma som lastmod i sitemap) synligt och i dateModified.
+    Görs efter jämförelsen, så att datumet i sig aldrig räknas som en ändring."""
+    for path in paths:
+        f = DOCS / path / "index.html"
+        if not f.exists():
+            continue
+        date = known.get(path, {}).get("date", today)
+        text = f.read_text()
+        if DATEMOD in text:
+            label = fmt_day(dt.date.fromisoformat(date))
+            f.write_text(text.replace(DATEMOD_TEXT, label).replace(DATEMOD, date))
 
 
 def render_sitemap(registry, today):
@@ -517,6 +544,7 @@ def render_sitemap(registry, today):
     body = "".join(f"  <url><loc>{esc(base + '/' + p)}</loc><lastmod>{known.get(p, {}).get('date', today)}</lastmod></url>\n"
                    for p in paths)
     urls = paths
+    fill_dates(paths, known, today)
     write(DOCS / "sitemap.xml",
           f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{body}</urlset>\n')
     write(DOCS / "robots.txt", f"User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\n")

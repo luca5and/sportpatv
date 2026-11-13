@@ -122,3 +122,4 @@ a { color: var(--accent); }
 .quick { display: flex; flex-wrap: wrap; gap: 8px; }
 .quick .chip { text-decoration: none; }
 .quick-links { margin: 8px 0 18px; }
+.updated { color: var(--muted); font-size: 0.85rem; margin: 4px 0 0; }
