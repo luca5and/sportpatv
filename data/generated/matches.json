@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-12",
+ "fetched": "2026-11-13",
  "matches": [
   {
    "id": "555085",
@@ -94,6 +94,29 @@
    "score": null
   },
   {
+   "id": "555082",
+   "start": "2026-11-18T23:30:00Z",
+   "status": "TIMED",
+   "matchday": 35,
+   "competition": {
+    "code": "BSA",
+    "name": "Campeonato Brasileiro Série A"
+   },
+   "home": {
+    "id": 1771,
+    "name": "Cruzeiro EC",
+    "shortName": "Cruzeiro",
+    "tla": "CRU"
+   },
+   "away": {
+    "id": 1769,
+    "name": "SE Palmeiras",
+    "shortName": "Palmeiras",
+    "tla": "PAL"
+   },
+   "score": null
+  },
+  {
    "id": "555083",
    "start": "2026-11-18T23:30:00Z",
    "status": "TIMED",
@@ -117,8 +140,8 @@
    "score": null
   },
   {
-   "id": "555082",
-   "start": "2026-11-18T23:30:00Z",
+   "id": "555084",
+   "start": "2026-11-19T00:30:00Z",
    "status": "TIMED",
    "matchday": 35,
    "competition": {
@@ -126,16 +149,85 @@
     "name": "Campeonato Brasileiro Série A"
    },
    "home": {
-    "id": 1771,
-    "name": "Cruzeiro EC",
-    "shortName": "Cruzeiro",
-    "tla": "CRU"
+    "id": 1767,
+    "name": "Grêmio FBPA",
+    "shortName": "Grêmio",
+    "tla": "FBP"
    },
    "away": {
-    "id": 1769,
-    "name": "SE Palmeiras",
-    "shortName": "Palmeiras",
-    "tla": "PAL"
+    "id": 1777,
+    "name": "EC Bahia",
+    "shortName": "Bahia",
+    "tla": "BAH"
+   },
+   "score": null
+  },
+  {
+   "id": "555080",
+   "start": "2026-11-19T00:30:00Z",
+   "status": "TIMED",
+   "matchday": 35,
+   "competition": {
+    "code": "BSA",
+    "name": "Campeonato Brasileiro Série A"
+   },
+   "home": {
+    "id": 1779,
+    "name": "SC Corinthians Paulista",
+    "shortName": "Corinthians",
+    "tla": "COR"
+   },
+   "away": {
+    "id": 1770,
+    "name": "Botafogo FR",
+    "shortName": "Botafogo",
+    "tla": "BOT"
+   },
+   "score": null
+  },
+  {
+   "id": "555089",
+   "start": "2026-11-19T22:30:00Z",
+   "status": "TIMED",
+   "matchday": 35,
+   "competition": {
+    "code": "BSA",
+    "name": "Campeonato Brasileiro Série A"
+   },
+   "home": {
+    "id": 1782,
+    "name": "EC Vitória",
+    "shortName": "Vitória",
+    "tla": "VIT"
+   },
+   "away": {
+    "id": 4286,
+    "name": "RB Bragantino",
+    "shortName": "Bragantino",
+    "tla": "RBB"
+   },
+   "score": null
+  },
+  {
+   "id": "555088",
+   "start": "2026-11-19T22:30:00Z",
+   "status": "TIMED",
+   "matchday": 35,
+   "competition": {
+    "code": "BSA",
+    "name": "Campeonato Brasileiro Série A"
+   },
+   "home": {
+    "id": 1780,
+    "name": "CR Vasco da Gama",
+    "shortName": "Vasco da Gama",
+    "tla": "VAS"
+   },
+   "away": {
+    "id": 6684,
+    "name": "SC Internacional",
+    "shortName": "Internacional",
+    "tla": "SCI"
    },
    "score": null
   }
