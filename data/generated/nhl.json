@@ -1829,11 +1829,6 @@
     "name": "Aydar Suniev"
    },
    {
-    "born": "1999-02-26",
-    "country": "CAN",
-    "name": "Ben Jones"
-   },
-   {
     "born": "1999-08-23",
     "country": "CAN",
     "name": "Brayden Pachal"
@@ -1917,11 +1912,6 @@
     "born": "1993-07-11",
     "country": "CAN",
     "name": "Ryan Strome"
-   },
-   {
-    "born": "2004-11-12",
-    "country": "SVK",
-    "name": "Samuel Honzek"
    },
    {
     "born": "2004-02-15",
@@ -2121,6 +2111,11 @@
     "born": "1992-11-23",
     "country": "SWE",
     "name": "Gabriel Landeskog"
+   },
+   {
+    "born": "2004-10-05",
+    "country": "USA",
+    "name": "Gavin Brindley"
    },
    {
     "born": "1992-06-25",
@@ -5027,6 +5022,11 @@
     "born": "1996-07-08",
     "country": "CAN",
     "name": "Haydn Fleury"
+   },
+   {
+    "born": "2001-03-12",
+    "country": "USA",
+    "name": "Henry Thrun"
    },
    {
     "born": "2003-03-15",
