@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-13",
+ "fetched": "2026-11-14",
  "matches": [
   {
    "id": "555085",
@@ -186,6 +186,29 @@
    "score": null
   },
   {
+   "id": "555088",
+   "start": "2026-11-19T22:30:00Z",
+   "status": "TIMED",
+   "matchday": 35,
+   "competition": {
+    "code": "BSA",
+    "name": "Campeonato Brasileiro Série A"
+   },
+   "home": {
+    "id": 1780,
+    "name": "CR Vasco da Gama",
+    "shortName": "Vasco da Gama",
+    "tla": "VAS"
+   },
+   "away": {
+    "id": 6684,
+    "name": "SC Internacional",
+    "shortName": "Internacional",
+    "tla": "SCI"
+   },
+   "score": null
+  },
+  {
    "id": "555089",
    "start": "2026-11-19T22:30:00Z",
    "status": "TIMED",
@@ -209,8 +232,8 @@
    "score": null
   },
   {
-   "id": "555088",
-   "start": "2026-11-19T22:30:00Z",
+   "id": "555087",
+   "start": "2026-11-20T00:30:00Z",
    "status": "TIMED",
    "matchday": 35,
    "competition": {
@@ -218,16 +241,85 @@
     "name": "Campeonato Brasileiro Série A"
    },
    "home": {
-    "id": 1780,
-    "name": "CR Vasco da Gama",
-    "shortName": "Vasco da Gama",
-    "tla": "VAS"
+    "id": 1776,
+    "name": "São Paulo FC",
+    "shortName": "São Paulo",
+    "tla": "PAU"
    },
    "away": {
-    "id": 6684,
-    "name": "SC Internacional",
-    "shortName": "Internacional",
-    "tla": "SCI"
+    "id": 1765,
+    "name": "Fluminense FC",
+    "shortName": "Fluminense",
+    "tla": "FLU"
+   },
+   "score": null
+  },
+  {
+   "id": "565859",
+   "start": "2026-11-20T19:30:00Z",
+   "status": "TIMED",
+   "matchday": 10,
+   "competition": {
+    "code": "BL1",
+    "name": "Bundesliga"
+   },
+   "home": {
+    "id": 5,
+    "name": "FC Bayern München",
+    "shortName": "Bayern",
+    "tla": "FCB"
+   },
+   "away": {
+    "id": 1,
+    "name": "1. FC Köln",
+    "shortName": "1. FC Köln",
+    "tla": "KOE"
+   },
+   "score": null
+  },
+  {
+   "id": "559622",
+   "start": "2026-11-20T19:45:00Z",
+   "status": "TIMED",
+   "matchday": 11,
+   "competition": {
+    "code": "FL1",
+    "name": "Ligue 1"
+   },
+   "home": {
+    "id": 531,
+    "name": "ES Troyes AC",
+    "shortName": "Troyes",
+    "tla": "ETR"
+   },
+   "away": {
+    "id": 533,
+    "name": "Le Havre AC",
+    "shortName": "Le Havre",
+    "tla": "HAC"
+   },
+   "score": null
+  },
+  {
+   "id": "564748",
+   "start": "2026-11-20T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 13,
+   "competition": {
+    "code": "PD",
+    "name": "Primera Division"
+   },
+   "home": {
+    "id": 77,
+    "name": "Athletic Club",
+    "shortName": "Athletic",
+    "tla": "ATH"
+   },
+   "away": {
+    "id": 80,
+    "name": "RCD Espanyol de Barcelona",
+    "shortName": "Espanyol",
+    "tla": "ESP"
    },
    "score": null
   }
