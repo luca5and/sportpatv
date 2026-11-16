@@ -1,12 +1,12 @@
 {
  "lastmod": {
   "": {
-   "date": "2026-11-15",
-   "hash": "f9b48f4e89b9ef0641233c9a0c394d50f0394e81"
+   "date": "2026-11-16",
+   "hash": "78b475aaa6cd02a6698172789d60c59f98842095"
   },
   "helgen/": {
-   "date": "2026-11-15",
-   "hash": "58f41acbc65cc2011031d0bea92771bc84e2dd93"
+   "date": "2026-11-16",
+   "hash": "547bd5e2333e71b71e5acdb11aedfa711a6d2b36"
   },
   "lag/1-fc-koln/": {
    "date": "2026-11-13",
@@ -29,8 +29,8 @@
    "hash": "4f5e250bf9e775b4dd7f25c04e1b4aa6a3a04cbe"
   },
   "lag/anaheim-ducks/": {
-   "date": "2026-11-15",
-   "hash": "6426ab3d052ea07b0d85f7747faf7f0954e8d6b1"
+   "date": "2026-11-16",
+   "hash": "3c69f7b3933381414b2ada54af720d8e66a61dbe"
   },
   "lag/angers-sco/": {
    "date": "2026-11-13",
@@ -45,8 +45,8 @@
    "hash": "b1c03dc880057b719e85d02566b7785d309be119"
   },
   "lag/atalanta/": {
-   "date": "2026-11-13",
-   "hash": "a07be084a8a8548f95e39a975de8d9a73b9d06c0"
+   "date": "2026-11-16",
+   "hash": "7531e87c1848e1c92e7324823cdeacad7f28b3ae"
   },
   "lag/atleti/": {
    "date": "2026-11-13",
@@ -61,8 +61,8 @@
    "hash": "fb505b05a4b1f0417d5d2f9b82d61c1953786e92"
   },
   "lag/barca/": {
-   "date": "2026-11-13",
-   "hash": "6958cf4356e79c5953965fb76b5e074bea07ef01"
+   "date": "2026-11-16",
+   "hash": "93b1b95d47c74df86cd425aefe8d4eb0e17a35f5"
   },
   "lag/bayern/": {
    "date": "2026-11-13",
@@ -73,16 +73,16 @@
    "hash": "dbab0031761744839bb2d7ba798eab1b8057415e"
   },
   "lag/blackburn/": {
-   "date": "2026-11-13",
-   "hash": "8f659579eee2e0278a3ef10621041b3474cec947"
+   "date": "2026-11-16",
+   "hash": "53b96d3b8333bed2c74b61b4ea442bb18bd39c48"
   },
   "lag/bodo-glimt/": {
    "date": "2026-11-13",
    "hash": "1a5f69381c03388e835f5322251b7664df02e970"
   },
   "lag/bologna/": {
-   "date": "2026-11-13",
-   "hash": "55d5810c4ac6f95fa80b11f406dfe1be857ee0c0"
+   "date": "2026-11-16",
+   "hash": "ec6f6973359c03bb44d35b47b7b3f970d2665b75"
   },
   "lag/bolton/": {
    "date": "2026-11-13",
@@ -117,28 +117,28 @@
    "hash": "084ba202ddecaa4bd4053bacfb0e3acc4c085991"
   },
   "lag/brighton-hove/": {
-   "date": "2026-11-13",
-   "hash": "a21e12fb35af448438766356a93b55c5fb602373"
+   "date": "2026-11-16",
+   "hash": "b3b799a1eba5b1a1ebfe9e275c5c9701c5c3d64e"
   },
   "lag/bristol-city/": {
    "date": "2026-11-15",
    "hash": "cfa30ad813dd34801375defd7a8c6b4687ea65e6"
   },
   "lag/buffalo-sabres/": {
-   "date": "2026-11-15",
-   "hash": "72f5e3d2c0f8a5817ac401f66d154471e71cea2d"
+   "date": "2026-11-16",
+   "hash": "f59758821ce04643df97cb5d89f296100c1baf3b"
   },
   "lag/burnley/": {
-   "date": "2026-11-13",
-   "hash": "f522c2102aa1069b7229f00b7103ddf333868d94"
+   "date": "2026-11-16",
+   "hash": "0ba186b3dd8b3826e4e5be91e38a6460833a0c7a"
   },
   "lag/cagliari/": {
    "date": "2026-11-15",
    "hash": "3191214b2cda4fc44018cf8502051f5c215af614"
   },
   "lag/calgary-flames/": {
-   "date": "2026-11-15",
-   "hash": "e49b6fb99f2a4261ff551e6d43ed640d22c893c4"
+   "date": "2026-11-16",
+   "hash": "87c44f57eb24c79955b67ef3e7ed604ece0cfd6a"
   },
   "lag/cambuur/": {
    "date": "2026-11-13",
@@ -149,8 +149,8 @@
    "hash": "c69a9e13cb42b8816c5ff8d996337f0124be88b4"
   },
   "lag/carolina-hurricanes/": {
-   "date": "2026-11-15",
-   "hash": "ec3b6e92e52e95dc3ae88181f14039b786d52d24"
+   "date": "2026-11-16",
+   "hash": "dce8940df255b07c7de0e85659879d65e62ff0a6"
   },
   "lag/cd-nacional/": {
    "date": "2026-11-13",
@@ -169,8 +169,8 @@
    "hash": "9c272ba6e411f1bb87b3c80195a6557592ea645f"
   },
   "lag/chicago-blackhawks/": {
-   "date": "2026-11-15",
-   "hash": "efe70bf455269896a803dd23de2f010fde98bbd0"
+   "date": "2026-11-16",
+   "hash": "210fc1280c2d80fcf88c9bce76c867403d37f7fd"
   },
   "lag/club-brugge/": {
    "date": "2026-11-13",
@@ -201,8 +201,8 @@
    "hash": "580559045504e7e03b193eae5bdbe2f30b6ab84f"
   },
   "lag/dallas-stars/": {
-   "date": "2026-11-15",
-   "hash": "330c00ef0b34ddb0af6079380258aa8835b1b403"
+   "date": "2026-11-16",
+   "hash": "dc3af92bbe8515b023c6820768d819e7f6c336ce"
   },
   "lag/den-haag/": {
    "date": "2026-11-13",
@@ -221,8 +221,8 @@
    "hash": "bfad0fd65cb69988196a95216b5a3e0ec99a9416"
   },
   "lag/edmonton-oilers/": {
-   "date": "2026-11-15",
-   "hash": "10909a2c76a42483c4b60793be456e5b0503abfd"
+   "date": "2026-11-16",
+   "hash": "a9768acee119be6be33ca893037f1bf0a00e5582"
   },
   "lag/elche/": {
    "date": "2026-11-13",
@@ -261,8 +261,8 @@
    "hash": "b7a78555d13681ee29e214e3390ad33278e134c4"
   },
   "lag/florida-panthers/": {
-   "date": "2026-11-15",
-   "hash": "f74fa6080dea4d7e14b768827f10086ed1641270"
+   "date": "2026-11-16",
+   "hash": "1443bab34d146d12da8df6e12305768630c27c92"
   },
   "lag/fluminense/": {
    "date": "2026-11-13",
@@ -297,8 +297,8 @@
    "hash": "272104b24589a67fa27831682060c961c18a89d5"
   },
   "lag/go-ahead/": {
-   "date": "2026-11-13",
-   "hash": "a949651cdf9de08b9af7fb44afae1bb1841af3e7"
+   "date": "2026-11-16",
+   "hash": "7eb927342bca9b73e735631c84c956bdf01faa7f"
   },
   "lag/groningen/": {
    "date": "2026-11-15",
@@ -317,12 +317,12 @@
    "hash": "d32aba1c51c64d555e5bb91bc8eb75168123a7f1"
   },
   "lag/hull-city/": {
-   "date": "2026-11-13",
-   "hash": "1090244e63b2a6ffa6a80421f5d212b23249ffc5"
+   "date": "2026-11-16",
+   "hash": "94de5b6b38c128b8c6e47a6685f53b9d5cef56eb"
   },
   "lag/inter/": {
-   "date": "2026-11-13",
-   "hash": "7a574b1b1a605ab71b3ce0bab125ec2460066c98"
+   "date": "2026-11-16",
+   "hash": "5c8d1912ee3d2734f66e05a8b5bd421e8a6e254e"
   },
   "lag/internacional/": {
    "date": "2026-11-13",
@@ -369,8 +369,8 @@
    "hash": "a90cadb26daaf9056cfc3b0d0979630d4984836a"
   },
   "lag/liverpool/": {
-   "date": "2026-11-13",
-   "hash": "f78851c24c33fe053c9aadb6f284e8e3db725779"
+   "date": "2026-11-16",
+   "hash": "d5c0f2414dbc67fcf1f7a7f95b81b2c0780a14db"
   },
   "lag/los-angeles-kings/": {
    "date": "2026-11-15",
@@ -381,16 +381,16 @@
    "hash": "e54ce20d63b9ae7edb81e626758c0a6aedf80585"
   },
   "lag/malaga/": {
-   "date": "2026-11-13",
-   "hash": "8e270d1f93a72032a8563b68f3737a9ba5c217fa"
+   "date": "2026-11-16",
+   "hash": "446bedf5a8b8737e24f00bbdf40f35f0f216a4ec"
   },
   "lag/man-city/": {
    "date": "2026-11-15",
    "hash": "ec27c0011e7ffc59502657b9b8f7b9314bdf8376"
   },
   "lag/man-united/": {
-   "date": "2026-11-13",
-   "hash": "abf60c771d5a8f577e4adb1dda7182d961fe6a92"
+   "date": "2026-11-16",
+   "hash": "8d850750fba77c24df3738eacccb16d940f7718c"
   },
   "lag/maritimo/": {
    "date": "2026-11-13",
@@ -437,8 +437,8 @@
    "hash": "1f281091b87b4ba890d31725fc6327ca6b4d64f3"
   },
   "lag/nashville-predators/": {
-   "date": "2026-11-15",
-   "hash": "6bcf04cf0c33709b5096bf94ec99503b843751d5"
+   "date": "2026-11-16",
+   "hash": "8c8949c93fc5eee13ee3e0de1a147a4200195a1c"
   },
   "lag/nec/": {
    "date": "2026-11-13",
@@ -453,8 +453,8 @@
    "hash": "e25821fb8ea52881d709f47c3d998935b71e9605"
   },
   "lag/new-york-rangers/": {
-   "date": "2026-11-14",
-   "hash": "0296f0cc9d0098d0c62301d8ac41e955698ee990"
+   "date": "2026-11-16",
+   "hash": "60536f1ae3aac95871a7089563dea8ba6d310b40"
   },
   "lag/newcastle/": {
    "date": "2026-11-15",
@@ -477,8 +477,8 @@
    "hash": "1b1c07d0c12f6f63f7fd25e0a7667cab18c5e957"
   },
   "lag/osasuna/": {
-   "date": "2026-11-13",
-   "hash": "8a7765dcb6b7a9490b6044cd4455e5219bda7163"
+   "date": "2026-11-16",
+   "hash": "aeaa9939d50bc37f02dab8708a267a954f0da251"
   },
   "lag/ottawa-senators/": {
    "date": "2026-11-15",
@@ -489,12 +489,12 @@
    "hash": "7fc9d9e30428bebb5c61cf3543cfeb1313d83cc9"
   },
   "lag/philadelphia-flyers/": {
-   "date": "2026-11-15",
-   "hash": "21834e54faa9dcef5eb61972a194b6522bc7a6bc"
+   "date": "2026-11-16",
+   "hash": "d9314de484a28d13a14d4a1ee05d3a4cbe03c4d3"
   },
   "lag/pittsburgh-penguins/": {
-   "date": "2026-11-15",
-   "hash": "461b81a3aad3bd730094cb8ecf278ce4159d0eb4"
+   "date": "2026-11-16",
+   "hash": "243fbd900125258cc18d107db818781786c459de"
   },
   "lag/porto/": {
    "date": "2026-11-13",
@@ -541,8 +541,8 @@
    "hash": "55be977df79ca6268337228b4bbe50a1d5c9d3c5"
   },
   "lag/real-sociedad/": {
-   "date": "2026-11-13",
-   "hash": "f47b2dcfafabf90903c900a8b4ad0689015231e1"
+   "date": "2026-11-16",
+   "hash": "1318b8751f7d73656053a84a20c5e94c51b98442"
   },
   "lag/rio-ave/": {
    "date": "2026-11-13",
@@ -557,16 +557,16 @@
    "hash": "2af1e09b2e6b6ee9b25e93cccfbe6ea00e908a95"
   },
   "lag/san-jose-sharks/": {
-   "date": "2026-11-15",
-   "hash": "70f9b24ad76fb7d27f846acde453a6c7f86d5be2"
+   "date": "2026-11-16",
+   "hash": "9cf34c4bd8831e5a536147c2cce5ab6159b3287c"
   },
   "lag/santa-clara/": {
    "date": "2026-11-13",
    "hash": "df84153eb48060cbab51dcdbad75bf9393c43687"
   },
   "lag/santander/": {
-   "date": "2026-11-13",
-   "hash": "43b5c9fe7c2651a899bfa9443db6576414432abe"
+   "date": "2026-11-16",
+   "hash": "4b64266ca0481d3882b771a9489f8c5d308e1707"
   },
   "lag/sassuolo/": {
    "date": "2026-11-13",
@@ -585,8 +585,8 @@
    "hash": "9c25dcdb5cd1418d790ef05e13d9fd531c788e84"
   },
   "lag/sittard/": {
-   "date": "2026-11-13",
-   "hash": "1e743b3a26fabea7e6323e0b13fc9e7b24635ca8"
+   "date": "2026-11-16",
+   "hash": "c65e1299b69bf00ef8e47dd4389715365b683d51"
   },
   "lag/sl-benfica/": {
    "date": "2026-11-13",
@@ -609,8 +609,8 @@
    "hash": "bfada32da23864cd153de1923060306a882894dc"
   },
   "lag/st-louis-blues/": {
-   "date": "2026-11-15",
-   "hash": "5647055989ee09bd8eadb7cd8c4c3ac273c0dd7e"
+   "date": "2026-11-16",
+   "hash": "3a080b9eba345ef427987b7aa3550442291836ea"
   },
   "lag/stade-rennais/": {
    "date": "2026-11-13",
@@ -637,8 +637,8 @@
    "hash": "43a01f26ad2e40ba09c2d54437861e8f8a7da82b"
   },
   "lag/tampa-bay-lightning/": {
-   "date": "2026-11-15",
-   "hash": "f927aad51f90c7fff57bca183063b954def4d4ae"
+   "date": "2026-11-16",
+   "hash": "0b0247334e42d1557e802bf3e71babc2fde8ac62"
   },
   "lag/telstar/": {
    "date": "2026-11-13",
@@ -665,12 +665,12 @@
    "hash": "147fa02f6df9754923a902e1d4c169ef1ab71312"
   },
   "lag/twente/": {
-   "date": "2026-11-13",
-   "hash": "e22bbd324f3b8d2ca50cca029d9051acde2289eb"
+   "date": "2026-11-16",
+   "hash": "220468dd5218a0f5607ec9fb26b2413f43bc65e8"
   },
   "lag/udinese/": {
-   "date": "2026-11-13",
-   "hash": "7e2cb4b5252321430605588518172d707954af0c"
+   "date": "2026-11-16",
+   "hash": "9b6690ef61b168aa4d1739a9acd1bc8fd441edc1"
   },
   "lag/union-berlin/": {
    "date": "2026-11-13",
@@ -689,16 +689,16 @@
    "hash": "6b691aea601069e1ed1b2eaf244573fe687f3e01"
   },
   "lag/vancouver-canucks/": {
-   "date": "2026-11-15",
-   "hash": "c49efd5ce3738a8eda7eb9191a9dd797b9b3630d"
+   "date": "2026-11-16",
+   "hash": "188842b0464ab8c6a4bf246e7580134dc2a7f9a9"
   },
   "lag/vasco-da-gama/": {
    "date": "2026-11-13",
    "hash": "8a2b8d9cd10fb74f86de25ce0e7e18af5db07f65"
   },
   "lag/vegas-golden-knights/": {
-   "date": "2026-11-15",
-   "hash": "c63c822f5bb4f0a347558eaf2756056d5b273c3f"
+   "date": "2026-11-16",
+   "hash": "cedd4b3c0937c433199075eb665a2f4863718443"
   },
   "lag/venezia-fc/": {
    "date": "2026-11-13",
@@ -709,8 +709,8 @@
    "hash": "e99b18e9c6bd47069d294e149f4272a05ccc9346"
   },
   "lag/villarreal/": {
-   "date": "2026-11-13",
-   "hash": "bda4f5bc9d98e9b672a134aad4029317465f922a"
+   "date": "2026-11-16",
+   "hash": "6d6de67cfa96e8a00feae9dc5905840972eff52b"
   },
   "lag/vitoria-sc/": {
    "date": "2026-11-13",
@@ -733,8 +733,8 @@
    "hash": "c2fa247f75f40cce1a1b1fcd54b5e6e24895766e"
   },
   "lag/willem-ii/": {
-   "date": "2026-11-13",
-   "hash": "660fe15cc3696633da23bce1db232b173150c4d6"
+   "date": "2026-11-16",
+   "hash": "6d23372fd786e851bc87f1af0474e0230d4ba007"
   },
   "lag/winnipeg-jets/": {
    "date": "2026-11-15",
@@ -765,40 +765,40 @@
    "hash": "0901b2e08d5a313f1064e713e92e9210328437b6"
   },
   "liga/championship/": {
-   "date": "2026-11-15",
-   "hash": "2fe9d3e0eee9cb59bcd77e5c943f185dda5f33c0"
+   "date": "2026-11-16",
+   "hash": "be54b31f7557fedaaa174b2e24d92728e1a788f2"
   },
   "liga/eredivisie/": {
-   "date": "2026-11-15",
-   "hash": "b6b7c646c70c54deb82aba034992d0dd08670487"
+   "date": "2026-11-16",
+   "hash": "7b1541cf060e80e8b13905c2c793376e01e05b21"
   },
   "liga/la-liga/": {
-   "date": "2026-11-15",
-   "hash": "a3f4f064c8d93c4a388af6f8adb76829de6f220a"
+   "date": "2026-11-16",
+   "hash": "34ff12c86a17c5b1a3e362e691747bd55df6baff"
   },
   "liga/ligue-1/": {
    "date": "2026-11-15",
    "hash": "ad281854893c44c5b735eafa8962cf1641cb84ca"
   },
   "liga/nhl/": {
-   "date": "2026-11-15",
-   "hash": "1b39f8984861fbfaac96e9eeb387f25547b4c688"
+   "date": "2026-11-16",
+   "hash": "43b65ac4efae67f784997585b60b4ee0278b5e63"
   },
   "liga/premier-league/": {
-   "date": "2026-11-15",
-   "hash": "5601e8aa66edd06c8658041d3d86f7fa36e56478"
+   "date": "2026-11-16",
+   "hash": "9129c034af3100e7add5eed2e20a6b8c1346fcdd"
   },
   "liga/primeira-liga/": {
    "date": "2026-11-13",
    "hash": "75e2c70387be6c804648495fa17cb4139b817fc7"
   },
   "liga/serie-a/": {
-   "date": "2026-11-15",
-   "hash": "17c7e25b3be998b321bd052da4e8c92aef1477ca"
+   "date": "2026-11-16",
+   "hash": "ddd2c152b0fe683c575b6b5fbdf6e92bfe123e1b"
   },
   "spelare/adam-edstrom/": {
-   "date": "2026-11-15",
-   "hash": "51c399c23f2074c155dd7cbb24ac98a035bfc6d8"
+   "date": "2026-11-16",
+   "hash": "b2bd1b36643ed756f48ef1b668d55e51bbfd32c3"
   },
   "spelare/adam-engstrom/": {
    "date": "2026-11-15",
@@ -809,8 +809,8 @@
    "hash": "9e2d75259e697f58dab1ef9802956becdea5ccb2"
   },
   "spelare/adam-wilsby/": {
-   "date": "2026-11-15",
-   "hash": "c0cf5c96739cc0d3f74b88636650794fcb76b174"
+   "date": "2026-11-16",
+   "hash": "1a05eb6101fd493661a7615f73510c807b8ec2b8"
   },
   "spelare/adrian-kempe/": {
    "date": "2026-11-15",
@@ -829,12 +829,12 @@
    "hash": "b49b8a0e1543ec43d8718fe5f1dba6852094d9e3"
   },
   "spelare/alexander-isak/": {
-   "date": "2026-11-13",
-   "hash": "22b8a72b1c0929a8bce1605a85b198b9162a7bf4"
+   "date": "2026-11-16",
+   "hash": "32f2240bce356f3a486667057a63b2d2af552488"
   },
   "spelare/alexander-wennberg/": {
-   "date": "2026-11-15",
-   "hash": "3dc6a5da4f7f126bc92a2fc1d14633b1942eb62d"
+   "date": "2026-11-16",
+   "hash": "383387f5451059c283ab79dd65a781da60988849"
   },
   "spelare/alieu-njie/": {
    "date": "2026-11-13",
@@ -869,16 +869,16 @@
    "hash": "84f4940b6247d3021c827f617e9d0b03045a4629"
   },
   "spelare/anton-frondell/": {
-   "date": "2026-11-15",
-   "hash": "07d7a00bd84c1100a34ca80e68bfcf2a1cd51982"
+   "date": "2026-11-16",
+   "hash": "8645b061565b594a8589b98adb35e28c3e0bfb3a"
   },
   "spelare/anton-johansson/": {
    "date": "2026-11-15",
    "hash": "f989478021b47535a050bf55f77ce408a836853a"
   },
   "spelare/armin-culum/": {
-   "date": "2026-11-13",
-   "hash": "dcdb75037ae163e88dd7e86ea247379a8703650d"
+   "date": "2026-11-16",
+   "hash": "aa20f6d7b34cc207bdb9ae0c91daf3f65d6dee7a"
   },
   "spelare/arvid-soderblom/": {
    "date": "2026-11-13",
@@ -893,8 +893,8 @@
    "hash": "b796a2aacc518a6f072144110e5d385aa2641314"
   },
   "spelare/calle-rosen/": {
-   "date": "2026-11-15",
-   "hash": "9e4a302bc40a231cb6781790730c2852c8849ab8"
+   "date": "2026-11-16",
+   "hash": "ee6870dd6feda5779be326fce4691f1d9711f5f9"
   },
   "spelare/carl-grundstrom/": {
    "date": "2026-11-13",
@@ -921,32 +921,32 @@
    "hash": "00ef265e552a018c6746df7adda17df3d9ffbb19"
   },
   "spelare/dennis-hildeby/": {
-   "date": "2026-11-15",
-   "hash": "7639f54a38cea407cf294872fb405cc0e613da96"
+   "date": "2026-11-16",
+   "hash": "237a04a088feaabbf798bcd35d0be39469680d1e"
   },
   "spelare/elias-lindholm/": {
    "date": "2026-11-15",
    "hash": "77b66ee1e2c2bd06a964c84622037082e42bb9e8"
   },
   "spelare/elias-pettersson-25/": {
-   "date": "2026-11-15",
-   "hash": "3208a306bdc7fa6f3ae9e8aaae5fd77b77054126"
+   "date": "2026-11-16",
+   "hash": "c8c33c791f0d93640028fa3540814b247c30f5ef"
   },
   "spelare/elias-pettersson-40/": {
-   "date": "2026-11-15",
-   "hash": "b3c07d030eba186e0ff506a958dab6624ef080f8"
+   "date": "2026-11-16",
+   "hash": "c1f5be8861d7d146c6495d0ee06391dc172087b8"
   },
   "spelare/elias-salomonsson/": {
    "date": "2026-11-13",
    "hash": "bae054b812a40fe4c9b0dd5fd4daf7f9a7005db8"
   },
   "spelare/elliot-stroud/": {
-   "date": "2026-11-13",
-   "hash": "f4b500f63d282a396655c42566932ab2f2c65555"
+   "date": "2026-11-16",
+   "hash": "0fd2aaaa214907454bcd66c722b8a50e4649f516"
   },
   "spelare/elmer-soderblom/": {
-   "date": "2026-11-15",
-   "hash": "83cad9aa95f0ca2b83c32f2d653ca48b5401adec"
+   "date": "2026-11-16",
+   "hash": "bab5b3ad77f8d272a6c98a41bcc22f932f5788d1"
   },
   "spelare/elvis-van-der-laan/": {
    "date": "2026-11-15",
@@ -961,16 +961,16 @@
    "hash": "f7afc880673d302afeb0d9e3e6fdc3a62186c110"
   },
   "spelare/emil-holm/": {
-   "date": "2026-11-13",
-   "hash": "dc0810a5a0dd364053ea65509d46b244a2c2e6e6"
+   "date": "2026-11-16",
+   "hash": "8f0da27468774d026f6dc46ed405397f56aa09fb"
   },
   "spelare/erik-gustafsson/": {
    "date": "2026-11-15",
    "hash": "c75abee08efc52ae9e0d7de41b98cda2c56c6bdb"
   },
   "spelare/erik-karlsson/": {
-   "date": "2026-11-15",
-   "hash": "415e8bb0c45a7ef4c3d1d1dfadbb286c053e6e83"
+   "date": "2026-11-16",
+   "hash": "992815f031359c3c6bf452c69f38c79d2634f85d"
   },
   "spelare/fabian-zetterlund/": {
    "date": "2026-11-15",
@@ -981,16 +981,16 @@
    "hash": "57f923744116ba0e9ff3a9f1f39c70606b9af22e"
   },
   "spelare/filip-forsberg/": {
-   "date": "2026-11-15",
-   "hash": "7e580eb216f1406d20af748d2ff7d27f4cfd5f1c"
+   "date": "2026-11-16",
+   "hash": "b20698d0552df2ca13e588bf480f5c5fb6060f0a"
   },
   "spelare/filip-gustavsson/": {
    "date": "2026-11-15",
    "hash": "f61e1e72b51250d4f44b32f4e1fc8127c373ba16"
   },
   "spelare/filip-hallander/": {
-   "date": "2026-11-15",
-   "hash": "5fd67db56c92742f890711aaf47f15da404704cb"
+   "date": "2026-11-16",
+   "hash": "139bb5d2da8304acdf981a8201c2227a38b672fc"
   },
   "spelare/gabriel-gudmundsson/": {
    "date": "2026-11-15",
@@ -1009,8 +1009,8 @@
    "hash": "39462dbecadc80448ceefe26e70bb0bbe5cbf21a"
   },
   "spelare/gustav-forsling/": {
-   "date": "2026-11-15",
-   "hash": "87a369b75b1e33734ebea956080fc6c2898c8ff6"
+   "date": "2026-11-16",
+   "hash": "10d6e312c5c5d7d7965f943fddf741c7bfabf007"
   },
   "spelare/hampus-lindholm/": {
    "date": "2026-11-15",
@@ -1021,8 +1021,8 @@
    "hash": "bc2df04043b486e7bd106adb2d6ca9b66a8232ed"
   },
   "spelare/hjalmar-ekdal/": {
-   "date": "2026-11-13",
-   "hash": "d793c627d9486621271632734a1c725ff77cf64e"
+   "date": "2026-11-16",
+   "hash": "f458ab0cdb0e0a7573e2fa026a45cae3bd1b91c5"
   },
   "spelare/hugo-bolin/": {
    "date": "2026-11-15",
@@ -1041,8 +1041,8 @@
    "hash": "db089ef344f8af4fe2eddf7c3b98ac40ca1ca368"
   },
   "spelare/isak-hien/": {
-   "date": "2026-11-13",
-   "hash": "2299bbd48b6c885413c84701406af7335556e22e"
+   "date": "2026-11-16",
+   "hash": "d574ddfde533d14afbf2a69ade3dbd5b0cd15259"
   },
   "spelare/isak-jansson/": {
    "date": "2026-11-15",
@@ -1053,12 +1053,12 @@
    "hash": "ac61663845b5f15e7aa7356ba15a85ff57afece2"
   },
   "spelare/ivar-stenberg/": {
-   "date": "2026-11-15",
-   "hash": "13bf8e168b0757f601bcbbb4d0ed3cf857c7f025"
+   "date": "2026-11-16",
+   "hash": "5c580e580423067d2c085ab5982cc7a80e04faca"
   },
   "spelare/jacob-markstrom/": {
-   "date": "2026-11-15",
-   "hash": "538cc98991d0fc7e8135b45e26a971d14b6a6d25"
+   "date": "2026-11-16",
+   "hash": "1c77c6c56cd2e6771b461a47779a01adedc42afe"
   },
   "spelare/jacob-ondrejka/": {
    "date": "2026-11-15",
@@ -1069,8 +1069,8 @@
    "hash": "e2c660d91a672a2f3b1f018064de45202686f889"
   },
   "spelare/jens-cajuste/": {
-   "date": "2026-11-13",
-   "hash": "a4c1f76296fef39102ecc99919611341b860a31d"
+   "date": "2026-11-16",
+   "hash": "2e5a74e49c41a4a191a7dd5b05ecd268375c88a3"
   },
   "spelare/jesper-boqvist/": {
    "date": "2026-11-15",
@@ -1081,12 +1081,12 @@
    "hash": "307afca6054f5219c7f838d6af0af2f114292166"
   },
   "spelare/jesper-karlsson/": {
-   "date": "2026-11-13",
-   "hash": "3fcb2f1247bb3162adb50e9ea8fc22f5efe924af"
+   "date": "2026-11-16",
+   "hash": "345f363c500d93354fe33620c45458ecebd200fc"
   },
   "spelare/jesper-karlstrom/": {
-   "date": "2026-11-13",
-   "hash": "5655f89623fe344c62395e27aca9edc514117fef"
+   "date": "2026-11-16",
+   "hash": "79dabf728a6178c4d38434c2e586c00e431745ae"
   },
   "spelare/jesper-wallstedt/": {
    "date": "2026-11-15",
@@ -1109,12 +1109,12 @@
    "hash": "6bbf7ec09f3cf5d925862eb02538e990b57cbe96"
   },
   "spelare/jonatan-berggren/": {
-   "date": "2026-11-15",
-   "hash": "b12e9e63cd46626866c41650c1e28bc83a5cb31f"
+   "date": "2026-11-16",
+   "hash": "a382b00207ab559806965baab86bd6bfa087cb80"
   },
   "spelare/jonathan-lekkerimaki/": {
-   "date": "2026-11-15",
-   "hash": "862f67bac9e1e848db185d30c9da0f387cd905ad"
+   "date": "2026-11-16",
+   "hash": "1d7c54a26f1f21ff0cb9a7b787deccd013fc8485"
   },
   "spelare/jusef-erabi/": {
    "date": "2026-11-15",
@@ -1125,20 +1125,20 @@
    "hash": "9556c3e7a9c05be717b18c40f5ac267a5128f15c"
   },
   "spelare/kristoffer-peterson/": {
-   "date": "2026-11-13",
-   "hash": "ff23310363f45655ce595fee8b9f97aeced288e8"
+   "date": "2026-11-16",
+   "hash": "f2123b4a339e391315f7be988733af5d29bb7d5d"
   },
   "spelare/leo-carlsson/": {
-   "date": "2026-11-15",
-   "hash": "870dc784a091107d2488d5f613b8598c266197ce"
+   "date": "2026-11-16",
+   "hash": "8011f783bbfb2bc79f6b05f42c341c0644a724d3"
   },
   "spelare/liam-ohgren/": {
-   "date": "2026-11-15",
-   "hash": "798e1c196e72edfa2713e500f36d001fd5974c60"
+   "date": "2026-11-16",
+   "hash": "02d6fb225ccf1c9fdebdce2d66f06070a6dd7b63"
   },
   "spelare/linus-karlsson/": {
-   "date": "2026-11-15",
-   "hash": "b59089704360e50fd7bcf65f6c77b6a80a428c5f"
+   "date": "2026-11-16",
+   "hash": "f8bede23dff0932301748ed1a3bdbbb799aba914"
   },
   "spelare/linus-ullmark/": {
    "date": "2026-11-15",
@@ -1165,16 +1165,16 @@
    "hash": "8a050915cc448d357303b2b5a701876d4b666f55"
   },
   "spelare/marcus-pettersson/": {
-   "date": "2026-11-14",
-   "hash": "6f71acbfca42ed7bdd20e27f773797512bb41471"
+   "date": "2026-11-16",
+   "hash": "f78bba0400b1f5fe46eca4946bbd71927a77fff0"
   },
   "spelare/mattias-ekholm/": {
-   "date": "2026-11-15",
-   "hash": "b96535f5a27ddf0bc9498365100a1d6cd15e04b0"
+   "date": "2026-11-16",
+   "hash": "b4fe63f7ba5790f3fb796467a6738ed2f5181dd2"
   },
   "spelare/mattias-janmark/": {
-   "date": "2026-11-15",
-   "hash": "24784d8e276892897d824da5f1d0b74bc7ee395a"
+   "date": "2026-11-16",
+   "hash": "c7b00b25fecfb2973002168d8c9ee1355ad713c5"
   },
   "spelare/melker-ellborg/": {
    "date": "2026-11-15",
@@ -1185,24 +1185,24 @@
    "hash": "8874d0fbafba2e47145381f30eaa3c8ce32f94a0"
   },
   "spelare/mika-zibanejad/": {
-   "date": "2026-11-14",
-   "hash": "cd8dce7a7504ee9cff0c0092602a6daecb6d20b4"
+   "date": "2026-11-16",
+   "hash": "1ec0d2680af121f5e2291c4ebcd71ed282da5f69"
   },
   "spelare/mikael-backlund/": {
-   "date": "2026-11-15",
-   "hash": "65df94e027bc574af7d88124d39c43db5a7a4083"
+   "date": "2026-11-16",
+   "hash": "dde2204a0d10447fb3b432c8012669dbcbde4bf4"
   },
   "spelare/niclas-eliasson/": {
    "date": "2026-11-13",
    "hash": "d8b52516a4bf8979f87adbaee62697031e01fee9"
   },
   "spelare/nils-hoglander/": {
-   "date": "2026-11-15",
-   "hash": "f760ad2ebe4b5ffab9cc5f309be5706193b5aa1a"
+   "date": "2026-11-16",
+   "hash": "394975501b175d0d25d20780a0b34d4e01e03935"
   },
   "spelare/nils-lundkvist/": {
-   "date": "2026-11-15",
-   "hash": "1941ccc6e97eaf2b08a57cd927121feef67b9668"
+   "date": "2026-11-16",
+   "hash": "11d65f84fc4b3bef834c7798dc49d82bd147e3eb"
   },
   "spelare/nils-zatterstrom/": {
    "date": "2026-11-13",
@@ -1213,8 +1213,8 @@
    "hash": "6939ae6f011adb83c2b79606c51394794a9e243b"
   },
   "spelare/noah-ostlund/": {
-   "date": "2026-11-15",
-   "hash": "e93f7afea02d0bc6f20773d44c85e9bf0dbb0491"
+   "date": "2026-11-16",
+   "hash": "501fc0915527e2f8aefaa5aa4608671c23b4014f"
   },
   "spelare/noel-tornqvist/": {
    "date": "2026-11-13",
@@ -1229,16 +1229,16 @@
    "hash": "b4d827177382e1ae8219720e7e80857f5c9998bc"
   },
   "spelare/oskar-back/": {
-   "date": "2026-11-15",
-   "hash": "2542707d17d0ecad09664882be4c65745b196821"
+   "date": "2026-11-16",
+   "hash": "12822969a5a3accd1ac99187b409363c5fa87580"
   },
   "spelare/otto-stenberg/": {
    "date": "2026-11-13",
    "hash": "920ce6ebeb759904df57f08eea4fd1fd4cfbfa5f"
   },
   "spelare/philip-broberg/": {
-   "date": "2026-11-15",
-   "hash": "99481d9c1d1a254c8127f4775ce9d22d88e9a4ac"
+   "date": "2026-11-16",
+   "hash": "3db0a62e0f7fa0b4be8c6c16926b9d1ec4004b0a"
   },
   "spelare/pierre-engvall/": {
    "date": "2026-11-13",
@@ -1249,28 +1249,28 @@
    "hash": "c54f18c06026c87bdafd04c52d991d950e375822"
   },
   "spelare/pontus-holmberg/": {
-   "date": "2026-11-15",
-   "hash": "d8447c505d436049a6554116b26a192b7de78e5c"
+   "date": "2026-11-16",
+   "hash": "094aaa879bed73b797f50f0982d3d16bfc344a25"
   },
   "spelare/rasmus-andersson/": {
-   "date": "2026-11-15",
-   "hash": "fac407b2568bbb4f9280e011691dff324f69a2b8"
+   "date": "2026-11-16",
+   "hash": "ff742c87980cd7c7049271abbc697ad06c94e743"
   },
   "spelare/rasmus-dahlin/": {
-   "date": "2026-11-15",
-   "hash": "6fa81df32fb907b7abcd901af7a2e302dd73489c"
+   "date": "2026-11-16",
+   "hash": "e77663d2610519b3ed5478e656a0eec45a115f4d"
   },
   "spelare/rasmus-sandin/": {
    "date": "2026-11-15",
    "hash": "62d9e12707de20c2a2bb427ea21ea43aee30f338"
   },
   "spelare/rickard-rakell/": {
-   "date": "2026-11-15",
-   "hash": "f909c83eeecb8a8e7c86ed37cd33ca5ef49e13e8"
+   "date": "2026-11-16",
+   "hash": "34d5ee19218bf8287987fe736a130ecc7ac7c318"
   },
   "spelare/roony-bardghji/": {
-   "date": "2026-11-13",
-   "hash": "f4345079d0c7d00bb84fc5237ef26c6e967edae0"
+   "date": "2026-11-16",
+   "hash": "5f29eb749c10f47419b2fb4ec4b36ffc22b5cd9b"
   },
   "spelare/samuel-dahl/": {
    "date": "2026-11-13",
@@ -1285,8 +1285,8 @@
    "hash": "727d74bc5faed7f2c5403089ce3b2b89b4607cd7"
   },
   "spelare/simon-eriksson/": {
-   "date": "2026-11-13",
-   "hash": "ec99aa5c684db3421c4f2fa762d6f458c39f2568"
+   "date": "2026-11-16",
+   "hash": "2b7498e77ddbcf96d65ae4a650f409acf5c6226e"
   },
   "spelare/simon-holmstrom/": {
    "date": "2026-11-15",
@@ -1309,32 +1309,32 @@
    "hash": "6b583f20c499ad3cdc028eeefb3e4ecc31ead204"
   },
   "spelare/tom-willander/": {
-   "date": "2026-11-15",
-   "hash": "962c00af1d350f86f7ee33ab6bff0de9ff08ddf4"
+   "date": "2026-11-16",
+   "hash": "101c38add9015ff2a9f4609dccd547f1711609af"
   },
   "spelare/victor-andersson/": {
    "date": "2026-11-13",
    "hash": "c04259e731f0f560591bd8f513759aad95bc94e5"
   },
   "spelare/victor-edvardsen/": {
-   "date": "2026-11-13",
-   "hash": "ea321fc9abce0bdcab5bbe2d164c17a398f1f0a3"
+   "date": "2026-11-16",
+   "hash": "0affa3b0ea0ea4f987ed92bda73fffaffc41877c"
   },
   "spelare/victor-eklund/": {
    "date": "2026-11-15",
    "hash": "9a79f26b4e580196d35625d4c47f8b0fb57ea3ad"
   },
   "spelare/victor-hedman/": {
-   "date": "2026-11-15",
-   "hash": "243749c64519236ca237a1117d124811751a4f1b"
+   "date": "2026-11-16",
+   "hash": "f11f9bff439615de57ec81db6864dd12a2b33dbc"
   },
   "spelare/victor-nilsson-lindelof/": {
    "date": "2026-11-15",
    "hash": "1986838736287dd00040c0bf182a4f8cb167d27b"
   },
   "spelare/victor-olofsson/": {
-   "date": "2026-11-15",
-   "hash": "677c543e62b0d42fe74e24698fc237b278050e82"
+   "date": "2026-11-16",
+   "hash": "09bf9e21adf8fd14d25db24dbcd15f9f7d430044"
   },
   "spelare/viggo-bjorck/": {
    "date": "2026-11-15",
@@ -1361,16 +1361,16 @@
    "hash": "58a9dbed1619a3fa541a8bb4fcff34e6be5062f5"
   },
   "spelare/william-karlsson/": {
-   "date": "2026-11-15",
-   "hash": "9c276aa903d34c23ecd8c4a8df2af9d59ba77e61"
+   "date": "2026-11-16",
+   "hash": "10cd2bf14b55ce319c294cdc5d19b7d0d1c7fec3"
   },
   "spelare/william-nylander/": {
    "date": "2026-11-15",
    "hash": "ed442bce55e60fc19ba26d0abedea8e0023bf0ed"
   },
   "spelare/william-stromgren/": {
-   "date": "2026-11-15",
-   "hash": "18fa19ba50a781ecedb816731119fcf9bb7d9eb4"
+   "date": "2026-11-16",
+   "hash": "bd4d24a371636b39b8f231fb60865cc2569c0401"
   },
   "spelare/william-wallinder/": {
    "date": "2026-11-15",
@@ -1385,8 +1385,8 @@
    "hash": "9d13957afa73cfae07f46998b588344ebf2d39a1"
   },
   "spelare/yasin-ayari/": {
-   "date": "2026-11-13",
-   "hash": "230579f1fa88cd18c9fa3acd23156af30b20ad50"
+   "date": "2026-11-16",
+   "hash": "33f3a2f5285fa31cede3a635dfca99441c3adc04"
   },
   "spelare/zeidane-inoussa/": {
    "date": "2026-11-13",
@@ -1401,11 +1401,11 @@
    "key": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
    "last": {
     "competition": "NHL",
-    "score": "2–3 efter straffar",
-    "start": "2026-11-14T03:00:00Z",
-    "title": "Vegas Golden Knights – Nashville Predators"
+    "score": "4–2",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "San Jose Sharks – Nashville Predators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Adam Edström",
    "sport": "Ishockey",
    "team": "Predators",
@@ -1424,7 +1424,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Montréal Canadiens – Colorado Avalanche"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Adam Engström",
    "sport": "Ishockey",
    "team": "Canadiens",
@@ -1443,7 +1443,7 @@
     "start": "2026-11-14T18:00:00Z",
     "title": "Carolina Hurricanes – Seattle Kraken"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Adam Larsson",
    "sport": "Ishockey",
    "team": "Kraken",
@@ -1458,11 +1458,11 @@
    "key": "https://sv.wikipedia.org/wiki/Adam_Wilsby",
    "last": {
     "competition": "NHL",
-    "score": "2–3 efter straffar",
-    "start": "2026-11-14T03:00:00Z",
-    "title": "Vegas Golden Knights – Nashville Predators"
+    "score": "4–2",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "San Jose Sharks – Nashville Predators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Adam Wilsby",
    "sport": "Ishockey",
    "team": "Predators",
@@ -1481,7 +1481,7 @@
     "start": "2026-11-15T03:00:00Z",
     "title": "Los Angeles Kings – Calgary Flames"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Adrian Kempe",
    "sport": "Ishockey",
    "team": "Kings",
@@ -1501,7 +1501,7 @@
     "start": "2026-11-08T17:00:00Z",
     "title": "Inter – Como 1907"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Adrian Lahdo",
    "sport": "Fotboll",
    "team": "Como 1907",
@@ -1520,7 +1520,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Tampa Bay Lightning – Detroit Red Wings"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Albert Johansson",
    "sport": "Ishockey",
    "team": "Red Wings",
@@ -1548,7 +1548,7 @@
     "start": "2026-11-08T14:00:00Z",
     "title": "Crystal Palace – Liverpool"
    },
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Alexander Isak",
    "sport": "Fotboll",
    "team": "Liverpool",
@@ -1563,11 +1563,11 @@
    "key": "https://sv.wikipedia.org/wiki/Alexander_Wennberg",
    "last": {
     "competition": "NHL",
-    "score": "5–6 efter straffar",
-    "start": "2026-11-15T02:00:00Z",
-    "title": "Utah Mammoth – San Jose Sharks"
+    "score": "4–2",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "San Jose Sharks – Nashville Predators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Alexander Wennberg",
    "sport": "Ishockey",
    "team": "Sharks",
@@ -1605,7 +1605,7 @@
     "start": "2026-11-08T15:45:00Z",
     "title": "AZ – Groningen"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Alvin Nordin",
    "sport": "Fotboll",
    "team": "Groningen",
@@ -1624,7 +1624,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Pittsburgh Penguins – Ottawa Senators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "André Burakovsky",
    "sport": "Ishockey",
    "team": "Senators",
@@ -1643,7 +1643,7 @@
     "start": "2026-11-15T03:00:00Z",
     "title": "Los Angeles Kings – Calgary Flames"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Andre Lee",
    "sport": "Ishockey",
    "team": "Kings",
@@ -1681,7 +1681,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Tampa Bay Lightning – Detroit Red Wings"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Andreas Englund",
    "sport": "Ishockey",
    "team": "Red Wings",
@@ -1694,7 +1694,7 @@
     "Premier League"
    ],
    "key": "https://sv.wikipedia.org/wiki/Anthony_Elanga",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Anthony Elanga",
    "sport": "Fotboll",
    "team": "Newcastle",
@@ -1713,7 +1713,7 @@
     "start": "2026-11-15T03:00:00Z",
     "title": "Los Angeles Kings – Calgary Flames"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Anton Forsberg",
    "sport": "Ishockey",
    "team": "Kings",
@@ -1732,7 +1732,7 @@
     "start": "2026-11-14T20:30:00Z",
     "title": "Chicago Blackhawks – Winnipeg Jets"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Anton Frondell",
    "sport": "Ishockey",
    "team": "Blackhawks",
@@ -1751,7 +1751,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Tampa Bay Lightning – Detroit Red Wings"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Anton Johansson",
    "sport": "Ishockey",
    "team": "Red Wings",
@@ -1764,7 +1764,7 @@
     "Eredivisie"
    ],
    "key": "https://en.wikipedia.org/wiki/Armin_%C4%86ulum",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-16",
    "name": "Armin Ćulum",
    "sport": "Fotboll",
    "team": "Willem II",
@@ -1798,7 +1798,7 @@
     "Ligue 1"
    ],
    "key": "https://sv.wikipedia.org/wiki/Benjamin_Brantlind",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Benjamin Brantlind",
    "sport": "Fotboll",
    "team": "Strasbourg",
@@ -1817,7 +1817,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "St. Louis Blues – Florida Panthers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Calle Rosén",
    "sport": "Ishockey",
    "team": "Blues",
@@ -1844,7 +1844,7 @@
     "start": "2026-11-08T17:30:00Z",
     "title": "Celta – Levante"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Carl Starfelt",
    "sport": "Fotboll",
    "team": "Celta",
@@ -1857,7 +1857,7 @@
     "Eredivisie"
    ],
    "key": "https://sv.wikipedia.org/wiki/Casper_Widell",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Casper Widell",
    "sport": "Fotboll",
    "team": "Excelsior",
@@ -1871,7 +1871,7 @@
     "Bundesliga"
    ],
    "key": "https://sv.wikipedia.org/wiki/Daniel_Svensson_(fotbollsspelare_f%C3%B6dd_2002)",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Daniel Svensson",
    "sport": "Fotboll",
    "team": "Dortmund",
@@ -1884,7 +1884,7 @@
     "Premier League"
    ],
    "key": "https://sv.wikipedia.org/wiki/Dejan_Kulusevski",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Dejan Kulusevski",
    "sport": "Fotboll",
    "team": "Tottenham",
@@ -1916,7 +1916,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Tampa Bay Lightning – Detroit Red Wings"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Dennis Hildeby",
    "sport": "Ishockey",
    "team": "Lightning",
@@ -1935,7 +1935,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Boston Bruins – Minnesota Wild"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Elias Lindholm",
    "sport": "Ishockey",
    "team": "Bruins",
@@ -1950,11 +1950,11 @@
    "key": "Elias Pettersson #25|Canucks",
    "last": {
     "competition": "NHL",
-    "score": "1–5",
-    "start": "2026-11-14T02:00:00Z",
-    "title": "Vancouver Canucks – New York Rangers"
+    "score": "3–6",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "Vegas Golden Knights – Vancouver Canucks"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Elias Pettersson #25",
    "sport": "Ishockey",
    "team": "Canucks",
@@ -1969,11 +1969,11 @@
    "key": "Elias Pettersson #40|Canucks",
    "last": {
     "competition": "NHL",
-    "score": "1–5",
-    "start": "2026-11-14T02:00:00Z",
-    "title": "Vancouver Canucks – New York Rangers"
+    "score": "3–6",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "Vegas Golden Knights – Vancouver Canucks"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Elias Pettersson #40",
    "sport": "Ishockey",
    "team": "Canucks",
@@ -1999,7 +1999,7 @@
     "Premier League"
    ],
    "key": "https://sv.wikipedia.org/wiki/Elliot_Stroud",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Elliot Stroud",
    "sport": "Fotboll",
    "team": "Hull City",
@@ -2018,7 +2018,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Pittsburgh Penguins – Ottawa Senators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Elmer Söderblom",
    "sport": "Ishockey",
    "team": "Penguins",
@@ -2037,7 +2037,7 @@
     "start": "2026-11-08T15:45:00Z",
     "title": "AZ – Groningen"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Elvis van der Laan",
    "sport": "Fotboll",
    "team": "Groningen",
@@ -2069,7 +2069,7 @@
     "start": "2026-11-15T03:00:00Z",
     "title": "Anaheim Ducks – New York Islanders"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Emil Heineman",
    "sport": "Ishockey",
    "team": "Islanders",
@@ -2082,7 +2082,7 @@
     "Serie A"
    ],
    "key": "https://sv.wikipedia.org/wiki/Emil_Holm",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Emil Holm",
    "sport": "Fotboll",
    "team": "Bologna",
@@ -2101,7 +2101,7 @@
     "start": "2026-11-15T03:00:00Z",
     "title": "Los Angeles Kings – Calgary Flames"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Erik Gustafsson",
    "sport": "Ishockey",
    "team": "Kings",
@@ -2120,7 +2120,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Pittsburgh Penguins – Ottawa Senators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Erik Karlsson",
    "sport": "Ishockey",
    "team": "Penguins",
@@ -2139,7 +2139,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Pittsburgh Penguins – Ottawa Senators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Fabian Zetterlund",
    "sport": "Ishockey",
    "team": "Senators",
@@ -2167,11 +2167,11 @@
    "key": "https://sv.wikipedia.org/wiki/Filip_Forsberg",
    "last": {
     "competition": "NHL",
-    "score": "2–3 efter straffar",
-    "start": "2026-11-14T03:00:00Z",
-    "title": "Vegas Golden Knights – Nashville Predators"
+    "score": "4–2",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "San Jose Sharks – Nashville Predators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Filip Forsberg",
    "sport": "Ishockey",
    "team": "Predators",
@@ -2190,7 +2190,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Boston Bruins – Minnesota Wild"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Filip Gustavsson",
    "sport": "Ishockey",
    "team": "Wild",
@@ -2205,11 +2205,11 @@
    "key": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
    "last": {
     "competition": "NHL",
-    "score": "0–1",
-    "start": "2026-11-15T00:00:00Z",
-    "title": "Toronto Maple Leafs – Edmonton Oilers"
+    "score": "2–5",
+    "start": "2026-11-16T00:30:00Z",
+    "title": "Philadelphia Flyers – Edmonton Oilers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Filip Hållander",
    "sport": "Ishockey",
    "team": "Oilers",
@@ -2222,7 +2222,7 @@
     "Premier League"
    ],
    "key": "https://sv.wikipedia.org/wiki/Gabriel_Gudmundsson",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Gabriel Gudmundsson",
    "sport": "Fotboll",
    "team": "Leeds United",
@@ -2241,7 +2241,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Montréal Canadiens – Colorado Avalanche"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Gabriel Landeskog",
    "sport": "Ishockey",
    "team": "Avalanche",
@@ -2283,11 +2283,11 @@
    "key": "https://sv.wikipedia.org/wiki/Gustav_Forsling",
    "last": {
     "competition": "NHL",
-    "score": "1–4",
-    "start": "2026-11-15T00:00:00Z",
-    "title": "St. Louis Blues – Florida Panthers"
+    "score": "2–1 efter förlängning",
+    "start": "2026-11-16T01:00:00Z",
+    "title": "Dallas Stars – Florida Panthers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Gustav Forsling",
    "sport": "Ishockey",
    "team": "Panthers",
@@ -2306,7 +2306,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Boston Bruins – Minnesota Wild"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Hampus Lindholm",
    "sport": "Ishockey",
    "team": "Bruins",
@@ -2327,7 +2327,7 @@
     "Championship"
    ],
    "key": "https://sv.wikipedia.org/wiki/Hjalmar_Ekdal",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Hjalmar Ekdal",
    "sport": "Fotboll",
    "team": "Burnley",
@@ -2340,7 +2340,7 @@
     "Bundesliga"
    ],
    "key": "https://sv.wikipedia.org/wiki/Hugo_Bolin",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Hugo Bolin",
    "sport": "Fotboll",
    "team": "M'gladbach",
@@ -2353,7 +2353,7 @@
     "Premier League"
    ],
    "key": "https://sv.wikipedia.org/wiki/Hugo_Larsson_(fotbollsspelare)",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Hugo Larsson",
    "sport": "Fotboll",
    "team": "Fulham",
@@ -2366,7 +2366,7 @@
     "Bundesliga"
    ],
    "key": "https://sv.wikipedia.org/wiki/Isac_Lidberg",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Isac Lidberg",
    "sport": "Fotboll",
    "team": "M'gladbach",
@@ -2393,7 +2393,7 @@
     "start": "2026-11-08T14:00:00Z",
     "title": "Monza – Atalanta"
    },
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Isak Hien",
    "sport": "Fotboll",
    "team": "Atalanta",
@@ -2412,7 +2412,7 @@
     "start": "2026-11-08T16:15:00Z",
     "title": "Angers SCO – Nice"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Isak Jansson",
    "sport": "Fotboll",
    "team": "Nice",
@@ -2431,7 +2431,7 @@
     "start": "2026-11-14T20:30:00Z",
     "title": "Chicago Blackhawks – Winnipeg Jets"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Isak Rosén",
    "sport": "Ishockey",
    "team": "Jets",
@@ -2446,11 +2446,11 @@
    "key": "https://sv.wikipedia.org/wiki/Ivar_Stenberg",
    "last": {
     "competition": "NHL",
-    "score": "5–6 efter straffar",
-    "start": "2026-11-15T02:00:00Z",
-    "title": "Utah Mammoth – San Jose Sharks"
+    "score": "4–2",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "San Jose Sharks – Nashville Predators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Ivar Stenberg",
    "sport": "Ishockey",
    "team": "Sharks",
@@ -2465,11 +2465,11 @@
    "key": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
    "last": {
     "competition": "NHL",
-    "score": "1–4",
-    "start": "2026-11-15T00:00:00Z",
-    "title": "St. Louis Blues – Florida Panthers"
+    "score": "2–1 efter förlängning",
+    "start": "2026-11-16T01:00:00Z",
+    "title": "Dallas Stars – Florida Panthers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Jacob Markström",
    "sport": "Ishockey",
    "team": "Panthers",
@@ -2488,7 +2488,7 @@
     "start": "2026-11-08T15:45:00Z",
     "title": "AZ – Groningen"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Jacob Ondrejka",
    "sport": "Fotboll",
    "team": "Groningen",
@@ -2501,7 +2501,7 @@
     "Championship"
    ],
    "key": "https://sv.wikipedia.org/wiki/Jacob_Widell_Zetterstr%C3%B6m",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Jacob Widell Zetterström",
    "sport": "Fotboll",
    "team": "Derby County",
@@ -2514,7 +2514,7 @@
     "La Liga"
    ],
    "key": "https://sv.wikipedia.org/wiki/Jens_Cajuste",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Jens Cajuste",
    "sport": "Fotboll",
    "team": "Málaga",
@@ -2533,7 +2533,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Washington Capitals – New Jersey Devils"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Jesper Boqvist",
    "sport": "Ishockey",
    "team": "Devils",
@@ -2552,7 +2552,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Washington Capitals – New Jersey Devils"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Jesper Bratt",
    "sport": "Ishockey",
    "team": "Devils",
@@ -2565,7 +2565,7 @@
     "Serie A"
    ],
    "key": "https://sv.wikipedia.org/wiki/Jesper_Karlsson",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Jesper Karlsson",
    "sport": "Fotboll",
    "team": "Bologna",
@@ -2578,7 +2578,7 @@
     "Serie A"
    ],
    "key": "https://sv.wikipedia.org/wiki/Jesper_Karlstr%C3%B6m",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-16",
    "name": "Jesper Karlström",
    "sport": "Fotboll",
    "team": "Udinese",
@@ -2597,7 +2597,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Boston Bruins – Minnesota Wild"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Jesper Wallstedt",
    "sport": "Ishockey",
    "team": "Wild",
@@ -2616,7 +2616,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Boston Bruins – Minnesota Wild"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Joel Eriksson Ek",
    "sport": "Ishockey",
    "team": "Wild",
@@ -2629,7 +2629,7 @@
     "Premier League"
    ],
    "key": "https://sv.wikipedia.org/wiki/Jonah_Kusi-Asare",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Jonah Kusi-Asare",
    "sport": "Fotboll",
    "team": "Fulham",
@@ -2648,7 +2648,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Boston Bruins – Minnesota Wild"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Jonas Brodin",
    "sport": "Ishockey",
    "team": "Wild",
@@ -2680,7 +2680,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "St. Louis Blues – Florida Panthers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Jonatan Berggren",
    "sport": "Ishockey",
    "team": "Blues",
@@ -2695,11 +2695,11 @@
    "key": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
    "last": {
     "competition": "NHL",
-    "score": "1–5",
-    "start": "2026-11-14T02:00:00Z",
-    "title": "Vancouver Canucks – New York Rangers"
+    "score": "3–6",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "Vegas Golden Knights – Vancouver Canucks"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Jonathan Lekkerimäki",
    "sport": "Ishockey",
    "team": "Canucks",
@@ -2712,7 +2712,7 @@
     "Championship"
    ],
    "key": "https://sv.wikipedia.org/wiki/Jusef_Erabi",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Jusef Erabi",
    "sport": "Fotboll",
    "team": "Preston NE",
@@ -2731,7 +2731,7 @@
     "start": "2026-11-15T02:00:00Z",
     "title": "Utah Mammoth – San Jose Sharks"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Kevin Stenlund",
    "sport": "Ishockey",
    "team": "Mammoth",
@@ -2744,7 +2744,7 @@
     "Eredivisie"
    ],
    "key": "https://sv.wikipedia.org/wiki/Kristoffer_Peterson",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Kristoffer Peterson",
    "sport": "Fotboll",
    "team": "Sittard",
@@ -2759,11 +2759,11 @@
    "key": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
    "last": {
     "competition": "NHL",
-    "score": "2–6",
-    "start": "2026-11-15T03:00:00Z",
-    "title": "Anaheim Ducks – New York Islanders"
+    "score": "6–1",
+    "start": "2026-11-16T01:00:00Z",
+    "title": "Anaheim Ducks – Calgary Flames"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Leo Carlsson",
    "sport": "Ishockey",
    "team": "Ducks",
@@ -2778,11 +2778,11 @@
    "key": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
    "last": {
     "competition": "NHL",
-    "score": "1–5",
-    "start": "2026-11-14T02:00:00Z",
-    "title": "Vancouver Canucks – New York Rangers"
+    "score": "3–6",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "Vegas Golden Knights – Vancouver Canucks"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Liam Öhgren",
    "sport": "Ishockey",
    "team": "Canucks",
@@ -2797,11 +2797,11 @@
    "key": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
    "last": {
     "competition": "NHL",
-    "score": "1–5",
-    "start": "2026-11-14T02:00:00Z",
-    "title": "Vancouver Canucks – New York Rangers"
+    "score": "3–6",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "Vegas Golden Knights – Vancouver Canucks"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Linus Karlsson",
    "sport": "Ishockey",
    "team": "Canucks",
@@ -2820,7 +2820,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Pittsburgh Penguins – Ottawa Senators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Linus Ullmark",
    "sport": "Ishockey",
    "team": "Senators",
@@ -2833,7 +2833,7 @@
     "Bundesliga"
    ],
    "key": "https://sv.wikipedia.org/wiki/Love_Arrhov",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Love Arrhov",
    "sport": "Fotboll",
    "team": "Frankfurt",
@@ -2846,7 +2846,7 @@
     "Premier League"
    ],
    "key": "https://sv.wikipedia.org/wiki/Lucas_Bergvall",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Lucas Bergvall",
    "sport": "Fotboll",
    "team": "Tottenham",
@@ -2865,7 +2865,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Tampa Bay Lightning – Detroit Red Wings"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Lucas Raymond",
    "sport": "Ishockey",
    "team": "Red Wings",
@@ -2884,7 +2884,7 @@
     "start": "2026-11-08T15:45:00Z",
     "title": "AZ – Groningen"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Malcolm Jeng",
    "sport": "Fotboll",
    "team": "Groningen",
@@ -2903,7 +2903,7 @@
     "start": "2026-11-08T11:15:00Z",
     "title": "Heerenveen – Feyenoord"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Marcus Linday",
    "sport": "Fotboll",
    "team": "Heerenveen",
@@ -2922,7 +2922,7 @@
     "start": "2026-11-14T02:00:00Z",
     "title": "Vancouver Canucks – New York Rangers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Marcus Pettersson",
    "sport": "Ishockey",
    "team": "Rangers",
@@ -2937,11 +2937,11 @@
    "key": "https://sv.wikipedia.org/wiki/Mattias_Ekholm",
    "last": {
     "competition": "NHL",
-    "score": "0–1",
-    "start": "2026-11-15T00:00:00Z",
-    "title": "Toronto Maple Leafs – Edmonton Oilers"
+    "score": "2–5",
+    "start": "2026-11-16T00:30:00Z",
+    "title": "Philadelphia Flyers – Edmonton Oilers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Mattias Ekholm",
    "sport": "Ishockey",
    "team": "Oilers",
@@ -2956,11 +2956,11 @@
    "key": "https://sv.wikipedia.org/wiki/Mattias_Janmark",
    "last": {
     "competition": "NHL",
-    "score": "0–1",
-    "start": "2026-11-15T00:00:00Z",
-    "title": "Toronto Maple Leafs – Edmonton Oilers"
+    "score": "2–5",
+    "start": "2026-11-16T00:30:00Z",
+    "title": "Philadelphia Flyers – Edmonton Oilers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Mattias Janmark",
    "sport": "Ishockey",
    "team": "Oilers",
@@ -2979,7 +2979,7 @@
     "start": "2026-11-08T14:00:00Z",
     "title": "Sunderland – Chelsea"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Melker Ellborg",
    "sport": "Fotboll",
    "team": "Sunderland",
@@ -2992,7 +2992,7 @@
     "Championship"
    ],
    "key": "https://sv.wikipedia.org/wiki/Melker_Widell",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Melker Widell",
    "sport": "Fotboll",
    "team": "Swansea",
@@ -3011,7 +3011,7 @@
     "start": "2026-11-14T02:00:00Z",
     "title": "Vancouver Canucks – New York Rangers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Mika Zibanejad",
    "sport": "Ishockey",
    "team": "Rangers",
@@ -3026,11 +3026,11 @@
    "key": "https://sv.wikipedia.org/wiki/Mikael_Backlund",
    "last": {
     "competition": "NHL",
-    "score": "2–3",
-    "start": "2026-11-15T03:00:00Z",
-    "title": "Los Angeles Kings – Calgary Flames"
+    "score": "6–1",
+    "start": "2026-11-16T01:00:00Z",
+    "title": "Anaheim Ducks – Calgary Flames"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Mikael Backlund",
    "sport": "Ishockey",
    "team": "Flames",
@@ -3043,7 +3043,7 @@
     "Brasileirão"
    ],
    "key": "https://sv.wikipedia.org/wiki/Niclas_Eliasson",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Niclas Eliasson",
    "sport": "Fotboll",
    "team": "Internacional",
@@ -3058,11 +3058,11 @@
    "key": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
    "last": {
     "competition": "NHL",
-    "score": "2–3 efter straffar",
-    "start": "2026-11-14T03:00:00Z",
-    "title": "Vegas Golden Knights – Nashville Predators"
+    "score": "4–2",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "San Jose Sharks – Nashville Predators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Nils Höglander",
    "sport": "Ishockey",
    "team": "Predators",
@@ -3077,11 +3077,11 @@
    "key": "https://sv.wikipedia.org/wiki/Nils_Lundkvist",
    "last": {
     "competition": "NHL",
-    "score": "2–0",
-    "start": "2026-11-15T01:00:00Z",
-    "title": "Dallas Stars – Buffalo Sabres"
+    "score": "2–1 efter förlängning",
+    "start": "2026-11-16T01:00:00Z",
+    "title": "Dallas Stars – Florida Panthers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Nils Lundkvist",
    "sport": "Ishockey",
    "team": "Stars",
@@ -3102,7 +3102,7 @@
     "Championship"
    ],
    "key": "https://sv.wikipedia.org/wiki/Noah_Eile",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Noah Eile",
    "sport": "Fotboll",
    "team": "Bristol City",
@@ -3121,7 +3121,7 @@
     "start": "2026-11-15T01:00:00Z",
     "title": "Dallas Stars – Buffalo Sabres"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Noah Östlund",
    "sport": "Ishockey",
    "team": "Sabres",
@@ -3159,7 +3159,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Toronto Maple Leafs – Edmonton Oilers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Oliver Ekman Larsson",
    "sport": "Ishockey",
    "team": "Maple Leafs",
@@ -3178,7 +3178,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Montréal Canadiens – Colorado Avalanche"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Oliver Kapanen",
    "sport": "Ishockey",
    "team": "Canadiens",
@@ -3193,11 +3193,11 @@
    "key": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck",
    "last": {
     "competition": "NHL",
-    "score": "2–0",
-    "start": "2026-11-15T01:00:00Z",
-    "title": "Dallas Stars – Buffalo Sabres"
+    "score": "2–1 efter förlängning",
+    "start": "2026-11-16T01:00:00Z",
+    "title": "Dallas Stars – Florida Panthers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Oskar Bäck",
    "sport": "Ishockey",
    "team": "Stars",
@@ -3224,7 +3224,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "St. Louis Blues – Florida Panthers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Philip Broberg",
    "sport": "Ishockey",
    "team": "Blues",
@@ -3245,7 +3245,7 @@
     "Serie A"
    ],
    "key": "https://sv.wikipedia.org/wiki/Pontus_Almqvist",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Pontus Almqvist",
    "sport": "Fotboll",
    "team": "Parma",
@@ -3264,7 +3264,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Tampa Bay Lightning – Detroit Red Wings"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Pontus Holmberg",
    "sport": "Ishockey",
    "team": "Lightning",
@@ -3279,11 +3279,11 @@
    "key": "Rasmus Andersson|Golden Knights",
    "last": {
     "competition": "NHL",
-    "score": "2–3 efter straffar",
-    "start": "2026-11-14T03:00:00Z",
-    "title": "Vegas Golden Knights – Nashville Predators"
+    "score": "3–6",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "Vegas Golden Knights – Vancouver Canucks"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Rasmus Andersson",
    "sport": "Ishockey",
    "team": "Golden Knights",
@@ -3302,7 +3302,7 @@
     "start": "2026-11-15T01:00:00Z",
     "title": "Dallas Stars – Buffalo Sabres"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Rasmus Dahlin",
    "sport": "Ishockey",
    "team": "Sabres",
@@ -3321,7 +3321,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Washington Capitals – New Jersey Devils"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Rasmus Sandin",
    "sport": "Ishockey",
    "team": "Capitals",
@@ -3340,7 +3340,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Pittsburgh Penguins – Ottawa Senators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Rickard Rakell",
    "sport": "Ishockey",
    "team": "Penguins",
@@ -3360,7 +3360,7 @@
     "start": "2026-11-08T20:00:00Z",
     "title": "Atleti – Barça"
    },
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Roony Bardghji",
    "sport": "Fotboll",
    "team": "Barça",
@@ -3398,7 +3398,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Pittsburgh Penguins – Ottawa Senators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Samuel Ersson",
    "sport": "Ishockey",
    "team": "Senators",
@@ -3411,7 +3411,7 @@
     "Ligue 1"
    ],
    "key": "https://sv.wikipedia.org/wiki/Sebastian_Nanasi",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Sebastian Nanasi",
    "sport": "Fotboll",
    "team": "Strasbourg",
@@ -3424,7 +3424,7 @@
     "La Liga"
    ],
    "key": "Simon Eriksson|Santander",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Simon Eriksson",
    "sport": "Fotboll",
    "team": "Santander",
@@ -3443,7 +3443,7 @@
     "start": "2026-11-15T03:00:00Z",
     "title": "Anaheim Ducks – New York Islanders"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Simon Holmström",
    "sport": "Ishockey",
    "team": "Islanders",
@@ -3456,7 +3456,7 @@
     "Ligue 1"
    ],
    "key": "https://sv.wikipedia.org/wiki/Sion_Oppong",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Sion Oppong",
    "sport": "Fotboll",
    "team": "Toulouse",
@@ -3469,7 +3469,7 @@
     "Championship"
    ],
    "key": "https://sv.wikipedia.org/wiki/Svante_Ingelsson",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Svante Ingelsson",
    "sport": "Fotboll",
    "team": "Stoke",
@@ -3501,7 +3501,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Washington Capitals – New Jersey Devils"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Timothy Liljegren",
    "sport": "Ishockey",
    "team": "Capitals",
@@ -3516,11 +3516,11 @@
    "key": "https://sv.wikipedia.org/wiki/Tom_Willander",
    "last": {
     "competition": "NHL",
-    "score": "1–5",
-    "start": "2026-11-14T02:00:00Z",
-    "title": "Vancouver Canucks – New York Rangers"
+    "score": "3–6",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "Vegas Golden Knights – Vancouver Canucks"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Tom Willander",
    "sport": "Ishockey",
    "team": "Canucks",
@@ -3552,7 +3552,7 @@
     "Eredivisie"
    ],
    "key": "https://sv.wikipedia.org/wiki/Victor_Edvardsen",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Victor Edvardsen",
    "sport": "Fotboll",
    "team": "Go Ahead",
@@ -3571,7 +3571,7 @@
     "start": "2026-11-15T03:00:00Z",
     "title": "Anaheim Ducks – New York Islanders"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Victor Eklund",
    "sport": "Ishockey",
    "team": "Islanders",
@@ -3590,7 +3590,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Tampa Bay Lightning – Detroit Red Wings"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Victor Hedman",
    "sport": "Ishockey",
    "team": "Lightning",
@@ -3610,7 +3610,7 @@
     "start": "2026-11-08T16:30:00Z",
     "title": "Man United – Aston Villa"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Victor Nilsson Lindelöf",
    "sport": "Fotboll",
    "team": "Aston Villa",
@@ -3625,11 +3625,11 @@
    "key": "https://sv.wikipedia.org/wiki/Victor_Olofsson",
    "last": {
     "competition": "NHL",
-    "score": "2–3 efter straffar",
-    "start": "2026-11-14T03:00:00Z",
-    "title": "Vegas Golden Knights – Nashville Predators"
+    "score": "3–6",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "Vegas Golden Knights – Vancouver Canucks"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Victor Olofsson",
    "sport": "Ishockey",
    "team": "Golden Knights",
@@ -3648,7 +3648,7 @@
     "start": "2026-11-14T20:30:00Z",
     "title": "Chicago Blackhawks – Winnipeg Jets"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Viggo Björck",
    "sport": "Ishockey",
    "team": "Jets",
@@ -3675,7 +3675,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Tampa Bay Lightning – Detroit Red Wings"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Viktor Arvidsson",
    "sport": "Ishockey",
    "team": "Red Wings",
@@ -3689,7 +3689,7 @@
     "Premier League"
    ],
    "key": "https://sv.wikipedia.org/wiki/Viktor_Gy%C3%B6keres",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Viktor Gyökeres",
    "sport": "Fotboll",
    "team": "Arsenal",
@@ -3702,7 +3702,7 @@
     "Championship"
    ],
    "key": "https://sv.wikipedia.org/wiki/Viktor_Johansson_(fotbollsspelare)",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Viktor Johansson",
    "sport": "Fotboll",
    "team": "Stoke",
@@ -3721,7 +3721,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Pittsburgh Penguins – Ottawa Senators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "William Eklund",
    "sport": "Ishockey",
    "team": "Senators",
@@ -3736,11 +3736,11 @@
    "key": "https://sv.wikipedia.org/wiki/William_Karlsson",
    "last": {
     "competition": "NHL",
-    "score": "2–3 efter straffar",
-    "start": "2026-11-14T03:00:00Z",
-    "title": "Vegas Golden Knights – Nashville Predators"
+    "score": "3–6",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "Vegas Golden Knights – Vancouver Canucks"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "William Karlsson",
    "sport": "Ishockey",
    "team": "Golden Knights",
@@ -3759,7 +3759,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Toronto Maple Leafs – Edmonton Oilers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "William Nylander",
    "sport": "Ishockey",
    "team": "Maple Leafs",
@@ -3774,11 +3774,11 @@
    "key": "William Stromgren|Flames",
    "last": {
     "competition": "NHL",
-    "score": "2–3",
-    "start": "2026-11-15T03:00:00Z",
-    "title": "Los Angeles Kings – Calgary Flames"
+    "score": "6–1",
+    "start": "2026-11-16T01:00:00Z",
+    "title": "Anaheim Ducks – Calgary Flames"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "William Stromgren",
    "sport": "Ishockey",
    "team": "Flames",
@@ -3797,7 +3797,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Tampa Bay Lightning – Detroit Red Wings"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "William Wallinder",
    "sport": "Ishockey",
    "team": "Red Wings",
@@ -3816,7 +3816,7 @@
     "start": "2026-11-08T17:30:00Z",
     "title": "Celta – Levante"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Williot Swedberg",
    "sport": "Fotboll",
    "team": "Celta",
@@ -3829,7 +3829,7 @@
     "Eredivisie"
    ],
    "key": "Yacqub Finey|Excelsior",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Yacqub Finey",
    "sport": "Fotboll",
    "team": "Excelsior",
@@ -3848,7 +3848,7 @@
     "start": "2026-11-08T14:00:00Z",
     "title": "Brighton Hove – Brentford"
    },
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Yasin Ayari",
    "sport": "Fotboll",
    "team": "Brighton Hove",
@@ -3915,11 +3915,11 @@
    "key": "Ishockey|Anaheim Ducks",
    "last": {
     "competition": "NHL",
-    "score": "2–6",
-    "start": "2026-11-15T03:00:00Z",
-    "title": "Anaheim Ducks – New York Islanders"
+    "score": "6–1",
+    "start": "2026-11-16T01:00:00Z",
+    "title": "Anaheim Ducks – Calgary Flames"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Anaheim Ducks",
    "sport": "Ishockey"
   },
@@ -3944,7 +3944,7 @@
     "Premier League"
    ],
    "key": "Fotboll|Arsenal",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Arsenal",
    "sport": "Fotboll"
   },
@@ -3960,7 +3960,7 @@
     "start": "2026-11-08T16:30:00Z",
     "title": "Man United – Aston Villa"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Aston Villa",
    "sport": "Fotboll"
   },
@@ -3975,7 +3975,7 @@
     "start": "2026-11-08T14:00:00Z",
     "title": "Monza – Atalanta"
    },
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Atalanta",
    "sport": "Fotboll"
   },
@@ -4027,7 +4027,7 @@
     "start": "2026-11-08T20:00:00Z",
     "title": "Atleti – Barça"
    },
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Barça",
    "sport": "Fotboll"
   },
@@ -4042,7 +4042,7 @@
     "Championship"
    ],
    "key": "Fotboll|Birmingham",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Birmingham",
    "sport": "Fotboll"
   },
@@ -4051,7 +4051,7 @@
     "Championship"
    ],
    "key": "Fotboll|Blackburn",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-16",
    "name": "Blackburn",
    "sport": "Fotboll"
   },
@@ -4066,7 +4066,7 @@
     "Serie A"
    ],
    "key": "Fotboll|Bologna",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Bologna",
    "sport": "Fotboll"
   },
@@ -4090,7 +4090,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Boston Bruins – Minnesota Wild"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Boston Bruins",
    "sport": "Ishockey"
   },
@@ -4147,7 +4147,7 @@
     "Ligue 1"
    ],
    "key": "Fotboll|Brest",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Brest",
    "sport": "Fotboll"
   },
@@ -4162,7 +4162,7 @@
     "start": "2026-11-08T14:00:00Z",
     "title": "Brighton Hove – Brentford"
    },
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Brighton Hove",
    "sport": "Fotboll"
   },
@@ -4171,7 +4171,7 @@
     "Championship"
    ],
    "key": "Fotboll|Bristol City",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Bristol City",
    "sport": "Fotboll"
   },
@@ -4186,7 +4186,7 @@
     "start": "2026-11-15T01:00:00Z",
     "title": "Dallas Stars – Buffalo Sabres"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Buffalo Sabres",
    "sport": "Ishockey"
   },
@@ -4195,7 +4195,7 @@
     "Championship"
    ],
    "key": "Fotboll|Burnley",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Burnley",
    "sport": "Fotboll"
   },
@@ -4204,7 +4204,7 @@
     "Serie A"
    ],
    "key": "Fotboll|Cagliari",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Cagliari",
    "sport": "Fotboll"
   },
@@ -4215,11 +4215,11 @@
    "key": "Ishockey|Calgary Flames",
    "last": {
     "competition": "NHL",
-    "score": "2–3",
-    "start": "2026-11-15T03:00:00Z",
-    "title": "Los Angeles Kings – Calgary Flames"
+    "score": "6–1",
+    "start": "2026-11-16T01:00:00Z",
+    "title": "Anaheim Ducks – Calgary Flames"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Calgary Flames",
    "sport": "Ishockey"
   },
@@ -4249,7 +4249,7 @@
     "start": "2026-11-14T18:00:00Z",
     "title": "Carolina Hurricanes – Seattle Kraken"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Carolina Hurricanes",
    "sport": "Ishockey"
   },
@@ -4270,7 +4270,7 @@
     "start": "2026-11-08T17:30:00Z",
     "title": "Celta – Levante"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Celta",
    "sport": "Fotboll"
   },
@@ -4291,7 +4291,7 @@
     "start": "2026-11-08T14:00:00Z",
     "title": "Sunderland – Chelsea"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Chelsea",
    "sport": "Fotboll"
   },
@@ -4306,7 +4306,7 @@
     "start": "2026-11-14T20:30:00Z",
     "title": "Chicago Blackhawks – Winnipeg Jets"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Chicago Blackhawks",
    "sport": "Ishockey"
   },
@@ -4327,7 +4327,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Montréal Canadiens – Colorado Avalanche"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Colorado Avalanche",
    "sport": "Ishockey"
   },
@@ -4342,7 +4342,7 @@
     "start": "2026-11-13T00:00:00Z",
     "title": "Columbus Blue Jackets – Tampa Bay Lightning"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Columbus Blue Jackets",
    "sport": "Ishockey"
   },
@@ -4358,7 +4358,7 @@
     "start": "2026-11-08T17:00:00Z",
     "title": "Inter – Como 1907"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Como 1907",
    "sport": "Fotboll"
   },
@@ -4399,11 +4399,11 @@
    "key": "Ishockey|Dallas Stars",
    "last": {
     "competition": "NHL",
-    "score": "2–0",
-    "start": "2026-11-15T01:00:00Z",
-    "title": "Dallas Stars – Buffalo Sabres"
+    "score": "2–1 efter förlängning",
+    "start": "2026-11-16T01:00:00Z",
+    "title": "Dallas Stars – Florida Panthers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Dallas Stars",
    "sport": "Ishockey"
   },
@@ -4418,7 +4418,7 @@
     "Championship"
    ],
    "key": "Fotboll|Derby County",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Derby County",
    "sport": "Fotboll"
   },
@@ -4433,7 +4433,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Tampa Bay Lightning – Detroit Red Wings"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Detroit Red Wings",
    "sport": "Ishockey"
   },
@@ -4443,7 +4443,7 @@
     "Bundesliga"
    ],
    "key": "Fotboll|Dortmund",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Dortmund",
    "sport": "Fotboll"
   },
@@ -4454,11 +4454,11 @@
    "key": "Ishockey|Edmonton Oilers",
    "last": {
     "competition": "NHL",
-    "score": "0–1",
-    "start": "2026-11-15T00:00:00Z",
-    "title": "Toronto Maple Leafs – Edmonton Oilers"
+    "score": "2–5",
+    "start": "2026-11-16T00:30:00Z",
+    "title": "Philadelphia Flyers – Edmonton Oilers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Edmonton Oilers",
    "sport": "Ishockey"
   },
@@ -4497,7 +4497,7 @@
     "Eredivisie"
    ],
    "key": "Fotboll|Excelsior",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Excelsior",
    "sport": "Fotboll"
   },
@@ -4527,7 +4527,7 @@
     "start": "2026-11-08T11:15:00Z",
     "title": "Heerenveen – Feyenoord"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Feyenoord",
    "sport": "Fotboll"
   },
@@ -4553,11 +4553,11 @@
    "key": "Ishockey|Florida Panthers",
    "last": {
     "competition": "NHL",
-    "score": "1–4",
-    "start": "2026-11-15T00:00:00Z",
-    "title": "St. Louis Blues – Florida Panthers"
+    "score": "2–1 efter förlängning",
+    "start": "2026-11-16T01:00:00Z",
+    "title": "Dallas Stars – Florida Panthers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Florida Panthers",
    "sport": "Ishockey"
   },
@@ -4572,7 +4572,7 @@
     "Bundesliga"
    ],
    "key": "Fotboll|Frankfurt",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Frankfurt",
    "sport": "Fotboll"
   },
@@ -4587,7 +4587,7 @@
     "Premier League"
    ],
    "key": "Fotboll|Fulham",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Fulham",
    "sport": "Fotboll"
   },
@@ -4632,7 +4632,7 @@
     "Eredivisie"
    ],
    "key": "Fotboll|Go Ahead",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Go Ahead",
    "sport": "Fotboll"
   },
@@ -4647,7 +4647,7 @@
     "start": "2026-11-08T15:45:00Z",
     "title": "AZ – Groningen"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Groningen",
    "sport": "Fotboll"
   },
@@ -4662,7 +4662,7 @@
     "start": "2026-11-08T11:15:00Z",
     "title": "Heerenveen – Feyenoord"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Heerenveen",
    "sport": "Fotboll"
   },
@@ -4671,7 +4671,7 @@
     "Bundesliga"
    ],
    "key": "Fotboll|Hoffenheim",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Hoffenheim",
    "sport": "Fotboll"
   },
@@ -4689,7 +4689,7 @@
     "Premier League"
    ],
    "key": "Fotboll|Hull City",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Hull City",
    "sport": "Fotboll"
   },
@@ -4704,7 +4704,7 @@
     "start": "2026-11-08T17:00:00Z",
     "title": "Inter – Como 1907"
    },
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Inter",
    "sport": "Fotboll"
   },
@@ -4713,7 +4713,7 @@
     "Brasileirão"
    ],
    "key": "Fotboll|Internacional",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Internacional",
    "sport": "Fotboll"
   },
@@ -4722,7 +4722,7 @@
     "Premier League"
    ],
    "key": "Fotboll|Ipswich Town",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Ipswich Town",
    "sport": "Fotboll"
   },
@@ -4770,7 +4770,7 @@
     "Premier League"
    ],
    "key": "Fotboll|Leeds United",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Leeds United",
    "sport": "Fotboll"
   },
@@ -4813,7 +4813,7 @@
     "start": "2026-11-08T14:00:00Z",
     "title": "Crystal Palace – Liverpool"
    },
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Liverpool",
    "sport": "Fotboll"
   },
@@ -4828,7 +4828,7 @@
     "start": "2026-11-15T03:00:00Z",
     "title": "Los Angeles Kings – Calgary Flames"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Los Angeles Kings",
    "sport": "Ishockey"
   },
@@ -4837,7 +4837,7 @@
     "Bundesliga"
    ],
    "key": "Fotboll|M'gladbach",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "M'gladbach",
    "sport": "Fotboll"
   },
@@ -4846,7 +4846,7 @@
     "La Liga"
    ],
    "key": "Fotboll|Málaga",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Málaga",
    "sport": "Fotboll"
   },
@@ -4855,7 +4855,7 @@
     "Premier League"
    ],
    "key": "Fotboll|Man City",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Man City",
    "sport": "Fotboll"
   },
@@ -4870,7 +4870,7 @@
     "start": "2026-11-08T16:30:00Z",
     "title": "Man United – Aston Villa"
    },
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Man United",
    "sport": "Fotboll"
   },
@@ -4891,7 +4891,7 @@
     "Championship"
    ],
    "key": "Fotboll|Middlesbrough",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Middlesbrough",
    "sport": "Fotboll"
   },
@@ -4918,7 +4918,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Boston Bruins – Minnesota Wild"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Minnesota Wild",
    "sport": "Ishockey"
   },
@@ -4939,7 +4939,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Montréal Canadiens – Colorado Avalanche"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Montréal Canadiens",
    "sport": "Ishockey"
   },
@@ -4977,11 +4977,11 @@
    "key": "Ishockey|Nashville Predators",
    "last": {
     "competition": "NHL",
-    "score": "2–3 efter straffar",
-    "start": "2026-11-14T03:00:00Z",
-    "title": "Vegas Golden Knights – Nashville Predators"
+    "score": "4–2",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "San Jose Sharks – Nashville Predators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Nashville Predators",
    "sport": "Ishockey"
   },
@@ -5002,7 +5002,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Washington Capitals – New Jersey Devils"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "New Jersey Devils",
    "sport": "Ishockey"
   },
@@ -5017,7 +5017,7 @@
     "start": "2026-11-15T03:00:00Z",
     "title": "Anaheim Ducks – New York Islanders"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "New York Islanders",
    "sport": "Ishockey"
   },
@@ -5032,7 +5032,7 @@
     "start": "2026-11-14T02:00:00Z",
     "title": "Vancouver Canucks – New York Rangers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "New York Rangers",
    "sport": "Ishockey"
   },
@@ -5041,7 +5041,7 @@
     "Premier League"
    ],
    "key": "Fotboll|Newcastle",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Newcastle",
    "sport": "Fotboll"
   },
@@ -5056,7 +5056,7 @@
     "start": "2026-11-08T16:15:00Z",
     "title": "Angers SCO – Nice"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Nice",
    "sport": "Fotboll"
   },
@@ -5082,8 +5082,11 @@
    "sport": "Fotboll"
   },
   "osasuna": {
+   "competitions": [
+    "La Liga"
+   ],
    "key": "Fotboll|Osasuna",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-11-16",
    "name": "Osasuna",
    "sport": "Fotboll"
   },
@@ -5098,7 +5101,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Pittsburgh Penguins – Ottawa Senators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Ottawa Senators",
    "sport": "Ishockey"
   },
@@ -5107,7 +5110,7 @@
     "Serie A"
    ],
    "key": "Fotboll|Parma",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Parma",
    "sport": "Fotboll"
   },
@@ -5118,11 +5121,11 @@
    "key": "Ishockey|Philadelphia Flyers",
    "last": {
     "competition": "NHL",
-    "score": "3–2 efter förlängning",
-    "start": "2026-11-12T02:00:00Z",
-    "title": "Edmonton Oilers – Philadelphia Flyers"
+    "score": "2–5",
+    "start": "2026-11-16T00:30:00Z",
+    "title": "Philadelphia Flyers – Edmonton Oilers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Philadelphia Flyers",
    "sport": "Ishockey"
   },
@@ -5137,7 +5140,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Pittsburgh Penguins – Ottawa Senators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Pittsburgh Penguins",
    "sport": "Ishockey"
   },
@@ -5170,7 +5173,7 @@
     "Championship"
    ],
    "key": "Fotboll|Preston NE",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Preston NE",
    "sport": "Fotboll"
   },
@@ -5179,7 +5182,7 @@
     "Ligue 1"
    ],
    "key": "Fotboll|PSG",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "PSG",
    "sport": "Fotboll"
   },
@@ -5216,7 +5219,7 @@
     "Ligue 1"
    ],
    "key": "Fotboll|RC Lens",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "RC Lens",
    "sport": "Fotboll"
   },
@@ -5234,13 +5237,16 @@
     "La Liga"
    ],
    "key": "Fotboll|Real Madrid",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Real Madrid",
    "sport": "Fotboll"
   },
   "real-sociedad": {
+   "competitions": [
+    "La Liga"
+   ],
    "key": "Fotboll|Real Sociedad",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-11-16",
    "name": "Real Sociedad",
    "sport": "Fotboll"
   },
@@ -5264,7 +5270,7 @@
     "Serie A"
    ],
    "key": "Fotboll|Roma",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Roma",
    "sport": "Fotboll"
   },
@@ -5281,11 +5287,11 @@
    "key": "Ishockey|San Jose Sharks",
    "last": {
     "competition": "NHL",
-    "score": "5–6 efter straffar",
-    "start": "2026-11-15T02:00:00Z",
-    "title": "Utah Mammoth – San Jose Sharks"
+    "score": "4–2",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "San Jose Sharks – Nashville Predators"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "San Jose Sharks",
    "sport": "Ishockey"
   },
@@ -5309,7 +5315,7 @@
     "La Liga"
    ],
    "key": "Fotboll|Santander",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Santander",
    "sport": "Fotboll"
   },
@@ -5342,7 +5348,7 @@
     "start": "2026-11-14T18:00:00Z",
     "title": "Carolina Hurricanes – Seattle Kraken"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Seattle Kraken",
    "sport": "Ishockey"
   },
@@ -5360,7 +5366,7 @@
     "Eredivisie"
    ],
    "key": "Fotboll|Sittard",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-16",
    "name": "Sittard",
    "sport": "Fotboll"
   },
@@ -5393,7 +5399,7 @@
     "Championship"
    ],
    "key": "Fotboll|Southampton",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Southampton",
    "sport": "Fotboll"
   },
@@ -5420,7 +5426,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "St. Louis Blues – Florida Panthers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "St. Louis Blues",
    "sport": "Ishockey"
   },
@@ -5435,7 +5441,7 @@
     "Championship"
    ],
    "key": "Fotboll|Stoke",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Stoke",
    "sport": "Fotboll"
   },
@@ -5444,7 +5450,7 @@
     "Ligue 1"
    ],
    "key": "Fotboll|Strasbourg",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Strasbourg",
    "sport": "Fotboll"
   },
@@ -5468,7 +5474,7 @@
     "start": "2026-11-08T14:00:00Z",
     "title": "Sunderland – Chelsea"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Sunderland",
    "sport": "Fotboll"
   },
@@ -5477,7 +5483,7 @@
     "Championship"
    ],
    "key": "Fotboll|Swansea",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Swansea",
    "sport": "Fotboll"
   },
@@ -5492,7 +5498,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Tampa Bay Lightning – Detroit Red Wings"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Tampa Bay Lightning",
    "sport": "Ishockey"
   },
@@ -5522,7 +5528,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Toronto Maple Leafs – Edmonton Oilers"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Toronto Maple Leafs",
    "sport": "Ishockey"
   },
@@ -5531,7 +5537,7 @@
     "Premier League"
    ],
    "key": "Fotboll|Tottenham",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Tottenham",
    "sport": "Fotboll"
   },
@@ -5540,7 +5546,7 @@
     "Ligue 1"
    ],
    "key": "Fotboll|Toulouse",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Toulouse",
    "sport": "Fotboll"
   },
@@ -5551,8 +5557,11 @@
    "sport": "Fotboll"
   },
   "twente": {
+   "competitions": [
+    "Eredivisie"
+   ],
    "key": "Fotboll|Twente",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-16",
    "name": "Twente",
    "sport": "Fotboll"
   },
@@ -5561,7 +5570,7 @@
     "Serie A"
    ],
    "key": "Fotboll|Udinese",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-16",
    "name": "Udinese",
    "sport": "Fotboll"
   },
@@ -5582,7 +5591,7 @@
     "start": "2026-11-15T02:00:00Z",
     "title": "Utah Mammoth – San Jose Sharks"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Utah Mammoth",
    "sport": "Ishockey"
   },
@@ -5605,11 +5614,11 @@
    "key": "Ishockey|Vancouver Canucks",
    "last": {
     "competition": "NHL",
-    "score": "1–5",
-    "start": "2026-11-14T02:00:00Z",
-    "title": "Vancouver Canucks – New York Rangers"
+    "score": "3–6",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "Vegas Golden Knights – Vancouver Canucks"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Vancouver Canucks",
    "sport": "Ishockey"
   },
@@ -5618,7 +5627,7 @@
     "Brasileirão"
    ],
    "key": "Fotboll|Vasco da Gama",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Vasco da Gama",
    "sport": "Fotboll"
   },
@@ -5629,11 +5638,11 @@
    "key": "Ishockey|Vegas Golden Knights",
    "last": {
     "competition": "NHL",
-    "score": "2–3 efter straffar",
-    "start": "2026-11-14T03:00:00Z",
-    "title": "Vegas Golden Knights – Nashville Predators"
+    "score": "3–6",
+    "start": "2026-11-16T02:00:00Z",
+    "title": "Vegas Golden Knights – Vancouver Canucks"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Vegas Golden Knights",
    "sport": "Ishockey"
   },
@@ -5653,8 +5662,11 @@
    "sport": "Fotboll"
   },
   "villarreal": {
+   "competitions": [
+    "La Liga"
+   ],
    "key": "Fotboll|Villarreal",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-11-16",
    "name": "Villarreal",
    "sport": "Fotboll"
   },
@@ -5684,7 +5696,7 @@
     "start": "2026-11-15T00:00:00Z",
     "title": "Washington Capitals – New Jersey Devils"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Washington Capitals",
    "sport": "Ishockey"
   },
@@ -5699,7 +5711,7 @@
     "Championship"
    ],
    "key": "Fotboll|West Brom",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "West Brom",
    "sport": "Fotboll"
   },
@@ -5708,7 +5720,7 @@
     "Championship"
    ],
    "key": "Fotboll|West Ham",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "West Ham",
    "sport": "Fotboll"
   },
@@ -5717,7 +5729,7 @@
     "Eredivisie"
    ],
    "key": "Fotboll|Willem II",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-16",
    "name": "Willem II",
    "sport": "Fotboll"
   },
@@ -5732,7 +5744,7 @@
     "start": "2026-11-14T20:30:00Z",
     "title": "Chicago Blackhawks – Winnipeg Jets"
    },
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "name": "Winnipeg Jets",
    "sport": "Ishockey"
   },
