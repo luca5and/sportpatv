@@ -2,11 +2,11 @@
  "lastmod": {
   "": {
    "date": "2026-11-21",
-   "hash": "06831586590e3c5e971d9261bc34472e9c6092b7"
+   "hash": "8297fa804fe6dfd2efe2423036fa247e0041b5f5"
   },
   "helgen/": {
    "date": "2026-11-21",
-   "hash": "d1a0fee0e0f0730e2610867bd0ab113590e49674"
+   "hash": "4dcfb60496de285e5fb5b7d14ba9759c4e17a3dd"
   },
   "lag/1-fc-koln/": {
    "date": "2026-11-21",
@@ -38,11 +38,11 @@
   },
   "lag/arsenal/": {
    "date": "2026-11-21",
-   "hash": "e725f6ed528c7ac1420d29209920c934eb0f1882"
+   "hash": "9932cd93dbacce55642b367ffcea76f72e95d1ff"
   },
   "lag/aston-villa/": {
    "date": "2026-11-21",
-   "hash": "8219d82a6f3e0c9a4eb4b08e0f84278347607ee8"
+   "hash": "7fd30aa656bba33161827764d289f02df104597b"
   },
   "lag/atalanta/": {
    "date": "2026-11-21",
@@ -118,7 +118,7 @@
   },
   "lag/brighton-hove/": {
    "date": "2026-11-21",
-   "hash": "3eb58f56ae234487bfa568ac27ca6ad93dfd4b38"
+   "hash": "64d9d94ab53a181168f7df508bd3563917542cc9"
   },
   "lag/bristol-city/": {
    "date": "2026-11-21",
@@ -134,7 +134,7 @@
   },
   "lag/cagliari/": {
    "date": "2026-11-21",
-   "hash": "89f808b21155ef8464519bce8bc732edd60b9e9f"
+   "hash": "2c432dd0892ab7a7e8cfd4c2e4baf4d9a3aee7a2"
   },
   "lag/calgary-flames/": {
    "date": "2026-11-21",
@@ -166,7 +166,7 @@
   },
   "lag/chelsea/": {
    "date": "2026-11-21",
-   "hash": "d40d7d215f109bb9110dbf1c3fb3604a06ee67e0"
+   "hash": "d1007ab5b99faa5fac54f3295b42be045153aaa3"
   },
   "lag/chicago-blackhawks/": {
    "date": "2026-11-21",
@@ -186,7 +186,7 @@
   },
   "lag/como-1907/": {
    "date": "2026-11-21",
-   "hash": "28542e7088aa636e545b1f7916961176903c57d7"
+   "hash": "cc3fe9fae2e7e13649fdac16e96b2bfb7b0bd47d"
   },
   "lag/coritiba/": {
    "date": "2026-11-21",
@@ -210,7 +210,7 @@
   },
   "lag/derby-county/": {
    "date": "2026-11-21",
-   "hash": "18fcea727bd8e7795d88489b9c06e515e6e0ce5a"
+   "hash": "6f5315cb91bd94ad96e57ce31955171a3a856fcc"
   },
   "lag/detroit-red-wings/": {
    "date": "2026-11-21",
@@ -278,7 +278,7 @@
   },
   "lag/fulham/": {
    "date": "2026-11-21",
-   "hash": "b95ae21c57dcbd099f4102c0fde13877243acbee"
+   "hash": "514536520ae86452cb3d856aaa2472b489c61dca"
   },
   "lag/galatasaray/": {
    "date": "2026-11-21",
@@ -318,7 +318,7 @@
   },
   "lag/hull-city/": {
    "date": "2026-11-21",
-   "hash": "f6785d059a8a0375cd61fc6cda4508f9287c0b0b"
+   "hash": "1b5b1bfacc66434d52a64f8adb3698342d15c058"
   },
   "lag/inter/": {
    "date": "2026-11-21",
@@ -330,7 +330,7 @@
   },
   "lag/ipswich-town/": {
    "date": "2026-11-21",
-   "hash": "ae1ddbc2a9cae08e0e7746c5de433727dbadbb97"
+   "hash": "3f60e0fbebebdd3f735d2b794ab5dd132101d5c0"
   },
   "lag/juventus/": {
    "date": "2026-11-21",
@@ -354,7 +354,7 @@
   },
   "lag/leeds-united/": {
    "date": "2026-11-21",
-   "hash": "d25b40727883ee1ab095e5e009d188d90f6961a8"
+   "hash": "d7ffa1728c554897df0acdd17c5c65e4bb22dad3"
   },
   "lag/levante/": {
    "date": "2026-11-21",
@@ -370,7 +370,7 @@
   },
   "lag/liverpool/": {
    "date": "2026-11-21",
-   "hash": "ac1ba5134d90e230d3dce2d819e8147f2c297faf"
+   "hash": "53ea1213cb1fe3e9c93f55133364b551adb50216"
   },
   "lag/los-angeles-kings/": {
    "date": "2026-11-21",
@@ -386,11 +386,11 @@
   },
   "lag/man-city/": {
    "date": "2026-11-21",
-   "hash": "f793d716031fe0dc9758d945af27c05d24bc7d7e"
+   "hash": "5c8f8f16848d43e55855ee8ddd9d9798b69bc7ea"
   },
   "lag/man-united/": {
    "date": "2026-11-21",
-   "hash": "14c8017f8fd86c00945aedd39c0156e4c031dc5a"
+   "hash": "812efacd25ce4dbf530c34fd3ec7b9cb13b6b32e"
   },
   "lag/maritimo/": {
    "date": "2026-11-21",
@@ -458,7 +458,7 @@
   },
   "lag/newcastle/": {
    "date": "2026-11-21",
-   "hash": "710290bc026d14b741801403cf48623dada5df2c"
+   "hash": "4abd0ab0193a87884662242d2d488b597e744ad0"
   },
   "lag/nice/": {
    "date": "2026-11-21",
@@ -602,7 +602,7 @@
   },
   "lag/southampton/": {
    "date": "2026-11-21",
-   "hash": "dc4a5e10202086da55170d12f83ac661cb3d74cd"
+   "hash": "1a2a50f60bbdf674a49a8364cd98901ce5b3e68f"
   },
   "lag/sparta/": {
    "date": "2026-11-21",
@@ -634,7 +634,7 @@
   },
   "lag/sunderland/": {
    "date": "2026-11-21",
-   "hash": "4ba4b799ff99afc53739d639ade589a9c9478b54"
+   "hash": "ba9e36f99d2ab0021767a67113318c5df6b8c91a"
   },
   "lag/swansea/": {
    "date": "2026-11-21",
@@ -658,7 +658,7 @@
   },
   "lag/tottenham/": {
    "date": "2026-11-21",
-   "hash": "de6da8a26c31dbf7027455f8033a63d90a5c2c56"
+   "hash": "73ec33ca32620364fc3d7fff90d51d91821abfee"
   },
   "lag/toulouse/": {
    "date": "2026-11-21",
@@ -774,7 +774,7 @@
   },
   "liga/championship/": {
    "date": "2026-11-21",
-   "hash": "93251480fb5b44c97f6ed42497e9b74027c2fb54"
+   "hash": "ad834f7d45f39eacda4510c06db2a590df2e3349"
   },
   "liga/eredivisie/": {
    "date": "2026-11-21",
@@ -794,7 +794,7 @@
   },
   "liga/premier-league/": {
    "date": "2026-11-21",
-   "hash": "e528ffe68b056ea0415b9cbfb5ff1c9faefb0012"
+   "hash": "f1fad288e1af496211b68b1608b960016e682fdb"
   },
   "liga/primeira-liga/": {
    "date": "2026-11-21",
@@ -802,7 +802,7 @@
   },
   "liga/serie-a/": {
    "date": "2026-11-21",
-   "hash": "cf3665d1f8c175b2006fbfda9b8740e1421b47f4"
+   "hash": "ff01e8f4589540d74c74360fa823c90dd9c2c293"
   },
   "match/anaheim-ducks-los-angeles-kings-27-nov/": {
    "date": "2026-11-21",
@@ -818,7 +818,7 @@
   },
   "match/aston-villa-sunderland-21-nov/": {
    "date": "2026-11-21",
-   "hash": "7cf113657205e88e6168da7c3153502ac9918bb2"
+   "hash": "f8c235fc665291cf60f81623e321adf16de813f4"
   },
   "match/atalanta-inter-22-nov/": {
    "date": "2026-11-21",
@@ -890,7 +890,7 @@
   },
   "match/chelsea-leeds-united-21-nov/": {
    "date": "2026-11-21",
-   "hash": "57bcc12a1cacd6e896caea277f392aff2b82b01a"
+   "hash": "709688fdb434429c0a98fcdd0b6728fc24a490a5"
   },
   "match/chicago-blackhawks-columbus-blue-jackets-19-nov/": {
    "date": "2026-11-21",
@@ -990,7 +990,7 @@
   },
   "match/hull-city-brighton-hove-22-nov/": {
    "date": "2026-11-21",
-   "hash": "e5dbe65925a1423f65ab4c015eec2ab272a8ee46"
+   "hash": "0ac3c47be65693727b257eb3ab4272ce26b575e2"
   },
   "match/internacional-vitoria-23-nov/": {
    "date": "2026-11-21",
@@ -1002,7 +1002,7 @@
   },
   "match/liverpool-man-united-22-nov/": {
    "date": "2026-11-21",
-   "hash": "ffca6948d190527ada4ed66c1113be35ab52c9f6"
+   "hash": "a96f273f1396bd1b3770d0bfeb696bf3ae575a95"
   },
   "match/m-gladbach-dortmund-21-nov/": {
    "date": "2026-11-21",
@@ -1078,7 +1078,7 @@
   },
   "match/newcastle-arsenal-21-nov/": {
    "date": "2026-11-21",
-   "hash": "54d32f10b7573355f6b3c22246231c4fffc31349"
+   "hash": "b26005c0935f1b95372276bc8d56cd78ed71aab3"
   },
   "match/nice-psg-21-nov/": {
    "date": "2026-11-21",
@@ -1214,7 +1214,7 @@
   },
   "match/tottenham-ipswich-town-21-nov/": {
    "date": "2026-11-21",
-   "hash": "439cd7cb30dd8be3b97f1308d91bcbb40c0e813b"
+   "hash": "5e53750e837ae541e52d75aa2d5b3b22890f9f94"
   },
   "match/twente-willem-ii-22-nov/": {
    "date": "2026-11-21",
@@ -1302,7 +1302,7 @@
   },
   "spelare/adrian-lahdo/": {
    "date": "2026-11-21",
-   "hash": "a73a1990b765207472f1fa9d9b0a6339c4e3288c"
+   "hash": "b47e8c24629a1dd51ec6960a547d0f81ddda523f"
   },
   "spelare/albert-johansson/": {
    "date": "2026-11-21",
@@ -1314,7 +1314,7 @@
   },
   "spelare/alexander-isak/": {
    "date": "2026-11-21",
-   "hash": "16453ccc76747d324cbc7dc51c6709d803b19419"
+   "hash": "c982e360ccd7bc50e4ec5544467ad0eb15934228"
   },
   "spelare/alexander-wennberg/": {
    "date": "2026-11-21",
@@ -1346,7 +1346,7 @@
   },
   "spelare/anthony-elanga/": {
    "date": "2026-11-21",
-   "hash": "818f04693c99c4dfb410b1c103bf0c61198a887c"
+   "hash": "df21c63e3f5a6da2ec47e6e13e38418b82ece79f"
   },
   "spelare/anton-forsberg/": {
    "date": "2026-11-21",
@@ -1398,7 +1398,7 @@
   },
   "spelare/dejan-kulusevski/": {
    "date": "2026-11-21",
-   "hash": "555b84b967cf19f804bfac7885f876a7c69cb51e"
+   "hash": "39215a9527dba61514e49276b8bfb435ad912d7a"
   },
   "spelare/deniz-gul/": {
    "date": "2026-11-21",
@@ -1426,7 +1426,7 @@
   },
   "spelare/elliot-stroud/": {
    "date": "2026-11-21",
-   "hash": "4d9b7e32816c978226ea7b51064124811898189b"
+   "hash": "e64bae5248870545ffa6aacdd4080153ff193210"
   },
   "spelare/elmer-soderblom/": {
    "date": "2026-11-21",
@@ -1478,7 +1478,7 @@
   },
   "spelare/gabriel-gudmundsson/": {
    "date": "2026-11-21",
-   "hash": "1e97e4d383df2ecda1a820741b87b292918384f1"
+   "hash": "9890e0a6786bb9339782965b5ddb64300eae6977"
   },
   "spelare/gabriel-landeskog/": {
    "date": "2026-11-21",
@@ -1514,7 +1514,7 @@
   },
   "spelare/hugo-larsson/": {
    "date": "2026-11-21",
-   "hash": "43b3b856aff8a7b4ec1d8c78fccd9619a3f96489"
+   "hash": "ba2c4f6fb30868bf5a6a98f546ad52a4c87fa9fe"
   },
   "spelare/isac-lidberg/": {
    "date": "2026-11-21",
@@ -1554,7 +1554,7 @@
   },
   "spelare/jacob-widell-zetterstrom/": {
    "date": "2026-11-21",
-   "hash": "2964ead40665c2cdde8f17f09ea749cae3407350"
+   "hash": "5e36a23e769c6c5fc16040fba5f38643b683ab34"
   },
   "spelare/jens-cajuste/": {
    "date": "2026-11-21",
@@ -1586,7 +1586,7 @@
   },
   "spelare/jonah-kusi-asare/": {
    "date": "2026-11-21",
-   "hash": "36be322205a30e32acde8b19fe518803b66805d5"
+   "hash": "f5c060ce05719bcfa28a74b87047f788a33a5edc"
   },
   "spelare/jonas-brodin/": {
    "date": "2026-11-21",
@@ -1638,7 +1638,7 @@
   },
   "spelare/lucas-bergvall/": {
    "date": "2026-11-21",
-   "hash": "171d19b361f103e874a2aa42b6dccac24e42e73d"
+   "hash": "dda5f273ce9f1b4165e6bac12aecc0ab44be5269"
   },
   "spelare/lucas-raymond/": {
    "date": "2026-11-21",
@@ -1666,7 +1666,7 @@
   },
   "spelare/melker-ellborg/": {
    "date": "2026-11-21",
-   "hash": "9a7b235e5fd49a6a01b371a9b74ff667e6fdfc30"
+   "hash": "5f59b7a700b56ac5da2554f496af30c1cf39fe83"
   },
   "spelare/melker-widell/": {
    "date": "2026-11-21",
@@ -1818,7 +1818,7 @@
   },
   "spelare/victor-nilsson-lindelof/": {
    "date": "2026-11-21",
-   "hash": "046d809ef955e2701271da7321b252080c4df0cc"
+   "hash": "5203a9afeea3282ed0d08191a92443c56464f45d"
   },
   "spelare/victor-olofsson/": {
    "date": "2026-11-21",
@@ -1838,7 +1838,7 @@
   },
   "spelare/viktor-gyokeres/": {
    "date": "2026-11-21",
-   "hash": "f8c4893792aa7d5a182db33bcdc184c2c7e52929"
+   "hash": "761328416b1a2ba25280d8316d35c22d2a407bb3"
   },
   "spelare/viktor-johansson/": {
    "date": "2026-11-21",
@@ -1874,7 +1874,7 @@
   },
   "spelare/yasin-ayari/": {
    "date": "2026-11-21",
-   "hash": "a755d7264cb5d15fe5aa6dd5db6a3c52d2f34dc4"
+   "hash": "cbe072be7637376a02d8c5ac017a41eb4177d3ea"
   },
   "spelare/zeidane-inoussa/": {
    "date": "2026-11-21",
@@ -2046,11 +2046,10 @@
    "title": "Aston Villa – Sunderland",
    "tv": {
     "channel": null,
-    "label": "Viaplay eller Prime Video",
-    "note": "Kolla närmare matchen",
-    "service": null,
-    "source": null,
-    "status": "unknown"
+    "note": null,
+    "service": "Viaplay",
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "status": "likely"
    }
   },
   "atalanta-inter-22-nov": {
@@ -2810,11 +2809,10 @@
    "title": "Chelsea – Leeds United",
    "tv": {
     "channel": null,
-    "label": "Viaplay eller Prime Video",
-    "note": "Kolla närmare matchen",
-    "service": null,
-    "source": null,
-    "status": "unknown"
+    "note": null,
+    "service": "Viaplay",
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "status": "likely"
    }
   },
   "chicago-blackhawks-columbus-blue-jackets-19-nov": {
@@ -4031,11 +4029,10 @@
    "title": "Hull City – Brighton Hove",
    "tv": {
     "channel": null,
-    "label": "Viaplay eller Prime Video",
-    "note": "Kolla närmare matchen",
-    "service": null,
-    "source": null,
-    "status": "unknown"
+    "note": null,
+    "service": "Viaplay",
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "status": "likely"
    }
   },
   "internacional-vitoria-23-nov": {
@@ -4129,11 +4126,10 @@
    "title": "Liverpool – Man United",
    "tv": {
     "channel": null,
-    "label": "Viaplay eller Prime Video",
-    "note": "Kolla närmare matchen",
-    "service": null,
-    "source": null,
-    "status": "unknown"
+    "note": null,
+    "service": "Viaplay",
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "status": "likely"
    }
   },
   "m-gladbach-dortmund-21-nov": {
@@ -4995,11 +4991,10 @@
    "title": "Newcastle – Arsenal",
    "tv": {
     "channel": null,
-    "label": "Viaplay eller Prime Video",
-    "note": "Kolla närmare matchen",
-    "service": null,
-    "source": null,
-    "status": "unknown"
+    "note": null,
+    "service": "Viaplay",
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "status": "likely"
    }
   },
   "nice-psg-21-nov": {
@@ -6752,11 +6747,10 @@
    "title": "Tottenham – Ipswich Town",
    "tv": {
     "channel": null,
-    "label": "Viaplay eller Prime Video",
-    "note": "Kolla närmare matchen",
-    "service": null,
-    "source": null,
-    "status": "unknown"
+    "note": null,
+    "service": "Viaplay",
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "status": "likely"
    }
   },
   "twente-willem-ii-22-nov": {

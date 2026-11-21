@@ -29,10 +29,10 @@ UID:560648@patv.se
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T160000
 DTEND;TZID=Europe/Stockholm:20261121T180000
-SUMMARY:Tottenham – Ipswich Town (Viaplay eller Prime Video?)
-DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
- räftat). Svenskar: Dejan Kulusevski\, Lucas Bergvall. https://patv.se/mat
- ch/tottenham-ipswich-town-21-nov/
+SUMMARY:Tottenham – Ipswich Town (Viaplay)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
+  Dejan Kulusevski\, Lucas Bergvall. https://patv.se/match/tottenham-ipswic
+ h-town-21-nov/
 URL:https://patv.se/match/tottenham-ipswich-town-21-nov/
 END:VEVENT
 END:VCALENDAR
