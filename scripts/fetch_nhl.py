@@ -65,10 +65,39 @@ def parse_roster(data):
     for group in ("forwards", "defensemen", "goalies"):
         for p in data.get(group, []):
             players.append((f'{text(p.get("firstName"))} {text(p.get("lastName"))}',
-                            p.get("sweaterNumber"), p.get("birthCountry"), p.get("birthDate")))
-    names = [n for n, _, _, _ in players]
-    return sorted(({"name": f"{n} #{num}" if names.count(n) > 1 and num else n, "country": c, "born": b}
-                   for n, num, c, b in players), key=lambda p: p["name"])
+                            p.get("sweaterNumber"), p.get("birthCountry"), p.get("birthDate"), p.get("id")))
+    names = [n for n, _, _, _, _ in players]
+    return sorted(({"name": f"{n} #{num}" if names.count(n) > 1 and num else n, "country": c, "born": b, "id": pid}
+                   for n, num, c, b, pid in players), key=lambda p: p["name"])
+
+
+def toi_seconds(value):
+    try:
+        m, s = str(value).split(":")
+        return int(m) * 60 + int(s)
+    except (ValueError, AttributeError):
+        return None
+
+
+def parse_boxscore(data):
+    """Spelarstatistik per spelar-id för en färdig match (bara fakta från NHL:s boxscore)."""
+    stats = {}
+    for side in ("homeTeam", "awayTeam"):
+        team = (data.get("playerByGameStats") or {}).get(side) or {}
+        for group in ("forwards", "defense", "defensemen"):
+            for p in team.get(group, []):
+                stats[str(p.get("playerId"))] = {
+                    "kind": "skater", "goals": p.get("goals", 0), "assists": p.get("assists", 0),
+                    "points": p.get("points", (p.get("goals") or 0) + (p.get("assists") or 0)),
+                    "toi": p.get("toi"), "shots": p.get("sog", p.get("shots")), "plusMinus": p.get("plusMinus")}
+        for p in team.get("goalies", []):
+            if not toi_seconds(p.get("toi")):
+                continue  # satt på bänken hela matchen
+            stats[str(p.get("playerId"))] = {
+                "kind": "goalie", "toi": p.get("toi"), "saves": p.get("saves"),
+                "shotsAgainst": p.get("shotsAgainst"), "goalsAgainst": p.get("goalsAgainst"),
+                "savePctg": p.get("savePctg"), "decision": p.get("decision")}
+    return stats
 
 
 def main():
@@ -100,10 +129,26 @@ def main():
             print(f"NHL-trupp {abbrev} misslyckades: {exc}", file=sys.stderr)
         time.sleep(0.3)
 
+    boxscores = {}
+    old_box = old.get("boxscores", {})
+    for g in games:
+        if not g.get("score"):
+            continue
+        if g["id"] in old_box:
+            boxscores[g["id"]] = old_box[g["id"]]
+            continue
+        try:
+            boxscores[g["id"]] = parse_boxscore(get(f'/gamecenter/{g["id"]}/boxscore'))
+        except Exception as exc:
+            print(f"NHL-statistik {g['id']} misslyckades: {exc}", file=sys.stderr)
+        time.sleep(0.3)
+
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps({"games": games, "rosters": rosters}, ensure_ascii=False, indent=1, sort_keys=True) + "\n")
+    OUT.write_text(json.dumps({"games": games, "rosters": rosters, "boxscores": boxscores},
+                              ensure_ascii=False, indent=1, sort_keys=True) + "\n")
     born = sum(1 for k, v in rosters.items() if k in teams for p in v if p["country"] == "SWE")
-    print(f"{len(games)} NHL-matcher, {len(teams) - failed}/{len(teams)} trupper, {born} födda i Sverige")
+    print(f"{len(games)} NHL-matcher, {len(teams) - failed}/{len(teams)} trupper, {born} födda i Sverige, "
+          f"statistik för {len(boxscores)} spelade matcher")
     return 0
 
 

@@ -286,3 +286,37 @@ class ResultsTest(unittest.TestCase):
         self.assertEqual([e["id"] for e in events], ["nhl-2"])
         self.assertEqual((results[0]["id"], results[0]["score"]), ("nhl-1", "4–1"))
         self.assertEqual(build.nhl_events(nhl, {}, {}, {}), events)  # utan results-lista som förut
+
+
+class BoxscoreTest(unittest.TestCase):
+    sample = {"playerByGameStats": {
+        "homeTeam": {"forwards": [{"playerId": 8482078, "name": {"default": "L. Raymond"}, "goals": 1, "assists": 2,
+                                   "points": 3, "plusMinus": 1, "sog": 4, "toi": "18:42"}],
+                     "defense": [{"playerId": 8480192, "name": {"default": "A. Englund"}, "goals": 0, "assists": 0,
+                                  "points": 0, "plusMinus": -2, "sog": 0, "toi": "15:03"}],
+                     "goalies": [{"playerId": 1, "toi": "00:00", "saves": 0, "shotsAgainst": 0}]},
+        "awayTeam": {"goalies": [{"playerId": 8476999, "toi": "59:12", "saves": 28, "shotsAgainst": 30,
+                                  "goalsAgainst": 2, "savePctg": 0.9333, "decision": "W"}]}}}
+
+    def test_parse_boxscore(self):
+        import fetch_nhl
+        st = fetch_nhl.parse_boxscore(self.sample)
+        self.assertEqual(st["8482078"]["points"], 3)
+        self.assertEqual(st["8480192"]["plusMinus"], -2)
+        self.assertEqual(st["8476999"]["kind"], "goalie")
+        self.assertNotIn("1", st)  # målvakt som inte spelade
+
+    def test_stats_attached_to_swedes_in_results(self):
+        import fetch_nhl
+        t = {"abbrev": "DET", "name": "Detroit Red Wings", "short": "Red Wings"}
+        o = {"abbrev": "BOS", "name": "Boston Bruins", "short": "Bruins"}
+        nhl = {"rosters": {"DET": [{"name": "Lucas Raymond", "country": "SWE", "id": 8482078},
+                                   {"name": "Albert Johansson", "country": "SWE", "id": 999}]},
+               "games": [{"id": "5", "start": "2026-11-18T00:00:00Z", "state": "OFF", "type": 2, "home": t, "away": o,
+                          "score": {"home": 4, "away": 1}}],
+               "boxscores": {"5": fetch_nhl.parse_boxscore(self.sample)}}
+        results = []
+        build.nhl_events(nhl, {}, {}, {}, results=results)
+        by_name = {s["name"]: s for s in results[0]["swedes"]}
+        self.assertEqual(by_name["Lucas Raymond"]["stats"]["goals"], 1)
+        self.assertEqual(by_name["Albert Johansson"]["stats"], {"kind": "dnp"})  # i truppen, spelade inte

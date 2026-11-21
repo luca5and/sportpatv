@@ -125,3 +125,7 @@ a { color: var(--accent); }
 .updated { color: var(--muted); font-size: 0.85rem; margin: 4px 0 0; }
 .event .title a { color: inherit; text-decoration: none; }
 .event .title a:hover, .event .title a:focus-visible { text-decoration: underline; }
+.statlist { list-style: none; padding: 0; margin: 6px 0 0; }
+.statlist li { padding: 8px 0; border-bottom: 1px solid var(--line); color: var(--muted); }
+.statlist li b { color: var(--text); }
+.stats .src { font-size: 0.8rem; margin-top: 6px; }
