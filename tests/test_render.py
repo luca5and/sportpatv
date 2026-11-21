@@ -167,3 +167,43 @@ class StructuredDataTest(unittest.TestCase):
         self.assertEqual(ld["@type"], "BreadcrumbList")
         self.assertEqual(ld["itemListElement"][1]["item"], "https://patv.se/liga/nhl/")
         self.assertNotIn("SportsEvent", render.json_ld(ld))
+
+
+class MatchPageTest(unittest.TestCase):
+    def setUp(self):
+        self.e = event("Liverpool – Arsenal", [{"name": "Alexander Isak", "team": "Liverpool", "url": "w/Isak"}],
+                       start="2026-11-22T16:30:00Z")
+        self.e["id"] = "560645"
+        self.registry = {}
+        render.assign_pages([self.e], self.registry, "2026-11-20")
+
+    def test_slug_and_stable_address(self):
+        render.assign_matches([self.e], [], self.registry, "2026-11-20")
+        self.assertEqual(self.e["page"], "match/liverpool-arsenal-22-nov/")
+        again = dict(self.e, start="2026-11-22T17:30:00Z")  # flyttad avsparkstid: samma adress
+        render.assign_matches([again], [], self.registry, "2026-11-21")
+        self.assertEqual(again["page"], "match/liverpool-arsenal-22-nov/")
+        self.assertEqual(len(self.registry["matches"]), 1)
+
+    def test_result_is_added_to_existing_page(self):
+        render.assign_matches([self.e], [], self.registry, "2026-11-20")
+        result = {"id": "560645", "title": "Liverpool – Arsenal", "sport": "Fotboll", "competition": "X",
+                  "start": "2026-11-22T16:30:00Z", "score": "2–1", "swedes": self.e["swedes"]}
+        render.assign_matches([], [result], self.registry, "2026-11-23")
+        m = self.registry["matches"]["liverpool-arsenal-22-nov"]
+        self.assertEqual(m["score"], "2–1")
+        self.assertEqual(m["teams"][0]["page"], "lag/liverpool/")
+
+    def test_expiry(self):
+        render.assign_matches([self.e], [], self.registry, "2026-11-20")
+        render.expire_matches(self.registry, "2026-12-20")
+        self.assertNotIn("expired", self.registry["matches"]["liverpool-arsenal-22-nov"])
+        render.expire_matches(self.registry, "2026-12-30")  # efter 30 dagar: omdirigering
+        self.assertTrue(self.registry["matches"]["liverpool-arsenal-22-nov"]["expired"])
+        render.expire_matches(self.registry, "2027-06-01")  # efter 180 dagar: borta
+        self.assertNotIn("liverpool-arsenal-22-nov", self.registry["matches"])
+
+    def test_event_title_links_to_match_page(self):
+        render.assign_matches([self.e], [], self.registry, "2026-11-20")
+        self.assertIn('<a href="../../match/liverpool-arsenal-22-nov/">Liverpool – Arsenal</a>',
+                      render.event_html(self.e, "../../"))
