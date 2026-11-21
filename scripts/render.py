@@ -495,7 +495,16 @@ def ics_fold(line):
 
 
 def ics_time(dt_obj):
-    return dt_obj.astimezone(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    """Svensk lokal tid; används med TZID=Europe/Stockholm så att kalendern inte visar GMT."""
+    return dt_obj.astimezone(TZ).strftime("%Y%m%dT%H%M%S")
+
+
+VTIMEZONE = ["BEGIN:VTIMEZONE", "TZID:Europe/Stockholm",
+             "BEGIN:DAYLIGHT", "TZOFFSETFROM:+0100", "TZOFFSETTO:+0200", "TZNAME:CEST",
+             "DTSTART:19700329T020000", "RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU", "END:DAYLIGHT",
+             "BEGIN:STANDARD", "TZOFFSETFROM:+0200", "TZOFFSETTO:+0100", "TZNAME:CET",
+             "DTSTART:19701025T030000", "RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU", "END:STANDARD",
+             "END:VTIMEZONE"]
 
 
 def calendar_ics(title, matches, known, today):
@@ -503,7 +512,7 @@ def calendar_ics(title, matches, known, today):
     base = SITE["base_url"]
     lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//patv.se//Svenskar på TV//SV", "CALSCALE:GREGORIAN",
              "METHOD:PUBLISH", f"X-WR-CALNAME:{ics_text(title)}", "X-WR-TIMEZONE:Europe/Stockholm",
-             "REFRESH-INTERVAL;VALUE=DURATION:PT6H", "X-PUBLISHED-TTL:PT6H"]
+             "REFRESH-INTERVAL;VALUE=DURATION:PT6H", "X-PUBLISHED-TTL:PT6H"] + VTIMEZONE
     for slug, m in sorted(matches, key=lambda x: x[1]["start"]):
         start = dt.datetime.fromisoformat(m["start"].replace("Z", "+00:00"))
         end = start + dt.timedelta(minutes=DURATION_MIN.get(m["sport"], 150))
@@ -523,7 +532,7 @@ def calendar_ics(title, matches, known, today):
         url = f"{base}/match/{slug}/"
         description = f'{m["competition"]}. {info} Svenskar: {names}. {url}'
         lines += ["BEGIN:VEVENT", f'UID:{m["id"]}@patv.se', f"DTSTAMP:{stamp.replace('-', '')}T000000Z",
-                  f"DTSTART:{ics_time(start)}", f"DTEND:{ics_time(end)}", f"SUMMARY:{ics_text(summary)}",
+                  f"DTSTART;TZID=Europe/Stockholm:{ics_time(start)}", f"DTEND;TZID=Europe/Stockholm:{ics_time(end)}", f"SUMMARY:{ics_text(summary)}",
                   f"DESCRIPTION:{ics_text(description)}", f"URL:{url}", "END:VEVENT"]
     lines.append("END:VCALENDAR")
     return "".join(ics_fold(line) + "\r\n" for line in lines)

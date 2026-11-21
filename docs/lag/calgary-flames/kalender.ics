@@ -7,11 +7,28 @@ X-WR-CALNAME:Calgary Flames på TV – påTV
 X-WR-TIMEZONE:Europe/Stockholm
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Stockholm
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:nhl-2026020355@patv.se
 DTSTAMP:20261121T000000Z
-DTSTART:20261120T010000Z
-DTEND:20261120T040000Z
+DTSTART;TZID=Europe/Stockholm:20261120T020000
+DTEND;TZID=Europe/Stockholm:20261120T050000
 SUMMARY:Calgary Flames – Minnesota Wild 1–4
 DESCRIPTION:NHL. Slutresultat 1–4. Svenskar: Mikael Backlund\, Filip Gust
  avsson\, Jesper Wallstedt\, Joel Eriksson Ek\, Jonas Brodin. https://patv.
@@ -21,8 +38,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020360@patv.se
 DTSTAMP:20261121T000000Z
-DTSTART:20261121T203000Z
-DTEND:20261121T233000Z
+DTSTART;TZID=Europe/Stockholm:20261121T213000
+DTEND;TZID=Europe/Stockholm:20261122T003000
 SUMMARY:Calgary Flames – Chicago Blackhawks (Viaplay eller Disney+?)
 DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Mikael Backlund\, Anton Frondell. https://patv.se/match/calgary-flame
@@ -32,8 +49,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020380@patv.se
 DTSTAMP:20261121T000000Z
-DTSTART:20261124T003000Z
-DTEND:20261124T033000Z
+DTSTART;TZID=Europe/Stockholm:20261124T013000
+DTEND;TZID=Europe/Stockholm:20261124T043000
 SUMMARY:Ottawa Senators – Calgary Flames (Viaplay eller Disney+?)
 DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: André Burakovsky\, Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson
@@ -44,8 +61,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020391@patv.se
 DTSTAMP:20261121T000000Z
-DTSTART:20261126T000000Z
-DTEND:20261126T030000Z
+DTSTART;TZID=Europe/Stockholm:20261126T010000
+DTEND;TZID=Europe/Stockholm:20261126T040000
 SUMMARY:Pittsburgh Penguins – Calgary Flames (Viaplay eller Disney+?)
 DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Elmer Söderblom\, Erik Karlsson\, Rickard Rakell\, Mikael Backlund. 
@@ -55,8 +72,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020401@patv.se
 DTSTAMP:20261121T000000Z
-DTSTART:20261127T180000Z
-DTEND:20261127T210000Z
+DTSTART;TZID=Europe/Stockholm:20261127T190000
+DTEND;TZID=Europe/Stockholm:20261127T220000
 SUMMARY:New Jersey Devils – Calgary Flames (Viaplay eller Disney+?)
 DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Jesper Boqvist\, Jesper Bratt\, Mikael Backlund. https://patv.se/matc
