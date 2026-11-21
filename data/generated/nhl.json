@@ -2,69 +2,6 @@
  "games": [
   {
    "away": {
-    "abbrev": "BOS",
-    "name": "Boston Bruins",
-    "short": "Bruins"
-   },
-   "home": {
-    "abbrev": "DET",
-    "name": "Detroit Red Wings",
-    "short": "Red Wings"
-   },
-   "id": "2026020344",
-   "score": {
-    "away": 4,
-    "home": 1,
-    "period": "REG"
-   },
-   "start": "2026-11-19T00:30:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "MTL",
-    "name": "Montréal Canadiens",
-    "short": "Canadiens"
-   },
-   "home": {
-    "abbrev": "NJD",
-    "name": "New Jersey Devils",
-    "short": "Devils"
-   },
-   "id": "2026020345",
-   "score": {
-    "away": 3,
-    "home": 2,
-    "period": "REG"
-   },
-   "start": "2026-11-19T00:30:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "COL",
-    "name": "Colorado Avalanche",
-    "short": "Avalanche"
-   },
-   "home": {
-    "abbrev": "UTA",
-    "name": "Utah Mammoth",
-    "short": "Mammoth"
-   },
-   "id": "2026020346",
-   "score": {
-    "away": 1,
-    "home": 4,
-    "period": "REG"
-   },
-   "start": "2026-11-19T03:00:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
     "abbrev": "LAK",
     "name": "Los Angeles Kings",
     "short": "Kings"
@@ -1011,6 +948,261 @@
    "start": "2026-11-26T03:00:00Z",
    "state": "FUT",
    "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "TOR",
+    "name": "Toronto Maple Leafs",
+    "short": "Maple Leafs"
+   },
+   "home": {
+    "abbrev": "BOS",
+    "name": "Boston Bruins",
+    "short": "Bruins"
+   },
+   "id": "2026020400",
+   "score": null,
+   "start": "2026-11-27T18:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "CGY",
+    "name": "Calgary Flames",
+    "short": "Flames"
+   },
+   "home": {
+    "abbrev": "NJD",
+    "name": "New Jersey Devils",
+    "short": "Devils"
+   },
+   "id": "2026020401",
+   "score": null,
+   "start": "2026-11-27T18:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "UTA",
+    "name": "Utah Mammoth",
+    "short": "Mammoth"
+   },
+   "home": {
+    "abbrev": "NSH",
+    "name": "Nashville Predators",
+    "short": "Predators"
+   },
+   "id": "2026020402",
+   "score": null,
+   "start": "2026-11-27T18:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "DAL",
+    "name": "Dallas Stars",
+    "short": "Stars"
+   },
+   "home": {
+    "abbrev": "STL",
+    "name": "St. Louis Blues",
+    "short": "Blues"
+   },
+   "id": "2026020403",
+   "score": null,
+   "start": "2026-11-27T19:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "OTT",
+    "name": "Ottawa Senators",
+    "short": "Senators"
+   },
+   "home": {
+    "abbrev": "TBL",
+    "name": "Tampa Bay Lightning",
+    "short": "Lightning"
+   },
+   "id": "2026020404",
+   "score": null,
+   "start": "2026-11-27T20:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "VAN",
+    "name": "Vancouver Canucks",
+    "short": "Canucks"
+   },
+   "home": {
+    "abbrev": "PHI",
+    "name": "Philadelphia Flyers",
+    "short": "Flyers"
+   },
+   "id": "2026020405",
+   "score": null,
+   "start": "2026-11-27T20:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "FLA",
+    "name": "Florida Panthers",
+    "short": "Panthers"
+   },
+   "home": {
+    "abbrev": "WSH",
+    "name": "Washington Capitals",
+    "short": "Capitals"
+   },
+   "id": "2026020406",
+   "score": null,
+   "start": "2026-11-27T20:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "DET",
+    "name": "Detroit Red Wings",
+    "short": "Red Wings"
+   },
+   "home": {
+    "abbrev": "CBJ",
+    "name": "Columbus Blue Jackets",
+    "short": "Blue Jackets"
+   },
+   "id": "2026020407",
+   "score": null,
+   "start": "2026-11-27T20:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "COL",
+    "name": "Colorado Avalanche",
+    "short": "Avalanche"
+   },
+   "home": {
+    "abbrev": "MIN",
+    "name": "Minnesota Wild",
+    "short": "Wild"
+   },
+   "id": "2026020408",
+   "score": null,
+   "start": "2026-11-27T21:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "LAK",
+    "name": "Los Angeles Kings",
+    "short": "Kings"
+   },
+   "home": {
+    "abbrev": "ANA",
+    "name": "Anaheim Ducks",
+    "short": "Ducks"
+   },
+   "id": "2026020409",
+   "score": null,
+   "start": "2026-11-27T21:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "VGK",
+    "name": "Vegas Golden Knights",
+    "short": "Golden Knights"
+   },
+   "home": {
+    "abbrev": "SJS",
+    "name": "San Jose Sharks",
+    "short": "Sharks"
+   },
+   "id": "2026020410",
+   "score": null,
+   "start": "2026-11-27T21:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "NYR",
+    "name": "New York Rangers",
+    "short": "Rangers"
+   },
+   "home": {
+    "abbrev": "CHI",
+    "name": "Chicago Blackhawks",
+    "short": "Blackhawks"
+   },
+   "id": "2026020411",
+   "score": null,
+   "start": "2026-11-27T22:30:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "WPG",
+    "name": "Winnipeg Jets",
+    "short": "Jets"
+   },
+   "home": {
+    "abbrev": "NYI",
+    "name": "New York Islanders",
+    "short": "Islanders"
+   },
+   "id": "2026020412",
+   "score": null,
+   "start": "2026-11-28T00:30:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "PIT",
+    "name": "Pittsburgh Penguins",
+    "short": "Penguins"
+   },
+   "home": {
+    "abbrev": "BUF",
+    "name": "Buffalo Sabres",
+    "short": "Sabres"
+   },
+   "id": "2026020413",
+   "score": null,
+   "start": "2026-11-28T01:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "SEA",
+    "name": "Seattle Kraken",
+    "short": "Kraken"
+   },
+   "home": {
+    "abbrev": "EDM",
+    "name": "Edmonton Oilers",
+    "short": "Oilers"
+   },
+   "id": "2026020414",
+   "score": null,
+   "start": "2026-11-28T01:00:00Z",
+   "state": "FUT",
+   "type": 2
   }
  ],
  "rosters": {
@@ -1114,6 +1306,11 @@
     "born": "2001-12-26",
     "country": "USA",
     "name": "Sam Colangelo"
+   },
+   {
+    "born": "2005-12-29",
+    "country": "NOR",
+    "name": "Stian Solberg"
    },
    {
     "born": "2001-08-25",
@@ -1884,16 +2081,6 @@
    }
   ],
   "COL": [
-   {
-    "born": "2001-05-10",
-    "country": "CAN",
-    "name": "Adam Beckman"
-   },
-   {
-    "born": "2002-08-12",
-    "country": "USA",
-    "name": "Alex Gagne"
-   },
    {
     "born": "1995-07-04",
     "country": "FIN",
@@ -2757,11 +2944,6 @@
     "name": "Ryan Hartman"
    },
    {
-    "born": "1991-11-01",
-    "country": "USA",
-    "name": "Tyler Pitlick"
-   },
-   {
     "born": "1997-01-13",
     "country": "RUS",
     "name": "Yakov Trenin"
@@ -2919,11 +3101,6 @@
     "born": "1994-09-16",
     "country": "CAN",
     "name": "Anthony Mantha"
-   },
-   {
-    "born": "2006-04-11",
-    "country": "RUS",
-    "name": "Anton Silaev"
    },
    {
     "born": "2001-03-15",
@@ -3397,6 +3574,11 @@
     "name": "Sean Durzi"
    },
    {
+    "born": "1998-02-18",
+    "country": "CAN",
+    "name": "Taylor Raddysh"
+   },
+   {
     "born": "2001-04-30",
     "country": "CAN",
     "name": "Tye Kartye"
@@ -3484,9 +3666,19 @@
     "name": "Nikolas Matinpalo"
    },
    {
+    "born": "2001-07-28",
+    "country": "CAN",
+    "name": "Philip Tomasino"
+   },
+   {
     "born": "2002-08-08",
     "country": "CAN",
     "name": "Ridly Greig"
+   },
+   {
+    "born": "1996-06-17",
+    "country": "CAN",
+    "name": "Sammy Blais"
    },
    {
     "born": "1999-10-20",
@@ -3512,6 +3704,11 @@
     "born": "2002-01-15",
     "country": "DEU",
     "name": "Tim Stützle"
+   },
+   {
+    "born": "2003-01-16",
+    "country": "USA",
+    "name": "Tyler Boucher"
    },
    {
     "born": "2002-01-10",
@@ -3661,6 +3858,11 @@
     "born": "2001-03-22",
     "country": "LVA",
     "name": "Arturs Silovs"
+   },
+   {
+    "born": "2002-10-10",
+    "country": "USA",
+    "name": "Avery Hayes"
    },
    {
     "born": "2007-04-19",
@@ -4747,6 +4949,11 @@
     "born": "1997-04-28",
     "country": "CAN",
     "name": "Jeremy Lauzon"
+   },
+   {
+    "born": "2002-03-27",
+    "country": "CAN",
+    "name": "Lukas Cormier"
    },
    {
     "born": "1999-07-22",
