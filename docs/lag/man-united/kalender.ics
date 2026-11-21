@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Man United på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:560645@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T163000Z
+DTEND:20261122T183000Z
+SUMMARY:Liverpool – Man United (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Alexander Isak. https://patv.se/match/liverpool-man-un
+ ited-22-nov/
+URL:https://patv.se/match/liverpool-man-united-22-nov/
+END:VEVENT
+END:VCALENDAR

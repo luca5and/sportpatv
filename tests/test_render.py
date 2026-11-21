@@ -220,3 +220,30 @@ class StatLineTest(unittest.TestCase):
                          "Målvakt: 28 räddningar av 30 skott (93,3 %) · 2 insläppta · 59:12 speltid")
         self.assertEqual(render.stat_line({"kind": "dnp"}), "Spelade inte")
         self.assertEqual(render.stat_line(None), "")
+
+
+class CalendarTest(unittest.TestCase):
+    def test_ics_escape_and_fold(self):
+        self.assertEqual(render.ics_text("a, b; c\nd"), "a\\, b\; c\\nd")
+        long = "DESCRIPTION:" + "å" * 100
+        folded = render.ics_fold(long)
+        self.assertTrue(all(len(part.encode()) <= 75 for part in folded.split("\r\n")))
+        self.assertEqual(folded.replace("\r\n ", ""), long)
+
+    def test_calendar_has_event_with_channel_and_link(self):
+        m = {"id": "560645", "title": "Liverpool – Arsenal", "start": "2026-11-22T16:30:00Z", "sport": "Fotboll",
+             "competition": "Premier League", "swedes": [{"name": "Alexander Isak"}],
+             "tv": {"status": "confirmed", "service": "Viaplay"}}
+        ics = render.calendar_ics("Alexander Isak på TV – påTV", [("liverpool-arsenal-22-nov", m)], {}, "2026-11-21")
+        self.assertIn("BEGIN:VCALENDAR\r\n", ics)
+        self.assertIn("UID:560645@patv.se", ics)
+        self.assertIn("DTSTART:20261122T163000Z", ics)
+        self.assertIn("DTEND:20261122T183000Z", ics)  # fotboll: 2 timmar
+        self.assertIn("SUMMARY:Liverpool – Arsenal (Viaplay)", ics)
+        self.assertIn("https://patv.se/match/liverpool-arsenal-22-nov/", ics.replace("\r\n ", ""))
+        self.assertTrue(ics.endswith("END:VCALENDAR\r\n"))
+
+    def test_buttons(self):
+        html = render.calendar_html("spelare/alexander-isak/", "Alexander Isak")
+        self.assertIn('href="webcal://patv.se/spelare/alexander-isak/kalender.ics"', html)
+        self.assertIn("calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fpatv.se", html)

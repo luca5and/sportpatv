@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tom Willander på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020357@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261120T024000Z
+DTEND:20261120T054000Z
+SUMMARY:Seattle Kraken – Vancouver Canucks 5–1
+DESCRIPTION:NHL. Slutresultat 5–1. Svenskar: Adam Larsson\, Elias Petters
+ son #25\, Elias Pettersson #40\, Jonathan Lekkerimäki\, Liam Ohgren\, Lin
+ us Karlsson\, Tom Willander. https://patv.se/match/seattle-kraken-vancouve
+ r-canucks-19-nov/
+URL:https://patv.se/match/seattle-kraken-vancouver-canucks-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020371@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T030000Z
+DTEND:20261122T060000Z
+SUMMARY:Vancouver Canucks – Minnesota Wild (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Elias Pettersson #25\, Elias Pettersson #40\, Jonathan Lekkerimäki\,
+  Liam Öhgren\, Linus Karlsson\, Tom Willander\, Filip Gustavsson\, Jesper
+  Wallstedt\, Joel Eriksson Ek\, Jonas Brodin. https://patv.se/match/vancou
+ ver-canucks-minnesota-wild-21-nov/
+URL:https://patv.se/match/vancouver-canucks-minnesota-wild-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020377@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261123T010000Z
+DTEND:20261123T040000Z
+SUMMARY:Vancouver Canucks – Chicago Blackhawks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Elias Pettersson #25\, Elias Pettersson #40\, Jonathan Lekkerimäki\,
+  Liam Öhgren\, Linus Karlsson\, Tom Willander\, Anton Frondell. https://p
+ atv.se/match/vancouver-canucks-chicago-blackhawks-22-nov/
+URL:https://patv.se/match/vancouver-canucks-chicago-blackhawks-22-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020394@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T003000Z
+DTEND:20261126T033000Z
+SUMMARY:Detroit Red Wings – Vancouver Canucks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Albert Johansson\, Andreas Englund\, Anton Johansson\, Lucas Raymond\
+ , Viktor Arvidsson\, William Wallinder\, Elias Pettersson #25\, Elias Pett
+ ersson #40\, Jonathan Lekkerimäki\, Liam Öhgren\, Linus Karlsson\, Tom W
+ illander. https://patv.se/match/detroit-red-wings-vancouver-canucks-25-nov
+ /
+URL:https://patv.se/match/detroit-red-wings-vancouver-canucks-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020405@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T200000Z
+DTEND:20261127T230000Z
+SUMMARY:Philadelphia Flyers – Vancouver Canucks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Elias Pettersson #25\, Elias Pettersson #40\, Jonathan Lekkerimäki\,
+  Liam Öhgren\, Linus Karlsson\, Tom Willander. https://patv.se/match/phil
+ adelphia-flyers-vancouver-canucks-27-nov/
+URL:https://patv.se/match/philadelphia-flyers-vancouver-canucks-27-nov/
+END:VEVENT
+END:VCALENDAR

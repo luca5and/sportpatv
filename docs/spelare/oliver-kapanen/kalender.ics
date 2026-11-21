@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oliver Kapanen på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020345@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261119T003000Z
+DTEND:20261119T033000Z
+SUMMARY:New Jersey Devils – Montréal Canadiens 2–3
+DESCRIPTION:NHL. Slutresultat 2–3. Svenskar: Jesper Boqvist\, Jesper Brat
+ t\, Adam Engstrom\, Oliver Kapanen. https://patv.se/match/new-jersey-devil
+ s-montreal-canadiens-18-nov/
+URL:https://patv.se/match/new-jersey-devils-montreal-canadiens-18-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020352@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:Carolina Hurricanes – Montréal Canadiens 1–2 efter förlängni
+ ng
+DESCRIPTION:NHL. Slutresultat 1–2 efter förlängning. Svenskar: Adam Eng
+ strom\, Oliver Kapanen. https://patv.se/match/carolina-hurricanes-montreal
+ -canadiens-19-nov/
+URL:https://patv.se/match/carolina-hurricanes-montreal-canadiens-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020365@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+SUMMARY:Montréal Canadiens – Philadelphia Flyers (Viaplay eller Disney+?
+ )
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adam Engström\, Oliver Kapanen. https://patv.se/match/montreal-canad
+ iens-philadelphia-flyers-21-nov/
+URL:https://patv.se/match/montreal-canadiens-philadelphia-flyers-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020379@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261124T003000Z
+DTEND:20261124T033000Z
+SUMMARY:Montréal Canadiens – Los Angeles Kings (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adam Engström\, Oliver Kapanen\, Adrian Kempe\, Andre Lee\, Anton Fo
+ rsberg\, Erik Gustafsson. https://patv.se/match/montreal-canadiens-los-ang
+ eles-kings-23-nov/
+URL:https://patv.se/match/montreal-canadiens-los-angeles-kings-23-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020397@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T023000Z
+DTEND:20261126T053000Z
+SUMMARY:Colorado Avalanche – Montréal Canadiens (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Gabriel Landeskog\, Adam Engström\, Oliver Kapanen. https://patv.se/
+ match/colorado-avalanche-montreal-canadiens-25-nov/
+URL:https://patv.se/match/colorado-avalanche-montreal-canadiens-25-nov/
+END:VEVENT
+END:VCALENDAR

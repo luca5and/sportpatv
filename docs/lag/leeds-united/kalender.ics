@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Leeds United på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:560642@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Chelsea – Leeds United (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Gabriel Gudmundsson. https://patv.se/match/chelsea-lee
+ ds-united-21-nov/
+URL:https://patv.se/match/chelsea-leeds-united-21-nov/
+END:VEVENT
+END:VCALENDAR

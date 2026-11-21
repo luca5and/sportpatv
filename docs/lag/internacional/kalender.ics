@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Internacional på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:555088@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261119T223000Z
+DTEND:20261120T003000Z
+SUMMARY:Vasco da Gama – Internacional 2–1
+DESCRIPTION:Brasileirão. Slutresultat 2–1. Svenskar: Niclas Eliasson. ht
+ tps://patv.se/match/vasco-da-gama-internacional-19-nov/
+URL:https://patv.se/match/vasco-da-gama-internacional-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:555097@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261123T223000Z
+DTEND:20261124T003000Z
+SUMMARY:Internacional – Vitória (kanal ej klar)
+DESCRIPTION:Brasileirão. TV i Sverige: Ej bekräftat. Svenskar: Niclas Eli
+ asson. https://patv.se/match/internacional-vitoria-23-nov/
+URL:https://patv.se/match/internacional-vitoria-23-nov/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Club Brugge på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:575409@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Club Brugge – Liverpool (Viaplay)
+DESCRIPTION:Champions League. TV i Sverige: Viaplay. Svenskar: Alexander Is
+ ak. https://patv.se/match/club-brugge-liverpool-25-nov/
+URL:https://patv.se/match/club-brugge-liverpool-25-nov/
+END:VEVENT
+END:VCALENDAR

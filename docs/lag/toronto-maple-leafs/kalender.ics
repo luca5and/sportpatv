@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Toronto Maple Leafs på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020347@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:Toronto Maple Leafs – Los Angeles Kings 3–4 efter straffar
+DESCRIPTION:NHL. Slutresultat 3–4 efter straffar. Svenskar: Oliver Ekman-
+ Larsson\, William Nylander\, Adrian Kempe\, Andre Lee\, Anton Forsberg\, E
+ rik Gustafsson. https://patv.se/match/toronto-maple-leafs-los-angeles-king
+ s-19-nov/
+URL:https://patv.se/match/toronto-maple-leafs-los-angeles-kings-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020364@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+SUMMARY:Toronto Maple Leafs – Columbus Blue Jackets (Viaplay eller Disney
+ +?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Oliver Ekman Larsson\, William Nylander\, Isac Lundeström. https://p
+ atv.se/match/toronto-maple-leafs-columbus-blue-jackets-21-nov/
+URL:https://patv.se/match/toronto-maple-leafs-columbus-blue-jackets-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020381@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261124T003000Z
+DTEND:20261124T033000Z
+SUMMARY:New York Islanders – Toronto Maple Leafs (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Emil Heineman\, Simon Holmström\, Victor Eklund\, Oliver Ekman Larss
+ on\, William Nylander. https://patv.se/match/new-york-islanders-toronto-ma
+ ple-leafs-23-nov/
+URL:https://patv.se/match/new-york-islanders-toronto-maple-leafs-23-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020400@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T180000Z
+DTEND:20261127T210000Z
+SUMMARY:Boston Bruins – Toronto Maple Leafs (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Elias Lindholm\, Hampus Lindholm\, Oliver Ekman Larsson\, William Nyl
+ ander. https://patv.se/match/boston-bruins-toronto-maple-leafs-27-nov/
+URL:https://patv.se/match/boston-bruins-toronto-maple-leafs-27-nov/
+END:VEVENT
+END:VCALENDAR

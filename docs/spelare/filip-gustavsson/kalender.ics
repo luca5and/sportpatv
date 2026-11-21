@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Filip Gustavsson på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020355@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261120T010000Z
+DTEND:20261120T040000Z
+SUMMARY:Calgary Flames – Minnesota Wild 1–4
+DESCRIPTION:NHL. Slutresultat 1–4. Svenskar: Mikael Backlund\, Filip Gust
+ avsson\, Jesper Wallstedt\, Joel Eriksson Ek\, Jonas Brodin. https://patv.
+ se/match/calgary-flames-minnesota-wild-19-nov/
+URL:https://patv.se/match/calgary-flames-minnesota-wild-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020371@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T030000Z
+DTEND:20261122T060000Z
+SUMMARY:Vancouver Canucks – Minnesota Wild (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Elias Pettersson #25\, Elias Pettersson #40\, Jonathan Lekkerimäki\,
+  Liam Öhgren\, Linus Karlsson\, Tom Willander\, Filip Gustavsson\, Jesper
+  Wallstedt\, Joel Eriksson Ek\, Jonas Brodin. https://patv.se/match/vancou
+ ver-canucks-minnesota-wild-21-nov/
+URL:https://patv.se/match/vancouver-canucks-minnesota-wild-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020384@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261124T030000Z
+DTEND:20261124T060000Z
+SUMMARY:San Jose Sharks – Minnesota Wild (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Alexander Wennberg\, Ivar Stenberg\, Filip Gustavsson\, Jesper Wallst
+ edt\, Joel Eriksson Ek\, Jonas Brodin. https://patv.se/match/san-jose-shar
+ ks-minnesota-wild-23-nov/
+URL:https://patv.se/match/san-jose-sharks-minnesota-wild-23-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020396@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T010000Z
+DTEND:20261126T040000Z
+SUMMARY:Minnesota Wild – Utah Mammoth (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Filip Gustavsson\, Jesper Wallstedt\, Joel Eriksson Ek\, Jonas Brodin
+ \, Kevin Stenlund. https://patv.se/match/minnesota-wild-utah-mammoth-25-no
+ v/
+URL:https://patv.se/match/minnesota-wild-utah-mammoth-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020408@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T210000Z
+DTEND:20261128T000000Z
+SUMMARY:Minnesota Wild – Colorado Avalanche (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Filip Gustavsson\, Jesper Wallstedt\, Joel Eriksson Ek\, Jonas Brodin
+ \, Gabriel Landeskog. https://patv.se/match/minnesota-wild-colorado-avalan
+ che-27-nov/
+URL:https://patv.se/match/minnesota-wild-colorado-avalanche-27-nov/
+END:VEVENT
+END:VCALENDAR

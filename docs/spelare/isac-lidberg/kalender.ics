@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Isac Lidberg på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:565862@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:M'gladbach – Dortmund (Viaplay)
+DESCRIPTION:Bundesliga. TV i Sverige: Viaplay. Svenskar: Hugo Bolin\, Isac 
+ Lidberg\, Daniel Svensson. https://patv.se/match/m-gladbach-dortmund-21-no
+ v/
+URL:https://patv.se/match/m-gladbach-dortmund-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:565869@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T193000Z
+DTEND:20261127T213000Z
+SUMMARY:Bremen – M'gladbach (Viaplay)
+DESCRIPTION:Bundesliga. TV i Sverige: Viaplay. Svenskar: Hugo Bolin\, Isac 
+ Lidberg. https://patv.se/match/bremen-m-gladbach-27-nov/
+URL:https://patv.se/match/bremen-m-gladbach-27-nov/
+END:VEVENT
+END:VCALENDAR

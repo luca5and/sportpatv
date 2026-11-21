@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mika Zibanejad på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020373@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T173000Z
+DTEND:20261122T203000Z
+SUMMARY:New York Rangers – Carolina Hurricanes (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Marcus Pettersson\, Mika Zibanejad. https://patv.se/match/new-york-ra
+ ngers-carolina-hurricanes-22-nov/
+URL:https://patv.se/match/new-york-rangers-carolina-hurricanes-22-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020387@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:Buffalo Sabres – New York Rangers (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Noah Östlund\, Rasmus Dahlin\, Marcus Pettersson\, Mika Zibanejad. h
+ ttps://patv.se/match/buffalo-sabres-new-york-rangers-25-nov/
+URL:https://patv.se/match/buffalo-sabres-new-york-rangers-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020411@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T223000Z
+DTEND:20261128T013000Z
+SUMMARY:Chicago Blackhawks – New York Rangers (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Anton Frondell\, Marcus Pettersson\, Mika Zibanejad. https://patv.se/
+ match/chicago-blackhawks-new-york-rangers-27-nov/
+URL:https://patv.se/match/chicago-blackhawks-new-york-rangers-27-nov/
+END:VEVENT
+END:VCALENDAR

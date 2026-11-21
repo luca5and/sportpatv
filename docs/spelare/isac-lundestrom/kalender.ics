@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Isac Lundeström på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020353@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261120T010000Z
+DTEND:20261120T040000Z
+SUMMARY:Chicago Blackhawks – Columbus Blue Jackets 2–4
+DESCRIPTION:NHL. Slutresultat 2–4. Svenskar: Anton Frondell\, Isac Lundes
+ tröm. https://patv.se/match/chicago-blackhawks-columbus-blue-jackets-19-n
+ ov/
+URL:https://patv.se/match/chicago-blackhawks-columbus-blue-jackets-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020364@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+SUMMARY:Toronto Maple Leafs – Columbus Blue Jackets (Viaplay eller Disney
+ +?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Oliver Ekman Larsson\, William Nylander\, Isac Lundeström. https://p
+ atv.se/match/toronto-maple-leafs-columbus-blue-jackets-21-nov/
+URL:https://patv.se/match/toronto-maple-leafs-columbus-blue-jackets-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020378@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261124T000000Z
+DTEND:20261124T030000Z
+SUMMARY:New Jersey Devils – Columbus Blue Jackets (Viaplay eller Disney+?
+ )
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Jesper Boqvist\, Jesper Bratt\, Isac Lundeström. https://patv.se/mat
+ ch/new-jersey-devils-columbus-blue-jackets-23-nov/
+URL:https://patv.se/match/new-jersey-devils-columbus-blue-jackets-23-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020393@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:Columbus Blue Jackets – New Jersey Devils (Viaplay eller Disney+?
+ )
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Isac Lundeström\, Jesper Boqvist\, Jesper Bratt. https://patv.se/mat
+ ch/columbus-blue-jackets-new-jersey-devils-25-nov/
+URL:https://patv.se/match/columbus-blue-jackets-new-jersey-devils-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020407@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T200000Z
+DTEND:20261127T230000Z
+SUMMARY:Columbus Blue Jackets – Detroit Red Wings (Viaplay eller Disney+?
+ )
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Isac Lundeström\, Albert Johansson\, Andreas Englund\, Anton Johanss
+ on\, Lucas Raymond\, Viktor Arvidsson\, William Wallinder. https://patv.se
+ /match/columbus-blue-jackets-detroit-red-wings-27-nov/
+URL:https://patv.se/match/columbus-blue-jackets-detroit-red-wings-27-nov/
+END:VEVENT
+END:VCALENDAR

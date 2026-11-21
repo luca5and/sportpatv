@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gabriel Landeskog på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020346@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261119T030000Z
+DTEND:20261119T060000Z
+SUMMARY:Utah Mammoth – Colorado Avalanche 4–1
+DESCRIPTION:NHL. Slutresultat 4–1. Svenskar: Kevin Stenlund\, Gabriel Lan
+ deskog. https://patv.se/match/utah-mammoth-colorado-avalanche-18-nov/
+URL:https://patv.se/match/utah-mammoth-colorado-avalanche-18-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020356@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261120T020000Z
+DTEND:20261120T050000Z
+SUMMARY:Colorado Avalanche – Anaheim Ducks 4–0
+DESCRIPTION:NHL. Slutresultat 4–0. Svenskar: Gabriel Landeskog\, Leo Carl
+ sson. https://patv.se/match/colorado-avalanche-anaheim-ducks-19-nov/
+URL:https://patv.se/match/colorado-avalanche-anaheim-ducks-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020397@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T023000Z
+DTEND:20261126T053000Z
+SUMMARY:Colorado Avalanche – Montréal Canadiens (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Gabriel Landeskog\, Adam Engström\, Oliver Kapanen. https://patv.se/
+ match/colorado-avalanche-montreal-canadiens-25-nov/
+URL:https://patv.se/match/colorado-avalanche-montreal-canadiens-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020408@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T210000Z
+DTEND:20261128T000000Z
+SUMMARY:Minnesota Wild – Colorado Avalanche (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Filip Gustavsson\, Jesper Wallstedt\, Joel Eriksson Ek\, Jonas Brodin
+ \, Gabriel Landeskog. https://patv.se/match/minnesota-wild-colorado-avalan
+ che-27-nov/
+URL:https://patv.se/match/minnesota-wild-colorado-avalanche-27-nov/
+END:VEVENT
+END:VCALENDAR

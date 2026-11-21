@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arsenal på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:560651@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T173000Z
+DTEND:20261121T193000Z
+SUMMARY:Newcastle – Arsenal (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Anthony Elanga\, Viktor Gyökeres. https://patv.se/mat
+ ch/newcastle-arsenal-21-nov/
+URL:https://patv.se/match/newcastle-arsenal-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:575399@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Arsenal – Dortmund (Viaplay)
+DESCRIPTION:Champions League. TV i Sverige: Viaplay. Svenskar: Viktor Gyök
+ eres\, Daniel Svensson. https://patv.se/match/arsenal-dortmund-24-nov/
+URL:https://patv.se/match/arsenal-dortmund-24-nov/
+END:VEVENT
+END:VCALENDAR

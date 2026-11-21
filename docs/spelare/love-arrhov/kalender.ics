@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Love Arrhov på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:565865@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:Frankfurt – Hoffenheim (Viaplay)
+DESCRIPTION:Bundesliga. TV i Sverige: Viaplay. Svenskar: Love Arrhov. https
+ ://patv.se/match/frankfurt-hoffenheim-21-nov/
+URL:https://patv.se/match/frankfurt-hoffenheim-21-nov/
+END:VEVENT
+END:VCALENDAR

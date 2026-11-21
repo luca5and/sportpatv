@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Southampton på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:561944@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T123000Z
+DTEND:20261121T143000Z
+SUMMARY:Southampton – Derby County (Viaplay)
+DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Jacob Widell Zet
+ terström. https://patv.se/match/southampton-derby-county-21-nov/
+URL:https://patv.se/match/southampton-derby-county-21-nov/
+END:VEVENT
+END:VCALENDAR

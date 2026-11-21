@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Man City på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:560643@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T123000Z
+DTEND:20261121T143000Z
+SUMMARY:Man City – Fulham (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Hugo Larsson\, Jonah Kusi-Asare. https://patv.se/match
+ /man-city-fulham-21-nov/
+URL:https://patv.se/match/man-city-fulham-21-nov/
+END:VEVENT
+END:VCALENDAR

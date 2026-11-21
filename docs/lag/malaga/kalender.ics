@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Málaga på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:564752@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T173000Z
+DTEND:20261122T193000Z
+SUMMARY:Osasuna – Málaga (Disney+)
+DESCRIPTION:La Liga. TV i Sverige: Disney+. Svenskar: Jens Cajuste. https:/
+ /patv.se/match/osasuna-malaga-22-nov/
+URL:https://patv.se/match/osasuna-malaga-22-nov/
+END:VEVENT
+END:VCALENDAR

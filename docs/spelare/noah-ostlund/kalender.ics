@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Noah Östlund på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020351@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:Washington Capitals – Buffalo Sabres 3–6
+DESCRIPTION:NHL. Slutresultat 3–6. Svenskar: Rasmus Sandin\, Timothy Lilj
+ egren\, Noah Ostlund\, Rasmus Dahlin. https://patv.se/match/washington-cap
+ itals-buffalo-sabres-19-nov/
+URL:https://patv.se/match/washington-capitals-buffalo-sabres-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020361@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T230000Z
+DTEND:20261122T020000Z
+SUMMARY:Florida Panthers – Buffalo Sabres (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Gustav Forsling\, Jacob Markström\, Noah Östlund\, Rasmus Dahlin. h
+ ttps://patv.se/match/florida-panthers-buffalo-sabres-21-nov/
+URL:https://patv.se/match/florida-panthers-buffalo-sabres-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020374@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T220000Z
+DTEND:20261123T010000Z
+SUMMARY:Tampa Bay Lightning – Buffalo Sabres (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Dennis Hildeby\, Pontus Holmberg\, Victor Hedman\, Noah Östlund\, Ra
+ smus Dahlin. https://patv.se/match/tampa-bay-lightning-buffalo-sabres-22-n
+ ov/
+URL:https://patv.se/match/tampa-bay-lightning-buffalo-sabres-22-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020387@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:Buffalo Sabres – New York Rangers (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Noah Östlund\, Rasmus Dahlin\, Marcus Pettersson\, Mika Zibanejad. h
+ ttps://patv.se/match/buffalo-sabres-new-york-rangers-25-nov/
+URL:https://patv.se/match/buffalo-sabres-new-york-rangers-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020413@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261128T010000Z
+DTEND:20261128T040000Z
+SUMMARY:Buffalo Sabres – Pittsburgh Penguins (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Noah Östlund\, Rasmus Dahlin\, Elmer Söderblom\, Erik Karlsson\, Ri
+ ckard Rakell. https://patv.se/match/buffalo-sabres-pittsburgh-penguins-27-
+ nov/
+URL:https://patv.se/match/buffalo-sabres-pittsburgh-penguins-27-nov/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Andre Lee på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020347@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:Toronto Maple Leafs – Los Angeles Kings 3–4 efter straffar
+DESCRIPTION:NHL. Slutresultat 3–4 efter straffar. Svenskar: Oliver Ekman-
+ Larsson\, William Nylander\, Adrian Kempe\, Andre Lee\, Anton Forsberg\, E
+ rik Gustafsson. https://patv.se/match/toronto-maple-leafs-los-angeles-king
+ s-19-nov/
+URL:https://patv.se/match/toronto-maple-leafs-los-angeles-kings-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020366@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+SUMMARY:Ottawa Senators – Los Angeles Kings (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: André Burakovsky\, Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson
+ \, William Eklund\, Adrian Kempe\, Andre Lee\, Anton Forsberg\, Erik Gusta
+ fsson. https://patv.se/match/ottawa-senators-los-angeles-kings-21-nov/
+URL:https://patv.se/match/ottawa-senators-los-angeles-kings-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020379@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261124T003000Z
+DTEND:20261124T033000Z
+SUMMARY:Montréal Canadiens – Los Angeles Kings (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adam Engström\, Oliver Kapanen\, Adrian Kempe\, Andre Lee\, Anton Fo
+ rsberg\, Erik Gustafsson. https://patv.se/match/montreal-canadiens-los-ang
+ eles-kings-23-nov/
+URL:https://patv.se/match/montreal-canadiens-los-angeles-kings-23-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020409@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T210000Z
+DTEND:20261128T000000Z
+SUMMARY:Anaheim Ducks – Los Angeles Kings (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Leo Carlsson\, Adrian Kempe\, Andre Lee\, Anton Forsberg\, Erik Gusta
+ fsson. https://patv.se/match/anaheim-ducks-los-angeles-kings-27-nov/
+URL:https://patv.se/match/anaheim-ducks-los-angeles-kings-27-nov/
+END:VEVENT
+END:VCALENDAR

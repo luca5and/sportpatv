@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Adam Wilsby på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020362@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T230000Z
+DTEND:20261122T020000Z
+SUMMARY:Nashville Predators – Pittsburgh Penguins (Viaplay eller Disney+?
+ )
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adam Edström\, Adam Wilsby\, Filip Forsberg\, Nils Höglander\, Elme
+ r Söderblom\, Erik Karlsson\, Rickard Rakell. https://patv.se/match/nashv
+ ille-predators-pittsburgh-penguins-21-nov/
+URL:https://patv.se/match/nashville-predators-pittsburgh-penguins-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020395@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T010000Z
+DTEND:20261126T040000Z
+SUMMARY:Dallas Stars – Nashville Predators (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Nils Lundkvist\, Oskar Bäck\, Adam Edström\, Adam Wilsby\, Filip Fo
+ rsberg\, Nils Höglander. https://patv.se/match/dallas-stars-nashville-pre
+ dators-25-nov/
+URL:https://patv.se/match/dallas-stars-nashville-predators-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020402@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T180000Z
+DTEND:20261127T210000Z
+SUMMARY:Nashville Predators – Utah Mammoth (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adam Edström\, Adam Wilsby\, Filip Forsberg\, Nils Höglander\, Kevi
+ n Stenlund. https://patv.se/match/nashville-predators-utah-mammoth-27-nov/
+URL:https://patv.se/match/nashville-predators-utah-mammoth-27-nov/
+END:VEVENT
+END:VCALENDAR

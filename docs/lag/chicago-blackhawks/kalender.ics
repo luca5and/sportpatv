@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chicago Blackhawks på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020353@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261120T010000Z
+DTEND:20261120T040000Z
+SUMMARY:Chicago Blackhawks – Columbus Blue Jackets 2–4
+DESCRIPTION:NHL. Slutresultat 2–4. Svenskar: Anton Frondell\, Isac Lundes
+ tröm. https://patv.se/match/chicago-blackhawks-columbus-blue-jackets-19-n
+ ov/
+URL:https://patv.se/match/chicago-blackhawks-columbus-blue-jackets-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020360@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T203000Z
+DTEND:20261121T233000Z
+SUMMARY:Calgary Flames – Chicago Blackhawks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Mikael Backlund\, Anton Frondell. https://patv.se/match/calgary-flame
+ s-chicago-blackhawks-21-nov/
+URL:https://patv.se/match/calgary-flames-chicago-blackhawks-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020377@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261123T010000Z
+DTEND:20261123T040000Z
+SUMMARY:Vancouver Canucks – Chicago Blackhawks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Elias Pettersson #25\, Elias Pettersson #40\, Jonathan Lekkerimäki\,
+  Liam Öhgren\, Linus Karlsson\, Tom Willander\, Anton Frondell. https://p
+ atv.se/match/vancouver-canucks-chicago-blackhawks-22-nov/
+URL:https://patv.se/match/vancouver-canucks-chicago-blackhawks-22-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020399@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T024000Z
+DTEND:20261126T054000Z
+SUMMARY:Seattle Kraken – Chicago Blackhawks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adam Larsson\, Anton Frondell. https://patv.se/match/seattle-kraken-c
+ hicago-blackhawks-25-nov/
+URL:https://patv.se/match/seattle-kraken-chicago-blackhawks-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020411@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T223000Z
+DTEND:20261128T013000Z
+SUMMARY:Chicago Blackhawks – New York Rangers (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Anton Frondell\, Marcus Pettersson\, Mika Zibanejad. https://patv.se/
+ match/chicago-blackhawks-new-york-rangers-27-nov/
+URL:https://patv.se/match/chicago-blackhawks-new-york-rangers-27-nov/
+END:VEVENT
+END:VCALENDAR
