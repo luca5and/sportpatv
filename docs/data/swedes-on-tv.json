@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T10:39+00:00",
+ "generated": "2026-11-21T10:43+00:00",
  "events": [
   {
    "id": "560643",
@@ -4945,12 +4945,30 @@
      "name": "Adam Engstrom",
      "team": "Canadiens",
      "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 1,
+      "toi": "11:00"
+     },
      "page": "spelare/adam-engstrom/"
     },
     {
      "name": "Oliver Kapanen",
      "team": "Canadiens",
      "url": null,
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 1,
+      "toi": "08:47"
+     },
      "page": "spelare/oliver-kapanen/"
     }
    ],
@@ -4978,30 +4996,57 @@
      "name": "Andre Burakovsky",
      "team": "Senators",
      "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky",
+     "stats": {
+      "kind": "dnp"
+     },
      "page": "spelare/andre-burakovsky/"
     },
     {
      "name": "Fabian Zetterlund",
      "team": "Senators",
      "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund",
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 4,
+      "toi": "13:49"
+     },
      "page": "spelare/fabian-zetterlund/"
     },
     {
      "name": "Linus Ullmark",
      "team": "Senators",
      "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark",
+     "stats": {
+      "kind": "dnp"
+     },
      "page": "spelare/linus-ullmark/"
     },
     {
      "name": "Samuel Ersson",
      "team": "Senators",
      "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson",
+     "stats": {
+      "decision": "O",
+      "goalsAgainst": 6,
+      "kind": "goalie",
+      "savePctg": 0.684211,
+      "saves": 13,
+      "shotsAgainst": 19,
+      "toi": "60:12"
+     },
      "page": "spelare/samuel-ersson/"
     },
     {
      "name": "William Eklund",
      "team": "Senators",
      "url": "https://sv.wikipedia.org/wiki/William_Eklund",
+     "stats": {
+      "kind": "dnp"
+     },
      "page": "spelare/william-eklund/"
     }
    ],
@@ -5029,36 +5074,78 @@
      "name": "Elmer Soderblom",
      "team": "Penguins",
      "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom",
+     "stats": {
+      "kind": "dnp"
+     },
      "page": "spelare/elmer-soderblom/"
     },
     {
      "name": "Erik Karlsson",
      "team": "Penguins",
      "url": null,
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -3,
+      "points": 0,
+      "shots": 2,
+      "toi": "21:00"
+     },
      "page": "spelare/erik-karlsson/"
     },
     {
      "name": "Rickard Rakell",
      "team": "Penguins",
      "url": "https://sv.wikipedia.org/wiki/Rickard_Rakell",
+     "stats": {
+      "assists": 0,
+      "goals": 2,
+      "kind": "skater",
+      "plusMinus": -2,
+      "points": 2,
+      "shots": 7,
+      "toi": "19:00"
+     },
      "page": "spelare/rickard-rakell/"
     },
     {
      "name": "Calle Rosen",
      "team": "Blues",
      "url": "https://sv.wikipedia.org/wiki/Calle_Ros%C3%A9n",
+     "stats": {
+      "kind": "dnp"
+     },
      "page": "spelare/calle-rosen/"
     },
     {
      "name": "Jonatan Berggren",
      "team": "Blues",
      "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 1,
+      "toi": "13:58"
+     },
      "page": "spelare/jonatan-berggren/"
     },
     {
      "name": "Philip Broberg",
      "team": "Blues",
      "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 1,
+      "toi": "25:42"
+     },
      "page": "spelare/philip-broberg/"
     }
    ],
@@ -5086,36 +5173,84 @@
      "name": "Oliver Ekman-Larsson",
      "team": "Maple Leafs",
      "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 0,
+      "shots": 0,
+      "toi": "19:10"
+     },
      "page": "spelare/oliver-ekman-larsson/"
     },
     {
      "name": "William Nylander",
      "team": "Maple Leafs",
      "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)",
+     "stats": {
+      "assists": 2,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 2,
+      "shots": 1,
+      "toi": "22:22"
+     },
      "page": "spelare/william-nylander/"
     },
     {
      "name": "Adrian Kempe",
      "team": "Kings",
      "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe",
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 1,
+      "shots": 2,
+      "toi": "17:21"
+     },
      "page": "spelare/adrian-kempe/"
     },
     {
      "name": "Andre Lee",
      "team": "Kings",
      "url": "https://sv.wikipedia.org/wiki/Andre_Lee",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 1,
+      "toi": "15:24"
+     },
      "page": "spelare/andre-lee/"
     },
     {
      "name": "Anton Forsberg",
      "team": "Kings",
      "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg",
+     "stats": {
+      "kind": "dnp"
+     },
      "page": "spelare/anton-forsberg/"
     },
     {
      "name": "Erik Gustafsson",
      "team": "Kings",
      "url": null,
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 1,
+      "shots": 0,
+      "toi": "20:48"
+     },
      "page": "spelare/erik-gustafsson/"
     }
    ],
@@ -5143,24 +5278,54 @@
      "name": "Rasmus Sandin",
      "team": "Capitals",
      "url": "https://sv.wikipedia.org/wiki/Rasmus_Sandin",
+     "stats": {
+      "kind": "dnp"
+     },
      "page": "spelare/rasmus-sandin/"
     },
     {
      "name": "Timothy Liljegren",
      "team": "Capitals",
      "url": "https://sv.wikipedia.org/wiki/Timothy_Liljegren",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 0,
+      "shots": 1,
+      "toi": "16:47"
+     },
      "page": "spelare/timothy-liljegren/"
     },
     {
      "name": "Noah Ostlund",
      "team": "Sabres",
      "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 0,
+      "toi": "13:48"
+     },
      "page": "spelare/noah-ostlund/"
     },
     {
      "name": "Rasmus Dahlin",
      "team": "Sabres",
      "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
+     "stats": {
+      "assists": 1,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": 2,
+      "points": 2,
+      "shots": 2,
+      "toi": "22:36"
+     },
      "page": "spelare/rasmus-dahlin/"
     }
    ],
@@ -5188,30 +5353,69 @@
      "name": "Isak Rosen",
      "team": "Jets",
      "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
+     "stats": {
+      "kind": "dnp"
+     },
      "page": "spelare/isak-rosen/"
     },
     {
      "name": "Viggo Björck",
      "team": "Jets",
      "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 0,
+      "toi": "14:45"
+     },
      "page": "spelare/viggo-bjorck/"
     },
     {
      "name": "Emil Heineman",
      "team": "Islanders",
      "url": "https://sv.wikipedia.org/wiki/Emil_Heineman",
+     "stats": {
+      "assists": 0,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 1,
+      "shots": 1,
+      "toi": "15:48"
+     },
      "page": "spelare/emil-heineman/"
     },
     {
      "name": "Simon Holmstrom",
      "team": "Islanders",
      "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m",
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 1,
+      "shots": 1,
+      "toi": "18:49"
+     },
      "page": "spelare/simon-holmstrom/"
     },
     {
      "name": "Victor Eklund",
      "team": "Islanders",
      "url": "https://sv.wikipedia.org/wiki/Victor_Eklund",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 1,
+      "toi": "16:51"
+     },
      "page": "spelare/victor-eklund/"
     }
    ],
@@ -5239,36 +5443,78 @@
      "name": "Dennis Hildeby",
      "team": "Lightning",
      "url": "https://sv.wikipedia.org/wiki/Dennis_Hildeby",
+     "stats": {
+      "kind": "dnp"
+     },
      "page": "spelare/dennis-hildeby/"
     },
     {
      "name": "Pontus Holmberg",
      "team": "Lightning",
      "url": "https://sv.wikipedia.org/wiki/Pontus_Holmberg",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 1,
+      "toi": "16:23"
+     },
      "page": "spelare/pontus-holmberg/"
     },
     {
      "name": "Victor Hedman",
      "team": "Lightning",
      "url": "https://sv.wikipedia.org/wiki/Victor_Hedman",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 1,
+      "toi": "18:32"
+     },
      "page": "spelare/victor-hedman/"
     },
     {
      "name": "Filip Hallander",
      "team": "Oilers",
      "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 0,
+      "toi": "12:58"
+     },
      "page": "spelare/filip-hallander/"
     },
     {
      "name": "Mattias Ekholm",
      "team": "Oilers",
      "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -2,
+      "points": 0,
+      "shots": 2,
+      "toi": "19:50"
+     },
      "page": "spelare/mattias-ekholm/"
     },
     {
      "name": "Mattias Janmark",
      "team": "Oilers",
      "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark",
+     "stats": {
+      "kind": "dnp"
+     },
      "page": "spelare/mattias-janmark/"
     }
    ],
@@ -5296,30 +5542,69 @@
      "name": "Mikael Backlund",
      "team": "Flames",
      "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 0,
+      "toi": "17:08"
+     },
      "page": "spelare/mikael-backlund/"
     },
     {
      "name": "Filip Gustavsson",
      "team": "Wild",
      "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson",
+     "stats": {
+      "kind": "dnp"
+     },
      "page": "spelare/filip-gustavsson/"
     },
     {
      "name": "Jesper Wallstedt",
      "team": "Wild",
      "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
+     "stats": {
+      "decision": "W",
+      "goalsAgainst": 1,
+      "kind": "goalie",
+      "savePctg": 0.956522,
+      "saves": 22,
+      "shotsAgainst": 23,
+      "toi": "60:00"
+     },
      "page": "spelare/jesper-wallstedt/"
     },
     {
      "name": "Joel Eriksson Ek",
      "team": "Wild",
      "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek",
+     "stats": {
+      "assists": 1,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": 3,
+      "points": 2,
+      "shots": 2,
+      "toi": "18:46"
+     },
      "page": "spelare/joel-eriksson-ek/"
     },
     {
      "name": "Jonas Brodin",
      "team": "Wild",
      "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 1,
+      "toi": "22:01"
+     },
      "page": "spelare/jonas-brodin/"
     }
    ],
@@ -5347,12 +5632,30 @@
      "name": "Anton Frondell",
      "team": "Blackhawks",
      "url": "https://sv.wikipedia.org/wiki/Anton_Frondell",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 1,
+      "toi": "17:50"
+     },
      "page": "spelare/anton-frondell/"
     },
     {
      "name": "Isac Lundeström",
      "team": "Blue Jackets",
      "url": "https://sv.wikipedia.org/wiki/Isac_Lundestr%C3%B6m",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 0,
+      "toi": "08:54"
+     },
      "page": "spelare/isac-lundestrom/"
     }
    ],
@@ -5380,12 +5683,30 @@
      "name": "Gabriel Landeskog",
      "team": "Avalanche",
      "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog",
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 0,
+      "toi": "17:11"
+     },
      "page": "spelare/gabriel-landeskog/"
     },
     {
      "name": "Leo Carlsson",
      "team": "Ducks",
      "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 1,
+      "toi": "20:04"
+     },
      "page": "spelare/leo-carlsson/"
     }
    ],
@@ -5413,42 +5734,105 @@
      "name": "Adam Larsson",
      "team": "Kraken",
      "url": null,
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 2,
+      "points": 0,
+      "shots": 1,
+      "toi": "20:04"
+     },
      "page": "spelare/adam-larsson/"
     },
     {
      "name": "Elias Pettersson #25",
      "team": "Canucks",
      "url": null,
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 3,
+      "toi": "19:36"
+     },
      "page": "spelare/elias-pettersson-25/"
     },
     {
      "name": "Elias Pettersson #40",
      "team": "Canucks",
      "url": null,
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 3,
+      "toi": "22:23"
+     },
      "page": "spelare/elias-pettersson-40/"
     },
     {
      "name": "Jonathan Lekkerimäki",
      "team": "Canucks",
      "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 2,
+      "toi": "17:46"
+     },
      "page": "spelare/jonathan-lekkerimaki/"
     },
     {
      "name": "Liam Ohgren",
      "team": "Canucks",
      "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 3,
+      "toi": "13:35"
+     },
      "page": "spelare/liam-ohgren/"
     },
     {
      "name": "Linus Karlsson",
      "team": "Canucks",
      "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 0,
+      "toi": "15:13"
+     },
      "page": "spelare/linus-karlsson/"
     },
     {
      "name": "Tom Willander",
      "team": "Canucks",
      "url": "https://sv.wikipedia.org/wiki/Tom_Willander",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 0,
+      "toi": "22:37"
+     },
      "page": "spelare/tom-willander/"
     }
    ],
@@ -5476,30 +5860,69 @@
      "name": "Rasmus Andersson",
      "team": "Golden Knights",
      "url": null,
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 2,
+      "toi": "21:59"
+     },
      "page": "spelare/rasmus-andersson/"
     },
     {
      "name": "Victor Olofsson",
      "team": "Golden Knights",
      "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson",
+     "stats": {
+      "assists": 0,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 2,
+      "toi": "18:16"
+     },
      "page": "spelare/victor-olofsson/"
     },
     {
      "name": "William Karlsson",
      "team": "Golden Knights",
      "url": "https://sv.wikipedia.org/wiki/William_Karlsson",
+     "stats": {
+      "assists": 0,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 1,
+      "shots": 2,
+      "toi": "20:03"
+     },
      "page": "spelare/william-karlsson/"
     },
     {
      "name": "Nils Lundkvist",
      "team": "Stars",
      "url": "https://sv.wikipedia.org/wiki/Nils_Lundkvist",
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 1,
+      "shots": 2,
+      "toi": "21:59"
+     },
      "page": "spelare/nils-lundkvist/"
     },
     {
      "name": "Oskar Bäck",
      "team": "Stars",
      "url": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck",
+     "stats": {
+      "kind": "dnp"
+     },
      "page": "spelare/oskar-back/"
     }
    ],
