@@ -8143,6 +8143,12 @@
     "name": "Matthew Robertson"
    },
    {
+    "born": "2000-09-05",
+    "country": "USA",
+    "id": 8484136,
+    "name": "Max Sasson"
+   },
+   {
     "born": "1993-04-18",
     "country": "SWE",
     "id": 8476459,
@@ -9741,10 +9747,10 @@
     "name": "Marco Rossi"
    },
    {
-    "born": "2000-09-05",
-    "country": "USA",
-    "id": 8484136,
-    "name": "Max Sasson"
+    "born": "2000-04-06",
+    "country": "BLR",
+    "id": 8484268,
+    "name": "Nikita Tolopilo"
    },
    {
     "born": "1999-11-16",
@@ -9763,6 +9769,12 @@
     "country": "SWE",
     "id": 8484240,
     "name": "Tom Willander"
+   },
+   {
+    "born": "2003-02-26",
+    "country": "CAN",
+    "id": 8484406,
+    "name": "Ty Mueller"
    },
    {
     "born": "2005-12-07",
