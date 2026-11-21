@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Anaheim Ducks på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020356@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261120T020000Z
+DTEND:20261120T050000Z
+SUMMARY:Colorado Avalanche – Anaheim Ducks 4–0
+DESCRIPTION:NHL. Slutresultat 4–0. Svenskar: Gabriel Landeskog\, Leo Carl
+ sson. https://patv.se/match/colorado-avalanche-anaheim-ducks-19-nov/
+URL:https://patv.se/match/colorado-avalanche-anaheim-ducks-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020370@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T020000Z
+DTEND:20261122T050000Z
+SUMMARY:Utah Mammoth – Anaheim Ducks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Kevin Stenlund\, Leo Carlsson. https://patv.se/match/utah-mammoth-ana
+ heim-ducks-21-nov/
+URL:https://patv.se/match/utah-mammoth-anaheim-ducks-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020383@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261124T024000Z
+DTEND:20261124T054000Z
+SUMMARY:Seattle Kraken – Anaheim Ducks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adam Larsson\, Leo Carlsson. https://patv.se/match/seattle-kraken-ana
+ heim-ducks-23-nov/
+URL:https://patv.se/match/seattle-kraken-anaheim-ducks-23-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020398@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T030000Z
+DTEND:20261126T060000Z
+SUMMARY:Anaheim Ducks – San Jose Sharks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Leo Carlsson\, Alexander Wennberg\, Ivar Stenberg. https://patv.se/ma
+ tch/anaheim-ducks-san-jose-sharks-25-nov/
+URL:https://patv.se/match/anaheim-ducks-san-jose-sharks-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020409@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T210000Z
+DTEND:20261128T000000Z
+SUMMARY:Anaheim Ducks – Los Angeles Kings (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Leo Carlsson\, Adrian Kempe\, Andre Lee\, Anton Forsberg\, Erik Gusta
+ fsson. https://patv.se/match/anaheim-ducks-los-angeles-kings-27-nov/
+URL:https://patv.se/match/anaheim-ducks-los-angeles-kings-27-nov/
+END:VEVENT
+END:VCALENDAR

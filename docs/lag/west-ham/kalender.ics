@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:West Ham på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:561951@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:West Ham – Preston NE (Viaplay)
+DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Jusef Erabi. htt
+ ps://patv.se/match/west-ham-preston-ne-21-nov/
+URL:https://patv.se/match/west-ham-preston-ne-21-nov/
+END:VEVENT
+END:VCALENDAR

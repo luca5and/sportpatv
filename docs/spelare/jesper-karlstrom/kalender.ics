@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jesper Karlström på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:558522@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Bologna – Udinese (TV4 Play)
+DESCRIPTION:Serie A. TV i Sverige: TV4 Play. Svenskar: Emil Holm\, Jesper K
+ arlsson\, Jesper Karlström. https://patv.se/match/bologna-udinese-22-nov/
+URL:https://patv.se/match/bologna-udinese-22-nov/
+END:VEVENT
+END:VCALENDAR

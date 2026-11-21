@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Adam Larsson på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020357@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261120T024000Z
+DTEND:20261120T054000Z
+SUMMARY:Seattle Kraken – Vancouver Canucks 5–1
+DESCRIPTION:NHL. Slutresultat 5–1. Svenskar: Adam Larsson\, Elias Petters
+ son #25\, Elias Pettersson #40\, Jonathan Lekkerimäki\, Liam Ohgren\, Lin
+ us Karlsson\, Tom Willander. https://patv.se/match/seattle-kraken-vancouve
+ r-canucks-19-nov/
+URL:https://patv.se/match/seattle-kraken-vancouver-canucks-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020372@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T030000Z
+DTEND:20261122T060000Z
+SUMMARY:San Jose Sharks – Seattle Kraken (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Alexander Wennberg\, Ivar Stenberg\, Adam Larsson. https://patv.se/ma
+ tch/san-jose-sharks-seattle-kraken-21-nov/
+URL:https://patv.se/match/san-jose-sharks-seattle-kraken-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020383@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261124T024000Z
+DTEND:20261124T054000Z
+SUMMARY:Seattle Kraken – Anaheim Ducks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adam Larsson\, Leo Carlsson. https://patv.se/match/seattle-kraken-ana
+ heim-ducks-23-nov/
+URL:https://patv.se/match/seattle-kraken-anaheim-ducks-23-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020399@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T024000Z
+DTEND:20261126T054000Z
+SUMMARY:Seattle Kraken – Chicago Blackhawks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adam Larsson\, Anton Frondell. https://patv.se/match/seattle-kraken-c
+ hicago-blackhawks-25-nov/
+URL:https://patv.se/match/seattle-kraken-chicago-blackhawks-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020414@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261128T010000Z
+DTEND:20261128T040000Z
+SUMMARY:Edmonton Oilers – Seattle Kraken (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Filip Hållander\, Mattias Ekholm\, Mattias Janmark\, Adam Larsson. h
+ ttps://patv.se/match/edmonton-oilers-seattle-kraken-27-nov/
+URL:https://patv.se/match/edmonton-oilers-seattle-kraken-27-nov/
+END:VEVENT
+END:VCALENDAR

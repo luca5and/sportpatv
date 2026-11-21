@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Millwall på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:561962@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Stoke – Millwall (Viaplay)
+DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Svante Ingelsson
+ \, Viktor Johansson. https://patv.se/match/stoke-millwall-25-nov/
+URL:https://patv.se/match/stoke-millwall-25-nov/
+END:VEVENT
+END:VCALENDAR

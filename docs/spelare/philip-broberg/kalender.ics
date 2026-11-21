@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Philip Broberg på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020350@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:Pittsburgh Penguins – St. Louis Blues 2–5
+DESCRIPTION:NHL. Slutresultat 2–5. Svenskar: Elmer Soderblom\, Erik Karls
+ son\, Rickard Rakell\, Calle Rosen\, Jonatan Berggren\, Philip Broberg. ht
+ tps://patv.se/match/pittsburgh-penguins-st-louis-blues-19-nov/
+URL:https://patv.se/match/pittsburgh-penguins-st-louis-blues-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020368@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+SUMMARY:St. Louis Blues – New Jersey Devils (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Calle Rosén\, Jonatan Berggren\, Philip Broberg\, Jesper Boqvist\, J
+ esper Bratt. https://patv.se/match/st-louis-blues-new-jersey-devils-21-nov
+ /
+URL:https://patv.se/match/st-louis-blues-new-jersey-devils-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020375@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261123T000000Z
+DTEND:20261123T030000Z
+SUMMARY:St. Louis Blues – Edmonton Oilers (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Calle Rosén\, Jonatan Berggren\, Philip Broberg\, Filip Hållander\,
+  Mattias Ekholm\, Mattias Janmark. https://patv.se/match/st-louis-blues-ed
+ monton-oilers-22-nov/
+URL:https://patv.se/match/st-louis-blues-edmonton-oilers-22-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020390@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:New York Islanders – St. Louis Blues (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Emil Heineman\, Simon Holmström\, Victor Eklund\, Calle Rosén\, Jon
+ atan Berggren\, Philip Broberg. https://patv.se/match/new-york-islanders-s
+ t-louis-blues-25-nov/
+URL:https://patv.se/match/new-york-islanders-st-louis-blues-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020403@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T190000Z
+DTEND:20261127T220000Z
+SUMMARY:St. Louis Blues – Dallas Stars (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Calle Rosén\, Jonatan Berggren\, Philip Broberg\, Nils Lundkvist\, O
+ skar Bäck. https://patv.se/match/st-louis-blues-dallas-stars-27-nov/
+URL:https://patv.se/match/st-louis-blues-dallas-stars-27-nov/
+END:VEVENT
+END:VCALENDAR

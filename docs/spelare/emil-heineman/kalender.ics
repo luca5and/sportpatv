@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Emil Heineman på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020354@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:Winnipeg Jets – New York Islanders 4–3 efter förlängning
+DESCRIPTION:NHL. Slutresultat 4–3 efter förlängning. Svenskar: Isak Ros
+ en\, Viggo Björck\, Emil Heineman\, Simon Holmstrom\, Victor Eklund. http
+ s://patv.se/match/winnipeg-jets-new-york-islanders-19-nov/
+URL:https://patv.se/match/winnipeg-jets-new-york-islanders-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020367@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+SUMMARY:Detroit Red Wings – New York Islanders (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Albert Johansson\, Andreas Englund\, Anton Johansson\, Lucas Raymond\
+ , Viktor Arvidsson\, William Wallinder\, Emil Heineman\, Simon Holmström\
+ , Victor Eklund. https://patv.se/match/detroit-red-wings-new-york-islander
+ s-21-nov/
+URL:https://patv.se/match/detroit-red-wings-new-york-islanders-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020381@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261124T003000Z
+DTEND:20261124T033000Z
+SUMMARY:New York Islanders – Toronto Maple Leafs (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Emil Heineman\, Simon Holmström\, Victor Eklund\, Oliver Ekman Larss
+ on\, William Nylander. https://patv.se/match/new-york-islanders-toronto-ma
+ ple-leafs-23-nov/
+URL:https://patv.se/match/new-york-islanders-toronto-maple-leafs-23-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020390@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:New York Islanders – St. Louis Blues (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Emil Heineman\, Simon Holmström\, Victor Eklund\, Calle Rosén\, Jon
+ atan Berggren\, Philip Broberg. https://patv.se/match/new-york-islanders-s
+ t-louis-blues-25-nov/
+URL:https://patv.se/match/new-york-islanders-st-louis-blues-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020412@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261128T003000Z
+DTEND:20261128T033000Z
+SUMMARY:New York Islanders – Winnipeg Jets (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Emil Heineman\, Simon Holmström\, Victor Eklund\, Isak Rosén\, Vigg
+ o Björck. https://patv.se/match/new-york-islanders-winnipeg-jets-27-nov/
+URL:https://patv.se/match/new-york-islanders-winnipeg-jets-27-nov/
+END:VEVENT
+END:VCALENDAR

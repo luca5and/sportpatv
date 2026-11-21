@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alexander Wennberg på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020372@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T030000Z
+DTEND:20261122T060000Z
+SUMMARY:San Jose Sharks – Seattle Kraken (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Alexander Wennberg\, Ivar Stenberg\, Adam Larsson. https://patv.se/ma
+ tch/san-jose-sharks-seattle-kraken-21-nov/
+URL:https://patv.se/match/san-jose-sharks-seattle-kraken-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020384@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261124T030000Z
+DTEND:20261124T060000Z
+SUMMARY:San Jose Sharks – Minnesota Wild (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Alexander Wennberg\, Ivar Stenberg\, Filip Gustavsson\, Jesper Wallst
+ edt\, Joel Eriksson Ek\, Jonas Brodin. https://patv.se/match/san-jose-shar
+ ks-minnesota-wild-23-nov/
+URL:https://patv.se/match/san-jose-sharks-minnesota-wild-23-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020398@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T030000Z
+DTEND:20261126T060000Z
+SUMMARY:Anaheim Ducks – San Jose Sharks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Leo Carlsson\, Alexander Wennberg\, Ivar Stenberg. https://patv.se/ma
+ tch/anaheim-ducks-san-jose-sharks-25-nov/
+URL:https://patv.se/match/anaheim-ducks-san-jose-sharks-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020410@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T210000Z
+DTEND:20261128T000000Z
+SUMMARY:San Jose Sharks – Vegas Golden Knights (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Alexander Wennberg\, Ivar Stenberg\, Rasmus Andersson\, Victor Olofss
+ on\, William Karlsson. https://patv.se/match/san-jose-sharks-vegas-golden-
+ knights-27-nov/
+URL:https://patv.se/match/san-jose-sharks-vegas-golden-knights-27-nov/
+END:VEVENT
+END:VCALENDAR

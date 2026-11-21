@@ -129,3 +129,5 @@ a { color: var(--accent); }
 .statlist li { padding: 8px 0; border-bottom: 1px solid var(--line); color: var(--muted); }
 .statlist li b { color: var(--text); }
 .stats .src { font-size: 0.8rem; margin-top: 6px; }
+.cal-buttons { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+.cal-buttons .chip { text-decoration: none; }

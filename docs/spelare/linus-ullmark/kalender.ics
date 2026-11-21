@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Linus Ullmark på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020348@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:Ottawa Senators – Philadelphia Flyers 5–6 efter förlängning
+DESCRIPTION:NHL. Slutresultat 5–6 efter förlängning. Svenskar: Andre Bu
+ rakovsky\, Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson\, William Ekl
+ und. https://patv.se/match/ottawa-senators-philadelphia-flyers-19-nov/
+URL:https://patv.se/match/ottawa-senators-philadelphia-flyers-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020366@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+SUMMARY:Ottawa Senators – Los Angeles Kings (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: André Burakovsky\, Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson
+ \, William Eklund\, Adrian Kempe\, Andre Lee\, Anton Forsberg\, Erik Gusta
+ fsson. https://patv.se/match/ottawa-senators-los-angeles-kings-21-nov/
+URL:https://patv.se/match/ottawa-senators-los-angeles-kings-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020380@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261124T003000Z
+DTEND:20261124T033000Z
+SUMMARY:Ottawa Senators – Calgary Flames (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: André Burakovsky\, Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson
+ \, William Eklund\, Mikael Backlund. https://patv.se/match/ottawa-senators
+ -calgary-flames-23-nov/
+URL:https://patv.se/match/ottawa-senators-calgary-flames-23-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020389@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:Florida Panthers – Ottawa Senators (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Gustav Forsling\, Jacob Markström\, André Burakovsky\, Fabian Zette
+ rlund\, Linus Ullmark\, Samuel Ersson\, William Eklund. https://patv.se/ma
+ tch/florida-panthers-ottawa-senators-25-nov/
+URL:https://patv.se/match/florida-panthers-ottawa-senators-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020404@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T200000Z
+DTEND:20261127T230000Z
+SUMMARY:Tampa Bay Lightning – Ottawa Senators (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Dennis Hildeby\, Pontus Holmberg\, Victor Hedman\, André Burakovsky\
+ , Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson\, William Eklund. http
+ s://patv.se/match/tampa-bay-lightning-ottawa-senators-27-nov/
+URL:https://patv.se/match/tampa-bay-lightning-ottawa-senators-27-nov/
+END:VEVENT
+END:VCALENDAR

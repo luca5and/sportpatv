@@ -6,6 +6,8 @@ Läser docs/data/swedes-on-tv.json (från build.py) och skriver:
 - docs/lag/<namn>/: en sida per lag med svenskar
 - docs/liga/<namn>/: en sida per liga – vem som visar den i Sverige och veckans matcher
 - docs/helgen/: "Svenskar på TV i helgen" – fredag till söndag, uppdateras varje natt
+- docs/spelare/<namn>/kalender.ics och docs/lag/<namn>/kalender.ics: kalender att
+  prenumerera på (iCal) med spelarens/lagets matcher, kanal och resultat
 - docs/match/<lag-lag-dag-mån>/: en sida per match med svenskar – kanal, tid, svenskarna
   och efter matchen resultatet. Ligger kvar MATCH_KEEP_DAYS dagar, blir sedan en
   omdirigering till hemmalagets sida (noindex) och tas bort helt efter MATCH_STUB_DAYS.
@@ -471,6 +473,74 @@ def write(path, text):
         PAGE_HASHES["" if url_path == "." else url_path + "/"] = hashlib.sha1(stable.encode()).hexdigest()
 
 
+DURATION_MIN = {"Fotboll": 120, "Ishockey": 180}  # samma som i app.js
+
+
+def ics_text(value):
+    return (str(value).replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,")
+            .replace("\n", "\\n"))
+
+
+def ics_fold(line):
+    """iCal: rader högst 75 byte, fortsättningsrader börjar med ett blanksteg."""
+    out, cur = [], b""
+    for ch in line:
+        b = ch.encode()
+        if len(cur) + len(b) > (75 if not out else 74):
+            out.append(cur.decode())
+            cur = b""
+        cur += b
+    out.append(cur.decode())
+    return "\r\n ".join(out)
+
+
+def ics_time(dt_obj):
+    return dt_obj.astimezone(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+
+
+def calendar_ics(title, matches, known, today):
+    """En prenumerationskalender med matcher (kommande och de senaste 30 dagarna)."""
+    base = SITE["base_url"]
+    lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//patv.se//Svenskar på TV//SV", "CALSCALE:GREGORIAN",
+             "METHOD:PUBLISH", f"X-WR-CALNAME:{ics_text(title)}", "X-WR-TIMEZONE:Europe/Stockholm",
+             "REFRESH-INTERVAL;VALUE=DURATION:PT6H", "X-PUBLISHED-TTL:PT6H"]
+    for slug, m in sorted(matches, key=lambda x: x[1]["start"]):
+        start = dt.datetime.fromisoformat(m["start"].replace("Z", "+00:00"))
+        end = start + dt.timedelta(minutes=DURATION_MIN.get(m["sport"], 150))
+        stamp = known.get(f"match/{slug}/", {}).get("date", today)
+        tv = tv_text(m.get("tv") or {"status": "unknown"})
+        if m.get("score"):
+            summary = f'{m["title"]} {m["score"]}'
+            info = f'Slutresultat {m["score"]}.'
+        else:
+            t = m.get("tv") or {}
+            short = (t.get("service") if t.get("status") in ("confirmed", "likely")
+                     else f'{t["label"]}?' if t.get("label")
+                     else "sänds inte i Sverige" if t.get("status") == "none" else "kanal ej klar")
+            summary = f'{m["title"]} ({short})'
+            info = f'TV i Sverige: {tv}.'
+        names = ", ".join(sw["name"] for sw in m["swedes"])
+        url = f"{base}/match/{slug}/"
+        description = f'{m["competition"]}. {info} Svenskar: {names}. {url}'
+        lines += ["BEGIN:VEVENT", f'UID:{m["id"]}@patv.se', f"DTSTAMP:{stamp.replace('-', '')}T000000Z",
+                  f"DTSTART:{ics_time(start)}", f"DTEND:{ics_time(end)}", f"SUMMARY:{ics_text(summary)}",
+                  f"DESCRIPTION:{ics_text(description)}", f"URL:{url}", "END:VEVENT"]
+    lines.append("END:VCALENDAR")
+    return "".join(ics_fold(line) + "\r\n" for line in lines)
+
+
+def calendar_html(page_path, name):
+    """Knappar för att prenumerera på sidans kalender."""
+    host = SITE["base_url"].split("://", 1)[1]
+    webcal = f"webcal://{host}/{page_path}kalender.ics"
+    google = "https://calendar.google.com/calendar/r?cid=" + urllib.parse.quote(webcal, safe="")
+    return (f'<section class="watch calendar"><h2>{esc(name)} i din kalender</h2>'
+            f'<p>Prenumerera så hamnar matcherna med tid och kanal i mobilens kalender och uppdateras automatiskt.</p>'
+            f'<p class="cal-buttons"><a class="chip" href="{esc(webcal)}">📅 Lägg till i kalendern</a> '
+            f'<a class="chip" href="{esc(google)}" rel="noopener" target="_blank">Google Kalender</a> '
+            f'<a class="chip" href="kalender.ics" download>Ladda ner (.ics)</a></p></section>')
+
+
 def render_player(slug, entry, events, updated):
     name, team = entry["name"], entry.get("team_full") or entry["team"]
     mine = [e for e in events if any(s.get("page") == f"spelare/{slug}/" for s in e["swedes"])]
@@ -497,7 +567,8 @@ def render_player(slug, entry, events, updated):
         title=f"{name} på TV – nästa match och kanal | {SITE['name']}",
         description=description, path=f"spelare/{slug}/", h1=f"{name} på TV",
         lede=lede, events=mine, links=" · ".join(links), updated=updated,
-        watch=where_to_watch(name, entry.get("competitions", []), f"{name} spelar i {team}. ")))
+        watch=calendar_html(f"spelare/{slug}/", name)
+        + where_to_watch(name, entry.get("competitions", []), f"{name} spelar i {team}. ")))
 
 
 def render_team(slug, entry, events, updated):
@@ -524,7 +595,7 @@ def render_team(slug, entry, events, updated):
         description=description, path=f"lag/{slug}/", h1=f"{name} på TV",
         lede=lede, events=mine, links=" · ".join(league_links(entry.get("competitions", []), "../../")),
         updated=updated,
-        watch=where_to_watch(name, entry.get("competitions", []))))
+        watch=calendar_html(f"lag/{slug}/", name) + where_to_watch(name, entry.get("competitions", []))))
 
 
 def render_league(r, events, registry, updated):
@@ -680,6 +751,25 @@ def fill_dates(paths, known, today):
             f.write_text(text.replace(DATEMOD_TEXT, label).replace(DATEMOD, date))
 
 
+def render_calendars(registry, today):
+    known = registry.get("lastmod", {})
+    active = [(slug, m) for slug, m in registry.get("matches", {}).items() if not m.get("expired")]
+    by_page = {}
+    for slug, m in active:
+        for p in {sw.get("page") for sw in m["swedes"]} | {t.get("page") for t in m.get("teams", [])}:
+            if p:
+                by_page.setdefault(p, []).append((slug, m))
+    for kind, table in (("spelare", registry.get("players", {})), ("lag", registry.get("teams", {}))):
+        for slug, entry in table.items():
+            page = f"{kind}/{slug}/"
+            name = TEAM_NAMES.get(entry["name"], entry["name"]) if kind == "lag" else entry["name"]
+            text = calendar_ics(f"{name} på TV – påTV", by_page.get(page, []), known, today)
+            path = DOCS / kind / slug / "kalender.ics"
+            if not path.exists() or path.read_text() != text:
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_text(text)
+
+
 def render_sitemap(registry, today):
     base = SITE["base_url"]
     paths = ["", "helgen/"] + [f"liga/{league_slug(r['name'])}/" for r in leagues()] \
@@ -736,6 +826,7 @@ def main(now=None):
     render_weekend(events, now.astimezone(TZ).date(), updated)
     render_index(events, registry, updated)
     count = render_sitemap(registry, today)
+    render_calendars(registry, today)
 
     DATA_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n")  # nu med sidadresser
     REGISTRY_FILE.parent.mkdir(parents=True, exist_ok=True)

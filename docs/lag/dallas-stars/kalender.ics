@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dallas Stars på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020358@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261120T030000Z
+DTEND:20261120T060000Z
+SUMMARY:Vegas Golden Knights – Dallas Stars 3–4 efter straffar
+DESCRIPTION:NHL. Slutresultat 3–4 efter straffar. Svenskar: Rasmus Anders
+ son\, Victor Olofsson\, William Karlsson\, Nils Lundkvist\, Oskar Bäck. h
+ ttps://patv.se/match/vegas-golden-knights-dallas-stars-19-nov/
+URL:https://patv.se/match/vegas-golden-knights-dallas-stars-19-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020376@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261123T000000Z
+DTEND:20261123T030000Z
+SUMMARY:Dallas Stars – Pittsburgh Penguins (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Nils Lundkvist\, Oskar Bäck\, Elmer Söderblom\, Erik Karlsson\, Ric
+ kard Rakell. https://patv.se/match/dallas-stars-pittsburgh-penguins-22-nov
+ /
+URL:https://patv.se/match/dallas-stars-pittsburgh-penguins-22-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020395@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T010000Z
+DTEND:20261126T040000Z
+SUMMARY:Dallas Stars – Nashville Predators (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Nils Lundkvist\, Oskar Bäck\, Adam Edström\, Adam Wilsby\, Filip Fo
+ rsberg\, Nils Höglander. https://patv.se/match/dallas-stars-nashville-pre
+ dators-25-nov/
+URL:https://patv.se/match/dallas-stars-nashville-predators-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020403@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T190000Z
+DTEND:20261127T220000Z
+SUMMARY:St. Louis Blues – Dallas Stars (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Calle Rosén\, Jonatan Berggren\, Philip Broberg\, Nils Lundkvist\, O
+ skar Bäck. https://patv.se/match/st-louis-blues-dallas-stars-27-nov/
+URL:https://patv.se/match/st-louis-blues-dallas-stars-27-nov/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Armin Ćulum på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:558828@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T111500Z
+DTEND:20261122T131500Z
+SUMMARY:Twente – Willem II (Viaplay)
+DESCRIPTION:Eredivisie. TV i Sverige: Viaplay. Svenskar: Armin Ćulum. http
+ s://patv.se/match/twente-willem-ii-22-nov/
+URL:https://patv.se/match/twente-willem-ii-22-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:558820@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+SUMMARY:Groningen – Willem II (Viaplay)
+DESCRIPTION:Eredivisie. TV i Sverige: Viaplay. Svenskar: Alvin Nordin\, Elv
+ is van der Laan\, Jacob Ondrejka\, Malcolm Jeng\, Armin Ćulum. https://pa
+ tv.se/match/groningen-willem-ii-27-nov/
+URL:https://patv.se/match/groningen-willem-ii-27-nov/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//patv.se//Svenskar på TV//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Anton Johansson på TV – påTV
+X-WR-TIMEZONE:Europe/Stockholm
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:nhl-2026020344@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261119T003000Z
+DTEND:20261119T033000Z
+SUMMARY:Detroit Red Wings – Boston Bruins 1–4
+DESCRIPTION:NHL. Slutresultat 1–4. Svenskar: Albert Johansson\, Andreas E
+ nglund\, Anton Johansson\, Lucas Raymond\, Viktor Arvidsson\, William Wall
+ inder\, Elias Lindholm\, Hampus Lindholm. https://patv.se/match/detroit-re
+ d-wings-boston-bruins-18-nov/
+URL:https://patv.se/match/detroit-red-wings-boston-bruins-18-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020367@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+SUMMARY:Detroit Red Wings – New York Islanders (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Albert Johansson\, Andreas Englund\, Anton Johansson\, Lucas Raymond\
+ , Viktor Arvidsson\, William Wallinder\, Emil Heineman\, Simon Holmström\
+ , Victor Eklund. https://patv.se/match/detroit-red-wings-new-york-islander
+ s-21-nov/
+URL:https://patv.se/match/detroit-red-wings-new-york-islanders-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020394@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T003000Z
+DTEND:20261126T033000Z
+SUMMARY:Detroit Red Wings – Vancouver Canucks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Albert Johansson\, Andreas Englund\, Anton Johansson\, Lucas Raymond\
+ , Viktor Arvidsson\, William Wallinder\, Elias Pettersson #25\, Elias Pett
+ ersson #40\, Jonathan Lekkerimäki\, Liam Öhgren\, Linus Karlsson\, Tom W
+ illander. https://patv.se/match/detroit-red-wings-vancouver-canucks-25-nov
+ /
+URL:https://patv.se/match/detroit-red-wings-vancouver-canucks-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020407@patv.se
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T200000Z
+DTEND:20261127T230000Z
+SUMMARY:Columbus Blue Jackets – Detroit Red Wings (Viaplay eller Disney+?
+ )
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Isac Lundeström\, Albert Johansson\, Andreas Englund\, Anton Johanss
+ on\, Lucas Raymond\, Viktor Arvidsson\, William Wallinder. https://patv.se
+ /match/columbus-blue-jackets-detroit-red-wings-27-nov/
+URL:https://patv.se/match/columbus-blue-jackets-detroit-red-wings-27-nov/
+END:VEVENT
+END:VCALENDAR
