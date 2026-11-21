@@ -7,11 +7,28 @@ X-WR-CALNAME:Andre Lee på TV – påTV
 X-WR-TIMEZONE:Europe/Stockholm
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Stockholm
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:nhl-2026020347@patv.se
 DTSTAMP:20261121T000000Z
-DTSTART:20261120T000000Z
-DTEND:20261120T030000Z
+DTSTART;TZID=Europe/Stockholm:20261120T010000
+DTEND;TZID=Europe/Stockholm:20261120T040000
 SUMMARY:Toronto Maple Leafs – Los Angeles Kings 3–4 efter straffar
 DESCRIPTION:NHL. Slutresultat 3–4 efter straffar. Svenskar: Oliver Ekman-
  Larsson\, William Nylander\, Adrian Kempe\, Andre Lee\, Anton Forsberg\, E
@@ -22,8 +39,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020366@patv.se
 DTSTAMP:20261121T000000Z
-DTSTART:20261122T000000Z
-DTEND:20261122T030000Z
+DTSTART;TZID=Europe/Stockholm:20261122T010000
+DTEND;TZID=Europe/Stockholm:20261122T040000
 SUMMARY:Ottawa Senators – Los Angeles Kings (Viaplay eller Disney+?)
 DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: André Burakovsky\, Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson
@@ -34,8 +51,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020379@patv.se
 DTSTAMP:20261121T000000Z
-DTSTART:20261124T003000Z
-DTEND:20261124T033000Z
+DTSTART;TZID=Europe/Stockholm:20261124T013000
+DTEND;TZID=Europe/Stockholm:20261124T043000
 SUMMARY:Montréal Canadiens – Los Angeles Kings (Viaplay eller Disney+?)
 DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Adam Engström\, Oliver Kapanen\, Adrian Kempe\, Andre Lee\, Anton Fo
@@ -46,8 +63,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020409@patv.se
 DTSTAMP:20261121T000000Z
-DTSTART:20261127T210000Z
-DTEND:20261128T000000Z
+DTSTART;TZID=Europe/Stockholm:20261127T220000
+DTEND;TZID=Europe/Stockholm:20261128T010000
 SUMMARY:Anaheim Ducks – Los Angeles Kings (Viaplay eller Disney+?)
 DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Leo Carlsson\, Adrian Kempe\, Andre Lee\, Anton Forsberg\, Erik Gusta

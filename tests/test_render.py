@@ -237,8 +237,9 @@ class CalendarTest(unittest.TestCase):
         ics = render.calendar_ics("Alexander Isak på TV – påTV", [("liverpool-arsenal-22-nov", m)], {}, "2026-11-21")
         self.assertIn("BEGIN:VCALENDAR\r\n", ics)
         self.assertIn("UID:560645@patv.se", ics)
-        self.assertIn("DTSTART:20261122T163000Z", ics)
-        self.assertIn("DTEND:20261122T183000Z", ics)  # fotboll: 2 timmar
+        self.assertIn("DTSTART;TZID=Europe/Stockholm:20261122T173000", ics)  # 16:30 UTC = 17:30 svensk tid
+        self.assertIn("DTEND;TZID=Europe/Stockholm:20261122T193000", ics)  # fotboll: 2 timmar
+        self.assertIn("BEGIN:VTIMEZONE", ics)
         self.assertIn("SUMMARY:Liverpool – Arsenal (Viaplay)", ics)
         self.assertIn("https://patv.se/match/liverpool-arsenal-22-nov/", ics.replace("\r\n ", ""))
         self.assertTrue(ics.endswith("END:VCALENDAR\r\n"))
@@ -247,3 +248,8 @@ class CalendarTest(unittest.TestCase):
         html = render.calendar_html("spelare/alexander-isak/", "Alexander Isak")
         self.assertIn('href="webcal://patv.se/spelare/alexander-isak/kalender.ics"', html)
         self.assertIn("calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fpatv.se", html)
+
+
+    def test_summer_time(self):
+        import datetime as dt
+        self.assertEqual(render.ics_time(dt.datetime(2026, 7, 1, 18, 0, tzinfo=dt.timezone.utc)), "20260701T200000")

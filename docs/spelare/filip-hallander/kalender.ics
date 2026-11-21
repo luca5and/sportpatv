@@ -7,11 +7,28 @@ X-WR-CALNAME:Filip Hållander på TV – påTV
 X-WR-TIMEZONE:Europe/Stockholm
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Stockholm
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:nhl-2026020349@patv.se
 DTSTAMP:20261121T000000Z
-DTSTART:20261120T003000Z
-DTEND:20261120T033000Z
+DTSTART;TZID=Europe/Stockholm:20261120T013000
+DTEND;TZID=Europe/Stockholm:20261120T043000
 SUMMARY:Tampa Bay Lightning – Edmonton Oilers 3–1
 DESCRIPTION:NHL. Slutresultat 3–1. Svenskar: Dennis Hildeby\, Pontus Holm
  berg\, Victor Hedman\, Filip Hallander\, Mattias Ekholm\, Mattias Janmark.
@@ -21,8 +38,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020359@patv.se
 DTSTAMP:20261121T000000Z
-DTSTART:20261121T180000Z
-DTEND:20261121T210000Z
+DTSTART;TZID=Europe/Stockholm:20261121T190000
+DTEND;TZID=Europe/Stockholm:20261121T220000
 SUMMARY:Carolina Hurricanes – Edmonton Oilers (Viaplay eller Disney+?)
 DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Filip Hållander\, Mattias Ekholm\, Mattias Janmark. https://patv.se/
@@ -32,8 +49,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020375@patv.se
 DTSTAMP:20261121T000000Z
-DTSTART:20261123T000000Z
-DTEND:20261123T030000Z
+DTSTART;TZID=Europe/Stockholm:20261123T010000
+DTEND;TZID=Europe/Stockholm:20261123T040000
 SUMMARY:St. Louis Blues – Edmonton Oilers (Viaplay eller Disney+?)
 DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Calle Rosén\, Jonatan Berggren\, Philip Broberg\, Filip Hållander\,
@@ -44,8 +61,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020385@patv.se
 DTSTAMP:20261121T000000Z
-DTSTART:20261125T010000Z
-DTEND:20261125T040000Z
+DTSTART;TZID=Europe/Stockholm:20261125T020000
+DTEND;TZID=Europe/Stockholm:20261125T050000
 SUMMARY:Edmonton Oilers – Vegas Golden Knights (Viaplay eller Disney+?)
 DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Filip Hållander\, Mattias Ekholm\, Mattias Janmark\, Rasmus Andersso
@@ -56,8 +73,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020414@patv.se
 DTSTAMP:20261121T000000Z
-DTSTART:20261128T010000Z
-DTEND:20261128T040000Z
+DTSTART;TZID=Europe/Stockholm:20261128T020000
+DTEND;TZID=Europe/Stockholm:20261128T050000
 SUMMARY:Edmonton Oilers – Seattle Kraken (Viaplay eller Disney+?)
 DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Filip Hållander\, Mattias Ekholm\, Mattias Janmark\, Adam Larsson. h
