@@ -24,30 +24,6 @@ def score(m):
     return {"home": full["home"], "away": full["away"]}
 
 
-def probe_details(token, finished):
-    """Tillfällig kontroll: vad ger gratisnivån för en spelad match (målskyttar,
-    laguppställningar, byten)? Skriver bara till loggen, sparar inget."""
-    if not finished:
-        print("Detaljkontroll: ingen spelad match i fönstret")
-        return
-    m = finished[0]
-    req = urllib.request.Request(f"https://api.football-data.org/v4/matches/{m['id']}",
-                                 headers={"X-Auth-Token": token})
-    try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            d = json.load(resp)
-    except Exception as exc:
-        print(f"Detaljkontroll misslyckades: {exc}")
-        return
-    def count(v):
-        return len(v) if isinstance(v, list) else ("saknas" if v is None else type(v).__name__)
-    home = d.get("homeTeam") or {}
-    print("Detaljkontroll", m["id"], "| nycklar:", ",".join(sorted(d.keys())))
-    print("  goals:", count(d.get("goals")), "| bookings:", count(d.get("bookings")),
-          "| substitutions:", count(d.get("substitutions")),
-          "| lineup hemma:", count(home.get("lineup")), "| bench hemma:", count(home.get("bench")))
-
-
 def main():
     token = os.environ.get("FOOTBALL_DATA_TOKEN")
     if not token:
@@ -80,7 +56,6 @@ def main():
         }
         for m in data.get("matches", [])
     ]
-    probe_details(token, [m for m in matches if m["status"] == "FINISHED"])
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"fetched": today.isoformat(), "matches": matches}, ensure_ascii=False, indent=1) + "\n")
     print(f"{len(matches)} matcher sparade")
