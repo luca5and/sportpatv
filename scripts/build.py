@@ -208,7 +208,12 @@ def nhl_events(nhl, rights, confirmations, people, removed=(), results=None):
                 if base in removed or (p.get("country") != "SWE" and not swedish_abroad):
                     continue
                 url = candidates[0]["url"] if len(candidates) == 1 else None
-                swedes.append({"name": name, "team": t.get("short") or t["name"], "url": url})
+                swede = {"name": name, "team": t.get("short") or t["name"], "url": url}
+                if finished and p.get("id") is not None:
+                    box = (nhl.get("boxscores") or {}).get(g["id"])
+                    if box is not None:  # None = statistiken saknas; {} i box = spelade inte
+                        swede["stats"] = box.get(str(p["id"]), {"kind": "dnp"})
+                swedes.append(swede)
         if not swedes:
             continue
         eid = "nhl-" + g["id"]

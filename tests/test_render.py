@@ -207,3 +207,16 @@ class MatchPageTest(unittest.TestCase):
         render.assign_matches([self.e], [], self.registry, "2026-11-20")
         self.assertIn('<a href="../../match/liverpool-arsenal-22-nov/">Liverpool – Arsenal</a>',
                       render.event_html(self.e, "../../"))
+
+
+class StatLineTest(unittest.TestCase):
+    def test_lines(self):
+        self.assertEqual(render.stat_line({"kind": "skater", "goals": 1, "assists": 2, "toi": "18:42", "shots": 4,
+                                           "plusMinus": 1}), "1 mål, 2 assist (3 poäng) · 18:42 istid · 4 skott · +1")
+        self.assertEqual(render.stat_line({"kind": "skater", "goals": 0, "assists": 0, "toi": "15:03", "shots": 0,
+                                           "plusMinus": -2}), "0 poäng · 15:03 istid · 0 skott · −2")
+        self.assertEqual(render.stat_line({"kind": "goalie", "saves": 28, "shotsAgainst": 30, "goalsAgainst": 2,
+                                           "savePctg": 0.9333, "toi": "59:12"}),
+                         "Målvakt: 28 räddningar av 30 skott (93,3 %) · 2 insläppta · 59:12 speltid")
+        self.assertEqual(render.stat_line({"kind": "dnp"}), "Spelade inte")
+        self.assertEqual(render.stat_line(None), "")

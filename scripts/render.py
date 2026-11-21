@@ -183,19 +183,21 @@ def record_results(results, registry):
         if not r.get("score"):
             continue
         last = {"title": r["title"], "score": r["score"], "start": r["start"], "competition": r["competition"]}
-        entries = [by_team.get(f'{r["sport"]}|{name}') for name in teams_of(r)]
-        entries += [by_player.get(s.get("url") or f'{s["name"]}|{s["team"]}') for s in r["swedes"]]
-        for entry in entries:
+        entries = [(by_team.get(f'{r["sport"]}|{name}'), None) for name in teams_of(r)]
+        entries += [(by_player.get(s.get("url") or f'{s["name"]}|{s["team"]}'), stat_line(s.get("stats")))
+                    for s in r["swedes"]]
+        for entry, line in entries:
             if entry is not None and entry.get("last", {}).get("start", "") <= r["start"]:
-                entry["last"] = last
+                entry["last"] = dict(last, line=line) if line else last
 
 
 def last_match_text(entry):
     last = entry.get("last")
     if not last:
         return ""
+    line = f' {esc(last["line"])}.' if last.get("line") else ""
     return (f'Senaste matchen: <b>{esc(last["title"])} {esc(last["score"])}</b>, '
-            f'{esc(fmt_day(event_day(last["start"])))} ({esc(last["competition"])}).')
+            f'{esc(fmt_day(event_day(last["start"])))} ({esc(last["competition"])}).{line}')
 
 
 def add_competition(entry, competition):
@@ -205,6 +207,51 @@ def add_competition(entry, competition):
 
 
 # --- HTML -----------------------------------------------------------------
+
+def stat_line(st):
+    """Faktarad för en svensk efter en NHL-match, t.ex. "1 mål, 2 assist · 18:42 istid · 3 skott · +1"."""
+    if not st:
+        return ""
+    if st.get("kind") == "dnp":
+        return "Spelade inte"
+    if st.get("kind") == "goalie":
+        parts = []
+        if st.get("saves") is not None and st.get("shotsAgainst") is not None:
+            pct = f' ({st["savePctg"] * 100:.1f} %)'.replace(".", ",") if st.get("savePctg") is not None else ""
+            parts.append(f'{st["saves"]} räddningar av {st["shotsAgainst"]} skott{pct}')
+        if st.get("goalsAgainst") is not None:
+            parts.append(f'{st["goalsAgainst"]} insläppta')
+        if st.get("toi"):
+            parts.append(f'{st["toi"]} speltid')
+        return "Målvakt: " + " · ".join(parts)
+    g, a = st.get("goals") or 0, st.get("assists") or 0
+    if g or a:
+        pts = [f"{g} mål" if g else "", f"{a} assist" if a else ""]
+        head = ", ".join(x for x in pts if x) + (f" ({g + a} poäng)" if g and a else "")
+    else:
+        head = "0 poäng"
+    parts = [head]
+    if st.get("toi"):
+        parts.append(f'{st["toi"]} istid')
+    if st.get("shots") is not None:
+        parts.append(f'{st["shots"]} skott')
+    pm = st.get("plusMinus")
+    if pm is not None:
+        parts.append(f"{pm:+d}".replace("-", "−") if pm else "±0")
+    return " · ".join(parts)
+
+
+def stats_section(swedes, prefix):
+    rows = [(s, stat_line(s.get("stats"))) for s in swedes]
+    rows = [(s, line) for s, line in rows if line]
+    if not rows:
+        return ""
+    def name(s):
+        return f'<a href="{prefix}{esc(s["page"])}">{esc(s["name"])}</a>' if s.get("page") else esc(s["name"])
+    items = "".join(f'<li><b>{name(s)}</b> <small>{esc(s["team"])}</small><br>{esc(line)}</li>' for s, line in rows)
+    return (f'<section class="watch stats"><h2>Svenskarna i matchen</h2><ul class="statlist">{items}</ul>'
+            f'<p class="src">Statistik från NHL.com.</p></section>')
+
 
 def match_slug(e):
     d = event_day(e["start"])
@@ -238,7 +285,8 @@ def assign_matches(events, results, registry, today):
         m = matches[slug]
         m.update({"title": e["title"], "start": e["start"], "sport": e["sport"],
                   "competition": e["competition"], "last_seen": today,
-                  "swedes": [{"name": s["name"], "team": s["team"], "page": s.get("page")} for s in e["swedes"]]})
+                  "swedes": [{k: v for k, v in s.items() if k in ("name", "team", "page", "stats")}
+                             for s in e["swedes"]]})
         if e.get("teams"):
             m["teams"] = e["teams"]
         if e.get("tv"):
@@ -278,10 +326,13 @@ def render_match(slug, m, updated):
                             for s in m["swedes"])
     tv = m.get("tv") or {"status": "unknown"}
     if m.get("score"):
+        scorers = [f'{s["name"]} {s["stats"]["goals"]}+{s["stats"]["assists"]}' for s in m["swedes"]
+                   if (s.get("stats") or {}).get("kind") == "skater" and s["stats"].get("points")]
         lede = (f'Slutresultat: <b>{esc(m["title"])} {esc(m["score"])}</b>, {esc(day)} i {esc(m["competition"])}. '
                 f'Svenskar i matchen: {swedes_html}.')
         title = f'{m["title"]} {m["score"]} – resultat och svenskarna, {day} | {SITE["name"]}'
-        description = f'{m["title"]} slutade {m["score"]} ({day}, {m["competition"]}). Svenskar: {", ".join(names)}.'
+        description = (f'{m["title"]} slutade {m["score"]} ({day}, {m["competition"]}). '
+                       + (f'Svenska poäng: {", ".join(scorers)}.' if scorers else f'Svenskar: {", ".join(names)}.'))
         h1 = f'{m["title"]} {m["score"]}'
     else:
         lede = (f'{esc(m["title"])} spelas <b>{esc(when)}</b> i {esc(m["competition"])}. '
@@ -298,7 +349,8 @@ def render_match(slug, m, updated):
         title=title, description=description, path=f"match/{slug}/", h1=h1, lede=lede,
         events=[] if m.get("score") else [event], links=" · ".join(links), updated=updated,
         list_html="" if m.get("score") else None,
-        watch=where_to_watch(m["title"], [m["competition"]])))
+        watch=(stats_section(m["swedes"], prefix) if m.get("score") else "")
+        + where_to_watch(m["title"], [m["competition"]])))
 
 
 def event_html(e, prefix="", show_day=False):
