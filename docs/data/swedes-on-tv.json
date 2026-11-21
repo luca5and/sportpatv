@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T11:45+00:00",
+ "generated": "2026-11-21T10:25+00:00",
  "events": [
   {
    "id": "560643",
@@ -38,7 +38,8 @@
      "name": "Fulham",
      "page": "lag/fulham/"
     }
-   ]
+   ],
+   "page": "match/man-city-fulham-21-nov/"
   },
   {
    "id": "561944",
@@ -70,7 +71,8 @@
      "name": "Derby County",
      "page": "lag/derby-county/"
     }
-   ]
+   ],
+   "page": "match/southampton-derby-county-21-nov/"
   },
   {
    "id": "558525",
@@ -102,7 +104,8 @@
      "name": "Cagliari",
      "page": "lag/cagliari/"
     }
-   ]
+   ],
+   "page": "match/como-1907-cagliari-21-nov/"
   },
   {
    "id": "565865",
@@ -134,7 +137,8 @@
      "name": "Hoffenheim",
      "page": "lag/hoffenheim/"
     }
-   ]
+   ],
+   "page": "match/frankfurt-hoffenheim-21-nov/"
   },
   {
    "id": "565862",
@@ -178,7 +182,8 @@
      "name": "Dortmund",
      "page": "lag/dortmund/"
     }
-   ]
+   ],
+   "page": "match/m-gladbach-dortmund-21-nov/"
   },
   {
    "id": "560644",
@@ -217,7 +222,8 @@
      "name": "Sunderland",
      "page": "lag/sunderland/"
     }
-   ]
+   ],
+   "page": "match/aston-villa-sunderland-21-nov/"
   },
   {
    "id": "560642",
@@ -250,7 +256,8 @@
      "name": "Leeds United",
      "page": "lag/leeds-united/"
     }
-   ]
+   ],
+   "page": "match/chelsea-leeds-united-21-nov/"
   },
   {
    "id": "561943",
@@ -282,7 +289,8 @@
      "name": "Bristol City",
      "page": "lag/bristol-city/"
     }
-   ]
+   ],
+   "page": "match/middlesbrough-bristol-city-21-nov/"
   },
   {
    "id": "561946",
@@ -320,7 +328,8 @@
      "name": "Birmingham",
      "page": "lag/birmingham/"
     }
-   ]
+   ],
+   "page": "match/stoke-birmingham-21-nov/"
   },
   {
    "id": "561942",
@@ -352,7 +361,8 @@
      "name": "West Brom",
      "page": "lag/west-brom/"
     }
-   ]
+   ],
+   "page": "match/swansea-west-brom-21-nov/"
   },
   {
    "id": "560648",
@@ -391,7 +401,8 @@
      "name": "Ipswich Town",
      "page": "lag/ipswich-town/"
     }
-   ]
+   ],
+   "page": "match/tottenham-ipswich-town-21-nov/"
   },
   {
    "id": "561951",
@@ -423,7 +434,8 @@
      "name": "Preston NE",
      "page": "lag/preston-ne/"
     }
-   ]
+   ],
+   "page": "match/west-ham-preston-ne-21-nov/"
   },
   {
    "id": "559628",
@@ -455,7 +467,8 @@
      "name": "PSG",
      "page": "lag/psg/"
     }
-   ]
+   ],
+   "page": "match/nice-psg-21-nov/"
   },
   {
    "id": "558526",
@@ -487,7 +500,8 @@
      "name": "Roma",
      "page": "lag/roma/"
     }
-   ]
+   ],
+   "page": "match/parma-roma-21-nov/"
   },
   {
    "id": "560651",
@@ -526,7 +540,8 @@
      "name": "Arsenal",
      "page": "lag/arsenal/"
     }
-   ]
+   ],
+   "page": "match/newcastle-arsenal-21-nov/"
   },
   {
    "id": "558831",
@@ -564,7 +579,8 @@
      "name": "Excelsior",
      "page": "lag/excelsior/"
     }
-   ]
+   ],
+   "page": "match/feyenoord-excelsior-21-nov/"
   },
   {
    "id": "nhl-2026020359",
@@ -609,7 +625,8 @@
      "name": "Edmonton Oilers",
      "page": "lag/edmonton-oilers/"
     }
-   ]
+   ],
+   "page": "match/carolina-hurricanes-edmonton-oilers-21-nov/"
   },
   {
    "id": "559623",
@@ -641,7 +658,8 @@
      "name": "Toulouse",
      "page": "lag/toulouse/"
     }
-   ]
+   ],
+   "page": "match/rc-lens-toulouse-21-nov/"
   },
   {
    "id": "559627",
@@ -679,7 +697,8 @@
      "name": "Brest",
      "page": "lag/brest/"
     }
-   ]
+   ],
+   "page": "match/strasbourg-brest-21-nov/"
   },
   {
    "id": "558834",
@@ -735,7 +754,8 @@
      "name": "Heerenveen",
      "page": "lag/heerenveen/"
     }
-   ]
+   ],
+   "page": "match/groningen-heerenveen-21-nov/"
   },
   {
    "id": "564754",
@@ -773,7 +793,8 @@
      "name": "Celta",
      "page": "lag/celta/"
     }
-   ]
+   ],
+   "page": "match/real-madrid-celta-21-nov/"
   },
   {
    "id": "nhl-2026020360",
@@ -812,7 +833,8 @@
      "name": "Chicago Blackhawks",
      "page": "lag/chicago-blackhawks/"
     }
-   ]
+   ],
+   "page": "match/calgary-flames-chicago-blackhawks-21-nov/"
   },
   {
    "id": "nhl-2026020361",
@@ -863,7 +885,8 @@
      "name": "Buffalo Sabres",
      "page": "lag/buffalo-sabres/"
     }
-   ]
+   ],
+   "page": "match/florida-panthers-buffalo-sabres-21-nov/"
   },
   {
    "id": "nhl-2026020362",
@@ -932,7 +955,8 @@
      "name": "Pittsburgh Penguins",
      "page": "lag/pittsburgh-penguins/"
     }
-   ]
+   ],
+   "page": "match/nashville-predators-pittsburgh-penguins-21-nov/"
   },
   {
    "id": "nhl-2026020363",
@@ -983,7 +1007,8 @@
      "name": "Washington Capitals",
      "page": "lag/washington-capitals/"
     }
-   ]
+   ],
+   "page": "match/boston-bruins-washington-capitals-21-nov/"
   },
   {
    "id": "nhl-2026020367",
@@ -1064,7 +1089,8 @@
      "name": "New York Islanders",
      "page": "lag/new-york-islanders/"
     }
-   ]
+   ],
+   "page": "match/detroit-red-wings-new-york-islanders-21-nov/"
   },
   {
    "id": "nhl-2026020365",
@@ -1103,7 +1129,8 @@
      "name": "Philadelphia Flyers",
      "page": "lag/philadelphia-flyers/"
     }
-   ]
+   ],
+   "page": "match/montreal-canadiens-philadelphia-flyers-21-nov/"
   },
   {
    "id": "nhl-2026020366",
@@ -1184,7 +1211,8 @@
      "name": "Los Angeles Kings",
      "page": "lag/los-angeles-kings/"
     }
-   ]
+   ],
+   "page": "match/ottawa-senators-los-angeles-kings-21-nov/"
   },
   {
    "id": "nhl-2026020368",
@@ -1241,7 +1269,8 @@
      "name": "New Jersey Devils",
      "page": "lag/new-jersey-devils/"
     }
-   ]
+   ],
+   "page": "match/st-louis-blues-new-jersey-devils-21-nov/"
   },
   {
    "id": "nhl-2026020364",
@@ -1286,7 +1315,8 @@
      "name": "Columbus Blue Jackets",
      "page": "lag/columbus-blue-jackets/"
     }
-   ]
+   ],
+   "page": "match/toronto-maple-leafs-columbus-blue-jackets-21-nov/"
   },
   {
    "id": "nhl-2026020369",
@@ -1343,7 +1373,8 @@
      "name": "Vegas Golden Knights",
      "page": "lag/vegas-golden-knights/"
     }
-   ]
+   ],
+   "page": "match/winnipeg-jets-vegas-golden-knights-21-nov/"
   },
   {
    "id": "nhl-2026020370",
@@ -1382,7 +1413,8 @@
      "name": "Anaheim Ducks",
      "page": "lag/anaheim-ducks/"
     }
-   ]
+   ],
+   "page": "match/utah-mammoth-anaheim-ducks-21-nov/"
   },
   {
    "id": "nhl-2026020372",
@@ -1427,7 +1459,8 @@
      "name": "Seattle Kraken",
      "page": "lag/seattle-kraken/"
     }
-   ]
+   ],
+   "page": "match/san-jose-sharks-seattle-kraken-21-nov/"
   },
   {
    "id": "nhl-2026020371",
@@ -1514,7 +1547,8 @@
      "name": "Minnesota Wild",
      "page": "lag/minnesota-wild/"
     }
-   ]
+   ],
+   "page": "match/vancouver-canucks-minnesota-wild-21-nov/"
   },
   {
    "id": "558828",
@@ -1546,7 +1580,8 @@
      "name": "Willem II",
      "page": "lag/willem-ii/"
     }
-   ]
+   ],
+   "page": "match/twente-willem-ii-22-nov/"
   },
   {
    "id": "561947",
@@ -1578,7 +1613,8 @@
      "name": "Blackburn",
      "page": "lag/blackburn/"
     }
-   ]
+   ],
+   "page": "match/burnley-blackburn-22-nov/"
   },
   {
    "id": "564749",
@@ -1610,7 +1646,8 @@
      "name": "Villarreal",
      "page": "lag/villarreal/"
     }
-   ]
+   ],
+   "page": "match/barca-villarreal-22-nov/"
   },
   {
    "id": "558522",
@@ -1654,7 +1691,8 @@
      "name": "Udinese",
      "page": "lag/udinese/"
     }
-   ]
+   ],
+   "page": "match/bologna-udinese-22-nov/"
   },
   {
    "id": "560646",
@@ -1693,7 +1731,8 @@
      "name": "Brighton Hove",
      "page": "lag/brighton-hove/"
     }
-   ]
+   ],
+   "page": "match/hull-city-brighton-hove-22-nov/"
   },
   {
    "id": "564750",
@@ -1725,7 +1764,8 @@
      "name": "Real Sociedad",
      "page": "lag/real-sociedad/"
     }
-   ]
+   ],
+   "page": "match/santander-real-sociedad-22-nov/"
   },
   {
    "id": "558829",
@@ -1763,7 +1803,8 @@
      "name": "Sittard",
      "page": "lag/sittard/"
     }
-   ]
+   ],
+   "page": "match/go-ahead-sittard-22-nov/"
   },
   {
    "id": "560645",
@@ -1796,7 +1837,8 @@
      "name": "Man United",
      "page": "lag/man-united/"
     }
-   ]
+   ],
+   "page": "match/liverpool-man-united-22-nov/"
   },
   {
    "id": "nhl-2026020373",
@@ -1835,7 +1877,8 @@
      "name": "Carolina Hurricanes",
      "page": "lag/carolina-hurricanes/"
     }
-   ]
+   ],
+   "page": "match/new-york-rangers-carolina-hurricanes-22-nov/"
   },
   {
    "id": "564752",
@@ -1867,7 +1910,8 @@
      "name": "Málaga",
      "page": "lag/malaga/"
     }
-   ]
+   ],
+   "page": "match/osasuna-malaga-22-nov/"
   },
   {
    "id": "558520",
@@ -1899,7 +1943,8 @@
      "name": "Inter",
      "page": "lag/inter/"
     }
-   ]
+   ],
+   "page": "match/atalanta-inter-22-nov/"
   },
   {
    "id": "nhl-2026020374",
@@ -1956,7 +2001,8 @@
      "name": "Buffalo Sabres",
      "page": "lag/buffalo-sabres/"
     }
-   ]
+   ],
+   "page": "match/tampa-bay-lightning-buffalo-sabres-22-nov/"
   },
   {
    "id": "nhl-2026020376",
@@ -2013,7 +2059,8 @@
      "name": "Pittsburgh Penguins",
      "page": "lag/pittsburgh-penguins/"
     }
-   ]
+   ],
+   "page": "match/dallas-stars-pittsburgh-penguins-22-nov/"
   },
   {
    "id": "nhl-2026020375",
@@ -2076,7 +2123,8 @@
      "name": "Edmonton Oilers",
      "page": "lag/edmonton-oilers/"
     }
-   ]
+   ],
+   "page": "match/st-louis-blues-edmonton-oilers-22-nov/"
   },
   {
    "id": "nhl-2026020377",
@@ -2145,7 +2193,8 @@
      "name": "Chicago Blackhawks",
      "page": "lag/chicago-blackhawks/"
     }
-   ]
+   ],
+   "page": "match/vancouver-canucks-chicago-blackhawks-22-nov/"
   },
   {
    "id": "558519",
@@ -2183,7 +2232,8 @@
      "name": "Fiorentina",
      "page": "lag/fiorentina/"
     }
-   ]
+   ],
+   "page": "match/monza-fiorentina-23-nov/"
   },
   {
    "id": "555097",
@@ -2216,7 +2266,8 @@
      "name": "Vitória",
      "page": "lag/vitoria/"
     }
-   ]
+   ],
+   "page": "match/internacional-vitoria-23-nov/"
   },
   {
    "id": "nhl-2026020378",
@@ -2261,7 +2312,8 @@
      "name": "Columbus Blue Jackets",
      "page": "lag/columbus-blue-jackets/"
     }
-   ]
+   ],
+   "page": "match/new-jersey-devils-columbus-blue-jackets-23-nov/"
   },
   {
    "id": "nhl-2026020379",
@@ -2324,7 +2376,8 @@
      "name": "Los Angeles Kings",
      "page": "lag/los-angeles-kings/"
     }
-   ]
+   ],
+   "page": "match/montreal-canadiens-los-angeles-kings-23-nov/"
   },
   {
    "id": "nhl-2026020381",
@@ -2381,7 +2434,8 @@
      "name": "Toronto Maple Leafs",
      "page": "lag/toronto-maple-leafs/"
     }
-   ]
+   ],
+   "page": "match/new-york-islanders-toronto-maple-leafs-23-nov/"
   },
   {
    "id": "nhl-2026020380",
@@ -2444,7 +2498,8 @@
      "name": "Calgary Flames",
      "page": "lag/calgary-flames/"
     }
-   ]
+   ],
+   "page": "match/ottawa-senators-calgary-flames-23-nov/"
   },
   {
    "id": "nhl-2026020382",
@@ -2489,7 +2544,8 @@
      "name": "Utah Mammoth",
      "page": "lag/utah-mammoth/"
     }
-   ]
+   ],
+   "page": "match/winnipeg-jets-utah-mammoth-23-nov/"
   },
   {
    "id": "nhl-2026020383",
@@ -2528,7 +2584,8 @@
      "name": "Anaheim Ducks",
      "page": "lag/anaheim-ducks/"
     }
-   ]
+   ],
+   "page": "match/seattle-kraken-anaheim-ducks-23-nov/"
   },
   {
    "id": "nhl-2026020384",
@@ -2591,7 +2648,8 @@
      "name": "Minnesota Wild",
      "page": "lag/minnesota-wild/"
     }
-   ]
+   ],
+   "page": "match/san-jose-sharks-minnesota-wild-23-nov/"
   },
   {
    "id": "575395",
@@ -2629,7 +2687,8 @@
      "name": "Aston Villa",
      "page": "lag/aston-villa/"
     }
-   ]
+   ],
+   "page": "match/galatasaray-aston-villa-24-nov/"
   },
   {
    "id": "561959",
@@ -2661,7 +2720,8 @@
      "name": "Wrexham",
      "page": "lag/wrexham/"
     }
-   ]
+   ],
+   "page": "match/bristol-city-wrexham-24-nov/"
   },
   {
    "id": "561953",
@@ -2693,7 +2753,8 @@
      "name": "Preston NE",
      "page": "lag/preston-ne/"
     }
-   ]
+   ],
+   "page": "match/cardiff-preston-ne-24-nov/"
   },
   {
    "id": "561954",
@@ -2725,7 +2786,8 @@
      "name": "Swansea",
      "page": "lag/swansea/"
     }
-   ]
+   ],
+   "page": "match/middlesbrough-swansea-24-nov/"
   },
   {
    "id": "575399",
@@ -2763,7 +2825,8 @@
      "name": "Dortmund",
      "page": "lag/dortmund/"
     }
-   ]
+   ],
+   "page": "match/arsenal-dortmund-24-nov/"
   },
   {
    "id": "575403",
@@ -2795,7 +2858,8 @@
      "name": "PAE AEK",
      "page": "lag/pae-aek/"
     }
-   ]
+   ],
+   "page": "match/como-1907-pae-aek-24-nov/"
   },
   {
    "id": "561957",
@@ -2827,7 +2891,8 @@
      "name": "Derby County",
      "page": "lag/derby-county/"
     }
-   ]
+   ],
+   "page": "match/wolverhampton-derby-county-24-nov/"
   },
   {
    "id": "nhl-2026020385",
@@ -2890,7 +2955,8 @@
      "name": "Vegas Golden Knights",
      "page": "lag/vegas-golden-knights/"
     }
-   ]
+   ],
+   "page": "match/edmonton-oilers-vegas-golden-knights-24-nov/"
   },
   {
    "id": "575404",
@@ -2922,7 +2988,8 @@
      "name": "Barça",
      "page": "lag/barca/"
     }
-   ]
+   ],
+   "page": "match/sabah-fk-barca-25-nov/"
   },
   {
    "id": "561964",
@@ -2954,7 +3021,8 @@
      "name": "Birmingham",
      "page": "lag/birmingham/"
     }
-   ]
+   ],
+   "page": "match/burnley-birmingham-25-nov/"
   },
   {
    "id": "575409",
@@ -2986,7 +3054,8 @@
      "name": "Liverpool",
      "page": "lag/liverpool/"
     }
-   ]
+   ],
+   "page": "match/club-brugge-liverpool-25-nov/"
   },
   {
    "id": "561962",
@@ -3024,7 +3093,8 @@
      "name": "Millwall",
      "page": "lag/millwall/"
     }
-   ]
+   ],
+   "page": "match/stoke-millwall-25-nov/"
   },
   {
    "id": "nhl-2026020386",
@@ -3075,7 +3145,8 @@
      "name": "Winnipeg Jets",
      "page": "lag/winnipeg-jets/"
     }
-   ]
+   ],
+   "page": "match/boston-bruins-winnipeg-jets-25-nov/"
   },
   {
    "id": "nhl-2026020387",
@@ -3126,7 +3197,8 @@
      "name": "New York Rangers",
      "page": "lag/new-york-rangers/"
     }
-   ]
+   ],
+   "page": "match/buffalo-sabres-new-york-rangers-25-nov/"
   },
   {
    "id": "nhl-2026020393",
@@ -3171,7 +3243,8 @@
      "name": "New Jersey Devils",
      "page": "lag/new-jersey-devils/"
     }
-   ]
+   ],
+   "page": "match/columbus-blue-jackets-new-jersey-devils-25-nov/"
   },
   {
    "id": "nhl-2026020389",
@@ -3240,7 +3313,8 @@
      "name": "Ottawa Senators",
      "page": "lag/ottawa-senators/"
     }
-   ]
+   ],
+   "page": "match/florida-panthers-ottawa-senators-25-nov/"
   },
   {
    "id": "nhl-2026020390",
@@ -3303,7 +3377,8 @@
      "name": "St. Louis Blues",
      "page": "lag/st-louis-blues/"
     }
-   ]
+   ],
+   "page": "match/new-york-islanders-st-louis-blues-25-nov/"
   },
   {
    "id": "nhl-2026020391",
@@ -3354,7 +3429,8 @@
      "name": "Calgary Flames",
      "page": "lag/calgary-flames/"
     }
-   ]
+   ],
+   "page": "match/pittsburgh-penguins-calgary-flames-25-nov/"
   },
   {
    "id": "nhl-2026020388",
@@ -3399,7 +3475,8 @@
      "name": "Carolina Hurricanes",
      "page": "lag/carolina-hurricanes/"
     }
-   ]
+   ],
+   "page": "match/tampa-bay-lightning-carolina-hurricanes-25-nov/"
   },
   {
    "id": "nhl-2026020392",
@@ -3438,7 +3515,8 @@
      "name": "Philadelphia Flyers",
      "page": "lag/philadelphia-flyers/"
     }
-   ]
+   ],
+   "page": "match/washington-capitals-philadelphia-flyers-25-nov/"
   },
   {
    "id": "nhl-2026020394",
@@ -3537,7 +3615,8 @@
      "name": "Vancouver Canucks",
      "page": "lag/vancouver-canucks/"
     }
-   ]
+   ],
+   "page": "match/detroit-red-wings-vancouver-canucks-25-nov/"
   },
   {
    "id": "nhl-2026020395",
@@ -3600,7 +3679,8 @@
      "name": "Nashville Predators",
      "page": "lag/nashville-predators/"
     }
-   ]
+   ],
+   "page": "match/dallas-stars-nashville-predators-25-nov/"
   },
   {
    "id": "nhl-2026020396",
@@ -3657,7 +3737,8 @@
      "name": "Utah Mammoth",
      "page": "lag/utah-mammoth/"
     }
-   ]
+   ],
+   "page": "match/minnesota-wild-utah-mammoth-25-nov/"
   },
   {
    "id": "nhl-2026020397",
@@ -3702,7 +3783,8 @@
      "name": "Montréal Canadiens",
      "page": "lag/montreal-canadiens/"
     }
-   ]
+   ],
+   "page": "match/colorado-avalanche-montreal-canadiens-25-nov/"
   },
   {
    "id": "nhl-2026020399",
@@ -3741,7 +3823,8 @@
      "name": "Chicago Blackhawks",
      "page": "lag/chicago-blackhawks/"
     }
-   ]
+   ],
+   "page": "match/seattle-kraken-chicago-blackhawks-25-nov/"
   },
   {
    "id": "nhl-2026020398",
@@ -3786,7 +3869,8 @@
      "name": "San Jose Sharks",
      "page": "lag/san-jose-sharks/"
     }
-   ]
+   ],
+   "page": "match/anaheim-ducks-san-jose-sharks-25-nov/"
   }
  ],
  "results": [
@@ -3801,44 +3885,63 @@
     {
      "name": "Albert Johansson",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)"
+     "url": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)",
+     "page": "spelare/albert-johansson/"
     },
     {
      "name": "Andreas Englund",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Andreas_Englund"
+     "url": "https://sv.wikipedia.org/wiki/Andreas_Englund",
+     "page": "spelare/andreas-englund/"
     },
     {
      "name": "Anton Johansson",
      "team": "Red Wings",
-     "url": null
+     "url": null,
+     "page": "spelare/anton-johansson/"
     },
     {
      "name": "Lucas Raymond",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Lucas_Raymond"
+     "url": "https://sv.wikipedia.org/wiki/Lucas_Raymond",
+     "page": "spelare/lucas-raymond/"
     },
     {
      "name": "Viktor Arvidsson",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson"
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson",
+     "page": "spelare/viktor-arvidsson/"
     },
     {
      "name": "William Wallinder",
      "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/William_Wallinder"
+     "url": "https://sv.wikipedia.org/wiki/William_Wallinder",
+     "page": "spelare/william-wallinder/"
     },
     {
      "name": "Elias Lindholm",
      "team": "Bruins",
-     "url": "https://sv.wikipedia.org/wiki/Elias_Lindholm"
+     "url": "https://sv.wikipedia.org/wiki/Elias_Lindholm",
+     "page": "spelare/elias-lindholm/"
     },
     {
      "name": "Hampus Lindholm",
      "team": "Bruins",
-     "url": "https://sv.wikipedia.org/wiki/Hampus_Lindholm"
+     "url": "https://sv.wikipedia.org/wiki/Hampus_Lindholm",
+     "page": "spelare/hampus-lindholm/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "Detroit Red Wings",
+     "page": "lag/detroit-red-wings/"
+    },
+    {
+     "name": "Boston Bruins",
+     "page": "lag/boston-bruins/"
+    }
+   ],
+   "page": "match/detroit-red-wings-boston-bruins-18-nov/"
   },
   {
    "id": "nhl-2026020345",
@@ -3851,24 +3954,39 @@
     {
      "name": "Jesper Boqvist",
      "team": "Devils",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist"
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist",
+     "page": "spelare/jesper-boqvist/"
     },
     {
      "name": "Jesper Bratt",
      "team": "Devils",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt"
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt",
+     "page": "spelare/jesper-bratt/"
     },
     {
      "name": "Adam Engstrom",
      "team": "Canadiens",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m"
+     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
+     "page": "spelare/adam-engstrom/"
     },
     {
      "name": "Oliver Kapanen",
      "team": "Canadiens",
-     "url": null
+     "url": null,
+     "page": "spelare/oliver-kapanen/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "New Jersey Devils",
+     "page": "lag/new-jersey-devils/"
+    },
+    {
+     "name": "Montréal Canadiens",
+     "page": "lag/montreal-canadiens/"
+    }
+   ],
+   "page": "match/new-jersey-devils-montreal-canadiens-18-nov/"
   },
   {
    "id": "nhl-2026020346",
@@ -3881,14 +3999,27 @@
     {
      "name": "Kevin Stenlund",
      "team": "Mammoth",
-     "url": "https://sv.wikipedia.org/wiki/Kevin_Stenlund"
+     "url": "https://sv.wikipedia.org/wiki/Kevin_Stenlund",
+     "page": "spelare/kevin-stenlund/"
     },
     {
      "name": "Gabriel Landeskog",
      "team": "Avalanche",
-     "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog"
+     "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog",
+     "page": "spelare/gabriel-landeskog/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "Utah Mammoth",
+     "page": "lag/utah-mammoth/"
+    },
+    {
+     "name": "Colorado Avalanche",
+     "page": "lag/colorado-avalanche/"
+    }
+   ],
+   "page": "match/utah-mammoth-colorado-avalanche-18-nov/"
   },
   {
    "id": "555088",
@@ -3901,9 +4032,21 @@
     {
      "name": "Niclas Eliasson",
      "team": "Internacional",
-     "url": "https://sv.wikipedia.org/wiki/Niclas_Eliasson"
+     "url": "https://sv.wikipedia.org/wiki/Niclas_Eliasson",
+     "page": "spelare/niclas-eliasson/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "Vasco da Gama",
+     "page": "lag/vasco-da-gama/"
+    },
+    {
+     "name": "Internacional",
+     "page": "lag/internacional/"
+    }
+   ],
+   "page": "match/vasco-da-gama-internacional-19-nov/"
   },
   {
    "id": "nhl-2026020352",
@@ -3916,14 +4059,27 @@
     {
      "name": "Adam Engstrom",
      "team": "Canadiens",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m"
+     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
+     "page": "spelare/adam-engstrom/"
     },
     {
      "name": "Oliver Kapanen",
      "team": "Canadiens",
-     "url": null
+     "url": null,
+     "page": "spelare/oliver-kapanen/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "Carolina Hurricanes",
+     "page": "lag/carolina-hurricanes/"
+    },
+    {
+     "name": "Montréal Canadiens",
+     "page": "lag/montreal-canadiens/"
+    }
+   ],
+   "page": "match/carolina-hurricanes-montreal-canadiens-19-nov/"
   },
   {
    "id": "nhl-2026020348",
@@ -3936,29 +4092,45 @@
     {
      "name": "Andre Burakovsky",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky"
+     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky",
+     "page": "spelare/andre-burakovsky/"
     },
     {
      "name": "Fabian Zetterlund",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund"
+     "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund",
+     "page": "spelare/fabian-zetterlund/"
     },
     {
      "name": "Linus Ullmark",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark"
+     "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark",
+     "page": "spelare/linus-ullmark/"
     },
     {
      "name": "Samuel Ersson",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson"
+     "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson",
+     "page": "spelare/samuel-ersson/"
     },
     {
      "name": "William Eklund",
      "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/William_Eklund"
+     "url": "https://sv.wikipedia.org/wiki/William_Eklund",
+     "page": "spelare/william-eklund/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "Ottawa Senators",
+     "page": "lag/ottawa-senators/"
+    },
+    {
+     "name": "Philadelphia Flyers",
+     "page": "lag/philadelphia-flyers/"
+    }
+   ],
+   "page": "match/ottawa-senators-philadelphia-flyers-19-nov/"
   },
   {
    "id": "nhl-2026020350",
@@ -3971,34 +4143,51 @@
     {
      "name": "Elmer Soderblom",
      "team": "Penguins",
-     "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom"
+     "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom",
+     "page": "spelare/elmer-soderblom/"
     },
     {
      "name": "Erik Karlsson",
      "team": "Penguins",
-     "url": null
+     "url": null,
+     "page": "spelare/erik-karlsson/"
     },
     {
      "name": "Rickard Rakell",
      "team": "Penguins",
-     "url": "https://sv.wikipedia.org/wiki/Rickard_Rakell"
+     "url": "https://sv.wikipedia.org/wiki/Rickard_Rakell",
+     "page": "spelare/rickard-rakell/"
     },
     {
      "name": "Calle Rosen",
      "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Calle_Ros%C3%A9n"
+     "url": "https://sv.wikipedia.org/wiki/Calle_Ros%C3%A9n",
+     "page": "spelare/calle-rosen/"
     },
     {
      "name": "Jonatan Berggren",
      "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren"
+     "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
+     "page": "spelare/jonatan-berggren/"
     },
     {
      "name": "Philip Broberg",
      "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Philip_Broberg"
+     "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
+     "page": "spelare/philip-broberg/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "Pittsburgh Penguins",
+     "page": "lag/pittsburgh-penguins/"
+    },
+    {
+     "name": "St. Louis Blues",
+     "page": "lag/st-louis-blues/"
+    }
+   ],
+   "page": "match/pittsburgh-penguins-st-louis-blues-19-nov/"
   },
   {
    "id": "nhl-2026020347",
@@ -4011,34 +4200,51 @@
     {
      "name": "Oliver Ekman-Larsson",
      "team": "Maple Leafs",
-     "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson"
+     "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson",
+     "page": "spelare/oliver-ekman-larsson/"
     },
     {
      "name": "William Nylander",
      "team": "Maple Leafs",
-     "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)"
+     "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)",
+     "page": "spelare/william-nylander/"
     },
     {
      "name": "Adrian Kempe",
      "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe"
+     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe",
+     "page": "spelare/adrian-kempe/"
     },
     {
      "name": "Andre Lee",
      "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Andre_Lee"
+     "url": "https://sv.wikipedia.org/wiki/Andre_Lee",
+     "page": "spelare/andre-lee/"
     },
     {
      "name": "Anton Forsberg",
      "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg"
+     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg",
+     "page": "spelare/anton-forsberg/"
     },
     {
      "name": "Erik Gustafsson",
      "team": "Kings",
-     "url": null
+     "url": null,
+     "page": "spelare/erik-gustafsson/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "Toronto Maple Leafs",
+     "page": "lag/toronto-maple-leafs/"
+    },
+    {
+     "name": "Los Angeles Kings",
+     "page": "lag/los-angeles-kings/"
+    }
+   ],
+   "page": "match/toronto-maple-leafs-los-angeles-kings-19-nov/"
   },
   {
    "id": "nhl-2026020351",
@@ -4051,24 +4257,39 @@
     {
      "name": "Rasmus Sandin",
      "team": "Capitals",
-     "url": "https://sv.wikipedia.org/wiki/Rasmus_Sandin"
+     "url": "https://sv.wikipedia.org/wiki/Rasmus_Sandin",
+     "page": "spelare/rasmus-sandin/"
     },
     {
      "name": "Timothy Liljegren",
      "team": "Capitals",
-     "url": "https://sv.wikipedia.org/wiki/Timothy_Liljegren"
+     "url": "https://sv.wikipedia.org/wiki/Timothy_Liljegren",
+     "page": "spelare/timothy-liljegren/"
     },
     {
      "name": "Noah Ostlund",
      "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund"
+     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
+     "page": "spelare/noah-ostlund/"
     },
     {
      "name": "Rasmus Dahlin",
      "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin"
+     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
+     "page": "spelare/rasmus-dahlin/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "Washington Capitals",
+     "page": "lag/washington-capitals/"
+    },
+    {
+     "name": "Buffalo Sabres",
+     "page": "lag/buffalo-sabres/"
+    }
+   ],
+   "page": "match/washington-capitals-buffalo-sabres-19-nov/"
   },
   {
    "id": "nhl-2026020354",
@@ -4081,29 +4302,45 @@
     {
      "name": "Isak Rosen",
      "team": "Jets",
-     "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n"
+     "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
+     "page": "spelare/isak-rosen/"
     },
     {
      "name": "Viggo Björck",
      "team": "Jets",
-     "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck"
+     "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck",
+     "page": "spelare/viggo-bjorck/"
     },
     {
      "name": "Emil Heineman",
      "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman"
+     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman",
+     "page": "spelare/emil-heineman/"
     },
     {
      "name": "Simon Holmstrom",
      "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m"
+     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m",
+     "page": "spelare/simon-holmstrom/"
     },
     {
      "name": "Victor Eklund",
      "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund"
+     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund",
+     "page": "spelare/victor-eklund/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "Winnipeg Jets",
+     "page": "lag/winnipeg-jets/"
+    },
+    {
+     "name": "New York Islanders",
+     "page": "lag/new-york-islanders/"
+    }
+   ],
+   "page": "match/winnipeg-jets-new-york-islanders-19-nov/"
   },
   {
    "id": "nhl-2026020349",
@@ -4116,34 +4353,51 @@
     {
      "name": "Dennis Hildeby",
      "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Dennis_Hildeby"
+     "url": "https://sv.wikipedia.org/wiki/Dennis_Hildeby",
+     "page": "spelare/dennis-hildeby/"
     },
     {
      "name": "Pontus Holmberg",
      "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Pontus_Holmberg"
+     "url": "https://sv.wikipedia.org/wiki/Pontus_Holmberg",
+     "page": "spelare/pontus-holmberg/"
     },
     {
      "name": "Victor Hedman",
      "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Hedman"
+     "url": "https://sv.wikipedia.org/wiki/Victor_Hedman",
+     "page": "spelare/victor-hedman/"
     },
     {
      "name": "Filip Hallander",
      "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander"
+     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
+     "page": "spelare/filip-hallander/"
     },
     {
      "name": "Mattias Ekholm",
      "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm"
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm",
+     "page": "spelare/mattias-ekholm/"
     },
     {
      "name": "Mattias Janmark",
      "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark"
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark",
+     "page": "spelare/mattias-janmark/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "Tampa Bay Lightning",
+     "page": "lag/tampa-bay-lightning/"
+    },
+    {
+     "name": "Edmonton Oilers",
+     "page": "lag/edmonton-oilers/"
+    }
+   ],
+   "page": "match/tampa-bay-lightning-edmonton-oilers-19-nov/"
   },
   {
    "id": "nhl-2026020355",
@@ -4156,29 +4410,45 @@
     {
      "name": "Mikael Backlund",
      "team": "Flames",
-     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund"
+     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund",
+     "page": "spelare/mikael-backlund/"
     },
     {
      "name": "Filip Gustavsson",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson"
+     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson",
+     "page": "spelare/filip-gustavsson/"
     },
     {
      "name": "Jesper Wallstedt",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt"
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
+     "page": "spelare/jesper-wallstedt/"
     },
     {
      "name": "Joel Eriksson Ek",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek"
+     "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek",
+     "page": "spelare/joel-eriksson-ek/"
     },
     {
      "name": "Jonas Brodin",
      "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin"
+     "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin",
+     "page": "spelare/jonas-brodin/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "Calgary Flames",
+     "page": "lag/calgary-flames/"
+    },
+    {
+     "name": "Minnesota Wild",
+     "page": "lag/minnesota-wild/"
+    }
+   ],
+   "page": "match/calgary-flames-minnesota-wild-19-nov/"
   },
   {
    "id": "nhl-2026020353",
@@ -4191,14 +4461,27 @@
     {
      "name": "Anton Frondell",
      "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell"
+     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell",
+     "page": "spelare/anton-frondell/"
     },
     {
      "name": "Isac Lundeström",
      "team": "Blue Jackets",
-     "url": "https://sv.wikipedia.org/wiki/Isac_Lundestr%C3%B6m"
+     "url": "https://sv.wikipedia.org/wiki/Isac_Lundestr%C3%B6m",
+     "page": "spelare/isac-lundestrom/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "Chicago Blackhawks",
+     "page": "lag/chicago-blackhawks/"
+    },
+    {
+     "name": "Columbus Blue Jackets",
+     "page": "lag/columbus-blue-jackets/"
+    }
+   ],
+   "page": "match/chicago-blackhawks-columbus-blue-jackets-19-nov/"
   },
   {
    "id": "nhl-2026020356",
@@ -4211,14 +4494,27 @@
     {
      "name": "Gabriel Landeskog",
      "team": "Avalanche",
-     "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog"
+     "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog",
+     "page": "spelare/gabriel-landeskog/"
     },
     {
      "name": "Leo Carlsson",
      "team": "Ducks",
-     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson"
+     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
+     "page": "spelare/leo-carlsson/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "Colorado Avalanche",
+     "page": "lag/colorado-avalanche/"
+    },
+    {
+     "name": "Anaheim Ducks",
+     "page": "lag/anaheim-ducks/"
+    }
+   ],
+   "page": "match/colorado-avalanche-anaheim-ducks-19-nov/"
   },
   {
    "id": "nhl-2026020357",
@@ -4231,39 +4527,57 @@
     {
      "name": "Adam Larsson",
      "team": "Kraken",
-     "url": null
+     "url": null,
+     "page": "spelare/adam-larsson/"
     },
     {
      "name": "Elias Pettersson #25",
      "team": "Canucks",
-     "url": null
+     "url": null,
+     "page": "spelare/elias-pettersson-25/"
     },
     {
      "name": "Elias Pettersson #40",
      "team": "Canucks",
-     "url": null
+     "url": null,
+     "page": "spelare/elias-pettersson-40/"
     },
     {
      "name": "Jonathan Lekkerimäki",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki"
+     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
+     "page": "spelare/jonathan-lekkerimaki/"
     },
     {
      "name": "Liam Ohgren",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren"
+     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
+     "page": "spelare/liam-ohgren/"
     },
     {
      "name": "Linus Karlsson",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson"
+     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
+     "page": "spelare/linus-karlsson/"
     },
     {
      "name": "Tom Willander",
      "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Tom_Willander"
+     "url": "https://sv.wikipedia.org/wiki/Tom_Willander",
+     "page": "spelare/tom-willander/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "Seattle Kraken",
+     "page": "lag/seattle-kraken/"
+    },
+    {
+     "name": "Vancouver Canucks",
+     "page": "lag/vancouver-canucks/"
+    }
+   ],
+   "page": "match/seattle-kraken-vancouver-canucks-19-nov/"
   },
   {
    "id": "nhl-2026020358",
@@ -4276,29 +4590,45 @@
     {
      "name": "Rasmus Andersson",
      "team": "Golden Knights",
-     "url": null
+     "url": null,
+     "page": "spelare/rasmus-andersson/"
     },
     {
      "name": "Victor Olofsson",
      "team": "Golden Knights",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson"
+     "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson",
+     "page": "spelare/victor-olofsson/"
     },
     {
      "name": "William Karlsson",
      "team": "Golden Knights",
-     "url": "https://sv.wikipedia.org/wiki/William_Karlsson"
+     "url": "https://sv.wikipedia.org/wiki/William_Karlsson",
+     "page": "spelare/william-karlsson/"
     },
     {
      "name": "Nils Lundkvist",
      "team": "Stars",
-     "url": "https://sv.wikipedia.org/wiki/Nils_Lundkvist"
+     "url": "https://sv.wikipedia.org/wiki/Nils_Lundkvist",
+     "page": "spelare/nils-lundkvist/"
     },
     {
      "name": "Oskar Bäck",
      "team": "Stars",
-     "url": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck"
+     "url": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck",
+     "page": "spelare/oskar-back/"
     }
-   ]
+   ],
+   "teams": [
+    {
+     "name": "Vegas Golden Knights",
+     "page": "lag/vegas-golden-knights/"
+    },
+    {
+     "name": "Dallas Stars",
+     "page": "lag/dallas-stars/"
+    }
+   ],
+   "page": "match/vegas-golden-knights-dallas-stars-19-nov/"
   }
  ]
 }

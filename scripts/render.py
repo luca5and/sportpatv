@@ -6,6 +6,9 @@ Läser docs/data/swedes-on-tv.json (från build.py) och skriver:
 - docs/lag/<namn>/: en sida per lag med svenskar
 - docs/liga/<namn>/: en sida per liga – vem som visar den i Sverige och veckans matcher
 - docs/helgen/: "Svenskar på TV i helgen" – fredag till söndag, uppdateras varje natt
+- docs/match/<lag-lag-dag-mån>/: en sida per match med svenskar – kanal, tid, svenskarna
+  och efter matchen resultatet. Ligger kvar MATCH_KEEP_DAYS dagar, blir sedan en
+  omdirigering till hemmalagets sida (noindex) och tas bort helt efter MATCH_STUB_DAYS.
 - docs/sitemap.xml och docs/robots.txt
 Sidorna finns kvar även när spelaren inte har någon match, så att adresser som
 Google redan känner till inte försvinner. lastmod i sitemap ändras bara när
@@ -16,6 +19,7 @@ import hashlib
 import html
 import json
 import re
+import shutil
 import unicodedata
 import urllib.parse
 from pathlib import Path
@@ -33,6 +37,8 @@ RIGHTS = json.loads((ROOT / "data" / "broadcasters.json").read_text()).get("comp
 
 TZ = ZoneInfo("Europe/Stockholm")
 NIGHT_END = 6       # matcher före 06:00 hör till kvällen innan
+MATCH_KEEP_DAYS = 30   # matchsidan finns kvar så här länge efter matchen
+MATCH_STUB_DAYS = 180  # därefter en omdirigering till laget, sedan bort
 WEEKDAYS = ["mån", "tis", "ons", "tors", "fre", "lör", "sön"]
 MONTHS = ["jan", "feb", "mars", "apr", "maj", "juni", "juli", "aug", "sep", "okt", "nov", "dec"]
 TV_TEXT = {"none": "Sänds inte i Sverige", "unknown": "Ej bekräftat"}
@@ -200,6 +206,101 @@ def add_competition(entry, competition):
 
 # --- HTML -----------------------------------------------------------------
 
+def match_slug(e):
+    d = event_day(e["start"])
+    return f'{slugify(e["title"])}-{d.day}-{slugify(MONTHS[d.month - 1])}'
+
+
+def assign_matches(events, results, registry, today):
+    """Ger varje match med svenskar en stabil adress (match/<slug>/) och sparar det
+    sidan behöver, så att den kan visas även när matchen lämnat datan."""
+    matches = registry.setdefault("matches", {})
+    by_id = {m["id"]: slug for slug, m in matches.items()}
+    team_by_key = {t["key"]: slug for slug, t in registry.get("teams", {}).items()}
+    player_by_key = {p["key"]: slug for slug, p in registry.get("players", {}).items()}
+    for r in results:  # resultat har inte gått genom assign_pages: slå upp befintliga sidor
+        if not r.get("teams"):
+            r["teams"] = [{"name": n, "page": f"lag/{team_by_key[f'{r["sport"]}|{n}']}/"}
+                          for n in teams_of(r) if f'{r["sport"]}|{n}' in team_by_key]
+        for sw in r["swedes"]:
+            key = player_by_key.get(sw.get("url") or f'{sw["name"]}|{sw["team"]}')
+            if key and not sw.get("page"):
+                sw["page"] = f"spelare/{key}/"
+    for e in events + results:
+        slug = by_id.get(e["id"])
+        if slug is None:
+            slug = base = match_slug(e)
+            n = 2
+            while slug in matches:
+                slug, n = f"{base}-{n}", n + 1
+            matches[slug] = {"id": e["id"]}
+            by_id[e["id"]] = slug
+        m = matches[slug]
+        m.update({"title": e["title"], "start": e["start"], "sport": e["sport"],
+                  "competition": e["competition"], "last_seen": today,
+                  "swedes": [{"name": s["name"], "team": s["team"], "page": s.get("page")} for s in e["swedes"]]})
+        if e.get("teams"):
+            m["teams"] = e["teams"]
+        if e.get("tv"):
+            m["tv"] = e["tv"]
+        if e.get("score"):
+            m["score"] = e["score"]
+        e["page"] = f"match/{slug}/"
+
+
+def expire_matches(registry, today):
+    """Gamla matchsidor: efter MATCH_KEEP_DAYS en omdirigering, efter MATCH_STUB_DAYS bort."""
+    matches = registry.get("matches", {})
+    today_d = dt.date.fromisoformat(today)
+    for slug, m in list(matches.items()):
+        age = (today_d - event_day(m["start"])).days
+        if age > MATCH_STUB_DAYS:
+            shutil.rmtree(DOCS / "match" / slug, ignore_errors=True)
+            del matches[slug]
+        elif age > MATCH_KEEP_DAYS:
+            m["expired"] = True
+
+
+def render_match(slug, m, updated):
+    prefix = "../../"
+    target = (m.get("teams") or [{}])[0].get("page") or ""
+    if m.get("expired"):
+        write(DOCS / "match" / slug / "index.html",
+              f'<!doctype html><html lang="sv"><head><meta charset="utf-8"><meta name="robots" content="noindex">'
+              f'<meta http-equiv="refresh" content="0; url={prefix}{esc(target)}">'
+              f'<link rel="canonical" href="{esc(SITE["base_url"])}/{esc(target)}"><title>{esc(m["title"])}</title></head>'
+              f'<body><a href="{prefix}{esc(target)}">{esc(m["title"])}</a></body></html>\n')
+        return
+    when = fmt_when(m["start"])
+    day = fmt_day(event_day(m["start"]))
+    names = [s["name"] for s in m["swedes"]]
+    swedes_html = ", ".join(f'<a href="{prefix}{esc(s["page"])}">{esc(s["name"])}</a>' if s.get("page") else esc(s["name"])
+                            for s in m["swedes"])
+    tv = m.get("tv") or {"status": "unknown"}
+    if m.get("score"):
+        lede = (f'Slutresultat: <b>{esc(m["title"])} {esc(m["score"])}</b>, {esc(day)} i {esc(m["competition"])}. '
+                f'Svenskar i matchen: {swedes_html}.')
+        title = f'{m["title"]} {m["score"]} – resultat och svenskarna, {day} | {SITE["name"]}'
+        description = f'{m["title"]} slutade {m["score"]} ({day}, {m["competition"]}). Svenskar: {", ".join(names)}.'
+        h1 = f'{m["title"]} {m["score"]}'
+    else:
+        lede = (f'{esc(m["title"])} spelas <b>{esc(when)}</b> i {esc(m["competition"])}. '
+                f'TV i Sverige: <b>{esc(tv_text(tv))}</b>. Svenskar i matchen: {swedes_html}.')
+        title = f'{m["title"]} på TV – kanal och tid, {day} | {SITE["name"]}'
+        description = (f'{m["title"]} {when}: {tv_text(tv)}. Svenskar i matchen: {", ".join(names)}. '
+                       f'Kanal och tid i svensk tid.')
+        h1 = f'{m["title"]} på TV'
+    event = {"title": m["title"], "start": m["start"], "sport": m["sport"], "competition": m["competition"],
+             "swedes": m["swedes"], "tv": tv}
+    links = [f'<a href="{prefix}{esc(t["page"])}">{esc(t["name"])} på TV</a>' for t in m.get("teams", [])]
+    links += league_links([m["competition"]], prefix)
+    write(DOCS / "match" / slug / "index.html", page_html(
+        title=title, description=description, path=f"match/{slug}/", h1=h1, lede=lede,
+        events=[] if m.get("score") else [event], links=" · ".join(links), updated=updated,
+        list_html="" if m.get("score") else None,
+        watch=where_to_watch(m["title"], [m["competition"]])))
+
+
 def event_html(e, prefix="", show_day=False):
     tv = e["tv"]
     cls = tv["status"] if tv["status"] in ("confirmed", "likely", "none") else "unknown"
@@ -212,10 +313,11 @@ def event_html(e, prefix="", show_day=False):
     night = '<small class="night">natt</small>' if t.hour < NIGHT_END else ""
     # På spelar- och lagsidor syns flera dagar i samma lista, så dagen visas ovanför tiden.
     day = f'<small class="day">{esc(fmt_day(event_day(e["start"])))}</small>' if show_day else ""
+    title = f'<a href="{esc(prefix + e["page"])}">{esc(e["title"])}</a>' if e.get("page") else esc(e["title"])
     return (
         f'<li class="event"><div class="time">{day}<time datetime="{esc(e["start"])}">{t:%H:%M}</time>{night}</div>'
         f'<div class="body"><div class="meta">{esc(e["sport"])} · {esc(e["competition"])}</div>'
-        f'<div class="title">{esc(e["title"])}</div><div class="swedes">{swedes}</div>'
+        f'<div class="title">{title}</div><div class="swedes">{swedes}</div>'
         f'<div class="tv"><span class="badge {cls}">{esc(label)}</span>{esc(note) if note else ""}</div></div></li>'
     )
 
@@ -530,8 +632,11 @@ def render_sitemap(registry, today):
     base = SITE["base_url"]
     paths = ["", "helgen/"] + [f"liga/{league_slug(r['name'])}/" for r in leagues()] \
         + [f"spelare/{s}/" for s in sorted(registry["players"])] \
-        + [f"lag/{s}/" for s in sorted(registry["teams"])]
+        + [f"lag/{s}/" for s in sorted(registry["teams"])] \
+        + [f"match/{s}/" for s, m in sorted(registry.get("matches", {}).items()) if not m.get("expired")]
     known = registry.setdefault("lastmod", {})
+    for gone in [p for p in known if p.startswith("match/") and p not in paths]:
+        del known[gone]
     changed = []
     for path in paths:
         h = PAGE_HASHES.get(path)
@@ -563,6 +668,8 @@ def main(now=None):
 
     assign_pages(events, registry, today)
     record_results(data.get("results", []), registry)
+    assign_matches(events, data.get("results", []), registry, today)
+    expire_matches(registry, today)
     stamp = now.astimezone(TZ)
     updated = f"Uppdaterad {fmt_day(stamp.date())} {stamp:%H:%M}."
 
@@ -572,6 +679,8 @@ def main(now=None):
         render_team(slug, entry, events, updated)
     for r in leagues():
         render_league(r, events, registry, updated)
+    for slug, m in registry.get("matches", {}).items():
+        render_match(slug, m, updated)
     render_weekend(events, now.astimezone(TZ).date(), updated)
     render_index(events, registry, updated)
     count = render_sitemap(registry, today)
@@ -580,7 +689,7 @@ def main(now=None):
     REGISTRY_FILE.parent.mkdir(parents=True, exist_ok=True)
     REGISTRY_FILE.write_text(json.dumps(registry, ensure_ascii=False, indent=1, sort_keys=True) + "\n")
     print(f'{len(registry["players"])} spelarsidor, {len(registry["teams"])} lagsidor, '
-          f'{len(leagues())} ligasidor, {count} adresser i sitemap')
+          f'{len(leagues())} ligasidor, {len(registry.get("matches", {}))} matchsidor, {count} adresser i sitemap')
 
 
 if __name__ == "__main__":

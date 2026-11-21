@@ -77,7 +77,7 @@
       timeCell,
       el("div", { class: "body" }, [
         el("div", { class: "meta" }, [`${e.sport} · ${e.competition}`]),
-        el("div", { class: "title" }, [e.title]),
+        el("div", { class: "title" }, [e.page ? el("a", { href: e.page, title: e.title + " på TV" }, [e.title]) : e.title]),
         el("div", { class: "swedes" }, e.swedes.map((s) => {
           const name = s.page
             ? el("a", { href: s.page, title: s.name + " på TV" }, [s.name])
