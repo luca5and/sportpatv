@@ -28,9 +28,6 @@ jobs:
       - run: python scripts/fetch_matches.py
         env:
           FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
-      - name: Kontroll av TheSportsDB (tillfällig)
-        run: python scripts/probe_thesportsdb.py
-        continue-on-error: true
       - run: python scripts/fetch_squads.py
         env:
           FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
