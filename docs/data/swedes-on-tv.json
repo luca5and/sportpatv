@@ -1,112 +1,6 @@
 {
- "generated": "2026-11-21T12:36+00:00",
+ "generated": "2026-11-21T17:00+00:00",
  "events": [
-  {
-   "id": "560643",
-   "sport": "Fotboll",
-   "competition": "Premier League",
-   "start": "2026-11-21T12:30:00Z",
-   "title": "Man City – Fulham",
-   "swedes": [
-    {
-     "name": "Hugo Larsson",
-     "team": "Fulham",
-     "url": "https://sv.wikipedia.org/wiki/Hugo_Larsson_(fotbollsspelare)",
-     "page": "spelare/hugo-larsson/"
-    },
-    {
-     "name": "Jonah Kusi-Asare",
-     "team": "Fulham",
-     "url": "https://sv.wikipedia.org/wiki/Jonah_Kusi-Asare",
-     "page": "spelare/jonah-kusi-asare/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Prime Video"
-   },
-   "teams": [
-    {
-     "name": "Man City",
-     "page": "lag/man-city/"
-    },
-    {
-     "name": "Fulham",
-     "page": "lag/fulham/"
-    }
-   ],
-   "page": "match/man-city-fulham-21-nov/"
-  },
-  {
-   "id": "561944",
-   "sport": "Fotboll",
-   "competition": "Championship",
-   "start": "2026-11-21T12:30:00Z",
-   "title": "Southampton – Derby County",
-   "swedes": [
-    {
-     "name": "Jacob Widell Zetterström",
-     "team": "Derby County",
-     "url": "https://sv.wikipedia.org/wiki/Jacob_Widell_Zetterstr%C3%B6m",
-     "page": "spelare/jacob-widell-zetterstrom/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Southampton",
-     "page": "lag/southampton/"
-    },
-    {
-     "name": "Derby County",
-     "page": "lag/derby-county/"
-    }
-   ],
-   "page": "match/southampton-derby-county-21-nov/"
-  },
-  {
-   "id": "558525",
-   "sport": "Fotboll",
-   "competition": "Serie A",
-   "start": "2026-11-21T14:00:00Z",
-   "title": "Como 1907 – Cagliari",
-   "swedes": [
-    {
-     "name": "Adrian Lahdo",
-     "team": "Como 1907",
-     "url": "https://sv.wikipedia.org/wiki/Adrian_Lahdo",
-     "page": "spelare/adrian-lahdo/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "TV4 Play",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Como 1907",
-     "page": "lag/como-1907/"
-    },
-    {
-     "name": "Cagliari",
-     "page": "lag/cagliari/"
-    }
-   ],
-   "page": "match/como-1907-cagliari-21-nov/"
-  },
   {
    "id": "565865",
    "sport": "Fotboll",
@@ -206,12 +100,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    },
    "teams": [
     {
@@ -240,12 +133,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    },
    "teams": [
     {
@@ -385,12 +277,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    },
    "teams": [
     {
@@ -524,12 +415,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    },
    "teams": [
     {
@@ -1715,12 +1605,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    },
    "teams": [
     {
@@ -1821,12 +1710,11 @@
     }
    ],
    "tv": {
-    "status": "unknown",
-    "service": null,
+    "status": "likely",
+    "service": "Viaplay",
     "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Prime Video"
+    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
+    "note": null
    },
    "teams": [
     {

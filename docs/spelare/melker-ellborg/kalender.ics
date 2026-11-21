@@ -29,10 +29,10 @@ UID:560644@patv.se
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T160000
 DTEND;TZID=Europe/Stockholm:20261121T180000
-SUMMARY:Aston Villa – Sunderland (Viaplay eller Prime Video?)
-DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
- räftat). Svenskar: Victor Nilsson Lindelöf\, Melker Ellborg. https://pat
- v.se/match/aston-villa-sunderland-21-nov/
+SUMMARY:Aston Villa – Sunderland (Viaplay)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
+  Victor Nilsson Lindelöf\, Melker Ellborg. https://patv.se/match/aston-vi
+ lla-sunderland-21-nov/
 URL:https://patv.se/match/aston-villa-sunderland-21-nov/
 END:VEVENT
 END:VCALENDAR

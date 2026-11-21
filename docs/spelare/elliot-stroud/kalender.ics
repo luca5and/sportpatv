@@ -29,10 +29,10 @@ UID:560646@patv.se
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T150000
 DTEND;TZID=Europe/Stockholm:20261122T170000
-SUMMARY:Hull City – Brighton Hove (Viaplay eller Prime Video?)
-DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
- räftat). Svenskar: Elliot Stroud\, Yasin Ayari. https://patv.se/match/hul
- l-city-brighton-hove-22-nov/
+SUMMARY:Hull City – Brighton Hove (Viaplay)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
+  Elliot Stroud\, Yasin Ayari. https://patv.se/match/hull-city-brighton-hov
+ e-22-nov/
 URL:https://patv.se/match/hull-city-brighton-hove-22-nov/
 END:VEVENT
 END:VCALENDAR

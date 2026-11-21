@@ -253,6 +253,16 @@
       "competition": "PPL",
       "matchday": 11,
       "checked": "2026-11-05"
+    },
+    "560643": {
+      "title": "Manchester City – Fulham, 21 nov 13.30",
+      "service": "Prime Video",
+      "channel": null,
+      "source": "https://hurbra.se/manchester-city-fulham-pa-tv-21-november-2026/",
+      "source_2": "https://www.tvmatchen.nu/sport/fotboll/sport-pa-tv-vecka-47-2026/",
+      "competition": "PL",
+      "matchday": 11,
+      "checked": "2026-11-21"
     }
   }
 }
