@@ -1,110 +1,6 @@
 {
- "fetched": "2026-11-21",
+ "fetched": "2026-11-22",
  "matches": [
-  {
-   "id": "555080",
-   "start": "2026-11-19T00:30:00Z",
-   "status": "FINISHED",
-   "matchday": 35,
-   "competition": {
-    "code": "BSA",
-    "name": "Campeonato Brasileiro Série A"
-   },
-   "home": {
-    "id": 1779,
-    "name": "SC Corinthians Paulista",
-    "shortName": "Corinthians",
-    "tla": "COR"
-   },
-   "away": {
-    "id": 1770,
-    "name": "Botafogo FR",
-    "shortName": "Botafogo",
-    "tla": "BOT"
-   },
-   "score": {
-    "home": 4,
-    "away": 0
-   }
-  },
-  {
-   "id": "555084",
-   "start": "2026-11-19T00:30:00Z",
-   "status": "FINISHED",
-   "matchday": 35,
-   "competition": {
-    "code": "BSA",
-    "name": "Campeonato Brasileiro Série A"
-   },
-   "home": {
-    "id": 1767,
-    "name": "Grêmio FBPA",
-    "shortName": "Grêmio",
-    "tla": "FBP"
-   },
-   "away": {
-    "id": 1777,
-    "name": "EC Bahia",
-    "shortName": "Bahia",
-    "tla": "BAH"
-   },
-   "score": {
-    "home": 0,
-    "away": 0
-   }
-  },
-  {
-   "id": "555089",
-   "start": "2026-11-19T22:30:00Z",
-   "status": "FINISHED",
-   "matchday": 35,
-   "competition": {
-    "code": "BSA",
-    "name": "Campeonato Brasileiro Série A"
-   },
-   "home": {
-    "id": 1782,
-    "name": "EC Vitória",
-    "shortName": "Vitória",
-    "tla": "VIT"
-   },
-   "away": {
-    "id": 4286,
-    "name": "RB Bragantino",
-    "shortName": "Bragantino",
-    "tla": "RBB"
-   },
-   "score": {
-    "home": 2,
-    "away": 1
-   }
-  },
-  {
-   "id": "555088",
-   "start": "2026-11-19T22:30:00Z",
-   "status": "FINISHED",
-   "matchday": 35,
-   "competition": {
-    "code": "BSA",
-    "name": "Campeonato Brasileiro Série A"
-   },
-   "home": {
-    "id": 1780,
-    "name": "CR Vasco da Gama",
-    "shortName": "Vasco da Gama",
-    "tla": "VAS"
-   },
-   "away": {
-    "id": 6684,
-    "name": "SC Internacional",
-    "shortName": "Internacional",
-    "tla": "SCI"
-   },
-   "score": {
-    "home": 2,
-    "away": 1
-   }
-  },
   {
    "id": "555087",
    "start": "2026-11-20T00:30:00Z",
@@ -210,32 +106,9 @@
    }
   },
   {
-   "id": "561950",
-   "start": "2026-11-21T12:30:00Z",
-   "status": "SCHEDULED",
-   "matchday": 16,
-   "competition": {
-    "code": "ELC",
-    "name": "Championship"
-   },
-   "home": {
-    "id": 384,
-    "name": "Millwall FC",
-    "shortName": "Millwall",
-    "tla": "MIL"
-   },
-   "away": {
-    "id": 69,
-    "name": "Queens Park Rangers FC",
-    "shortName": "QPR",
-    "tla": "QPR"
-   },
-   "score": null
-  },
-  {
    "id": "560643",
    "start": "2026-11-21T12:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 11,
    "competition": {
     "code": "PL",
@@ -253,12 +126,41 @@
     "shortName": "Fulham",
     "tla": "FUL"
    },
-   "score": null
+   "score": {
+    "home": 1,
+    "away": 1
+   }
+  },
+  {
+   "id": "561950",
+   "start": "2026-11-21T12:30:00Z",
+   "status": "FINISHED",
+   "matchday": 16,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 384,
+    "name": "Millwall FC",
+    "shortName": "Millwall",
+    "tla": "MIL"
+   },
+   "away": {
+    "id": 69,
+    "name": "Queens Park Rangers FC",
+    "shortName": "QPR",
+    "tla": "QPR"
+   },
+   "score": {
+    "home": 0,
+    "away": 1
+   }
   },
   {
    "id": "561948",
    "start": "2026-11-21T12:30:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "matchday": 16,
    "competition": {
     "code": "ELC",
@@ -276,12 +178,15 @@
     "shortName": "Cardiff",
     "tla": "CAR"
    },
-   "score": null
+   "score": {
+    "home": 2,
+    "away": 1
+   }
   },
   {
    "id": "561944",
    "start": "2026-11-21T12:30:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "matchday": 16,
    "competition": {
     "code": "ELC",
@@ -299,12 +204,15 @@
     "shortName": "Derby County",
     "tla": "DER"
    },
-   "score": null
+   "score": {
+    "home": 2,
+    "away": 0
+   }
   },
   {
    "id": "564755",
    "start": "2026-11-21T13:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 13,
    "competition": {
     "code": "PD",
@@ -322,35 +230,15 @@
     "shortName": "Deportivo",
     "tla": "DEP"
    },
-   "score": null
-  },
-  {
-   "id": "558528",
-   "start": "2026-11-21T14:00:00Z",
-   "status": "TIMED",
-   "matchday": 12,
-   "competition": {
-    "code": "SA",
-    "name": "Serie A"
-   },
-   "home": {
-    "id": 110,
-    "name": "SS Lazio",
-    "shortName": "Lazio",
-    "tla": "LAZ"
-   },
-   "away": {
-    "id": 5890,
-    "name": "US Lecce",
-    "shortName": "Lecce",
-    "tla": "USL"
-   },
-   "score": null
+   "score": {
+    "home": 3,
+    "away": 1
+   }
   },
   {
    "id": "558525",
    "start": "2026-11-21T14:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 12,
    "competition": {
     "code": "SA",
@@ -368,35 +256,41 @@
     "shortName": "Cagliari",
     "tla": "CAG"
    },
-   "score": null
+   "score": {
+    "home": 2,
+    "away": 0
+   }
   },
   {
-   "id": "565857",
-   "start": "2026-11-21T14:30:00Z",
-   "status": "TIMED",
-   "matchday": 10,
+   "id": "558528",
+   "start": "2026-11-21T14:00:00Z",
+   "status": "FINISHED",
+   "matchday": 12,
    "competition": {
-    "code": "BL1",
-    "name": "Bundesliga"
+    "code": "SA",
+    "name": "Serie A"
    },
    "home": {
-    "id": 3,
-    "name": "Bayer 04 Leverkusen",
-    "shortName": "Leverkusen",
-    "tla": "B04"
+    "id": 110,
+    "name": "SS Lazio",
+    "shortName": "Lazio",
+    "tla": "LAZ"
    },
    "away": {
-    "id": 29,
-    "name": "SC Paderborn 07",
-    "shortName": "SC Paderborn",
-    "tla": "SCP"
+    "id": 5890,
+    "name": "US Lecce",
+    "shortName": "Lecce",
+    "tla": "USL"
    },
-   "score": null
+   "score": {
+    "home": 3,
+    "away": 0
+   }
   },
   {
    "id": "565865",
    "start": "2026-11-21T14:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 10,
    "competition": {
     "code": "BL1",
@@ -414,58 +308,41 @@
     "shortName": "Hoffenheim",
     "tla": "TSG"
    },
-   "score": null
+   "score": {
+    "home": 1,
+    "away": 0
+   }
   },
   {
-   "id": "565862",
+   "id": "565857",
    "start": "2026-11-21T14:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 10,
    "competition": {
     "code": "BL1",
     "name": "Bundesliga"
    },
    "home": {
-    "id": 18,
-    "name": "Borussia Mönchengladbach",
-    "shortName": "M'gladbach",
-    "tla": "BMG"
+    "id": 3,
+    "name": "Bayer 04 Leverkusen",
+    "shortName": "Leverkusen",
+    "tla": "B04"
    },
    "away": {
-    "id": 4,
-    "name": "Borussia Dortmund",
-    "shortName": "Dortmund",
-    "tla": "BVB"
+    "id": 29,
+    "name": "SC Paderborn 07",
+    "shortName": "SC Paderborn",
+    "tla": "SCP"
    },
-   "score": null
-  },
-  {
-   "id": "565858",
-   "start": "2026-11-21T14:30:00Z",
-   "status": "TIMED",
-   "matchday": 10,
-   "competition": {
-    "code": "BL1",
-    "name": "Bundesliga"
-   },
-   "home": {
-    "id": 28,
-    "name": "1. FC Union Berlin",
-    "shortName": "Union Berlin",
-    "tla": "UNB"
-   },
-   "away": {
-    "id": 721,
-    "name": "RB Leipzig",
-    "shortName": "RB Leipzig",
-    "tla": "RBL"
-   },
-   "score": null
+   "score": {
+    "home": 4,
+    "away": 0
+   }
   },
   {
    "id": "565860",
    "start": "2026-11-21T14:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 10,
    "competition": {
     "code": "BL1",
@@ -483,104 +360,67 @@
     "shortName": "Freiburg",
     "tla": "SCF"
    },
-   "score": null
+   "score": {
+    "home": 0,
+    "away": 1
+   }
   },
   {
-   "id": "560647",
-   "start": "2026-11-21T15:00:00Z",
-   "status": "TIMED",
-   "matchday": 11,
+   "id": "565862",
+   "start": "2026-11-21T14:30:00Z",
+   "status": "FINISHED",
+   "matchday": 10,
    "competition": {
-    "code": "PL",
-    "name": "Premier League"
+    "code": "BL1",
+    "name": "Bundesliga"
    },
    "home": {
-    "id": 1044,
-    "name": "AFC Bournemouth",
-    "shortName": "Bournemouth",
-    "tla": "BOU"
+    "id": 18,
+    "name": "Borussia Mönchengladbach",
+    "shortName": "M'gladbach",
+    "tla": "BMG"
    },
    "away": {
-    "id": 351,
-    "name": "Nottingham Forest FC",
-    "shortName": "Nottingham",
-    "tla": "NOT"
+    "id": 4,
+    "name": "Borussia Dortmund",
+    "shortName": "Dortmund",
+    "tla": "BVB"
    },
-   "score": null
+   "score": {
+    "home": 0,
+    "away": 1
+   }
   },
   {
-   "id": "561946",
-   "start": "2026-11-21T15:00:00Z",
-   "status": "SCHEDULED",
-   "matchday": 16,
+   "id": "565858",
+   "start": "2026-11-21T14:30:00Z",
+   "status": "FINISHED",
+   "matchday": 10,
    "competition": {
-    "code": "ELC",
-    "name": "Championship"
+    "code": "BL1",
+    "name": "Bundesliga"
    },
    "home": {
-    "id": 70,
-    "name": "Stoke City FC",
-    "shortName": "Stoke",
-    "tla": "STK"
+    "id": 28,
+    "name": "1. FC Union Berlin",
+    "shortName": "Union Berlin",
+    "tla": "UNB"
    },
    "away": {
-    "id": 332,
-    "name": "Birmingham City FC",
-    "shortName": "Birmingham",
-    "tla": "BIR"
+    "id": 721,
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig",
+    "tla": "RBL"
    },
-   "score": null
-  },
-  {
-   "id": "561942",
-   "start": "2026-11-21T15:00:00Z",
-   "status": "SCHEDULED",
-   "matchday": 16,
-   "competition": {
-    "code": "ELC",
-    "name": "Championship"
-   },
-   "home": {
-    "id": 72,
-    "name": "Swansea City AFC",
-    "shortName": "Swansea",
-    "tla": "SWA"
-   },
-   "away": {
-    "id": 74,
-    "name": "West Bromwich Albion FC",
-    "shortName": "West Brom",
-    "tla": "WBA"
-   },
-   "score": null
-  },
-  {
-   "id": "561952",
-   "start": "2026-11-21T15:00:00Z",
-   "status": "SCHEDULED",
-   "matchday": 16,
-   "competition": {
-    "code": "ELC",
-    "name": "Championship"
-   },
-   "home": {
-    "id": 76,
-    "name": "Wolverhampton Wanderers FC",
-    "shortName": "Wolverhampton",
-    "tla": "WOL"
-   },
-   "away": {
-    "id": 348,
-    "name": "Charlton Athletic FC",
-    "shortName": "Charlton",
-    "tla": "CHA"
-   },
-   "score": null
+   "score": {
+    "home": 1,
+    "away": 5
+   }
   },
   {
    "id": "561945",
    "start": "2026-11-21T15:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "matchday": 16,
    "competition": {
     "code": "ELC",
@@ -598,35 +438,15 @@
     "shortName": "Portsmouth",
     "tla": "POR"
    },
-   "score": null
-  },
-  {
-   "id": "560642",
-   "start": "2026-11-21T15:00:00Z",
-   "status": "TIMED",
-   "matchday": 11,
-   "competition": {
-    "code": "PL",
-    "name": "Premier League"
-   },
-   "home": {
-    "id": 61,
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE"
-   },
-   "away": {
-    "id": 341,
-    "name": "Leeds United FC",
-    "shortName": "Leeds United",
-    "tla": "LEE"
-   },
-   "score": null
+   "score": {
+    "home": 1,
+    "away": 1
+   }
   },
   {
    "id": "561941",
    "start": "2026-11-21T15:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "matchday": 16,
    "competition": {
     "code": "ELC",
@@ -644,12 +464,15 @@
     "shortName": "Watford",
     "tla": "WAT"
    },
-   "score": null
+   "score": {
+    "home": 4,
+    "away": 0
+   }
   },
   {
    "id": "561951",
    "start": "2026-11-21T15:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "matchday": 16,
    "competition": {
     "code": "ELC",
@@ -667,58 +490,41 @@
     "shortName": "Preston NE",
     "tla": "PNE"
    },
-   "score": null
+   "score": {
+    "home": 1,
+    "away": 1
+   }
   },
   {
-   "id": "560648",
+   "id": "560647",
    "start": "2026-11-21T15:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 11,
    "competition": {
     "code": "PL",
     "name": "Premier League"
    },
    "home": {
-    "id": 73,
-    "name": "Tottenham Hotspur FC",
-    "shortName": "Tottenham",
-    "tla": "TOT"
+    "id": 1044,
+    "name": "AFC Bournemouth",
+    "shortName": "Bournemouth",
+    "tla": "BOU"
    },
    "away": {
-    "id": 349,
-    "name": "Ipswich Town FC",
-    "shortName": "Ipswich Town",
-    "tla": "IPS"
+    "id": 351,
+    "name": "Nottingham Forest FC",
+    "shortName": "Nottingham",
+    "tla": "NOT"
    },
-   "score": null
-  },
-  {
-   "id": "560644",
-   "start": "2026-11-21T15:00:00Z",
-   "status": "TIMED",
-   "matchday": 11,
-   "competition": {
-    "code": "PL",
-    "name": "Premier League"
-   },
-   "home": {
-    "id": 58,
-    "name": "Aston Villa FC",
-    "shortName": "Aston Villa",
-    "tla": "AVL"
-   },
-   "away": {
-    "id": 71,
-    "name": "Sunderland AFC",
-    "shortName": "Sunderland",
-    "tla": "SUN"
-   },
-   "score": null
+   "score": {
+    "home": 2,
+    "away": 0
+   }
   },
   {
    "id": "561943",
    "start": "2026-11-21T15:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "matchday": 16,
    "competition": {
     "code": "ELC",
@@ -736,35 +542,15 @@
     "shortName": "Bristol City",
     "tla": "BRI"
    },
-   "score": null
-  },
-  {
-   "id": "560650",
-   "start": "2026-11-21T15:00:00Z",
-   "status": "TIMED",
-   "matchday": 11,
-   "competition": {
-    "code": "PL",
-    "name": "Premier League"
-   },
-   "home": {
-    "id": 1076,
-    "name": "Coventry City FC",
-    "shortName": "Coventry City",
-    "tla": "COV"
-   },
-   "away": {
-    "id": 354,
-    "name": "Crystal Palace FC",
-    "shortName": "Crystal Palace",
-    "tla": "CRY"
-   },
-   "score": null
+   "score": {
+    "home": 2,
+    "away": 0
+   }
   },
   {
    "id": "561949",
    "start": "2026-11-21T15:00:00Z",
-   "status": "SCHEDULED",
+   "status": "IN_PLAY",
    "matchday": 16,
    "competition": {
     "code": "ELC",
@@ -785,9 +571,191 @@
    "score": null
   },
   {
+   "id": "560650",
+   "start": "2026-11-21T15:00:00Z",
+   "status": "FINISHED",
+   "matchday": 11,
+   "competition": {
+    "code": "PL",
+    "name": "Premier League"
+   },
+   "home": {
+    "id": 1076,
+    "name": "Coventry City FC",
+    "shortName": "Coventry City",
+    "tla": "COV"
+   },
+   "away": {
+    "id": 354,
+    "name": "Crystal Palace FC",
+    "shortName": "Crystal Palace",
+    "tla": "CRY"
+   },
+   "score": {
+    "home": 3,
+    "away": 2
+   }
+  },
+  {
+   "id": "561946",
+   "start": "2026-11-21T15:00:00Z",
+   "status": "FINISHED",
+   "matchday": 16,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 70,
+    "name": "Stoke City FC",
+    "shortName": "Stoke",
+    "tla": "STK"
+   },
+   "away": {
+    "id": 332,
+    "name": "Birmingham City FC",
+    "shortName": "Birmingham",
+    "tla": "BIR"
+   },
+   "score": {
+    "home": 1,
+    "away": 0
+   }
+  },
+  {
+   "id": "560642",
+   "start": "2026-11-21T15:00:00Z",
+   "status": "FINISHED",
+   "matchday": 11,
+   "competition": {
+    "code": "PL",
+    "name": "Premier League"
+   },
+   "home": {
+    "id": 61,
+    "name": "Chelsea FC",
+    "shortName": "Chelsea",
+    "tla": "CHE"
+   },
+   "away": {
+    "id": 341,
+    "name": "Leeds United FC",
+    "shortName": "Leeds United",
+    "tla": "LEE"
+   },
+   "score": {
+    "home": 1,
+    "away": 4
+   }
+  },
+  {
+   "id": "561942",
+   "start": "2026-11-21T15:00:00Z",
+   "status": "FINISHED",
+   "matchday": 16,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 72,
+    "name": "Swansea City AFC",
+    "shortName": "Swansea",
+    "tla": "SWA"
+   },
+   "away": {
+    "id": 74,
+    "name": "West Bromwich Albion FC",
+    "shortName": "West Brom",
+    "tla": "WBA"
+   },
+   "score": {
+    "home": 2,
+    "away": 2
+   }
+  },
+  {
+   "id": "561952",
+   "start": "2026-11-21T15:00:00Z",
+   "status": "FINISHED",
+   "matchday": 16,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 76,
+    "name": "Wolverhampton Wanderers FC",
+    "shortName": "Wolverhampton",
+    "tla": "WOL"
+   },
+   "away": {
+    "id": 348,
+    "name": "Charlton Athletic FC",
+    "shortName": "Charlton",
+    "tla": "CHA"
+   },
+   "score": {
+    "home": 2,
+    "away": 1
+   }
+  },
+  {
+   "id": "560648",
+   "start": "2026-11-21T15:00:00Z",
+   "status": "FINISHED",
+   "matchday": 11,
+   "competition": {
+    "code": "PL",
+    "name": "Premier League"
+   },
+   "home": {
+    "id": 73,
+    "name": "Tottenham Hotspur FC",
+    "shortName": "Tottenham",
+    "tla": "TOT"
+   },
+   "away": {
+    "id": 349,
+    "name": "Ipswich Town FC",
+    "shortName": "Ipswich Town",
+    "tla": "IPS"
+   },
+   "score": {
+    "home": 2,
+    "away": 0
+   }
+  },
+  {
+   "id": "560644",
+   "start": "2026-11-21T15:00:00Z",
+   "status": "FINISHED",
+   "matchday": 11,
+   "competition": {
+    "code": "PL",
+    "name": "Premier League"
+   },
+   "home": {
+    "id": 58,
+    "name": "Aston Villa FC",
+    "shortName": "Aston Villa",
+    "tla": "AVL"
+   },
+   "away": {
+    "id": 71,
+    "name": "Sunderland AFC",
+    "shortName": "Sunderland",
+    "tla": "SUN"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   }
+  },
+  {
    "id": "564751",
    "start": "2026-11-21T15:15:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 13,
    "competition": {
     "code": "PD",
@@ -805,12 +773,15 @@
     "shortName": "Valencia",
     "tla": "VAL"
    },
-   "score": null
+   "score": {
+    "home": 0,
+    "away": 1
+   }
   },
   {
    "id": "558833",
    "start": "2026-11-21T15:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 13,
    "competition": {
     "code": "DED",
@@ -828,12 +799,15 @@
     "shortName": "PSV",
     "tla": "PSV"
    },
-   "score": null
+   "score": {
+    "home": 1,
+    "away": 4
+   }
   },
   {
    "id": "559628",
    "start": "2026-11-21T16:15:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 11,
    "competition": {
     "code": "FL1",
@@ -851,12 +825,15 @@
     "shortName": "PSG",
     "tla": "PSG"
    },
-   "score": null
+   "score": {
+    "home": 2,
+    "away": 3
+   }
   },
   {
    "id": "558526",
    "start": "2026-11-21T17:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 12,
    "competition": {
     "code": "SA",
@@ -874,35 +851,15 @@
     "shortName": "Roma",
     "tla": "ROM"
    },
-   "score": null
-  },
-  {
-   "id": "565861",
-   "start": "2026-11-21T17:30:00Z",
-   "status": "TIMED",
-   "matchday": 10,
-   "competition": {
-    "code": "BL1",
-    "name": "Bundesliga"
-   },
-   "home": {
-    "id": 6,
-    "name": "FC Schalke 04",
-    "shortName": "Schalke",
-    "tla": "S04"
-   },
-   "away": {
-    "id": 10,
-    "name": "VfB Stuttgart",
-    "shortName": "Stuttgart",
-    "tla": "VFB"
-   },
-   "score": null
+   "score": {
+    "home": 1,
+    "away": 5
+   }
   },
   {
    "id": "560651",
    "start": "2026-11-21T17:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 11,
    "competition": {
     "code": "PL",
@@ -920,12 +877,41 @@
     "shortName": "Arsenal",
     "tla": "ARS"
    },
-   "score": null
+   "score": {
+    "home": 2,
+    "away": 2
+   }
+  },
+  {
+   "id": "565861",
+   "start": "2026-11-21T17:30:00Z",
+   "status": "FINISHED",
+   "matchday": 10,
+   "competition": {
+    "code": "BL1",
+    "name": "Bundesliga"
+   },
+   "home": {
+    "id": 6,
+    "name": "FC Schalke 04",
+    "shortName": "Schalke",
+    "tla": "S04"
+   },
+   "away": {
+    "id": 10,
+    "name": "VfB Stuttgart",
+    "shortName": "Stuttgart",
+    "tla": "VFB"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   }
   },
   {
    "id": "564756",
    "start": "2026-11-21T17:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 13,
    "competition": {
     "code": "PD",
@@ -943,35 +929,15 @@
     "shortName": "Real Betis",
     "tla": "BET"
    },
-   "score": null
-  },
-  {
-   "id": "558831",
-   "start": "2026-11-21T17:45:00Z",
-   "status": "TIMED",
-   "matchday": 13,
-   "competition": {
-    "code": "DED",
-    "name": "Eredivisie"
-   },
-   "home": {
-    "id": 675,
-    "name": "Feyenoord Rotterdam",
-    "shortName": "Feyenoord",
-    "tla": "FEY"
-   },
-   "away": {
-    "id": 670,
-    "name": "SBV Excelsior",
-    "shortName": "Excelsior",
-    "tla": "EXC"
-   },
-   "score": null
+   "score": {
+    "home": 1,
+    "away": 1
+   }
   },
   {
    "id": "558835",
    "start": "2026-11-21T17:45:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 13,
    "competition": {
     "code": "DED",
@@ -989,12 +955,41 @@
     "shortName": "Cambuur",
     "tla": "CAM"
    },
-   "score": null
+   "score": {
+    "home": 2,
+    "away": 3
+   }
+  },
+  {
+   "id": "558831",
+   "start": "2026-11-21T17:45:00Z",
+   "status": "FINISHED",
+   "matchday": 13,
+   "competition": {
+    "code": "DED",
+    "name": "Eredivisie"
+   },
+   "home": {
+    "id": 675,
+    "name": "Feyenoord Rotterdam",
+    "shortName": "Feyenoord",
+    "tla": "FEY"
+   },
+   "away": {
+    "id": 670,
+    "name": "SBV Excelsior",
+    "shortName": "Excelsior",
+    "tla": "EXC"
+   },
+   "score": {
+    "home": 2,
+    "away": 3
+   }
   },
   {
    "id": "555098",
    "start": "2026-11-21T19:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 36,
    "competition": {
     "code": "BSA",
@@ -1012,104 +1007,15 @@
     "shortName": "Flamengo",
     "tla": "FLA"
    },
-   "score": null
-  },
-  {
-   "id": "559621",
-   "start": "2026-11-21T19:45:00Z",
-   "status": "TIMED",
-   "matchday": 11,
-   "competition": {
-    "code": "FL1",
-    "name": "Ligue 1"
-   },
-   "home": {
-    "id": 548,
-    "name": "AS Monaco FC",
-    "shortName": "Monaco",
-    "tla": "ASM"
-   },
-   "away": {
-    "id": 519,
-    "name": "AJ Auxerre",
-    "shortName": "Auxerre",
-    "tla": "AJA"
-   },
-   "score": null
-  },
-  {
-   "id": "559627",
-   "start": "2026-11-21T19:45:00Z",
-   "status": "TIMED",
-   "matchday": 11,
-   "competition": {
-    "code": "FL1",
-    "name": "Ligue 1"
-   },
-   "home": {
-    "id": 576,
-    "name": "RC Strasbourg Alsace",
-    "shortName": "Strasbourg",
-    "tla": "RC "
-   },
-   "away": {
-    "id": 512,
-    "name": "Stade Brestois 29",
-    "shortName": "Brest",
-    "tla": "BRE"
-   },
-   "score": null
-  },
-  {
-   "id": "559623",
-   "start": "2026-11-21T19:45:00Z",
-   "status": "TIMED",
-   "matchday": 11,
-   "competition": {
-    "code": "FL1",
-    "name": "Ligue 1"
-   },
-   "home": {
-    "id": 546,
-    "name": "Racing Club de Lens",
-    "shortName": "RC Lens",
-    "tla": "RCL"
-   },
-   "away": {
-    "id": 511,
-    "name": "Toulouse FC",
-    "shortName": "Toulouse",
-    "tla": "TOU"
-   },
-   "score": null
-  },
-  {
-   "id": "559624",
-   "start": "2026-11-21T19:45:00Z",
-   "status": "TIMED",
-   "matchday": 11,
-   "competition": {
-    "code": "FL1",
-    "name": "Ligue 1"
-   },
-   "home": {
-    "id": 521,
-    "name": "Lille OSC",
-    "shortName": "Lille",
-    "tla": "LIL"
-   },
-   "away": {
-    "id": 523,
-    "name": "Olympique Lyonnais",
-    "shortName": "Olympique Lyon",
-    "tla": "LYO"
-   },
-   "score": null
+   "score": {
+    "home": 1,
+    "away": 1
+   }
   },
   {
    "id": "558527",
    "start": "2026-11-21T19:45:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 12,
    "competition": {
     "code": "SA",
@@ -1127,12 +1033,119 @@
     "shortName": "Torino",
     "tla": "TOR"
    },
-   "score": null
+   "score": {
+    "home": 1,
+    "away": 0
+   }
+  },
+  {
+   "id": "559621",
+   "start": "2026-11-21T19:45:00Z",
+   "status": "FINISHED",
+   "matchday": 11,
+   "competition": {
+    "code": "FL1",
+    "name": "Ligue 1"
+   },
+   "home": {
+    "id": 548,
+    "name": "AS Monaco FC",
+    "shortName": "Monaco",
+    "tla": "ASM"
+   },
+   "away": {
+    "id": 519,
+    "name": "AJ Auxerre",
+    "shortName": "Auxerre",
+    "tla": "AJA"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   }
+  },
+  {
+   "id": "559627",
+   "start": "2026-11-21T19:45:00Z",
+   "status": "FINISHED",
+   "matchday": 11,
+   "competition": {
+    "code": "FL1",
+    "name": "Ligue 1"
+   },
+   "home": {
+    "id": 576,
+    "name": "RC Strasbourg Alsace",
+    "shortName": "Strasbourg",
+    "tla": "RC "
+   },
+   "away": {
+    "id": 512,
+    "name": "Stade Brestois 29",
+    "shortName": "Brest",
+    "tla": "BRE"
+   },
+   "score": {
+    "home": 0,
+    "away": 1
+   }
+  },
+  {
+   "id": "559623",
+   "start": "2026-11-21T19:45:00Z",
+   "status": "FINISHED",
+   "matchday": 11,
+   "competition": {
+    "code": "FL1",
+    "name": "Ligue 1"
+   },
+   "home": {
+    "id": 546,
+    "name": "Racing Club de Lens",
+    "shortName": "RC Lens",
+    "tla": "RCL"
+   },
+   "away": {
+    "id": 511,
+    "name": "Toulouse FC",
+    "shortName": "Toulouse",
+    "tla": "TOU"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   }
+  },
+  {
+   "id": "559624",
+   "start": "2026-11-21T19:45:00Z",
+   "status": "FINISHED",
+   "matchday": 11,
+   "competition": {
+    "code": "FL1",
+    "name": "Ligue 1"
+   },
+   "home": {
+    "id": 521,
+    "name": "Lille OSC",
+    "shortName": "Lille",
+    "tla": "LIL"
+   },
+   "away": {
+    "id": 523,
+    "name": "Olympique Lyonnais",
+    "shortName": "Olympique Lyon",
+    "tla": "LYO"
+   },
+   "score": {
+    "home": 0,
+    "away": 1
+   }
   },
   {
    "id": "564754",
    "start": "2026-11-21T20:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 13,
    "competition": {
     "code": "PD",
@@ -1150,12 +1163,15 @@
     "shortName": "Celta",
     "tla": "CEL"
    },
-   "score": null
+   "score": {
+    "home": 2,
+    "away": 1
+   }
   },
   {
    "id": "558832",
    "start": "2026-11-21T20:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 13,
    "competition": {
     "code": "DED",
@@ -1173,12 +1189,15 @@
     "shortName": "Zwolle",
     "tla": "ZWO"
    },
-   "score": null
+   "score": {
+    "home": 1,
+    "away": 3
+   }
   },
   {
    "id": "558834",
    "start": "2026-11-21T20:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 13,
    "competition": {
     "code": "DED",
@@ -1196,12 +1215,15 @@
     "shortName": "Heerenveen",
     "tla": "HEE"
    },
-   "score": null
+   "score": {
+    "home": 1,
+    "away": 3
+   }
   },
   {
    "id": "555092",
    "start": "2026-11-21T20:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 36,
    "competition": {
     "code": "BSA",
@@ -1219,12 +1241,15 @@
     "shortName": "Coritiba",
     "tla": "COR"
    },
-   "score": null
+   "score": {
+    "home": 0,
+    "away": 1
+   }
   },
   {
    "id": "555095",
    "start": "2026-11-22T00:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 36,
    "competition": {
     "code": "BSA",
@@ -1242,12 +1267,15 @@
     "shortName": "Cruzeiro",
     "tla": "CRU"
    },
-   "score": null
+   "score": {
+    "home": 1,
+    "away": 2
+   }
   },
   {
    "id": "558828",
    "start": "2026-11-22T11:15:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 13,
    "competition": {
     "code": "DED",
@@ -1383,29 +1411,6 @@
    "score": null
   },
   {
-   "id": "558524",
-   "start": "2026-11-22T14:00:00Z",
-   "status": "TIMED",
-   "matchday": 12,
-   "competition": {
-    "code": "SA",
-    "name": "Serie A"
-   },
-   "home": {
-    "id": 471,
-    "name": "US Sassuolo Calcio",
-    "shortName": "Sassuolo",
-    "tla": "SAS"
-   },
-   "away": {
-    "id": 107,
-    "name": "Genoa CFC",
-    "shortName": "Genoa",
-    "tla": "GEN"
-   },
-   "score": null
-  },
-  {
    "id": "559625",
    "start": "2026-11-22T14:00:00Z",
    "status": "TIMED",
@@ -1429,29 +1434,6 @@
    "score": null
   },
   {
-   "id": "558522",
-   "start": "2026-11-22T14:00:00Z",
-   "status": "TIMED",
-   "matchday": 12,
-   "competition": {
-    "code": "SA",
-    "name": "Serie A"
-   },
-   "home": {
-    "id": 103,
-    "name": "Bologna FC 1909",
-    "shortName": "Bologna",
-    "tla": "BOL"
-   },
-   "away": {
-    "id": 115,
-    "name": "Udinese Calcio",
-    "shortName": "Udinese",
-    "tla": "UDI"
-   },
-   "score": null
-  },
-  {
    "id": "560646",
    "start": "2026-11-22T14:00:00Z",
    "status": "TIMED",
@@ -1471,6 +1453,52 @@
     "name": "Brighton & Hove Albion FC",
     "shortName": "Brighton Hove",
     "tla": "BHA"
+   },
+   "score": null
+  },
+  {
+   "id": "558524",
+   "start": "2026-11-22T14:00:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "SA",
+    "name": "Serie A"
+   },
+   "home": {
+    "id": 471,
+    "name": "US Sassuolo Calcio",
+    "shortName": "Sassuolo",
+    "tla": "SAS"
+   },
+   "away": {
+    "id": 107,
+    "name": "Genoa CFC",
+    "shortName": "Genoa",
+    "tla": "GEN"
+   },
+   "score": null
+  },
+  {
+   "id": "558522",
+   "start": "2026-11-22T14:00:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "SA",
+    "name": "Serie A"
+   },
+   "home": {
+    "id": 103,
+    "name": "Bologna FC 1909",
+    "shortName": "Bologna",
+    "tla": "BOL"
+   },
+   "away": {
+    "id": 115,
+    "name": "Udinese Calcio",
+    "shortName": "Udinese",
+    "tla": "UDI"
    },
    "score": null
   },
@@ -1567,29 +1595,6 @@
    "score": null
   },
   {
-   "id": "565863",
-   "start": "2026-11-22T16:30:00Z",
-   "status": "TIMED",
-   "matchday": 10,
-   "competition": {
-    "code": "BL1",
-    "name": "Bundesliga"
-   },
-   "home": {
-    "id": 12,
-    "name": "SV Werder Bremen",
-    "shortName": "Bremen",
-    "tla": "SVW"
-   },
-   "away": {
-    "id": 7,
-    "name": "Hamburger SV",
-    "shortName": "HSV",
-    "tla": "HSV"
-   },
-   "score": null
-  },
-  {
    "id": "560645",
    "start": "2026-11-22T16:30:00Z",
    "status": "TIMED",
@@ -1609,6 +1614,29 @@
     "name": "Manchester United FC",
     "shortName": "Man United",
     "tla": "MUN"
+   },
+   "score": null
+  },
+  {
+   "id": "565863",
+   "start": "2026-11-22T16:30:00Z",
+   "status": "TIMED",
+   "matchday": 10,
+   "competition": {
+    "code": "BL1",
+    "name": "Bundesliga"
+   },
+   "home": {
+    "id": 12,
+    "name": "SV Werder Bremen",
+    "shortName": "Bremen",
+    "tla": "SVW"
+   },
+   "away": {
+    "id": 7,
+    "name": "Hamburger SV",
+    "shortName": "HSV",
+    "tla": "HSV"
    },
    "score": null
   },
@@ -1981,6 +2009,75 @@
    "score": null
   },
   {
+   "id": "561959",
+   "start": "2026-11-24T19:45:00Z",
+   "status": "SCHEDULED",
+   "matchday": 17,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 387,
+    "name": "Bristol City FC",
+    "shortName": "Bristol City",
+    "tla": "BRI"
+   },
+   "away": {
+    "id": 404,
+    "name": "Wrexham AFC",
+    "shortName": "Wrexham",
+    "tla": "WRE"
+   },
+   "score": null
+  },
+  {
+   "id": "561955",
+   "start": "2026-11-24T19:45:00Z",
+   "status": "SCHEDULED",
+   "matchday": 17,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 325,
+    "name": "Portsmouth FC",
+    "shortName": "Portsmouth",
+    "tla": "POR"
+   },
+   "away": {
+    "id": 563,
+    "name": "West Ham United FC",
+    "shortName": "West Ham",
+    "tla": "WHU"
+   },
+   "score": null
+  },
+  {
+   "id": "561953",
+   "start": "2026-11-24T19:45:00Z",
+   "status": "SCHEDULED",
+   "matchday": 17,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 715,
+    "name": "Cardiff City FC",
+    "shortName": "Cardiff",
+    "tla": "CAR"
+   },
+   "away": {
+    "id": 1081,
+    "name": "Preston North End FC",
+    "shortName": "Preston NE",
+    "tla": "PNE"
+   },
+   "score": null
+  },
+  {
    "id": "561954",
    "start": "2026-11-24T19:45:00Z",
    "status": "SCHEDULED",
@@ -2073,117 +2170,25 @@
    "score": null
   },
   {
-   "id": "561959",
-   "start": "2026-11-24T19:45:00Z",
-   "status": "SCHEDULED",
-   "matchday": 17,
-   "competition": {
-    "code": "ELC",
-    "name": "Championship"
-   },
-   "home": {
-    "id": 387,
-    "name": "Bristol City FC",
-    "shortName": "Bristol City",
-    "tla": "BRI"
-   },
-   "away": {
-    "id": 404,
-    "name": "Wrexham AFC",
-    "shortName": "Wrexham",
-    "tla": "WRE"
-   },
-   "score": null
-  },
-  {
-   "id": "561955",
-   "start": "2026-11-24T19:45:00Z",
-   "status": "SCHEDULED",
-   "matchday": 17,
-   "competition": {
-    "code": "ELC",
-    "name": "Championship"
-   },
-   "home": {
-    "id": 325,
-    "name": "Portsmouth FC",
-    "shortName": "Portsmouth",
-    "tla": "POR"
-   },
-   "away": {
-    "id": 563,
-    "name": "West Ham United FC",
-    "shortName": "West Ham",
-    "tla": "WHU"
-   },
-   "score": null
-  },
-  {
-   "id": "561953",
-   "start": "2026-11-24T19:45:00Z",
-   "status": "SCHEDULED",
-   "matchday": 17,
-   "competition": {
-    "code": "ELC",
-    "name": "Championship"
-   },
-   "home": {
-    "id": 715,
-    "name": "Cardiff City FC",
-    "shortName": "Cardiff",
-    "tla": "CAR"
-   },
-   "away": {
-    "id": 1081,
-    "name": "Preston North End FC",
-    "shortName": "Preston NE",
-    "tla": "PNE"
-   },
-   "score": null
-  },
-  {
-   "id": "575403",
+   "id": "561957",
    "start": "2026-11-24T20:00:00Z",
-   "status": "TIMED",
-   "matchday": 5,
+   "status": "SCHEDULED",
+   "matchday": 17,
    "competition": {
-    "code": "CL",
-    "name": "UEFA Champions League"
+    "code": "ELC",
+    "name": "Championship"
    },
    "home": {
-    "id": 7397,
-    "name": "Como 1907",
-    "shortName": "Como 1907",
-    "tla": "COM"
+    "id": 76,
+    "name": "Wolverhampton Wanderers FC",
+    "shortName": "Wolverhampton",
+    "tla": "WOL"
    },
    "away": {
-    "id": 1899,
-    "name": "PAE AEK",
-    "shortName": "PAE AEK",
-    "tla": "AEK"
-   },
-   "score": null
-  },
-  {
-   "id": "575399",
-   "start": "2026-11-24T20:00:00Z",
-   "status": "TIMED",
-   "matchday": 5,
-   "competition": {
-    "code": "CL",
-    "name": "UEFA Champions League"
-   },
-   "home": {
-    "id": 57,
-    "name": "Arsenal FC",
-    "shortName": "Arsenal",
-    "tla": "ARS"
-   },
-   "away": {
-    "id": 4,
-    "name": "Borussia Dortmund",
-    "shortName": "Dortmund",
-    "tla": "BVB"
+    "id": 342,
+    "name": "Derby County FC",
+    "shortName": "Derby County",
+    "tla": "DER"
    },
    "score": null
   },
@@ -2234,6 +2239,75 @@
    "score": null
   },
   {
+   "id": "575403",
+   "start": "2026-11-24T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 5,
+   "competition": {
+    "code": "CL",
+    "name": "UEFA Champions League"
+   },
+   "home": {
+    "id": 7397,
+    "name": "Como 1907",
+    "shortName": "Como 1907",
+    "tla": "COM"
+   },
+   "away": {
+    "id": 1899,
+    "name": "PAE AEK",
+    "shortName": "PAE AEK",
+    "tla": "AEK"
+   },
+   "score": null
+  },
+  {
+   "id": "575399",
+   "start": "2026-11-24T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 5,
+   "competition": {
+    "code": "CL",
+    "name": "UEFA Champions League"
+   },
+   "home": {
+    "id": 57,
+    "name": "Arsenal FC",
+    "shortName": "Arsenal",
+    "tla": "ARS"
+   },
+   "away": {
+    "id": 4,
+    "name": "Borussia Dortmund",
+    "shortName": "Dortmund",
+    "tla": "BVB"
+   },
+   "score": null
+  },
+  {
+   "id": "575402",
+   "start": "2026-11-24T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 5,
+   "competition": {
+    "code": "CL",
+    "name": "UEFA Champions League"
+   },
+   "home": {
+    "id": 721,
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig",
+    "tla": "RBL"
+   },
+   "away": {
+    "id": 546,
+    "name": "Racing Club de Lens",
+    "shortName": "RC Lens",
+    "tla": "RCL"
+   },
+   "score": null
+  },
+  {
    "id": "575398",
    "start": "2026-11-24T20:00:00Z",
    "status": "TIMED",
@@ -2276,52 +2350,6 @@
     "name": "FC Porto",
     "shortName": "Porto",
     "tla": "FCP"
-   },
-   "score": null
-  },
-  {
-   "id": "561957",
-   "start": "2026-11-24T20:00:00Z",
-   "status": "SCHEDULED",
-   "matchday": 17,
-   "competition": {
-    "code": "ELC",
-    "name": "Championship"
-   },
-   "home": {
-    "id": 76,
-    "name": "Wolverhampton Wanderers FC",
-    "shortName": "Wolverhampton",
-    "tla": "WOL"
-   },
-   "away": {
-    "id": 342,
-    "name": "Derby County FC",
-    "shortName": "Derby County",
-    "tla": "DER"
-   },
-   "score": null
-  },
-  {
-   "id": "575402",
-   "start": "2026-11-24T20:00:00Z",
-   "status": "TIMED",
-   "matchday": 5,
-   "competition": {
-    "code": "CL",
-    "name": "UEFA Champions League"
-   },
-   "home": {
-    "id": 721,
-    "name": "RB Leipzig",
-    "shortName": "RB Leipzig",
-    "tla": "RBL"
-   },
-   "away": {
-    "id": 546,
-    "name": "Racing Club de Lens",
-    "shortName": "RC Lens",
-    "tla": "RCL"
    },
    "score": null
   },
@@ -2395,29 +2423,6 @@
    "score": null
   },
   {
-   "id": "561964",
-   "start": "2026-11-25T19:45:00Z",
-   "status": "SCHEDULED",
-   "matchday": 17,
-   "competition": {
-    "code": "ELC",
-    "name": "Championship"
-   },
-   "home": {
-    "id": 328,
-    "name": "Burnley FC",
-    "shortName": "Burnley",
-    "tla": "BUR"
-   },
-   "away": {
-    "id": 332,
-    "name": "Birmingham City FC",
-    "shortName": "Birmingham",
-    "tla": "BIR"
-   },
-   "score": null
-  },
-  {
    "id": "561961",
    "start": "2026-11-25T19:45:00Z",
    "status": "SCHEDULED",
@@ -2464,31 +2469,8 @@
    "score": null
   },
   {
-   "id": "575409",
-   "start": "2026-11-25T20:00:00Z",
-   "status": "TIMED",
-   "matchday": 5,
-   "competition": {
-    "code": "CL",
-    "name": "UEFA Champions League"
-   },
-   "home": {
-    "id": 851,
-    "name": "Club Brugge KV",
-    "shortName": "Club Brugge",
-    "tla": "BRU"
-   },
-   "away": {
-    "id": 64,
-    "name": "Liverpool FC",
-    "shortName": "Liverpool",
-    "tla": "LIV"
-   },
-   "score": null
-  },
-  {
-   "id": "561962",
-   "start": "2026-11-25T20:00:00Z",
+   "id": "561964",
+   "start": "2026-11-25T19:45:00Z",
    "status": "SCHEDULED",
    "matchday": 17,
    "competition": {
@@ -2496,16 +2478,16 @@
     "name": "Championship"
    },
    "home": {
-    "id": 70,
-    "name": "Stoke City FC",
-    "shortName": "Stoke",
-    "tla": "STK"
+    "id": 328,
+    "name": "Burnley FC",
+    "shortName": "Burnley",
+    "tla": "BUR"
    },
    "away": {
-    "id": 384,
-    "name": "Millwall FC",
-    "shortName": "Millwall",
-    "tla": "MIL"
+    "id": 332,
+    "name": "Birmingham City FC",
+    "shortName": "Birmingham",
+    "tla": "BIR"
    },
    "score": null
   },
@@ -2556,7 +2538,7 @@
    "score": null
   },
   {
-   "id": "575408",
+   "id": "575409",
    "start": "2026-11-25T20:00:00Z",
    "status": "TIMED",
    "matchday": 5,
@@ -2565,39 +2547,39 @@
     "name": "UEFA Champions League"
    },
    "home": {
-    "id": 524,
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG"
+    "id": 851,
+    "name": "Club Brugge KV",
+    "shortName": "Club Brugge",
+    "tla": "BRU"
    },
    "away": {
-    "id": 100,
-    "name": "AS Roma",
-    "shortName": "Roma",
-    "tla": "ROM"
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV"
    },
    "score": null
   },
   {
-   "id": "575410",
+   "id": "561962",
    "start": "2026-11-25T20:00:00Z",
-   "status": "TIMED",
-   "matchday": 5,
+   "status": "SCHEDULED",
+   "matchday": 17,
    "competition": {
-    "code": "CL",
-    "name": "UEFA Champions League"
+    "code": "ELC",
+    "name": "Championship"
    },
    "home": {
-    "id": 521,
-    "name": "Lille OSC",
-    "shortName": "Lille",
-    "tla": "LIL"
+    "id": 70,
+    "name": "Stoke City FC",
+    "shortName": "Stoke",
+    "tla": "STK"
    },
    "away": {
-    "id": 5,
-    "name": "FC Bayern München",
-    "shortName": "Bayern",
-    "tla": "FCB"
+    "id": 384,
+    "name": "Millwall FC",
+    "shortName": "Millwall",
+    "tla": "MIL"
    },
    "score": null
   },
@@ -2644,6 +2626,52 @@
     "name": "Fenerbahçe SK",
     "shortName": "Fenerbahçe",
     "tla": "FEN"
+   },
+   "score": null
+  },
+  {
+   "id": "575408",
+   "start": "2026-11-25T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 5,
+   "competition": {
+    "code": "CL",
+    "name": "UEFA Champions League"
+   },
+   "home": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG"
+   },
+   "away": {
+    "id": 100,
+    "name": "AS Roma",
+    "shortName": "Roma",
+    "tla": "ROM"
+   },
+   "score": null
+  },
+  {
+   "id": "575410",
+   "start": "2026-11-25T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 5,
+   "competition": {
+    "code": "CL",
+    "name": "UEFA Champions League"
+   },
+   "home": {
+    "id": 521,
+    "name": "Lille OSC",
+    "shortName": "Lille",
+    "tla": "LIL"
+   },
+   "away": {
+    "id": 5,
+    "name": "FC Bayern München",
+    "shortName": "Bayern",
+    "tla": "FCB"
    },
    "score": null
   },
@@ -2786,6 +2814,29 @@
    "score": null
   },
   {
+   "id": "560658",
+   "start": "2026-11-27T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "PL",
+    "name": "Premier League"
+   },
+   "home": {
+    "id": 351,
+    "name": "Nottingham Forest FC",
+    "shortName": "Nottingham",
+    "tla": "NOT"
+   },
+   "away": {
+    "id": 61,
+    "name": "Chelsea FC",
+    "shortName": "Chelsea",
+    "tla": "CHE"
+   },
+   "score": null
+  },
+  {
    "id": "564765",
    "start": "2026-11-27T20:00:00Z",
    "status": "TIMED",
@@ -2828,29 +2879,6 @@
     "name": "Middlesbrough FC",
     "shortName": "Middlesbrough",
     "tla": "MID"
-   },
-   "score": null
-  },
-  {
-   "id": "560658",
-   "start": "2026-11-27T20:00:00Z",
-   "status": "TIMED",
-   "matchday": 12,
-   "competition": {
-    "code": "PL",
-    "name": "Premier League"
-   },
-   "home": {
-    "id": 351,
-    "name": "Nottingham Forest FC",
-    "shortName": "Nottingham",
-    "tla": "NOT"
-   },
-   "away": {
-    "id": 61,
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE"
    },
    "score": null
   },
@@ -2920,6 +2948,903 @@
     "name": null,
     "shortName": null,
     "tla": null
+   },
+   "score": null
+  },
+  {
+   "id": "561969",
+   "start": "2026-11-28T12:30:00Z",
+   "status": "SCHEDULED",
+   "matchday": 18,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 59,
+    "name": "Blackburn Rovers FC",
+    "shortName": "Blackburn",
+    "tla": "BLA"
+   },
+   "away": {
+    "id": 348,
+    "name": "Charlton Athletic FC",
+    "shortName": "Charlton",
+    "tla": "CHA"
+   },
+   "score": null
+  },
+  {
+   "id": "561973",
+   "start": "2026-11-28T12:30:00Z",
+   "status": "SCHEDULED",
+   "matchday": 18,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 1081,
+    "name": "Preston North End FC",
+    "shortName": "Preston NE",
+    "tla": "PNE"
+   },
+   "away": {
+    "id": 68,
+    "name": "Norwich City FC",
+    "shortName": "Norwich",
+    "tla": "NOR"
+   },
+   "score": null
+  },
+  {
+   "id": "561972",
+   "start": "2026-11-28T12:30:00Z",
+   "status": "SCHEDULED",
+   "matchday": 18,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 1126,
+    "name": "Lincoln City FC",
+    "shortName": "Lincoln City",
+    "tla": "LIN"
+   },
+   "away": {
+    "id": 76,
+    "name": "Wolverhampton Wanderers FC",
+    "shortName": "Wolverhampton",
+    "tla": "WOL"
+   },
+   "score": null
+  },
+  {
+   "id": "564760",
+   "start": "2026-11-28T13:00:00Z",
+   "status": "TIMED",
+   "matchday": 14,
+   "competition": {
+    "code": "PD",
+    "name": "Primera Division"
+   },
+   "home": {
+    "id": 90,
+    "name": "Real Betis Balompié",
+    "shortName": "Real Betis",
+    "tla": "BET"
+   },
+   "away": {
+    "id": 87,
+    "name": "Rayo Vallecano de Madrid",
+    "shortName": "Rayo Vallecano",
+    "tla": "RAY"
+   },
+   "score": null
+  },
+  {
+   "id": "558513",
+   "start": "2026-11-28T14:00:00Z",
+   "status": "TIMED",
+   "matchday": 13,
+   "competition": {
+    "code": "SA",
+    "name": "Serie A"
+   },
+   "home": {
+    "id": 470,
+    "name": "Frosinone Calcio",
+    "shortName": "Frosinone",
+    "tla": "FRO"
+   },
+   "away": {
+    "id": 112,
+    "name": "Parma Calcio 1913",
+    "shortName": "Parma",
+    "tla": "PAR"
+   },
+   "score": null
+  },
+  {
+   "id": "565874",
+   "start": "2026-11-28T14:30:00Z",
+   "status": "TIMED",
+   "matchday": 11,
+   "competition": {
+    "code": "BL1",
+    "name": "Bundesliga"
+   },
+   "home": {
+    "id": 7,
+    "name": "Hamburger SV",
+    "shortName": "HSV",
+    "tla": "HSV"
+   },
+   "away": {
+    "id": 5,
+    "name": "FC Bayern München",
+    "shortName": "Bayern",
+    "tla": "FCB"
+   },
+   "score": null
+  },
+  {
+   "id": "565867",
+   "start": "2026-11-28T14:30:00Z",
+   "status": "TIMED",
+   "matchday": 11,
+   "competition": {
+    "code": "BL1",
+    "name": "Bundesliga"
+   },
+   "home": {
+    "id": 15,
+    "name": "1. FSV Mainz 05",
+    "shortName": "Mainz",
+    "tla": "M05"
+   },
+   "away": {
+    "id": 28,
+    "name": "1. FC Union Berlin",
+    "shortName": "Union Berlin",
+    "tla": "UNB"
+   },
+   "score": null
+  },
+  {
+   "id": "565866",
+   "start": "2026-11-28T14:30:00Z",
+   "status": "TIMED",
+   "matchday": 11,
+   "competition": {
+    "code": "BL1",
+    "name": "Bundesliga"
+   },
+   "home": {
+    "id": 1,
+    "name": "1. FC Köln",
+    "shortName": "1. FC Köln",
+    "tla": "KOE"
+   },
+   "away": {
+    "id": 719,
+    "name": "SV 07 Elversberg",
+    "shortName": "Elversberg",
+    "tla": "ELV"
+   },
+   "score": null
+  },
+  {
+   "id": "565868",
+   "start": "2026-11-28T14:30:00Z",
+   "status": "TIMED",
+   "matchday": 11,
+   "competition": {
+    "code": "BL1",
+    "name": "Bundesliga"
+   },
+   "home": {
+    "id": 29,
+    "name": "SC Paderborn 07",
+    "shortName": "SC Paderborn",
+    "tla": "SCP"
+   },
+   "away": {
+    "id": 6,
+    "name": "FC Schalke 04",
+    "shortName": "Schalke",
+    "tla": "S04"
+   },
+   "score": null
+  },
+  {
+   "id": "561965",
+   "start": "2026-11-28T15:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 18,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 404,
+    "name": "Wrexham AFC",
+    "shortName": "Wrexham",
+    "tla": "WRE"
+   },
+   "away": {
+    "id": 325,
+    "name": "Portsmouth FC",
+    "shortName": "Portsmouth",
+    "tla": "POR"
+   },
+   "score": null
+  },
+  {
+   "id": "561975",
+   "start": "2026-11-28T15:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 18,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 74,
+    "name": "West Bromwich Albion FC",
+    "shortName": "West Brom",
+    "tla": "WBA"
+   },
+   "away": {
+    "id": 387,
+    "name": "Bristol City FC",
+    "shortName": "Bristol City",
+    "tla": "BRI"
+   },
+   "score": null
+  },
+  {
+   "id": "561971",
+   "start": "2026-11-28T15:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 18,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 342,
+    "name": "Derby County FC",
+    "shortName": "Derby County",
+    "tla": "DER"
+   },
+   "away": {
+    "id": 346,
+    "name": "Watford FC",
+    "shortName": "Watford",
+    "tla": "WAT"
+   },
+   "score": null
+  },
+  {
+   "id": "561967",
+   "start": "2026-11-28T15:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 18,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 384,
+    "name": "Millwall FC",
+    "shortName": "Millwall",
+    "tla": "MIL"
+   },
+   "away": {
+    "id": 328,
+    "name": "Burnley FC",
+    "shortName": "Burnley",
+    "tla": "BUR"
+   },
+   "score": null
+  },
+  {
+   "id": "561974",
+   "start": "2026-11-28T15:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 18,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 563,
+    "name": "West Ham United FC",
+    "shortName": "West Ham",
+    "tla": "WHU"
+   },
+   "away": {
+    "id": 70,
+    "name": "Stoke City FC",
+    "shortName": "Stoke",
+    "tla": "STK"
+   },
+   "score": null
+  },
+  {
+   "id": "561970",
+   "start": "2026-11-28T15:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 18,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 332,
+    "name": "Birmingham City FC",
+    "shortName": "Birmingham",
+    "tla": "BIR"
+   },
+   "away": {
+    "id": 60,
+    "name": "Bolton Wanderers FC",
+    "shortName": "Bolton",
+    "tla": "BOL"
+   },
+   "score": null
+  },
+  {
+   "id": "561966",
+   "start": "2026-11-28T15:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 18,
+   "competition": {
+    "code": "ELC",
+    "name": "Championship"
+   },
+   "home": {
+    "id": 69,
+    "name": "Queens Park Rangers FC",
+    "shortName": "QPR",
+    "tla": "QPR"
+   },
+   "away": {
+    "id": 356,
+    "name": "Sheffield United FC",
+    "shortName": "Sheffield Utd",
+    "tla": "SHE"
+   },
+   "score": null
+  },
+  {
+   "id": "560652",
+   "start": "2026-11-28T15:00:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "PL",
+    "name": "Premier League"
+   },
+   "home": {
+    "id": 341,
+    "name": "Leeds United FC",
+    "shortName": "Leeds United",
+    "tla": "LEE"
+   },
+   "away": {
+    "id": 1076,
+    "name": "Coventry City FC",
+    "shortName": "Coventry City",
+    "tla": "COV"
+   },
+   "score": null
+  },
+  {
+   "id": "560655",
+   "start": "2026-11-28T15:00:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "PL",
+    "name": "Premier League"
+   },
+   "home": {
+    "id": 66,
+    "name": "Manchester United FC",
+    "shortName": "Man United",
+    "tla": "MUN"
+   },
+   "away": {
+    "id": 402,
+    "name": "Brentford FC",
+    "shortName": "Brentford",
+    "tla": "BRE"
+   },
+   "score": null
+  },
+  {
+   "id": "564767",
+   "start": "2026-11-28T15:15:00Z",
+   "status": "TIMED",
+   "matchday": 14,
+   "competition": {
+    "code": "PD",
+    "name": "Primera Division"
+   },
+   "home": {
+    "id": 84,
+    "name": "Málaga CF",
+    "shortName": "Málaga",
+    "tla": "MAL"
+   },
+   "away": {
+    "id": 77,
+    "name": "Athletic Club",
+    "shortName": "Athletic",
+    "tla": "ATH"
+   },
+   "score": null
+  },
+  {
+   "id": "567362",
+   "start": "2026-11-28T15:30:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "PPL",
+    "name": "Primeira Liga"
+   },
+   "home": {
+    "id": 712,
+    "name": "FC Arouca",
+    "shortName": "Arouca",
+    "tla": "FCA"
+   },
+   "away": {
+    "id": 496,
+    "name": "Rio Ave FC",
+    "shortName": "Rio Ave",
+    "tla": "RIO"
+   },
+   "score": null
+  },
+  {
+   "id": "567357",
+   "start": "2026-11-28T15:30:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "PPL",
+    "name": "Primeira Liga"
+   },
+   "home": {
+    "id": 583,
+    "name": "Moreirense FC",
+    "shortName": "Moreirense",
+    "tla": "MOR"
+   },
+   "away": {
+    "id": 5530,
+    "name": "CD Santa Clara",
+    "shortName": "Santa Clara",
+    "tla": "CD "
+   },
+   "score": null
+  },
+  {
+   "id": "558825",
+   "start": "2026-11-28T15:30:00Z",
+   "status": "TIMED",
+   "matchday": 14,
+   "competition": {
+    "code": "DED",
+    "name": "Eredivisie"
+   },
+   "home": {
+    "id": 670,
+    "name": "SBV Excelsior",
+    "shortName": "Excelsior",
+    "tla": "EXC"
+   },
+   "away": {
+    "id": 1912,
+    "name": "Telstar 1963",
+    "shortName": "Telstar",
+    "tla": "TEL"
+   },
+   "score": null
+  },
+  {
+   "id": "559612",
+   "start": "2026-11-28T16:15:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "FL1",
+    "name": "Ligue 1"
+   },
+   "home": {
+    "id": 532,
+    "name": "Angers SCO",
+    "shortName": "Angers SCO",
+    "tla": "ANG"
+   },
+   "away": {
+    "id": 546,
+    "name": "Racing Club de Lens",
+    "shortName": "RC Lens",
+    "tla": "RCL"
+   },
+   "score": null
+  },
+  {
+   "id": "558514",
+   "start": "2026-11-28T17:00:00Z",
+   "status": "TIMED",
+   "matchday": 13,
+   "competition": {
+    "code": "SA",
+    "name": "Serie A"
+   },
+   "home": {
+    "id": 586,
+    "name": "Torino FC",
+    "shortName": "Torino",
+    "tla": "TOR"
+   },
+   "away": {
+    "id": 110,
+    "name": "SS Lazio",
+    "shortName": "Lazio",
+    "tla": "LAZ"
+   },
+   "score": null
+  },
+  {
+   "id": "560653",
+   "start": "2026-11-28T17:30:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "PL",
+    "name": "Premier League"
+   },
+   "home": {
+    "id": 349,
+    "name": "Ipswich Town FC",
+    "shortName": "Ipswich Town",
+    "tla": "IPS"
+   },
+   "away": {
+    "id": 58,
+    "name": "Aston Villa FC",
+    "shortName": "Aston Villa",
+    "tla": "AVL"
+   },
+   "score": null
+  },
+  {
+   "id": "565870",
+   "start": "2026-11-28T17:30:00Z",
+   "status": "TIMED",
+   "matchday": 11,
+   "competition": {
+    "code": "BL1",
+    "name": "Bundesliga"
+   },
+   "home": {
+    "id": 10,
+    "name": "VfB Stuttgart",
+    "shortName": "Stuttgart",
+    "tla": "VFB"
+   },
+   "away": {
+    "id": 19,
+    "name": "Eintracht Frankfurt",
+    "shortName": "Frankfurt",
+    "tla": "SGE"
+   },
+   "score": null
+  },
+  {
+   "id": "564759",
+   "start": "2026-11-28T17:30:00Z",
+   "status": "TIMED",
+   "matchday": 14,
+   "competition": {
+    "code": "PD",
+    "name": "Primera Division"
+   },
+   "home": {
+    "id": 285,
+    "name": "Elche CF",
+    "shortName": "Elche",
+    "tla": "ELC"
+   },
+   "away": {
+    "id": 78,
+    "name": "Club Atlético de Madrid",
+    "shortName": "Atleti",
+    "tla": "ATL"
+   },
+   "score": null
+  },
+  {
+   "id": "558826",
+   "start": "2026-11-28T17:45:00Z",
+   "status": "TIMED",
+   "matchday": 14,
+   "competition": {
+    "code": "DED",
+    "name": "Eredivisie"
+   },
+   "home": {
+    "id": 674,
+    "name": "PSV",
+    "shortName": "PSV",
+    "tla": "PSV"
+   },
+   "away": {
+    "id": 718,
+    "name": "Go Ahead Eagles",
+    "shortName": "Go Ahead",
+    "tla": "GOA"
+   },
+   "score": null
+  },
+  {
+   "id": "567364",
+   "start": "2026-11-28T18:00:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "PPL",
+    "name": "Primeira Liga"
+   },
+   "home": {
+    "id": 5527,
+    "name": "Académico de Viseu FC",
+    "shortName": "Acad. Viseu",
+    "tla": "ACV"
+   },
+   "away": {
+    "id": 7822,
+    "name": "FC Alverca",
+    "shortName": "Alverca",
+    "tla": "ALV"
+   },
+   "score": null
+  },
+  {
+   "id": "559614",
+   "start": "2026-11-28T19:45:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "FL1",
+    "name": "Ligue 1"
+   },
+   "home": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG"
+   },
+   "away": {
+    "id": 525,
+    "name": "FC Lorient",
+    "shortName": "Lorient",
+    "tla": "FCL"
+   },
+   "score": null
+  },
+  {
+   "id": "559617",
+   "start": "2026-11-28T19:45:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "FL1",
+    "name": "Ligue 1"
+   },
+   "home": {
+    "id": 535,
+    "name": "Le Mans FC",
+    "shortName": "Le Mans",
+    "tla": "LMF"
+   },
+   "away": {
+    "id": 521,
+    "name": "Lille OSC",
+    "shortName": "Lille",
+    "tla": "LIL"
+   },
+   "score": null
+  },
+  {
+   "id": "558518",
+   "start": "2026-11-28T19:45:00Z",
+   "status": "TIMED",
+   "matchday": 13,
+   "competition": {
+    "code": "SA",
+    "name": "Serie A"
+   },
+   "home": {
+    "id": 108,
+    "name": "FC Internazionale Milano",
+    "shortName": "Inter",
+    "tla": "INT"
+   },
+   "away": {
+    "id": 107,
+    "name": "Genoa CFC",
+    "shortName": "Genoa",
+    "tla": "GEN"
+   },
+   "score": null
+  },
+  {
+   "id": "559613",
+   "start": "2026-11-28T19:45:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "FL1",
+    "name": "Ligue 1"
+   },
+   "home": {
+    "id": 533,
+    "name": "Le Havre AC",
+    "shortName": "Le Havre",
+    "tla": "HAC"
+   },
+   "away": {
+    "id": 576,
+    "name": "RC Strasbourg Alsace",
+    "shortName": "Strasbourg",
+    "tla": "RC "
+   },
+   "score": null
+  },
+  {
+   "id": "559620",
+   "start": "2026-11-28T19:45:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "FL1",
+    "name": "Ligue 1"
+   },
+   "home": {
+    "id": 522,
+    "name": "OGC Nice",
+    "shortName": "Nice",
+    "tla": "NIC"
+   },
+   "away": {
+    "id": 531,
+    "name": "ES Troyes AC",
+    "shortName": "Troyes",
+    "tla": "ETR"
+   },
+   "score": null
+  },
+  {
+   "id": "576807",
+   "start": "2026-11-28T20:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": null,
+   "competition": {
+    "code": "CLI",
+    "name": "Copa Libertadores"
+   },
+   "home": {
+    "id": 1769,
+    "name": "SE Palmeiras",
+    "shortName": "Palmeiras",
+    "tla": "PAL"
+   },
+   "away": {
+    "id": 2051,
+    "name": "Estudiantes de La Plata",
+    "shortName": "Estudiantes LP",
+    "tla": "EST"
+   },
+   "score": null
+  },
+  {
+   "id": "564762",
+   "start": "2026-11-28T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 14,
+   "competition": {
+    "code": "PD",
+    "name": "Primera Division"
+   },
+   "home": {
+    "id": 86,
+    "name": "Real Madrid CF",
+    "shortName": "Real Madrid",
+    "tla": "RMA"
+   },
+   "away": {
+    "id": 263,
+    "name": "Deportivo Alavés",
+    "shortName": "Alavés",
+    "tla": "ALA"
+   },
+   "score": null
+  },
+  {
+   "id": "558819",
+   "start": "2026-11-28T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 14,
+   "competition": {
+    "code": "DED",
+    "name": "Eredivisie"
+   },
+   "home": {
+    "id": 1909,
+    "name": "SC Cambuur-Leeuwarden",
+    "shortName": "Cambuur",
+    "tla": "CAM"
+   },
+   "away": {
+    "id": 6806,
+    "name": "Sparta Rotterdam",
+    "shortName": "Sparta",
+    "tla": "SPA"
+   },
+   "score": null
+  },
+  {
+   "id": "567356",
+   "start": "2026-11-28T20:30:00Z",
+   "status": "TIMED",
+   "matchday": 12,
+   "competition": {
+    "code": "PPL",
+    "name": "Primeira Liga"
+   },
+   "home": {
+    "id": 5543,
+    "name": "Vitória SC",
+    "shortName": "Vitória SC",
+    "tla": "GUI"
+   },
+   "away": {
+    "id": 9136,
+    "name": "CF Estrela da Amadora",
+    "shortName": "Amadora",
+    "tla": "AMA"
+   },
+   "score": null
+  },
+  {
+   "id": "555101",
+   "start": "2026-11-29T00:00:00Z",
+   "status": "TIMED",
+   "matchday": 37,
+   "competition": {
+    "code": "BSA",
+    "name": "Campeonato Brasileiro Série A"
+   },
+   "home": {
+    "id": 1770,
+    "name": "Botafogo FR",
+    "shortName": "Botafogo",
+    "tla": "BOT"
+   },
+   "away": {
+    "id": 1777,
+    "name": "EC Bahia",
+    "shortName": "Bahia",
+    "tla": "BAH"
    },
    "score": null
   }

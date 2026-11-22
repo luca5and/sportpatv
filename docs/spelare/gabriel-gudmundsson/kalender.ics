@@ -26,12 +26,23 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:560642@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T160000
 DTEND;TZID=Europe/Stockholm:20261121T180000
-SUMMARY:Chelsea – Leeds United (Viaplay)
-DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
-  Gabriel Gudmundsson. https://patv.se/match/chelsea-leeds-united-21-nov/
+SUMMARY:Chelsea – Leeds United 1–4
+DESCRIPTION:Premier League. Slutresultat 1–4. Svenskar: Gabriel Gudmundss
+ on. https://patv.se/match/chelsea-leeds-united-21-nov/
 URL:https://patv.se/match/chelsea-leeds-united-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:560652@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T160000
+DTEND;TZID=Europe/Stockholm:20261128T180000
+SUMMARY:Leeds United – Coventry City (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Gabriel Gudmundsson. https://patv.se/match/leeds-unite
+ d-coventry-city-28-nov/
+URL:https://patv.se/match/leeds-united-coventry-city-28-nov/
 END:VEVENT
 END:VCALENDAR

@@ -38,14 +38,14 @@ URL:https://patv.se/match/toronto-maple-leafs-los-angeles-kings-19-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020366@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T010000
 DTEND;TZID=Europe/Stockholm:20261122T040000
-SUMMARY:Ottawa Senators – Los Angeles Kings (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: André Burakovsky\, Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson
- \, William Eklund\, Adrian Kempe\, Andre Lee\, Anton Forsberg\, Erik Gusta
- fsson. https://patv.se/match/ottawa-senators-los-angeles-kings-21-nov/
+SUMMARY:Ottawa Senators – Los Angeles Kings 4–2
+DESCRIPTION:NHL. Slutresultat 4–2. Svenskar: Andre Burakovsky\, Fabian Ze
+ tterlund\, Linus Ullmark\, Samuel Ersson\, William Eklund\, Adrian Kempe\,
+  Andre Lee\, Anton Forsberg\, Erik Gustafsson. https://patv.se/match/ottaw
+ a-senators-los-angeles-kings-21-nov/
 URL:https://patv.se/match/ottawa-senators-los-angeles-kings-21-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -70,5 +70,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Leo Carlsson\, Adrian Kempe\, Andre Lee\, Anton Forsberg\, Erik Gusta
  fsson. https://patv.se/match/anaheim-ducks-los-angeles-kings-27-nov/
 URL:https://patv.se/match/anaheim-ducks-los-angeles-kings-27-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020426@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T030000
+DTEND;TZID=Europe/Stockholm:20261129T060000
+SUMMARY:Los Angeles Kings – Anaheim Ducks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adrian Kempe\, Andre Lee\, Anton Forsberg\, Erik Gustafsson\, Leo Car
+ lsson. https://patv.se/match/los-angeles-kings-anaheim-ducks-28-nov/
+URL:https://patv.se/match/los-angeles-kings-anaheim-ducks-28-nov/
 END:VEVENT
 END:VCALENDAR

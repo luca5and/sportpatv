@@ -34,4 +34,14 @@ DESCRIPTION:La Liga. TV i Sverige: Disney+. Svenskar: Jens Cajuste. https:/
  /patv.se/match/osasuna-malaga-22-nov/
 URL:https://patv.se/match/osasuna-malaga-22-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:564767@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T161500
+DTEND;TZID=Europe/Stockholm:20261128T181500
+SUMMARY:Málaga – Athletic (Disney+)
+DESCRIPTION:La Liga. TV i Sverige: Disney+. Svenskar: Jens Cajuste. https:/
+ /patv.se/match/malaga-athletic-28-nov/
+URL:https://patv.se/match/malaga-athletic-28-nov/
+END:VEVENT
 END:VCALENDAR

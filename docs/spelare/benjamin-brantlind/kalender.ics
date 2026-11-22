@@ -26,12 +26,22 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:559627@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T204500
 DTEND;TZID=Europe/Stockholm:20261121T224500
-SUMMARY:Strasbourg – Brest (Viaplay)
-DESCRIPTION:Ligue 1. TV i Sverige: Viaplay. Svenskar: Benjamin Brantlind\, 
- Sebastian Nanasi. https://patv.se/match/strasbourg-brest-21-nov/
+SUMMARY:Strasbourg – Brest 0–1
+DESCRIPTION:Ligue 1. Slutresultat 0–1. Svenskar: Benjamin Brantlind\, Seb
+ astian Nanasi. https://patv.se/match/strasbourg-brest-21-nov/
 URL:https://patv.se/match/strasbourg-brest-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:559613@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T204500
+DTEND;TZID=Europe/Stockholm:20261128T224500
+SUMMARY:Le Havre – Strasbourg (Viaplay)
+DESCRIPTION:Ligue 1. TV i Sverige: Viaplay. Svenskar: Benjamin Brantlind\, 
+ Sebastian Nanasi. https://patv.se/match/le-havre-strasbourg-28-nov/
+URL:https://patv.se/match/le-havre-strasbourg-28-nov/
 END:VEVENT
 END:VCALENDAR

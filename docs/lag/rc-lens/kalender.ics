@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:559623@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T204500
 DTEND;TZID=Europe/Stockholm:20261121T224500
-SUMMARY:RC Lens – Toulouse (Viaplay)
-DESCRIPTION:Ligue 1. TV i Sverige: Viaplay. Svenskar: Sion Oppong. https://
- patv.se/match/rc-lens-toulouse-21-nov/
+SUMMARY:RC Lens – Toulouse 1–1
+DESCRIPTION:Ligue 1. Slutresultat 1–1. Svenskar: Sion Oppong. https://pat
+ v.se/match/rc-lens-toulouse-21-nov/
 URL:https://patv.se/match/rc-lens-toulouse-21-nov/
 END:VEVENT
 END:VCALENDAR

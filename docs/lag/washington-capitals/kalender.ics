@@ -37,13 +37,13 @@ URL:https://patv.se/match/washington-capitals-buffalo-sabres-19-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020363@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T010000
 DTEND;TZID=Europe/Stockholm:20261122T040000
-SUMMARY:Boston Bruins – Washington Capitals (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Elias Lindholm\, Hampus Lindholm\, Rasmus Sandin\, Timothy Liljegren.
-  https://patv.se/match/boston-bruins-washington-capitals-21-nov/
+SUMMARY:Boston Bruins – Washington Capitals 7–5
+DESCRIPTION:NHL. Slutresultat 7–5. Svenskar: Elias Lindholm\, Hampus Lind
+ holm\, Rasmus Sandin\, Timothy Liljegren. https://patv.se/match/boston-bru
+ ins-washington-capitals-21-nov/
 URL:https://patv.se/match/boston-bruins-washington-capitals-21-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -68,5 +68,17 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Rasmus Sandin\, Timothy Liljegren\, Gustav Forsling\, Jacob Markströ
  m. https://patv.se/match/washington-capitals-florida-panthers-27-nov/
 URL:https://patv.se/match/washington-capitals-florida-panthers-27-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020422@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T010000
+DTEND;TZID=Europe/Stockholm:20261129T040000
+SUMMARY:St. Louis Blues – Washington Capitals (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Calle Rosén\, Jonatan Berggren\, Philip Broberg\, Rasmus Sandin\, Ti
+ mothy Liljegren. https://patv.se/match/st-louis-blues-washington-capitals-
+ 28-nov/
+URL:https://patv.se/match/st-louis-blues-washington-capitals-28-nov/
 END:VEVENT
 END:VCALENDAR

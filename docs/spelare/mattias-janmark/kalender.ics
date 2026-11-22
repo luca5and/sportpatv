@@ -37,13 +37,13 @@ URL:https://patv.se/match/tampa-bay-lightning-edmonton-oilers-19-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020359@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T190000
 DTEND;TZID=Europe/Stockholm:20261121T220000
-SUMMARY:Carolina Hurricanes – Edmonton Oilers (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Filip Hållander\, Mattias Ekholm\, Mattias Janmark. https://patv.se/
- match/carolina-hurricanes-edmonton-oilers-21-nov/
+SUMMARY:Carolina Hurricanes – Edmonton Oilers 7–4
+DESCRIPTION:NHL. Slutresultat 7–4. Svenskar: Filip Hallander\, Mattias Ek
+ holm\, Mattias Janmark. https://patv.se/match/carolina-hurricanes-edmonton
+ -oilers-21-nov/
 URL:https://patv.se/match/carolina-hurricanes-edmonton-oilers-21-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -80,5 +80,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Filip Hållander\, Mattias Ekholm\, Mattias Janmark\, Adam Larsson. h
  ttps://patv.se/match/edmonton-oilers-seattle-kraken-27-nov/
 URL:https://patv.se/match/edmonton-oilers-seattle-kraken-27-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020427@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T040000
+DTEND;TZID=Europe/Stockholm:20261129T070000
+SUMMARY:Seattle Kraken – Edmonton Oilers (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adam Larsson\, Filip Hållander\, Mattias Ekholm\, Mattias Janmark. h
+ ttps://patv.se/match/seattle-kraken-edmonton-oilers-28-nov/
+URL:https://patv.se/match/seattle-kraken-edmonton-oilers-28-nov/
 END:VEVENT
 END:VCALENDAR

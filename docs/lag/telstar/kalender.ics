@@ -24,4 +24,14 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:558825@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T163000
+DTEND;TZID=Europe/Stockholm:20261128T183000
+SUMMARY:Excelsior – Telstar (Viaplay)
+DESCRIPTION:Eredivisie. TV i Sverige: Viaplay. Svenskar: Casper Widell\, Ya
+ cqub Finey. https://patv.se/match/excelsior-telstar-28-nov/
+URL:https://patv.se/match/excelsior-telstar-28-nov/
+END:VEVENT
 END:VCALENDAR

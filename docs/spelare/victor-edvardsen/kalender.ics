@@ -34,4 +34,14 @@ DESCRIPTION:Eredivisie. TV i Sverige: Viaplay. Svenskar: Victor Edvardsen\,
   Kristoffer Peterson. https://patv.se/match/go-ahead-sittard-22-nov/
 URL:https://patv.se/match/go-ahead-sittard-22-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:558826@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T184500
+DTEND;TZID=Europe/Stockholm:20261128T204500
+SUMMARY:PSV – Go Ahead (Viaplay)
+DESCRIPTION:Eredivisie. TV i Sverige: Viaplay. Svenskar: Victor Edvardsen. 
+ https://patv.se/match/psv-go-ahead-28-nov/
+URL:https://patv.se/match/psv-go-ahead-28-nov/
+END:VEVENT
 END:VCALENDAR

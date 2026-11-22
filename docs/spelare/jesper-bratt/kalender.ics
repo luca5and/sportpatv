@@ -37,14 +37,13 @@ URL:https://patv.se/match/new-jersey-devils-montreal-canadiens-18-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020368@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T010000
 DTEND;TZID=Europe/Stockholm:20261122T040000
-SUMMARY:St. Louis Blues – New Jersey Devils (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Calle Rosén\, Jonatan Berggren\, Philip Broberg\, Jesper Boqvist\, J
- esper Bratt. https://patv.se/match/st-louis-blues-new-jersey-devils-21-nov
- /
+SUMMARY:St. Louis Blues – New Jersey Devils 9–6
+DESCRIPTION:NHL. Slutresultat 9–6. Svenskar: Calle Rosen\, Jonatan Berggr
+ en\, Philip Broberg\, Jesper Boqvist\, Jesper Bratt. https://patv.se/match
+ /st-louis-blues-new-jersey-devils-21-nov/
 URL:https://patv.se/match/st-louis-blues-new-jersey-devils-21-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -81,5 +80,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Jesper Boqvist\, Jesper Bratt\, Mikael Backlund. https://patv.se/matc
  h/new-jersey-devils-calgary-flames-27-nov/
 URL:https://patv.se/match/new-jersey-devils-calgary-flames-27-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020418@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T010000
+DTEND;TZID=Europe/Stockholm:20261129T040000
+SUMMARY:New Jersey Devils – Winnipeg Jets (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Jesper Boqvist\, Jesper Bratt\, Elias Salomonsson\, Isak Rosén\, Vig
+ go Björck. https://patv.se/match/new-jersey-devils-winnipeg-jets-28-nov/
+URL:https://patv.se/match/new-jersey-devils-winnipeg-jets-28-nov/
 END:VEVENT
 END:VCALENDAR

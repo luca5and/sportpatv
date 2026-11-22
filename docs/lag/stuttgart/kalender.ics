@@ -24,4 +24,14 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:565870@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T183000
+DTEND;TZID=Europe/Stockholm:20261128T203000
+SUMMARY:Stuttgart – Frankfurt (Viaplay)
+DESCRIPTION:Bundesliga. TV i Sverige: Viaplay. Svenskar: Love Arrhov. https
+ ://patv.se/match/stuttgart-frankfurt-28-nov/
+URL:https://patv.se/match/stuttgart-frankfurt-28-nov/
+END:VEVENT
 END:VCALENDAR

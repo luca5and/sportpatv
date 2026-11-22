@@ -71,4 +71,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  s://patv.se/match/tampa-bay-lightning-ottawa-senators-27-nov/
 URL:https://patv.se/match/tampa-bay-lightning-ottawa-senators-27-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020416@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T000000
+DTEND;TZID=Europe/Stockholm:20261129T030000
+SUMMARY:Florida Panthers – Tampa Bay Lightning (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Gustav Forsling\, Jacob Markström\, Dennis Hildeby\, Pontus Holmberg
+ \, Victor Hedman. https://patv.se/match/florida-panthers-tampa-bay-lightni
+ ng-28-nov/
+URL:https://patv.se/match/florida-panthers-tampa-bay-lightning-28-nov/
+END:VEVENT
 END:VCALENDAR

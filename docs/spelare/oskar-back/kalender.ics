@@ -70,4 +70,15 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  skar Bäck. https://patv.se/match/st-louis-blues-dallas-stars-27-nov/
 URL:https://patv.se/match/st-louis-blues-dallas-stars-27-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020424@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T020000
+DTEND;TZID=Europe/Stockholm:20261129T050000
+SUMMARY:Dallas Stars – Utah Mammoth (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Nils Lundkvist\, Oskar Bäck\, Kevin Stenlund. https://patv.se/match/
+ dallas-stars-utah-mammoth-28-nov/
+URL:https://patv.se/match/dallas-stars-utah-mammoth-28-nov/
+END:VEVENT
 END:VCALENDAR

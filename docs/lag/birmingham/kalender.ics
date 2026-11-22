@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:561946@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T160000
 DTEND;TZID=Europe/Stockholm:20261121T180000
-SUMMARY:Stoke – Birmingham (Viaplay)
-DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Svante Ingelsson
- \, Viktor Johansson. https://patv.se/match/stoke-birmingham-21-nov/
+SUMMARY:Stoke – Birmingham 1–0
+DESCRIPTION:Championship. Slutresultat 1–0. Svenskar: Svante Ingelsson\, 
+ Viktor Johansson. https://patv.se/match/stoke-birmingham-21-nov/
 URL:https://patv.se/match/stoke-birmingham-21-nov/
 END:VEVENT
 BEGIN:VEVENT

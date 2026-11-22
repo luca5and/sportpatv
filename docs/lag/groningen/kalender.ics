@@ -26,13 +26,13 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:558834@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T210000
 DTEND;TZID=Europe/Stockholm:20261121T230000
-SUMMARY:Groningen – Heerenveen (Viaplay)
-DESCRIPTION:Eredivisie. TV i Sverige: Viaplay. Svenskar: Alvin Nordin\, Elv
- is van der Laan\, Jacob Ondrejka\, Malcolm Jeng\, Marcus Linday. https://p
- atv.se/match/groningen-heerenveen-21-nov/
+SUMMARY:Groningen – Heerenveen 1–3
+DESCRIPTION:Eredivisie. Slutresultat 1–3. Svenskar: Alvin Nordin\, Elvis 
+ Van Der Laan\, Jacob Ondrejka\, Malcolm Jeng\, Marcus Linday. https://patv
+ .se/match/groningen-heerenveen-21-nov/
 URL:https://patv.se/match/groningen-heerenveen-21-nov/
 END:VEVENT
 BEGIN:VEVENT

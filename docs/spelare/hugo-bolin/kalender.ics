@@ -26,13 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:565862@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T153000
 DTEND;TZID=Europe/Stockholm:20261121T173000
-SUMMARY:M'gladbach – Dortmund (Viaplay)
-DESCRIPTION:Bundesliga. TV i Sverige: Viaplay. Svenskar: Hugo Bolin\, Isac 
- Lidberg\, Daniel Svensson. https://patv.se/match/m-gladbach-dortmund-21-no
- v/
+SUMMARY:M'gladbach – Dortmund 0–1
+DESCRIPTION:Bundesliga. Slutresultat 0–1. Svenskar: Hugo Bolin\, Isac Lid
+ berg\, Daniel Svensson. https://patv.se/match/m-gladbach-dortmund-21-nov/
 URL:https://patv.se/match/m-gladbach-dortmund-21-nov/
 END:VEVENT
 BEGIN:VEVENT

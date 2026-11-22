@@ -26,13 +26,13 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:nhl-2026020372@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T040000
 DTEND;TZID=Europe/Stockholm:20261122T070000
-SUMMARY:San Jose Sharks – Seattle Kraken (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Alexander Wennberg\, Ivar Stenberg\, Adam Larsson. https://patv.se/ma
- tch/san-jose-sharks-seattle-kraken-21-nov/
+SUMMARY:San Jose Sharks – Seattle Kraken 4–3
+DESCRIPTION:NHL. Slutresultat 4–3. Svenskar: Alexander Wennberg\, Ivar St
+ enberg\, Adam Larsson. https://patv.se/match/san-jose-sharks-seattle-krake
+ n-21-nov/
 URL:https://patv.se/match/san-jose-sharks-seattle-kraken-21-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -69,5 +69,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  on\, William Karlsson. https://patv.se/match/san-jose-sharks-vegas-golden-
  knights-27-nov/
 URL:https://patv.se/match/san-jose-sharks-vegas-golden-knights-27-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020425@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T030000
+DTEND;TZID=Europe/Stockholm:20261129T060000
+SUMMARY:Colorado Avalanche – San Jose Sharks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Gabriel Landeskog\, Alexander Wennberg\, Ivar Stenberg. https://patv.
+ se/match/colorado-avalanche-san-jose-sharks-28-nov/
+URL:https://patv.se/match/colorado-avalanche-san-jose-sharks-28-nov/
 END:VEVENT
 END:VCALENDAR

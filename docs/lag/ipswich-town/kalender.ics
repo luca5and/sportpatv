@@ -26,13 +26,23 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:560648@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T160000
 DTEND;TZID=Europe/Stockholm:20261121T180000
-SUMMARY:Tottenham – Ipswich Town (Viaplay)
-DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
-  Dejan Kulusevski\, Lucas Bergvall. https://patv.se/match/tottenham-ipswic
- h-town-21-nov/
+SUMMARY:Tottenham – Ipswich Town 2–0
+DESCRIPTION:Premier League. Slutresultat 2–0. Svenskar: Dejan Kulusevski\
+ , Lucas Bergvall. https://patv.se/match/tottenham-ipswich-town-21-nov/
 URL:https://patv.se/match/tottenham-ipswich-town-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:560653@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T183000
+DTEND;TZID=Europe/Stockholm:20261128T203000
+SUMMARY:Ipswich Town – Aston Villa (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Victor Nilsson Lindelöf. https://patv.se/match/ipswic
+ h-town-aston-villa-28-nov/
+URL:https://patv.se/match/ipswich-town-aston-villa-28-nov/
 END:VEVENT
 END:VCALENDAR

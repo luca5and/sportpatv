@@ -37,13 +37,13 @@ URL:https://patv.se/match/chicago-blackhawks-columbus-blue-jackets-19-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020360@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T213000
 DTEND;TZID=Europe/Stockholm:20261122T003000
-SUMMARY:Calgary Flames – Chicago Blackhawks (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Mikael Backlund\, Anton Frondell. https://patv.se/match/calgary-flame
- s-chicago-blackhawks-21-nov/
+SUMMARY:Calgary Flames – Chicago Blackhawks 3–4 efter förlängning
+DESCRIPTION:NHL. Slutresultat 3–4 efter förlängning. Svenskar: Mikael B
+ acklund\, Anton Frondell. https://patv.se/match/calgary-flames-chicago-bla
+ ckhawks-21-nov/
 URL:https://patv.se/match/calgary-flames-chicago-blackhawks-21-nov/
 END:VEVENT
 BEGIN:VEVENT

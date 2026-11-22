@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:561951@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T160000
 DTEND;TZID=Europe/Stockholm:20261121T180000
-SUMMARY:West Ham – Preston NE (Viaplay)
-DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Jusef Erabi. htt
- ps://patv.se/match/west-ham-preston-ne-21-nov/
+SUMMARY:West Ham – Preston NE 1–1
+DESCRIPTION:Championship. Slutresultat 1–1. Svenskar: Jusef Erabi. https:
+ //patv.se/match/west-ham-preston-ne-21-nov/
 URL:https://patv.se/match/west-ham-preston-ne-21-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -43,5 +43,15 @@ SUMMARY:Cardiff – Preston NE (Viaplay)
 DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Jusef Erabi. htt
  ps://patv.se/match/cardiff-preston-ne-24-nov/
 URL:https://patv.se/match/cardiff-preston-ne-24-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:561973@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T133000
+DTEND;TZID=Europe/Stockholm:20261128T153000
+SUMMARY:Preston NE – Norwich (Viaplay)
+DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Jusef Erabi. htt
+ ps://patv.se/match/preston-ne-norwich-28-nov/
+URL:https://patv.se/match/preston-ne-norwich-28-nov/
 END:VEVENT
 END:VCALENDAR

@@ -24,4 +24,14 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:561971@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T160000
+DTEND;TZID=Europe/Stockholm:20261128T180000
+SUMMARY:Derby County – Watford (Viaplay)
+DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Jacob Widell Zet
+ terström. https://patv.se/match/derby-county-watford-28-nov/
+URL:https://patv.se/match/derby-county-watford-28-nov/
+END:VEVENT
 END:VCALENDAR

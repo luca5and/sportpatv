@@ -57,4 +57,15 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  match/chicago-blackhawks-new-york-rangers-27-nov/
 URL:https://patv.se/match/chicago-blackhawks-new-york-rangers-27-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020419@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T010000
+DTEND;TZID=Europe/Stockholm:20261129T040000
+SUMMARY:New York Rangers – Calgary Flames (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Marcus Pettersson\, Mika Zibanejad\, Mikael Backlund. https://patv.se
+ /match/new-york-rangers-calgary-flames-28-nov/
+URL:https://patv.se/match/new-york-rangers-calgary-flames-28-nov/
+END:VEVENT
 END:VCALENDAR

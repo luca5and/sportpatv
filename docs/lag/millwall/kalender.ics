@@ -34,4 +34,14 @@ DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Svante Ingelsson
  \, Viktor Johansson. https://patv.se/match/stoke-millwall-25-nov/
 URL:https://patv.se/match/stoke-millwall-25-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:561967@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T160000
+DTEND;TZID=Europe/Stockholm:20261128T180000
+SUMMARY:Millwall – Burnley (Viaplay)
+DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Hjalmar Ekdal. h
+ ttps://patv.se/match/millwall-burnley-28-nov/
+URL:https://patv.se/match/millwall-burnley-28-nov/
+END:VEVENT
 END:VCALENDAR

@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:559628@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T171500
 DTEND;TZID=Europe/Stockholm:20261121T191500
-SUMMARY:Nice – PSG (Viaplay)
-DESCRIPTION:Ligue 1. TV i Sverige: Viaplay. Svenskar: Isak Jansson. https:/
- /patv.se/match/nice-psg-21-nov/
+SUMMARY:Nice – PSG 2–3
+DESCRIPTION:Ligue 1. Slutresultat 2–3. Svenskar: Isak Jansson. https://pa
+ tv.se/match/nice-psg-21-nov/
 URL:https://patv.se/match/nice-psg-21-nov/
 END:VEVENT
 END:VCALENDAR

@@ -37,14 +37,12 @@ URL:https://patv.se/match/ottawa-senators-philadelphia-flyers-19-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020365@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T010000
 DTEND;TZID=Europe/Stockholm:20261122T040000
-SUMMARY:Montréal Canadiens – Philadelphia Flyers (Viaplay eller Disney+?
- )
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Adam Engström\, Oliver Kapanen. https://patv.se/match/montreal-canad
- iens-philadelphia-flyers-21-nov/
+SUMMARY:Montréal Canadiens – Philadelphia Flyers 3–4
+DESCRIPTION:NHL. Slutresultat 3–4. Svenskar: Adam Engstrom\, Oliver Kapan
+ en. https://patv.se/match/montreal-canadiens-philadelphia-flyers-21-nov/
 URL:https://patv.se/match/montreal-canadiens-philadelphia-flyers-21-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -70,5 +68,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
   Liam Öhgren\, Linus Karlsson\, Tom Willander. https://patv.se/match/phil
  adelphia-flyers-vancouver-canucks-27-nov/
 URL:https://patv.se/match/philadelphia-flyers-vancouver-canucks-27-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020423@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T013000
+DTEND;TZID=Europe/Stockholm:20261129T043000
+SUMMARY:Philadelphia Flyers – New York Islanders (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Emil Heineman\, Simon Holmström\, Victor Eklund. https://patv.se/mat
+ ch/philadelphia-flyers-new-york-islanders-28-nov/
+URL:https://patv.se/match/philadelphia-flyers-new-york-islanders-28-nov/
 END:VEVENT
 END:VCALENDAR

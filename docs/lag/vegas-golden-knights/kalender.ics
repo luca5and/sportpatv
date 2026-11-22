@@ -37,14 +37,14 @@ URL:https://patv.se/match/vegas-golden-knights-dallas-stars-19-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020369@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T010000
 DTEND;TZID=Europe/Stockholm:20261122T040000
-SUMMARY:Winnipeg Jets – Vegas Golden Knights (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Isak Rosén\, Viggo Björck\, Rasmus Andersson\, Victor Olofsson\, Wi
- lliam Karlsson. https://patv.se/match/winnipeg-jets-vegas-golden-knights-2
- 1-nov/
+SUMMARY:Winnipeg Jets – Vegas Golden Knights 4–5 efter straffar
+DESCRIPTION:NHL. Slutresultat 4–5 efter straffar. Svenskar: Elias Salomon
+ sson\, Isak Rosen\, Viggo Björck\, Rasmus Andersson\, Victor Olofsson\, W
+ illiam Karlsson. https://patv.se/match/winnipeg-jets-vegas-golden-knights-
+ 21-nov/
 URL:https://patv.se/match/winnipeg-jets-vegas-golden-knights-21-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -70,5 +70,18 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  on\, William Karlsson. https://patv.se/match/san-jose-sharks-vegas-golden-
  knights-27-nov/
 URL:https://patv.se/match/san-jose-sharks-vegas-golden-knights-27-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020415@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T220000
+DTEND;TZID=Europe/Stockholm:20261129T010000
+SUMMARY:Vegas Golden Knights – Montréal Canadiens (Viaplay eller Disney+
+ ?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Rasmus Andersson\, Victor Olofsson\, William Karlsson\, Adam Engströ
+ m\, Oliver Kapanen. https://patv.se/match/vegas-golden-knights-montreal-ca
+ nadiens-28-nov/
+URL:https://patv.se/match/vegas-golden-knights-montreal-canadiens-28-nov/
 END:VEVENT
 END:VCALENDAR

@@ -38,13 +38,13 @@ URL:https://patv.se/match/carolina-hurricanes-montreal-canadiens-19-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020359@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T190000
 DTEND;TZID=Europe/Stockholm:20261121T220000
-SUMMARY:Carolina Hurricanes – Edmonton Oilers (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Filip Hållander\, Mattias Ekholm\, Mattias Janmark. https://patv.se/
- match/carolina-hurricanes-edmonton-oilers-21-nov/
+SUMMARY:Carolina Hurricanes – Edmonton Oilers 7–4
+DESCRIPTION:NHL. Slutresultat 7–4. Svenskar: Filip Hallander\, Mattias Ek
+ holm\, Mattias Janmark. https://patv.se/match/carolina-hurricanes-edmonton
+ -oilers-21-nov/
 URL:https://patv.se/match/carolina-hurricanes-edmonton-oilers-21-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -69,5 +69,17 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Dennis Hildeby\, Pontus Holmberg\, Victor Hedman. https://patv.se/mat
  ch/tampa-bay-lightning-carolina-hurricanes-25-nov/
 URL:https://patv.se/match/tampa-bay-lightning-carolina-hurricanes-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020421@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T010000
+DTEND;TZID=Europe/Stockholm:20261129T040000
+SUMMARY:Carolina Hurricanes – Ottawa Senators (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: André Burakovsky\, Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson
+ \, William Eklund. https://patv.se/match/carolina-hurricanes-ottawa-senato
+ rs-28-nov/
+URL:https://patv.se/match/carolina-hurricanes-ottawa-senators-28-nov/
 END:VEVENT
 END:VCALENDAR

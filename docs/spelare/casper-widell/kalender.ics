@@ -26,12 +26,22 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:558831@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T184500
 DTEND;TZID=Europe/Stockholm:20261121T204500
-SUMMARY:Feyenoord – Excelsior (Viaplay)
-DESCRIPTION:Eredivisie. TV i Sverige: Viaplay. Svenskar: Casper Widell\, Ya
- cqub Finey. https://patv.se/match/feyenoord-excelsior-21-nov/
+SUMMARY:Feyenoord – Excelsior 2–3
+DESCRIPTION:Eredivisie. Slutresultat 2–3. Svenskar: Casper Widell\, Yacqu
+ b Finey. https://patv.se/match/feyenoord-excelsior-21-nov/
 URL:https://patv.se/match/feyenoord-excelsior-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:558825@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T163000
+DTEND;TZID=Europe/Stockholm:20261128T183000
+SUMMARY:Excelsior – Telstar (Viaplay)
+DESCRIPTION:Eredivisie. TV i Sverige: Viaplay. Svenskar: Casper Widell\, Ya
+ cqub Finey. https://patv.se/match/excelsior-telstar-28-nov/
+URL:https://patv.se/match/excelsior-telstar-28-nov/
 END:VEVENT
 END:VCALENDAR

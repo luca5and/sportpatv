@@ -24,4 +24,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:560652@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T160000
+DTEND;TZID=Europe/Stockholm:20261128T180000
+SUMMARY:Leeds United – Coventry City (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Gabriel Gudmundsson. https://patv.se/match/leeds-unite
+ d-coventry-city-28-nov/
+URL:https://patv.se/match/leeds-united-coventry-city-28-nov/
+END:VEVENT
 END:VCALENDAR

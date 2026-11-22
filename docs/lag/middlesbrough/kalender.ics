@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:561943@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T160000
 DTEND;TZID=Europe/Stockholm:20261121T180000
-SUMMARY:Middlesbrough – Bristol City (Viaplay)
-DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Noah Eile. https
- ://patv.se/match/middlesbrough-bristol-city-21-nov/
+SUMMARY:Middlesbrough – Bristol City 2–0
+DESCRIPTION:Championship. Slutresultat 2–0. Svenskar: Noah Eile. https://
+ patv.se/match/middlesbrough-bristol-city-21-nov/
 URL:https://patv.se/match/middlesbrough-bristol-city-21-nov/
 END:VEVENT
 BEGIN:VEVENT

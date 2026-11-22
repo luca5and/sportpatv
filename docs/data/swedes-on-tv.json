@@ -1,1445 +1,6 @@
 {
- "generated": "2026-11-21T17:03+00:00",
+ "generated": "2026-11-22T11:27+00:00",
  "events": [
-  {
-   "id": "565865",
-   "sport": "Fotboll",
-   "competition": "Bundesliga",
-   "start": "2026-11-21T14:30:00Z",
-   "title": "Frankfurt – Hoffenheim",
-   "swedes": [
-    {
-     "name": "Love Arrhov",
-     "team": "Frankfurt",
-     "url": "https://sv.wikipedia.org/wiki/Love_Arrhov",
-     "page": "spelare/love-arrhov/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Frankfurt",
-     "page": "lag/frankfurt/"
-    },
-    {
-     "name": "Hoffenheim",
-     "page": "lag/hoffenheim/"
-    }
-   ],
-   "page": "match/frankfurt-hoffenheim-21-nov/"
-  },
-  {
-   "id": "565862",
-   "sport": "Fotboll",
-   "competition": "Bundesliga",
-   "start": "2026-11-21T14:30:00Z",
-   "title": "M'gladbach – Dortmund",
-   "swedes": [
-    {
-     "name": "Hugo Bolin",
-     "team": "M'gladbach",
-     "url": "https://sv.wikipedia.org/wiki/Hugo_Bolin",
-     "page": "spelare/hugo-bolin/"
-    },
-    {
-     "name": "Isac Lidberg",
-     "team": "M'gladbach",
-     "url": "https://sv.wikipedia.org/wiki/Isac_Lidberg",
-     "page": "spelare/isac-lidberg/"
-    },
-    {
-     "name": "Daniel Svensson",
-     "team": "Dortmund",
-     "url": "https://sv.wikipedia.org/wiki/Daniel_Svensson_(fotbollsspelare_f%C3%B6dd_2002)",
-     "page": "spelare/daniel-svensson/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "M'gladbach",
-     "page": "lag/m-gladbach/"
-    },
-    {
-     "name": "Dortmund",
-     "page": "lag/dortmund/"
-    }
-   ],
-   "page": "match/m-gladbach-dortmund-21-nov/"
-  },
-  {
-   "id": "560644",
-   "sport": "Fotboll",
-   "competition": "Premier League",
-   "start": "2026-11-21T15:00:00Z",
-   "title": "Aston Villa – Sunderland",
-   "swedes": [
-    {
-     "name": "Victor Nilsson Lindelöf",
-     "team": "Aston Villa",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Nilsson_Lindel%C3%B6f",
-     "page": "spelare/victor-nilsson-lindelof/"
-    },
-    {
-     "name": "Melker Ellborg",
-     "team": "Sunderland",
-     "url": "https://sv.wikipedia.org/wiki/Melker_Ellborg",
-     "page": "spelare/melker-ellborg/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Aston Villa",
-     "page": "lag/aston-villa/"
-    },
-    {
-     "name": "Sunderland",
-     "page": "lag/sunderland/"
-    }
-   ],
-   "page": "match/aston-villa-sunderland-21-nov/"
-  },
-  {
-   "id": "560642",
-   "sport": "Fotboll",
-   "competition": "Premier League",
-   "start": "2026-11-21T15:00:00Z",
-   "title": "Chelsea – Leeds United",
-   "swedes": [
-    {
-     "name": "Gabriel Gudmundsson",
-     "team": "Leeds United",
-     "url": "https://sv.wikipedia.org/wiki/Gabriel_Gudmundsson",
-     "page": "spelare/gabriel-gudmundsson/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Chelsea",
-     "page": "lag/chelsea/"
-    },
-    {
-     "name": "Leeds United",
-     "page": "lag/leeds-united/"
-    }
-   ],
-   "page": "match/chelsea-leeds-united-21-nov/"
-  },
-  {
-   "id": "561943",
-   "sport": "Fotboll",
-   "competition": "Championship",
-   "start": "2026-11-21T15:00:00Z",
-   "title": "Middlesbrough – Bristol City",
-   "swedes": [
-    {
-     "name": "Noah Eile",
-     "team": "Bristol City",
-     "url": "https://sv.wikipedia.org/wiki/Noah_Eile",
-     "page": "spelare/noah-eile/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Middlesbrough",
-     "page": "lag/middlesbrough/"
-    },
-    {
-     "name": "Bristol City",
-     "page": "lag/bristol-city/"
-    }
-   ],
-   "page": "match/middlesbrough-bristol-city-21-nov/"
-  },
-  {
-   "id": "561946",
-   "sport": "Fotboll",
-   "competition": "Championship",
-   "start": "2026-11-21T15:00:00Z",
-   "title": "Stoke – Birmingham",
-   "swedes": [
-    {
-     "name": "Svante Ingelsson",
-     "team": "Stoke",
-     "url": "https://sv.wikipedia.org/wiki/Svante_Ingelsson",
-     "page": "spelare/svante-ingelsson/"
-    },
-    {
-     "name": "Viktor Johansson",
-     "team": "Stoke",
-     "url": "https://sv.wikipedia.org/wiki/Viktor_Johansson_(fotbollsspelare)",
-     "page": "spelare/viktor-johansson/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Stoke",
-     "page": "lag/stoke/"
-    },
-    {
-     "name": "Birmingham",
-     "page": "lag/birmingham/"
-    }
-   ],
-   "page": "match/stoke-birmingham-21-nov/"
-  },
-  {
-   "id": "561942",
-   "sport": "Fotboll",
-   "competition": "Championship",
-   "start": "2026-11-21T15:00:00Z",
-   "title": "Swansea – West Brom",
-   "swedes": [
-    {
-     "name": "Melker Widell",
-     "team": "Swansea",
-     "url": "https://sv.wikipedia.org/wiki/Melker_Widell",
-     "page": "spelare/melker-widell/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Swansea",
-     "page": "lag/swansea/"
-    },
-    {
-     "name": "West Brom",
-     "page": "lag/west-brom/"
-    }
-   ],
-   "page": "match/swansea-west-brom-21-nov/"
-  },
-  {
-   "id": "560648",
-   "sport": "Fotboll",
-   "competition": "Premier League",
-   "start": "2026-11-21T15:00:00Z",
-   "title": "Tottenham – Ipswich Town",
-   "swedes": [
-    {
-     "name": "Dejan Kulusevski",
-     "team": "Tottenham",
-     "url": "https://sv.wikipedia.org/wiki/Dejan_Kulusevski",
-     "page": "spelare/dejan-kulusevski/"
-    },
-    {
-     "name": "Lucas Bergvall",
-     "team": "Tottenham",
-     "url": "https://sv.wikipedia.org/wiki/Lucas_Bergvall",
-     "page": "spelare/lucas-bergvall/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Tottenham",
-     "page": "lag/tottenham/"
-    },
-    {
-     "name": "Ipswich Town",
-     "page": "lag/ipswich-town/"
-    }
-   ],
-   "page": "match/tottenham-ipswich-town-21-nov/"
-  },
-  {
-   "id": "561951",
-   "sport": "Fotboll",
-   "competition": "Championship",
-   "start": "2026-11-21T15:00:00Z",
-   "title": "West Ham – Preston NE",
-   "swedes": [
-    {
-     "name": "Jusef Erabi",
-     "team": "Preston NE",
-     "url": "https://sv.wikipedia.org/wiki/Jusef_Erabi",
-     "page": "spelare/jusef-erabi/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/geography/sweden/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "West Ham",
-     "page": "lag/west-ham/"
-    },
-    {
-     "name": "Preston NE",
-     "page": "lag/preston-ne/"
-    }
-   ],
-   "page": "match/west-ham-preston-ne-21-nov/"
-  },
-  {
-   "id": "559628",
-   "sport": "Fotboll",
-   "competition": "Ligue 1",
-   "start": "2026-11-21T16:15:00Z",
-   "title": "Nice – PSG",
-   "swedes": [
-    {
-     "name": "Isak Jansson",
-     "team": "Nice",
-     "url": "https://sv.wikipedia.org/wiki/Isak_Jansson_(fotbollsspelare)",
-     "page": "spelare/isak-jansson/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Nice",
-     "page": "lag/nice/"
-    },
-    {
-     "name": "PSG",
-     "page": "lag/psg/"
-    }
-   ],
-   "page": "match/nice-psg-21-nov/"
-  },
-  {
-   "id": "558526",
-   "sport": "Fotboll",
-   "competition": "Serie A",
-   "start": "2026-11-21T17:00:00Z",
-   "title": "Parma – Roma",
-   "swedes": [
-    {
-     "name": "Pontus Almqvist",
-     "team": "Parma",
-     "url": "https://sv.wikipedia.org/wiki/Pontus_Almqvist",
-     "page": "spelare/pontus-almqvist/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "TV4 Play",
-    "channel": null,
-    "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Parma",
-     "page": "lag/parma/"
-    },
-    {
-     "name": "Roma",
-     "page": "lag/roma/"
-    }
-   ],
-   "page": "match/parma-roma-21-nov/"
-  },
-  {
-   "id": "560651",
-   "sport": "Fotboll",
-   "competition": "Premier League",
-   "start": "2026-11-21T17:30:00Z",
-   "title": "Newcastle – Arsenal",
-   "swedes": [
-    {
-     "name": "Anthony Elanga",
-     "team": "Newcastle",
-     "url": "https://sv.wikipedia.org/wiki/Anthony_Elanga",
-     "page": "spelare/anthony-elanga/"
-    },
-    {
-     "name": "Viktor Gyökeres",
-     "team": "Arsenal",
-     "url": "https://sv.wikipedia.org/wiki/Viktor_Gy%C3%B6keres",
-     "page": "spelare/viktor-gyokeres/"
-    }
-   ],
-   "tv": {
-    "status": "likely",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://hurbra.se/premier-league-prime-video-2026-2027/",
-    "note": null
-   },
-   "teams": [
-    {
-     "name": "Newcastle",
-     "page": "lag/newcastle/"
-    },
-    {
-     "name": "Arsenal",
-     "page": "lag/arsenal/"
-    }
-   ],
-   "page": "match/newcastle-arsenal-21-nov/"
-  },
-  {
-   "id": "558831",
-   "sport": "Fotboll",
-   "competition": "Eredivisie",
-   "start": "2026-11-21T17:45:00Z",
-   "title": "Feyenoord – Excelsior",
-   "swedes": [
-    {
-     "name": "Casper Widell",
-     "team": "Excelsior",
-     "url": "https://sv.wikipedia.org/wiki/Casper_Widell",
-     "page": "spelare/casper-widell/"
-    },
-    {
-     "name": "Yacqub Finey",
-     "team": "Excelsior",
-     "url": null,
-     "page": "spelare/yacqub-finey/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Feyenoord",
-     "page": "lag/feyenoord/"
-    },
-    {
-     "name": "Excelsior",
-     "page": "lag/excelsior/"
-    }
-   ],
-   "page": "match/feyenoord-excelsior-21-nov/"
-  },
-  {
-   "id": "nhl-2026020359",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-21T18:00:00Z",
-   "title": "Carolina Hurricanes – Edmonton Oilers",
-   "swedes": [
-    {
-     "name": "Filip Hållander",
-     "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
-     "page": "spelare/filip-hallander/"
-    },
-    {
-     "name": "Mattias Ekholm",
-     "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm",
-     "page": "spelare/mattias-ekholm/"
-    },
-    {
-     "name": "Mattias Janmark",
-     "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark",
-     "page": "spelare/mattias-janmark/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Carolina Hurricanes",
-     "page": "lag/carolina-hurricanes/"
-    },
-    {
-     "name": "Edmonton Oilers",
-     "page": "lag/edmonton-oilers/"
-    }
-   ],
-   "page": "match/carolina-hurricanes-edmonton-oilers-21-nov/"
-  },
-  {
-   "id": "559623",
-   "sport": "Fotboll",
-   "competition": "Ligue 1",
-   "start": "2026-11-21T19:45:00Z",
-   "title": "RC Lens – Toulouse",
-   "swedes": [
-    {
-     "name": "Sion Oppong",
-     "team": "Toulouse",
-     "url": "https://sv.wikipedia.org/wiki/Sion_Oppong",
-     "page": "spelare/sion-oppong/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "RC Lens",
-     "page": "lag/rc-lens/"
-    },
-    {
-     "name": "Toulouse",
-     "page": "lag/toulouse/"
-    }
-   ],
-   "page": "match/rc-lens-toulouse-21-nov/"
-  },
-  {
-   "id": "559627",
-   "sport": "Fotboll",
-   "competition": "Ligue 1",
-   "start": "2026-11-21T19:45:00Z",
-   "title": "Strasbourg – Brest",
-   "swedes": [
-    {
-     "name": "Benjamin Brantlind",
-     "team": "Strasbourg",
-     "url": "https://sv.wikipedia.org/wiki/Benjamin_Brantlind",
-     "page": "spelare/benjamin-brantlind/"
-    },
-    {
-     "name": "Sebastian Nanasi",
-     "team": "Strasbourg",
-     "url": "https://sv.wikipedia.org/wiki/Sebastian_Nanasi",
-     "page": "spelare/sebastian-nanasi/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Strasbourg",
-     "page": "lag/strasbourg/"
-    },
-    {
-     "name": "Brest",
-     "page": "lag/brest/"
-    }
-   ],
-   "page": "match/strasbourg-brest-21-nov/"
-  },
-  {
-   "id": "558834",
-   "sport": "Fotboll",
-   "competition": "Eredivisie",
-   "start": "2026-11-21T20:00:00Z",
-   "title": "Groningen – Heerenveen",
-   "swedes": [
-    {
-     "name": "Alvin Nordin",
-     "team": "Groningen",
-     "url": "https://sv.wikipedia.org/wiki/Alvin_Nordin",
-     "page": "spelare/alvin-nordin/"
-    },
-    {
-     "name": "Elvis van der Laan",
-     "team": "Groningen",
-     "url": "https://sv.wikipedia.org/wiki/Elvis_van_der_Laan",
-     "page": "spelare/elvis-van-der-laan/"
-    },
-    {
-     "name": "Jacob Ondrejka",
-     "team": "Groningen",
-     "url": "https://sv.wikipedia.org/wiki/Jacob_Ondrejka",
-     "page": "spelare/jacob-ondrejka/"
-    },
-    {
-     "name": "Malcolm Jeng",
-     "team": "Groningen",
-     "url": "https://sv.wikipedia.org/wiki/Malcolm_Jeng",
-     "page": "spelare/malcolm-jeng/"
-    },
-    {
-     "name": "Marcus Linday",
-     "team": "Heerenveen",
-     "url": "https://sv.wikipedia.org/wiki/Marcus_Linday",
-     "page": "spelare/marcus-linday/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Viaplay",
-    "channel": null,
-    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Groningen",
-     "page": "lag/groningen/"
-    },
-    {
-     "name": "Heerenveen",
-     "page": "lag/heerenveen/"
-    }
-   ],
-   "page": "match/groningen-heerenveen-21-nov/"
-  },
-  {
-   "id": "564754",
-   "sport": "Fotboll",
-   "competition": "La Liga",
-   "start": "2026-11-21T20:00:00Z",
-   "title": "Real Madrid – Celta",
-   "swedes": [
-    {
-     "name": "Carl Starfelt",
-     "team": "Celta",
-     "url": "https://sv.wikipedia.org/wiki/Carl_Starfelt",
-     "page": "spelare/carl-starfelt/"
-    },
-    {
-     "name": "Williot Swedberg",
-     "team": "Celta",
-     "url": "https://sv.wikipedia.org/wiki/Williot_Swedberg",
-     "page": "spelare/williot-swedberg/"
-    }
-   ],
-   "tv": {
-    "status": "confirmed",
-    "service": "Disney+",
-    "channel": null,
-    "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
-    "note": "Alla matcher i turneringen sänds här"
-   },
-   "teams": [
-    {
-     "name": "Real Madrid",
-     "page": "lag/real-madrid/"
-    },
-    {
-     "name": "Celta",
-     "page": "lag/celta/"
-    }
-   ],
-   "page": "match/real-madrid-celta-21-nov/"
-  },
-  {
-   "id": "nhl-2026020360",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-21T20:30:00Z",
-   "title": "Calgary Flames – Chicago Blackhawks",
-   "swedes": [
-    {
-     "name": "Mikael Backlund",
-     "team": "Flames",
-     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund",
-     "page": "spelare/mikael-backlund/"
-    },
-    {
-     "name": "Anton Frondell",
-     "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell",
-     "page": "spelare/anton-frondell/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Calgary Flames",
-     "page": "lag/calgary-flames/"
-    },
-    {
-     "name": "Chicago Blackhawks",
-     "page": "lag/chicago-blackhawks/"
-    }
-   ],
-   "page": "match/calgary-flames-chicago-blackhawks-21-nov/"
-  },
-  {
-   "id": "nhl-2026020361",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-21T23:00:00Z",
-   "title": "Florida Panthers – Buffalo Sabres",
-   "swedes": [
-    {
-     "name": "Gustav Forsling",
-     "team": "Panthers",
-     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling",
-     "page": "spelare/gustav-forsling/"
-    },
-    {
-     "name": "Jacob Markström",
-     "team": "Panthers",
-     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
-     "page": "spelare/jacob-markstrom/"
-    },
-    {
-     "name": "Noah Östlund",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
-     "page": "spelare/noah-ostlund/"
-    },
-    {
-     "name": "Rasmus Dahlin",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
-     "page": "spelare/rasmus-dahlin/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Florida Panthers",
-     "page": "lag/florida-panthers/"
-    },
-    {
-     "name": "Buffalo Sabres",
-     "page": "lag/buffalo-sabres/"
-    }
-   ],
-   "page": "match/florida-panthers-buffalo-sabres-21-nov/"
-  },
-  {
-   "id": "nhl-2026020362",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-21T23:00:00Z",
-   "title": "Nashville Predators – Pittsburgh Penguins",
-   "swedes": [
-    {
-     "name": "Adam Edström",
-     "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
-     "page": "spelare/adam-edstrom/"
-    },
-    {
-     "name": "Adam Wilsby",
-     "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Wilsby",
-     "page": "spelare/adam-wilsby/"
-    },
-    {
-     "name": "Filip Forsberg",
-     "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Forsberg",
-     "page": "spelare/filip-forsberg/"
-    },
-    {
-     "name": "Nils Höglander",
-     "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
-     "page": "spelare/nils-hoglander/"
-    },
-    {
-     "name": "Elmer Söderblom",
-     "team": "Penguins",
-     "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom",
-     "page": "spelare/elmer-soderblom/"
-    },
-    {
-     "name": "Erik Karlsson",
-     "team": "Penguins",
-     "url": null,
-     "page": "spelare/erik-karlsson/"
-    },
-    {
-     "name": "Rickard Rakell",
-     "team": "Penguins",
-     "url": "https://sv.wikipedia.org/wiki/Rickard_Rakell",
-     "page": "spelare/rickard-rakell/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Nashville Predators",
-     "page": "lag/nashville-predators/"
-    },
-    {
-     "name": "Pittsburgh Penguins",
-     "page": "lag/pittsburgh-penguins/"
-    }
-   ],
-   "page": "match/nashville-predators-pittsburgh-penguins-21-nov/"
-  },
-  {
-   "id": "nhl-2026020363",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-22T00:00:00Z",
-   "title": "Boston Bruins – Washington Capitals",
-   "swedes": [
-    {
-     "name": "Elias Lindholm",
-     "team": "Bruins",
-     "url": "https://sv.wikipedia.org/wiki/Elias_Lindholm",
-     "page": "spelare/elias-lindholm/"
-    },
-    {
-     "name": "Hampus Lindholm",
-     "team": "Bruins",
-     "url": "https://sv.wikipedia.org/wiki/Hampus_Lindholm",
-     "page": "spelare/hampus-lindholm/"
-    },
-    {
-     "name": "Rasmus Sandin",
-     "team": "Capitals",
-     "url": "https://sv.wikipedia.org/wiki/Rasmus_Sandin",
-     "page": "spelare/rasmus-sandin/"
-    },
-    {
-     "name": "Timothy Liljegren",
-     "team": "Capitals",
-     "url": "https://sv.wikipedia.org/wiki/Timothy_Liljegren",
-     "page": "spelare/timothy-liljegren/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Boston Bruins",
-     "page": "lag/boston-bruins/"
-    },
-    {
-     "name": "Washington Capitals",
-     "page": "lag/washington-capitals/"
-    }
-   ],
-   "page": "match/boston-bruins-washington-capitals-21-nov/"
-  },
-  {
-   "id": "nhl-2026020367",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-22T00:00:00Z",
-   "title": "Detroit Red Wings – New York Islanders",
-   "swedes": [
-    {
-     "name": "Albert Johansson",
-     "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)",
-     "page": "spelare/albert-johansson/"
-    },
-    {
-     "name": "Andreas Englund",
-     "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Andreas_Englund",
-     "page": "spelare/andreas-englund/"
-    },
-    {
-     "name": "Anton Johansson",
-     "team": "Red Wings",
-     "url": null,
-     "page": "spelare/anton-johansson/"
-    },
-    {
-     "name": "Lucas Raymond",
-     "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Lucas_Raymond",
-     "page": "spelare/lucas-raymond/"
-    },
-    {
-     "name": "Viktor Arvidsson",
-     "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson",
-     "page": "spelare/viktor-arvidsson/"
-    },
-    {
-     "name": "William Wallinder",
-     "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/William_Wallinder",
-     "page": "spelare/william-wallinder/"
-    },
-    {
-     "name": "Emil Heineman",
-     "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman",
-     "page": "spelare/emil-heineman/"
-    },
-    {
-     "name": "Simon Holmström",
-     "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m",
-     "page": "spelare/simon-holmstrom/"
-    },
-    {
-     "name": "Victor Eklund",
-     "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund",
-     "page": "spelare/victor-eklund/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Detroit Red Wings",
-     "page": "lag/detroit-red-wings/"
-    },
-    {
-     "name": "New York Islanders",
-     "page": "lag/new-york-islanders/"
-    }
-   ],
-   "page": "match/detroit-red-wings-new-york-islanders-21-nov/"
-  },
-  {
-   "id": "nhl-2026020365",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-22T00:00:00Z",
-   "title": "Montréal Canadiens – Philadelphia Flyers",
-   "swedes": [
-    {
-     "name": "Adam Engström",
-     "team": "Canadiens",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
-     "page": "spelare/adam-engstrom/"
-    },
-    {
-     "name": "Oliver Kapanen",
-     "team": "Canadiens",
-     "url": null,
-     "page": "spelare/oliver-kapanen/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Montréal Canadiens",
-     "page": "lag/montreal-canadiens/"
-    },
-    {
-     "name": "Philadelphia Flyers",
-     "page": "lag/philadelphia-flyers/"
-    }
-   ],
-   "page": "match/montreal-canadiens-philadelphia-flyers-21-nov/"
-  },
-  {
-   "id": "nhl-2026020366",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-22T00:00:00Z",
-   "title": "Ottawa Senators – Los Angeles Kings",
-   "swedes": [
-    {
-     "name": "André Burakovsky",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky",
-     "page": "spelare/andre-burakovsky/"
-    },
-    {
-     "name": "Fabian Zetterlund",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund",
-     "page": "spelare/fabian-zetterlund/"
-    },
-    {
-     "name": "Linus Ullmark",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark",
-     "page": "spelare/linus-ullmark/"
-    },
-    {
-     "name": "Samuel Ersson",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson",
-     "page": "spelare/samuel-ersson/"
-    },
-    {
-     "name": "William Eklund",
-     "team": "Senators",
-     "url": "https://sv.wikipedia.org/wiki/William_Eklund",
-     "page": "spelare/william-eklund/"
-    },
-    {
-     "name": "Adrian Kempe",
-     "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe",
-     "page": "spelare/adrian-kempe/"
-    },
-    {
-     "name": "Andre Lee",
-     "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Andre_Lee",
-     "page": "spelare/andre-lee/"
-    },
-    {
-     "name": "Anton Forsberg",
-     "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg",
-     "page": "spelare/anton-forsberg/"
-    },
-    {
-     "name": "Erik Gustafsson",
-     "team": "Kings",
-     "url": null,
-     "page": "spelare/erik-gustafsson/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Ottawa Senators",
-     "page": "lag/ottawa-senators/"
-    },
-    {
-     "name": "Los Angeles Kings",
-     "page": "lag/los-angeles-kings/"
-    }
-   ],
-   "page": "match/ottawa-senators-los-angeles-kings-21-nov/"
-  },
-  {
-   "id": "nhl-2026020368",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-22T00:00:00Z",
-   "title": "St. Louis Blues – New Jersey Devils",
-   "swedes": [
-    {
-     "name": "Calle Rosén",
-     "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Calle_Ros%C3%A9n",
-     "page": "spelare/calle-rosen/"
-    },
-    {
-     "name": "Jonatan Berggren",
-     "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
-     "page": "spelare/jonatan-berggren/"
-    },
-    {
-     "name": "Philip Broberg",
-     "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
-     "page": "spelare/philip-broberg/"
-    },
-    {
-     "name": "Jesper Boqvist",
-     "team": "Devils",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist",
-     "page": "spelare/jesper-boqvist/"
-    },
-    {
-     "name": "Jesper Bratt",
-     "team": "Devils",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt",
-     "page": "spelare/jesper-bratt/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "St. Louis Blues",
-     "page": "lag/st-louis-blues/"
-    },
-    {
-     "name": "New Jersey Devils",
-     "page": "lag/new-jersey-devils/"
-    }
-   ],
-   "page": "match/st-louis-blues-new-jersey-devils-21-nov/"
-  },
-  {
-   "id": "nhl-2026020364",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-22T00:00:00Z",
-   "title": "Toronto Maple Leafs – Columbus Blue Jackets",
-   "swedes": [
-    {
-     "name": "Oliver Ekman Larsson",
-     "team": "Maple Leafs",
-     "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson",
-     "page": "spelare/oliver-ekman-larsson/"
-    },
-    {
-     "name": "William Nylander",
-     "team": "Maple Leafs",
-     "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)",
-     "page": "spelare/william-nylander/"
-    },
-    {
-     "name": "Isac Lundeström",
-     "team": "Blue Jackets",
-     "url": "https://sv.wikipedia.org/wiki/Isac_Lundestr%C3%B6m",
-     "page": "spelare/isac-lundestrom/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Toronto Maple Leafs",
-     "page": "lag/toronto-maple-leafs/"
-    },
-    {
-     "name": "Columbus Blue Jackets",
-     "page": "lag/columbus-blue-jackets/"
-    }
-   ],
-   "page": "match/toronto-maple-leafs-columbus-blue-jackets-21-nov/"
-  },
-  {
-   "id": "nhl-2026020369",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-22T00:00:00Z",
-   "title": "Winnipeg Jets – Vegas Golden Knights",
-   "swedes": [
-    {
-     "name": "Isak Rosén",
-     "team": "Jets",
-     "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
-     "page": "spelare/isak-rosen/"
-    },
-    {
-     "name": "Viggo Björck",
-     "team": "Jets",
-     "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck",
-     "page": "spelare/viggo-bjorck/"
-    },
-    {
-     "name": "Rasmus Andersson",
-     "team": "Golden Knights",
-     "url": null,
-     "page": "spelare/rasmus-andersson/"
-    },
-    {
-     "name": "Victor Olofsson",
-     "team": "Golden Knights",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson",
-     "page": "spelare/victor-olofsson/"
-    },
-    {
-     "name": "William Karlsson",
-     "team": "Golden Knights",
-     "url": "https://sv.wikipedia.org/wiki/William_Karlsson",
-     "page": "spelare/william-karlsson/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Winnipeg Jets",
-     "page": "lag/winnipeg-jets/"
-    },
-    {
-     "name": "Vegas Golden Knights",
-     "page": "lag/vegas-golden-knights/"
-    }
-   ],
-   "page": "match/winnipeg-jets-vegas-golden-knights-21-nov/"
-  },
-  {
-   "id": "nhl-2026020370",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-22T02:00:00Z",
-   "title": "Utah Mammoth – Anaheim Ducks",
-   "swedes": [
-    {
-     "name": "Kevin Stenlund",
-     "team": "Mammoth",
-     "url": "https://sv.wikipedia.org/wiki/Kevin_Stenlund",
-     "page": "spelare/kevin-stenlund/"
-    },
-    {
-     "name": "Leo Carlsson",
-     "team": "Ducks",
-     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
-     "page": "spelare/leo-carlsson/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Utah Mammoth",
-     "page": "lag/utah-mammoth/"
-    },
-    {
-     "name": "Anaheim Ducks",
-     "page": "lag/anaheim-ducks/"
-    }
-   ],
-   "page": "match/utah-mammoth-anaheim-ducks-21-nov/"
-  },
-  {
-   "id": "nhl-2026020372",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-22T03:00:00Z",
-   "title": "San Jose Sharks – Seattle Kraken",
-   "swedes": [
-    {
-     "name": "Alexander Wennberg",
-     "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg",
-     "page": "spelare/alexander-wennberg/"
-    },
-    {
-     "name": "Ivar Stenberg",
-     "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg",
-     "page": "spelare/ivar-stenberg/"
-    },
-    {
-     "name": "Adam Larsson",
-     "team": "Kraken",
-     "url": null,
-     "page": "spelare/adam-larsson/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "San Jose Sharks",
-     "page": "lag/san-jose-sharks/"
-    },
-    {
-     "name": "Seattle Kraken",
-     "page": "lag/seattle-kraken/"
-    }
-   ],
-   "page": "match/san-jose-sharks-seattle-kraken-21-nov/"
-  },
-  {
-   "id": "nhl-2026020371",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-22T03:00:00Z",
-   "title": "Vancouver Canucks – Minnesota Wild",
-   "swedes": [
-    {
-     "name": "Elias Pettersson #25",
-     "team": "Canucks",
-     "url": null,
-     "page": "spelare/elias-pettersson-25/"
-    },
-    {
-     "name": "Elias Pettersson #40",
-     "team": "Canucks",
-     "url": null,
-     "page": "spelare/elias-pettersson-40/"
-    },
-    {
-     "name": "Jonathan Lekkerimäki",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
-     "page": "spelare/jonathan-lekkerimaki/"
-    },
-    {
-     "name": "Liam Öhgren",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
-     "page": "spelare/liam-ohgren/"
-    },
-    {
-     "name": "Linus Karlsson",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
-     "page": "spelare/linus-karlsson/"
-    },
-    {
-     "name": "Tom Willander",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Tom_Willander",
-     "page": "spelare/tom-willander/"
-    },
-    {
-     "name": "Filip Gustavsson",
-     "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson",
-     "page": "spelare/filip-gustavsson/"
-    },
-    {
-     "name": "Jesper Wallstedt",
-     "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
-     "page": "spelare/jesper-wallstedt/"
-    },
-    {
-     "name": "Joel Eriksson Ek",
-     "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek",
-     "page": "spelare/joel-eriksson-ek/"
-    },
-    {
-     "name": "Jonas Brodin",
-     "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin",
-     "page": "spelare/jonas-brodin/"
-    }
-   ],
-   "tv": {
-    "status": "unknown",
-    "service": null,
-    "channel": null,
-    "source": null,
-    "note": "Kolla närmare matchen",
-    "label": "Viaplay eller Disney+"
-   },
-   "teams": [
-    {
-     "name": "Vancouver Canucks",
-     "page": "lag/vancouver-canucks/"
-    },
-    {
-     "name": "Minnesota Wild",
-     "page": "lag/minnesota-wild/"
-    }
-   ],
-   "page": "match/vancouver-canucks-minnesota-wild-21-nov/"
-  },
   {
    "id": "558828",
    "sport": "Fotboll",
@@ -2397,6 +958,12 @@
    "title": "Winnipeg Jets – Utah Mammoth",
    "swedes": [
     {
+     "name": "Elias Salomonsson",
+     "team": "Jets",
+     "url": "https://sv.wikipedia.org/wiki/Elias_Salomonsson",
+     "page": "spelare/elias-salomonsson/"
+    },
+    {
      "name": "Isak Rosén",
      "team": "Jets",
      "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
@@ -3002,6 +1569,12 @@
      "team": "Bruins",
      "url": "https://sv.wikipedia.org/wiki/Hampus_Lindholm",
      "page": "spelare/hampus-lindholm/"
+    },
+    {
+     "name": "Elias Salomonsson",
+     "team": "Jets",
+     "url": "https://sv.wikipedia.org/wiki/Elias_Salomonsson",
+     "page": "spelare/elias-salomonsson/"
     },
     {
      "name": "Isak Rosén",
@@ -4650,6 +3223,12 @@
      "page": "spelare/victor-eklund/"
     },
     {
+     "name": "Elias Salomonsson",
+     "team": "Jets",
+     "url": "https://sv.wikipedia.org/wiki/Elias_Salomonsson",
+     "page": "spelare/elias-salomonsson/"
+    },
+    {
      "name": "Isak Rosén",
      "team": "Jets",
      "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
@@ -4791,48 +3370,1966 @@
     }
    ],
    "page": "match/edmonton-oilers-seattle-kraken-27-nov/"
+  },
+  {
+   "id": "561973",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-11-28T12:30:00Z",
+   "title": "Preston NE – Norwich",
+   "swedes": [
+    {
+     "name": "Jusef Erabi",
+     "team": "Preston NE",
+     "url": "https://sv.wikipedia.org/wiki/Jusef_Erabi",
+     "page": "spelare/jusef-erabi/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Preston NE",
+     "page": "lag/preston-ne/"
+    },
+    {
+     "name": "Norwich",
+     "page": "lag/norwich/"
+    }
+   ],
+   "page": "match/preston-ne-norwich-28-nov/"
+  },
+  {
+   "id": "558513",
+   "sport": "Fotboll",
+   "competition": "Serie A",
+   "start": "2026-11-28T14:00:00Z",
+   "title": "Frosinone – Parma",
+   "swedes": [
+    {
+     "name": "Pontus Almqvist",
+     "team": "Parma",
+     "url": "https://sv.wikipedia.org/wiki/Pontus_Almqvist",
+     "page": "spelare/pontus-almqvist/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "TV4 Play",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Frosinone",
+     "page": "lag/frosinone/"
+    },
+    {
+     "name": "Parma",
+     "page": "lag/parma/"
+    }
+   ],
+   "page": "match/frosinone-parma-28-nov/"
+  },
+  {
+   "id": "561971",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-11-28T15:00:00Z",
+   "title": "Derby County – Watford",
+   "swedes": [
+    {
+     "name": "Jacob Widell Zetterström",
+     "team": "Derby County",
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Widell_Zetterstr%C3%B6m",
+     "page": "spelare/jacob-widell-zetterstrom/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Derby County",
+     "page": "lag/derby-county/"
+    },
+    {
+     "name": "Watford",
+     "page": "lag/watford/"
+    }
+   ],
+   "page": "match/derby-county-watford-28-nov/"
+  },
+  {
+   "id": "560652",
+   "sport": "Fotboll",
+   "competition": "Premier League",
+   "start": "2026-11-28T15:00:00Z",
+   "title": "Leeds United – Coventry City",
+   "swedes": [
+    {
+     "name": "Gabriel Gudmundsson",
+     "team": "Leeds United",
+     "url": "https://sv.wikipedia.org/wiki/Gabriel_Gudmundsson",
+     "page": "spelare/gabriel-gudmundsson/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Prime Video"
+   },
+   "teams": [
+    {
+     "name": "Leeds United",
+     "page": "lag/leeds-united/"
+    },
+    {
+     "name": "Coventry City",
+     "page": "lag/coventry-city/"
+    }
+   ],
+   "page": "match/leeds-united-coventry-city-28-nov/"
+  },
+  {
+   "id": "561967",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-11-28T15:00:00Z",
+   "title": "Millwall – Burnley",
+   "swedes": [
+    {
+     "name": "Hjalmar Ekdal",
+     "team": "Burnley",
+     "url": "https://sv.wikipedia.org/wiki/Hjalmar_Ekdal",
+     "page": "spelare/hjalmar-ekdal/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Millwall",
+     "page": "lag/millwall/"
+    },
+    {
+     "name": "Burnley",
+     "page": "lag/burnley/"
+    }
+   ],
+   "page": "match/millwall-burnley-28-nov/"
+  },
+  {
+   "id": "561975",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-11-28T15:00:00Z",
+   "title": "West Brom – Bristol City",
+   "swedes": [
+    {
+     "name": "Noah Eile",
+     "team": "Bristol City",
+     "url": "https://sv.wikipedia.org/wiki/Noah_Eile",
+     "page": "spelare/noah-eile/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "West Brom",
+     "page": "lag/west-brom/"
+    },
+    {
+     "name": "Bristol City",
+     "page": "lag/bristol-city/"
+    }
+   ],
+   "page": "match/west-brom-bristol-city-28-nov/"
+  },
+  {
+   "id": "561974",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-11-28T15:00:00Z",
+   "title": "West Ham – Stoke",
+   "swedes": [
+    {
+     "name": "Svante Ingelsson",
+     "team": "Stoke",
+     "url": "https://sv.wikipedia.org/wiki/Svante_Ingelsson",
+     "page": "spelare/svante-ingelsson/"
+    },
+    {
+     "name": "Viktor Johansson",
+     "team": "Stoke",
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Johansson_(fotbollsspelare)",
+     "page": "spelare/viktor-johansson/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/geography/sweden/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "West Ham",
+     "page": "lag/west-ham/"
+    },
+    {
+     "name": "Stoke",
+     "page": "lag/stoke/"
+    }
+   ],
+   "page": "match/west-ham-stoke-28-nov/"
+  },
+  {
+   "id": "564767",
+   "sport": "Fotboll",
+   "competition": "La Liga",
+   "start": "2026-11-28T15:15:00Z",
+   "title": "Málaga – Athletic",
+   "swedes": [
+    {
+     "name": "Jens Cajuste",
+     "team": "Málaga",
+     "url": "https://sv.wikipedia.org/wiki/Jens_Cajuste",
+     "page": "spelare/jens-cajuste/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Disney+",
+    "channel": null,
+    "source": "https://hurbra.se/la-liga-pa-disney-plus-2026-2027/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Málaga",
+     "page": "lag/malaga/"
+    },
+    {
+     "name": "Athletic",
+     "page": "lag/athletic/"
+    }
+   ],
+   "page": "match/malaga-athletic-28-nov/"
+  },
+  {
+   "id": "558825",
+   "sport": "Fotboll",
+   "competition": "Eredivisie",
+   "start": "2026-11-28T15:30:00Z",
+   "title": "Excelsior – Telstar",
+   "swedes": [
+    {
+     "name": "Casper Widell",
+     "team": "Excelsior",
+     "url": "https://sv.wikipedia.org/wiki/Casper_Widell",
+     "page": "spelare/casper-widell/"
+    },
+    {
+     "name": "Yacqub Finey",
+     "team": "Excelsior",
+     "url": null,
+     "page": "spelare/yacqub-finey/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Excelsior",
+     "page": "lag/excelsior/"
+    },
+    {
+     "name": "Telstar",
+     "page": "lag/telstar/"
+    }
+   ],
+   "page": "match/excelsior-telstar-28-nov/"
+  },
+  {
+   "id": "560653",
+   "sport": "Fotboll",
+   "competition": "Premier League",
+   "start": "2026-11-28T17:30:00Z",
+   "title": "Ipswich Town – Aston Villa",
+   "swedes": [
+    {
+     "name": "Victor Nilsson Lindelöf",
+     "team": "Aston Villa",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Nilsson_Lindel%C3%B6f",
+     "page": "spelare/victor-nilsson-lindelof/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Prime Video"
+   },
+   "teams": [
+    {
+     "name": "Ipswich Town",
+     "page": "lag/ipswich-town/"
+    },
+    {
+     "name": "Aston Villa",
+     "page": "lag/aston-villa/"
+    }
+   ],
+   "page": "match/ipswich-town-aston-villa-28-nov/"
+  },
+  {
+   "id": "565870",
+   "sport": "Fotboll",
+   "competition": "Bundesliga",
+   "start": "2026-11-28T17:30:00Z",
+   "title": "Stuttgart – Frankfurt",
+   "swedes": [
+    {
+     "name": "Love Arrhov",
+     "team": "Frankfurt",
+     "url": "https://sv.wikipedia.org/wiki/Love_Arrhov",
+     "page": "spelare/love-arrhov/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://hurbra.se/bundesliga-pa-tv-2026-2027/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Stuttgart",
+     "page": "lag/stuttgart/"
+    },
+    {
+     "name": "Frankfurt",
+     "page": "lag/frankfurt/"
+    }
+   ],
+   "page": "match/stuttgart-frankfurt-28-nov/"
+  },
+  {
+   "id": "558826",
+   "sport": "Fotboll",
+   "competition": "Eredivisie",
+   "start": "2026-11-28T17:45:00Z",
+   "title": "PSV – Go Ahead",
+   "swedes": [
+    {
+     "name": "Victor Edvardsen",
+     "team": "Go Ahead",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Edvardsen",
+     "page": "spelare/victor-edvardsen/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "PSV",
+     "page": "lag/psv/"
+    },
+    {
+     "name": "Go Ahead",
+     "page": "lag/go-ahead/"
+    }
+   ],
+   "page": "match/psv-go-ahead-28-nov/"
+  },
+  {
+   "id": "559613",
+   "sport": "Fotboll",
+   "competition": "Ligue 1",
+   "start": "2026-11-28T19:45:00Z",
+   "title": "Le Havre – Strasbourg",
+   "swedes": [
+    {
+     "name": "Benjamin Brantlind",
+     "team": "Strasbourg",
+     "url": "https://sv.wikipedia.org/wiki/Benjamin_Brantlind",
+     "page": "spelare/benjamin-brantlind/"
+    },
+    {
+     "name": "Sebastian Nanasi",
+     "team": "Strasbourg",
+     "url": "https://sv.wikipedia.org/wiki/Sebastian_Nanasi",
+     "page": "spelare/sebastian-nanasi/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Le Havre",
+     "page": "lag/le-havre/"
+    },
+    {
+     "name": "Strasbourg",
+     "page": "lag/strasbourg/"
+    }
+   ],
+   "page": "match/le-havre-strasbourg-28-nov/"
+  },
+  {
+   "id": "559620",
+   "sport": "Fotboll",
+   "competition": "Ligue 1",
+   "start": "2026-11-28T19:45:00Z",
+   "title": "Nice – Troyes",
+   "swedes": [
+    {
+     "name": "Isak Jansson",
+     "team": "Nice",
+     "url": "https://sv.wikipedia.org/wiki/Isak_Jansson_(fotbollsspelare)",
+     "page": "spelare/isak-jansson/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Nice",
+     "page": "lag/nice/"
+    },
+    {
+     "name": "Troyes",
+     "page": "lag/troyes/"
+    }
+   ],
+   "page": "match/nice-troyes-28-nov/"
+  },
+  {
+   "id": "567356",
+   "sport": "Fotboll",
+   "competition": "Primeira Liga",
+   "start": "2026-11-28T20:30:00Z",
+   "title": "Vitória SC – Amadora",
+   "swedes": [
+    {
+     "name": "Victor Andersson",
+     "team": "Vitória SC",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Andersson_(fotbollsspelare)",
+     "page": "spelare/victor-andersson/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "TV4 Play visar 3 utvalda matcher per omgång",
+    "label": null
+   },
+   "teams": [
+    {
+     "name": "Vitória SC",
+     "page": "lag/vitoria-sc/"
+    },
+    {
+     "name": "Amadora",
+     "page": "lag/amadora/"
+    }
+   ],
+   "page": "match/vitoria-sc-amadora-28-nov/"
+  },
+  {
+   "id": "nhl-2026020415",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-28T21:00:00Z",
+   "title": "Vegas Golden Knights – Montréal Canadiens",
+   "swedes": [
+    {
+     "name": "Rasmus Andersson",
+     "team": "Golden Knights",
+     "url": null,
+     "page": "spelare/rasmus-andersson/"
+    },
+    {
+     "name": "Victor Olofsson",
+     "team": "Golden Knights",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson",
+     "page": "spelare/victor-olofsson/"
+    },
+    {
+     "name": "William Karlsson",
+     "team": "Golden Knights",
+     "url": "https://sv.wikipedia.org/wiki/William_Karlsson",
+     "page": "spelare/william-karlsson/"
+    },
+    {
+     "name": "Adam Engström",
+     "team": "Canadiens",
+     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
+     "page": "spelare/adam-engstrom/"
+    },
+    {
+     "name": "Oliver Kapanen",
+     "team": "Canadiens",
+     "url": null,
+     "page": "spelare/oliver-kapanen/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Vegas Golden Knights",
+     "page": "lag/vegas-golden-knights/"
+    },
+    {
+     "name": "Montréal Canadiens",
+     "page": "lag/montreal-canadiens/"
+    }
+   ],
+   "page": "match/vegas-golden-knights-montreal-canadiens-28-nov/"
+  },
+  {
+   "id": "nhl-2026020416",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-28T23:00:00Z",
+   "title": "Florida Panthers – Tampa Bay Lightning",
+   "swedes": [
+    {
+     "name": "Gustav Forsling",
+     "team": "Panthers",
+     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling",
+     "page": "spelare/gustav-forsling/"
+    },
+    {
+     "name": "Jacob Markström",
+     "team": "Panthers",
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
+     "page": "spelare/jacob-markstrom/"
+    },
+    {
+     "name": "Dennis Hildeby",
+     "team": "Lightning",
+     "url": "https://sv.wikipedia.org/wiki/Dennis_Hildeby",
+     "page": "spelare/dennis-hildeby/"
+    },
+    {
+     "name": "Pontus Holmberg",
+     "team": "Lightning",
+     "url": "https://sv.wikipedia.org/wiki/Pontus_Holmberg",
+     "page": "spelare/pontus-holmberg/"
+    },
+    {
+     "name": "Victor Hedman",
+     "team": "Lightning",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Hedman",
+     "page": "spelare/victor-hedman/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Florida Panthers",
+     "page": "lag/florida-panthers/"
+    },
+    {
+     "name": "Tampa Bay Lightning",
+     "page": "lag/tampa-bay-lightning/"
+    }
+   ],
+   "page": "match/florida-panthers-tampa-bay-lightning-28-nov/"
+  },
+  {
+   "id": "nhl-2026020421",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-29T00:00:00Z",
+   "title": "Carolina Hurricanes – Ottawa Senators",
+   "swedes": [
+    {
+     "name": "André Burakovsky",
+     "team": "Senators",
+     "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky",
+     "page": "spelare/andre-burakovsky/"
+    },
+    {
+     "name": "Fabian Zetterlund",
+     "team": "Senators",
+     "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund",
+     "page": "spelare/fabian-zetterlund/"
+    },
+    {
+     "name": "Linus Ullmark",
+     "team": "Senators",
+     "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark",
+     "page": "spelare/linus-ullmark/"
+    },
+    {
+     "name": "Samuel Ersson",
+     "team": "Senators",
+     "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson",
+     "page": "spelare/samuel-ersson/"
+    },
+    {
+     "name": "William Eklund",
+     "team": "Senators",
+     "url": "https://sv.wikipedia.org/wiki/William_Eklund",
+     "page": "spelare/william-eklund/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Carolina Hurricanes",
+     "page": "lag/carolina-hurricanes/"
+    },
+    {
+     "name": "Ottawa Senators",
+     "page": "lag/ottawa-senators/"
+    }
+   ],
+   "page": "match/carolina-hurricanes-ottawa-senators-28-nov/"
+  },
+  {
+   "id": "nhl-2026020417",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-29T00:00:00Z",
+   "title": "Detroit Red Wings – Nashville Predators",
+   "swedes": [
+    {
+     "name": "Albert Johansson",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)",
+     "page": "spelare/albert-johansson/"
+    },
+    {
+     "name": "Andreas Englund",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Andreas_Englund",
+     "page": "spelare/andreas-englund/"
+    },
+    {
+     "name": "Anton Johansson",
+     "team": "Red Wings",
+     "url": null,
+     "page": "spelare/anton-johansson/"
+    },
+    {
+     "name": "Lucas Raymond",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Lucas_Raymond",
+     "page": "spelare/lucas-raymond/"
+    },
+    {
+     "name": "Viktor Arvidsson",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson",
+     "page": "spelare/viktor-arvidsson/"
+    },
+    {
+     "name": "William Wallinder",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/William_Wallinder",
+     "page": "spelare/william-wallinder/"
+    },
+    {
+     "name": "Adam Edström",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
+     "page": "spelare/adam-edstrom/"
+    },
+    {
+     "name": "Adam Wilsby",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Adam_Wilsby",
+     "page": "spelare/adam-wilsby/"
+    },
+    {
+     "name": "Filip Forsberg",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Filip_Forsberg",
+     "page": "spelare/filip-forsberg/"
+    },
+    {
+     "name": "Nils Höglander",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
+     "page": "spelare/nils-hoglander/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Detroit Red Wings",
+     "page": "lag/detroit-red-wings/"
+    },
+    {
+     "name": "Nashville Predators",
+     "page": "lag/nashville-predators/"
+    }
+   ],
+   "page": "match/detroit-red-wings-nashville-predators-28-nov/"
+  },
+  {
+   "id": "nhl-2026020418",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-29T00:00:00Z",
+   "title": "New Jersey Devils – Winnipeg Jets",
+   "swedes": [
+    {
+     "name": "Jesper Boqvist",
+     "team": "Devils",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist",
+     "page": "spelare/jesper-boqvist/"
+    },
+    {
+     "name": "Jesper Bratt",
+     "team": "Devils",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt",
+     "page": "spelare/jesper-bratt/"
+    },
+    {
+     "name": "Elias Salomonsson",
+     "team": "Jets",
+     "url": "https://sv.wikipedia.org/wiki/Elias_Salomonsson",
+     "page": "spelare/elias-salomonsson/"
+    },
+    {
+     "name": "Isak Rosén",
+     "team": "Jets",
+     "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
+     "page": "spelare/isak-rosen/"
+    },
+    {
+     "name": "Viggo Björck",
+     "team": "Jets",
+     "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck",
+     "page": "spelare/viggo-bjorck/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "New Jersey Devils",
+     "page": "lag/new-jersey-devils/"
+    },
+    {
+     "name": "Winnipeg Jets",
+     "page": "lag/winnipeg-jets/"
+    }
+   ],
+   "page": "match/new-jersey-devils-winnipeg-jets-28-nov/"
+  },
+  {
+   "id": "nhl-2026020419",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-29T00:00:00Z",
+   "title": "New York Rangers – Calgary Flames",
+   "swedes": [
+    {
+     "name": "Marcus Pettersson",
+     "team": "Rangers",
+     "url": "https://sv.wikipedia.org/wiki/Marcus_Pettersson",
+     "page": "spelare/marcus-pettersson/"
+    },
+    {
+     "name": "Mika Zibanejad",
+     "team": "Rangers",
+     "url": "https://sv.wikipedia.org/wiki/Mika_Zibanejad",
+     "page": "spelare/mika-zibanejad/"
+    },
+    {
+     "name": "Mikael Backlund",
+     "team": "Flames",
+     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund",
+     "page": "spelare/mikael-backlund/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "New York Rangers",
+     "page": "lag/new-york-rangers/"
+    },
+    {
+     "name": "Calgary Flames",
+     "page": "lag/calgary-flames/"
+    }
+   ],
+   "page": "match/new-york-rangers-calgary-flames-28-nov/"
+  },
+  {
+   "id": "nhl-2026020420",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-29T00:00:00Z",
+   "title": "Pittsburgh Penguins – Toronto Maple Leafs",
+   "swedes": [
+    {
+     "name": "Elmer Söderblom",
+     "team": "Penguins",
+     "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom",
+     "page": "spelare/elmer-soderblom/"
+    },
+    {
+     "name": "Erik Karlsson",
+     "team": "Penguins",
+     "url": null,
+     "page": "spelare/erik-karlsson/"
+    },
+    {
+     "name": "Rickard Rakell",
+     "team": "Penguins",
+     "url": "https://sv.wikipedia.org/wiki/Rickard_Rakell",
+     "page": "spelare/rickard-rakell/"
+    },
+    {
+     "name": "Oliver Ekman Larsson",
+     "team": "Maple Leafs",
+     "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson",
+     "page": "spelare/oliver-ekman-larsson/"
+    },
+    {
+     "name": "William Nylander",
+     "team": "Maple Leafs",
+     "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)",
+     "page": "spelare/william-nylander/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Pittsburgh Penguins",
+     "page": "lag/pittsburgh-penguins/"
+    },
+    {
+     "name": "Toronto Maple Leafs",
+     "page": "lag/toronto-maple-leafs/"
+    }
+   ],
+   "page": "match/pittsburgh-penguins-toronto-maple-leafs-28-nov/"
+  },
+  {
+   "id": "nhl-2026020422",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-29T00:00:00Z",
+   "title": "St. Louis Blues – Washington Capitals",
+   "swedes": [
+    {
+     "name": "Calle Rosén",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Calle_Ros%C3%A9n",
+     "page": "spelare/calle-rosen/"
+    },
+    {
+     "name": "Jonatan Berggren",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
+     "page": "spelare/jonatan-berggren/"
+    },
+    {
+     "name": "Philip Broberg",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
+     "page": "spelare/philip-broberg/"
+    },
+    {
+     "name": "Rasmus Sandin",
+     "team": "Capitals",
+     "url": "https://sv.wikipedia.org/wiki/Rasmus_Sandin",
+     "page": "spelare/rasmus-sandin/"
+    },
+    {
+     "name": "Timothy Liljegren",
+     "team": "Capitals",
+     "url": "https://sv.wikipedia.org/wiki/Timothy_Liljegren",
+     "page": "spelare/timothy-liljegren/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "St. Louis Blues",
+     "page": "lag/st-louis-blues/"
+    },
+    {
+     "name": "Washington Capitals",
+     "page": "lag/washington-capitals/"
+    }
+   ],
+   "page": "match/st-louis-blues-washington-capitals-28-nov/"
+  },
+  {
+   "id": "nhl-2026020423",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-29T00:30:00Z",
+   "title": "Philadelphia Flyers – New York Islanders",
+   "swedes": [
+    {
+     "name": "Emil Heineman",
+     "team": "Islanders",
+     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman",
+     "page": "spelare/emil-heineman/"
+    },
+    {
+     "name": "Simon Holmström",
+     "team": "Islanders",
+     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m",
+     "page": "spelare/simon-holmstrom/"
+    },
+    {
+     "name": "Victor Eklund",
+     "team": "Islanders",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund",
+     "page": "spelare/victor-eklund/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Philadelphia Flyers",
+     "page": "lag/philadelphia-flyers/"
+    },
+    {
+     "name": "New York Islanders",
+     "page": "lag/new-york-islanders/"
+    }
+   ],
+   "page": "match/philadelphia-flyers-new-york-islanders-28-nov/"
+  },
+  {
+   "id": "nhl-2026020424",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-29T01:00:00Z",
+   "title": "Dallas Stars – Utah Mammoth",
+   "swedes": [
+    {
+     "name": "Nils Lundkvist",
+     "team": "Stars",
+     "url": "https://sv.wikipedia.org/wiki/Nils_Lundkvist",
+     "page": "spelare/nils-lundkvist/"
+    },
+    {
+     "name": "Oskar Bäck",
+     "team": "Stars",
+     "url": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck",
+     "page": "spelare/oskar-back/"
+    },
+    {
+     "name": "Kevin Stenlund",
+     "team": "Mammoth",
+     "url": "https://sv.wikipedia.org/wiki/Kevin_Stenlund",
+     "page": "spelare/kevin-stenlund/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Dallas Stars",
+     "page": "lag/dallas-stars/"
+    },
+    {
+     "name": "Utah Mammoth",
+     "page": "lag/utah-mammoth/"
+    }
+   ],
+   "page": "match/dallas-stars-utah-mammoth-28-nov/"
+  },
+  {
+   "id": "nhl-2026020425",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-29T02:00:00Z",
+   "title": "Colorado Avalanche – San Jose Sharks",
+   "swedes": [
+    {
+     "name": "Gabriel Landeskog",
+     "team": "Avalanche",
+     "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog",
+     "page": "spelare/gabriel-landeskog/"
+    },
+    {
+     "name": "Alexander Wennberg",
+     "team": "Sharks",
+     "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg",
+     "page": "spelare/alexander-wennberg/"
+    },
+    {
+     "name": "Ivar Stenberg",
+     "team": "Sharks",
+     "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg",
+     "page": "spelare/ivar-stenberg/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Colorado Avalanche",
+     "page": "lag/colorado-avalanche/"
+    },
+    {
+     "name": "San Jose Sharks",
+     "page": "lag/san-jose-sharks/"
+    }
+   ],
+   "page": "match/colorado-avalanche-san-jose-sharks-28-nov/"
+  },
+  {
+   "id": "nhl-2026020426",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-29T02:00:00Z",
+   "title": "Los Angeles Kings – Anaheim Ducks",
+   "swedes": [
+    {
+     "name": "Adrian Kempe",
+     "team": "Kings",
+     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe",
+     "page": "spelare/adrian-kempe/"
+    },
+    {
+     "name": "Andre Lee",
+     "team": "Kings",
+     "url": "https://sv.wikipedia.org/wiki/Andre_Lee",
+     "page": "spelare/andre-lee/"
+    },
+    {
+     "name": "Anton Forsberg",
+     "team": "Kings",
+     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg",
+     "page": "spelare/anton-forsberg/"
+    },
+    {
+     "name": "Erik Gustafsson",
+     "team": "Kings",
+     "url": null,
+     "page": "spelare/erik-gustafsson/"
+    },
+    {
+     "name": "Leo Carlsson",
+     "team": "Ducks",
+     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
+     "page": "spelare/leo-carlsson/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Los Angeles Kings",
+     "page": "lag/los-angeles-kings/"
+    },
+    {
+     "name": "Anaheim Ducks",
+     "page": "lag/anaheim-ducks/"
+    }
+   ],
+   "page": "match/los-angeles-kings-anaheim-ducks-28-nov/"
+  },
+  {
+   "id": "nhl-2026020427",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-29T03:00:00Z",
+   "title": "Seattle Kraken – Edmonton Oilers",
+   "swedes": [
+    {
+     "name": "Adam Larsson",
+     "team": "Kraken",
+     "url": null,
+     "page": "spelare/adam-larsson/"
+    },
+    {
+     "name": "Filip Hållander",
+     "team": "Oilers",
+     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
+     "page": "spelare/filip-hallander/"
+    },
+    {
+     "name": "Mattias Ekholm",
+     "team": "Oilers",
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm",
+     "page": "spelare/mattias-ekholm/"
+    },
+    {
+     "name": "Mattias Janmark",
+     "team": "Oilers",
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark",
+     "page": "spelare/mattias-janmark/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Seattle Kraken",
+     "page": "lag/seattle-kraken/"
+    },
+    {
+     "name": "Edmonton Oilers",
+     "page": "lag/edmonton-oilers/"
+    }
+   ],
+   "page": "match/seattle-kraken-edmonton-oilers-28-nov/"
   }
  ],
  "results": [
   {
-   "id": "555088",
+   "id": "560643",
    "sport": "Fotboll",
-   "competition": "Brasileirão",
-   "start": "2026-11-19T22:30:00Z",
-   "title": "Vasco da Gama – Internacional",
-   "score": "2–1",
+   "competition": "Premier League",
+   "start": "2026-11-21T12:30:00Z",
+   "title": "Man City – Fulham",
+   "score": "1–1",
    "swedes": [
     {
-     "name": "Niclas Eliasson",
-     "team": "Internacional",
-     "url": "https://sv.wikipedia.org/wiki/Niclas_Eliasson",
-     "page": "spelare/niclas-eliasson/"
+     "name": "Hugo Larsson",
+     "team": "Fulham",
+     "url": "https://sv.wikipedia.org/wiki/Hugo_Larsson_(fotbollsspelare)",
+     "page": "spelare/hugo-larsson/"
+    },
+    {
+     "name": "Jonah Kusi-Asare",
+     "team": "Fulham",
+     "url": "https://sv.wikipedia.org/wiki/Jonah_Kusi-Asare",
+     "page": "spelare/jonah-kusi-asare/"
     }
    ],
    "teams": [
     {
-     "name": "Vasco da Gama",
-     "page": "lag/vasco-da-gama/"
+     "name": "Man City",
+     "page": "lag/man-city/"
     },
     {
-     "name": "Internacional",
-     "page": "lag/internacional/"
+     "name": "Fulham",
+     "page": "lag/fulham/"
     }
    ],
-   "page": "match/vasco-da-gama-internacional-19-nov/"
+   "page": "match/man-city-fulham-21-nov/"
   },
   {
-   "id": "nhl-2026020352",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-20T00:00:00Z",
-   "title": "Carolina Hurricanes – Montréal Canadiens",
-   "score": "1–2 efter förlängning",
+   "id": "561944",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-11-21T12:30:00Z",
+   "title": "Southampton – Derby County",
+   "score": "2–0",
    "swedes": [
     {
-     "name": "Adam Engstrom",
-     "team": "Canadiens",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
+     "name": "Jacob Widell Zetterström",
+     "team": "Derby County",
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Widell_Zetterstr%C3%B6m",
+     "page": "spelare/jacob-widell-zetterstrom/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Southampton",
+     "page": "lag/southampton/"
+    },
+    {
+     "name": "Derby County",
+     "page": "lag/derby-county/"
+    }
+   ],
+   "page": "match/southampton-derby-county-21-nov/"
+  },
+  {
+   "id": "558525",
+   "sport": "Fotboll",
+   "competition": "Serie A",
+   "start": "2026-11-21T14:00:00Z",
+   "title": "Como 1907 – Cagliari",
+   "score": "2–0",
+   "swedes": [
+    {
+     "name": "Adrian Lahdo",
+     "team": "Como 1907",
+     "url": "https://sv.wikipedia.org/wiki/Adrian_Lahdo",
+     "page": "spelare/adrian-lahdo/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Como 1907",
+     "page": "lag/como-1907/"
+    },
+    {
+     "name": "Cagliari",
+     "page": "lag/cagliari/"
+    }
+   ],
+   "page": "match/como-1907-cagliari-21-nov/"
+  },
+  {
+   "id": "565865",
+   "sport": "Fotboll",
+   "competition": "Bundesliga",
+   "start": "2026-11-21T14:30:00Z",
+   "title": "Frankfurt – Hoffenheim",
+   "score": "1–0",
+   "swedes": [
+    {
+     "name": "Love Arrhov",
+     "team": "Frankfurt",
+     "url": "https://sv.wikipedia.org/wiki/Love_Arrhov",
+     "page": "spelare/love-arrhov/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Frankfurt",
+     "page": "lag/frankfurt/"
+    },
+    {
+     "name": "Hoffenheim",
+     "page": "lag/hoffenheim/"
+    }
+   ],
+   "page": "match/frankfurt-hoffenheim-21-nov/"
+  },
+  {
+   "id": "565862",
+   "sport": "Fotboll",
+   "competition": "Bundesliga",
+   "start": "2026-11-21T14:30:00Z",
+   "title": "M'gladbach – Dortmund",
+   "score": "0–1",
+   "swedes": [
+    {
+     "name": "Hugo Bolin",
+     "team": "M'gladbach",
+     "url": "https://sv.wikipedia.org/wiki/Hugo_Bolin",
+     "page": "spelare/hugo-bolin/"
+    },
+    {
+     "name": "Isac Lidberg",
+     "team": "M'gladbach",
+     "url": "https://sv.wikipedia.org/wiki/Isac_Lidberg",
+     "page": "spelare/isac-lidberg/"
+    },
+    {
+     "name": "Daniel Svensson",
+     "team": "Dortmund",
+     "url": "https://sv.wikipedia.org/wiki/Daniel_Svensson_(fotbollsspelare_f%C3%B6dd_2002)",
+     "page": "spelare/daniel-svensson/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "M'gladbach",
+     "page": "lag/m-gladbach/"
+    },
+    {
+     "name": "Dortmund",
+     "page": "lag/dortmund/"
+    }
+   ],
+   "page": "match/m-gladbach-dortmund-21-nov/"
+  },
+  {
+   "id": "560644",
+   "sport": "Fotboll",
+   "competition": "Premier League",
+   "start": "2026-11-21T15:00:00Z",
+   "title": "Aston Villa – Sunderland",
+   "score": "0–0",
+   "swedes": [
+    {
+     "name": "Victor Nilsson-Lindelöf",
+     "team": "Aston Villa",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Nilsson_Lindel%C3%B6f",
+     "page": "spelare/victor-nilsson-lindelof/"
+    },
+    {
+     "name": "Melker Ellborg",
+     "team": "Sunderland",
+     "url": "https://sv.wikipedia.org/wiki/Melker_Ellborg",
+     "page": "spelare/melker-ellborg/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Aston Villa",
+     "page": "lag/aston-villa/"
+    },
+    {
+     "name": "Sunderland",
+     "page": "lag/sunderland/"
+    }
+   ],
+   "page": "match/aston-villa-sunderland-21-nov/"
+  },
+  {
+   "id": "560642",
+   "sport": "Fotboll",
+   "competition": "Premier League",
+   "start": "2026-11-21T15:00:00Z",
+   "title": "Chelsea – Leeds United",
+   "score": "1–4",
+   "swedes": [
+    {
+     "name": "Gabriel Gudmundsson",
+     "team": "Leeds United",
+     "url": "https://sv.wikipedia.org/wiki/Gabriel_Gudmundsson",
+     "page": "spelare/gabriel-gudmundsson/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Chelsea",
+     "page": "lag/chelsea/"
+    },
+    {
+     "name": "Leeds United",
+     "page": "lag/leeds-united/"
+    }
+   ],
+   "page": "match/chelsea-leeds-united-21-nov/"
+  },
+  {
+   "id": "561943",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-11-21T15:00:00Z",
+   "title": "Middlesbrough – Bristol City",
+   "score": "2–0",
+   "swedes": [
+    {
+     "name": "Noah Eile",
+     "team": "Bristol City",
+     "url": "https://sv.wikipedia.org/wiki/Noah_Eile",
+     "page": "spelare/noah-eile/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Middlesbrough",
+     "page": "lag/middlesbrough/"
+    },
+    {
+     "name": "Bristol City",
+     "page": "lag/bristol-city/"
+    }
+   ],
+   "page": "match/middlesbrough-bristol-city-21-nov/"
+  },
+  {
+   "id": "561946",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-11-21T15:00:00Z",
+   "title": "Stoke – Birmingham",
+   "score": "1–0",
+   "swedes": [
+    {
+     "name": "Svante Ingelsson",
+     "team": "Stoke",
+     "url": "https://sv.wikipedia.org/wiki/Svante_Ingelsson",
+     "page": "spelare/svante-ingelsson/"
+    },
+    {
+     "name": "Viktor Johansson",
+     "team": "Stoke",
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Johansson_(fotbollsspelare)",
+     "page": "spelare/viktor-johansson/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Stoke",
+     "page": "lag/stoke/"
+    },
+    {
+     "name": "Birmingham",
+     "page": "lag/birmingham/"
+    }
+   ],
+   "page": "match/stoke-birmingham-21-nov/"
+  },
+  {
+   "id": "561942",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-11-21T15:00:00Z",
+   "title": "Swansea – West Brom",
+   "score": "2–2",
+   "swedes": [
+    {
+     "name": "Melker Widell",
+     "team": "Swansea",
+     "url": "https://sv.wikipedia.org/wiki/Melker_Widell",
+     "page": "spelare/melker-widell/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Swansea",
+     "page": "lag/swansea/"
+    },
+    {
+     "name": "West Brom",
+     "page": "lag/west-brom/"
+    }
+   ],
+   "page": "match/swansea-west-brom-21-nov/"
+  },
+  {
+   "id": "560648",
+   "sport": "Fotboll",
+   "competition": "Premier League",
+   "start": "2026-11-21T15:00:00Z",
+   "title": "Tottenham – Ipswich Town",
+   "score": "2–0",
+   "swedes": [
+    {
+     "name": "Dejan Kulusevski",
+     "team": "Tottenham",
+     "url": "https://sv.wikipedia.org/wiki/Dejan_Kulusevski",
+     "page": "spelare/dejan-kulusevski/"
+    },
+    {
+     "name": "Lucas Bergvall",
+     "team": "Tottenham",
+     "url": "https://sv.wikipedia.org/wiki/Lucas_Bergvall",
+     "page": "spelare/lucas-bergvall/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Tottenham",
+     "page": "lag/tottenham/"
+    },
+    {
+     "name": "Ipswich Town",
+     "page": "lag/ipswich-town/"
+    }
+   ],
+   "page": "match/tottenham-ipswich-town-21-nov/"
+  },
+  {
+   "id": "561951",
+   "sport": "Fotboll",
+   "competition": "Championship",
+   "start": "2026-11-21T15:00:00Z",
+   "title": "West Ham – Preston NE",
+   "score": "1–1",
+   "swedes": [
+    {
+     "name": "Jusef Erabi",
+     "team": "Preston NE",
+     "url": "https://sv.wikipedia.org/wiki/Jusef_Erabi",
+     "page": "spelare/jusef-erabi/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "West Ham",
+     "page": "lag/west-ham/"
+    },
+    {
+     "name": "Preston NE",
+     "page": "lag/preston-ne/"
+    }
+   ],
+   "page": "match/west-ham-preston-ne-21-nov/"
+  },
+  {
+   "id": "559628",
+   "sport": "Fotboll",
+   "competition": "Ligue 1",
+   "start": "2026-11-21T16:15:00Z",
+   "title": "Nice – PSG",
+   "score": "2–3",
+   "swedes": [
+    {
+     "name": "Isak Jansson",
+     "team": "Nice",
+     "url": "https://sv.wikipedia.org/wiki/Isak_Jansson_(fotbollsspelare)",
+     "page": "spelare/isak-jansson/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Nice",
+     "page": "lag/nice/"
+    },
+    {
+     "name": "PSG",
+     "page": "lag/psg/"
+    }
+   ],
+   "page": "match/nice-psg-21-nov/"
+  },
+  {
+   "id": "558526",
+   "sport": "Fotboll",
+   "competition": "Serie A",
+   "start": "2026-11-21T17:00:00Z",
+   "title": "Parma – Roma",
+   "score": "1–5",
+   "swedes": [
+    {
+     "name": "Pontus Almqvist",
+     "team": "Parma",
+     "url": "https://sv.wikipedia.org/wiki/Pontus_Almqvist",
+     "page": "spelare/pontus-almqvist/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Parma",
+     "page": "lag/parma/"
+    },
+    {
+     "name": "Roma",
+     "page": "lag/roma/"
+    }
+   ],
+   "page": "match/parma-roma-21-nov/"
+  },
+  {
+   "id": "560651",
+   "sport": "Fotboll",
+   "competition": "Premier League",
+   "start": "2026-11-21T17:30:00Z",
+   "title": "Newcastle – Arsenal",
+   "score": "2–2",
+   "swedes": [
+    {
+     "name": "Anthony Elanga",
+     "team": "Newcastle",
+     "url": "https://sv.wikipedia.org/wiki/Anthony_Elanga",
+     "page": "spelare/anthony-elanga/"
+    },
+    {
+     "name": "Viktor Gyökeres",
+     "team": "Arsenal",
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Gy%C3%B6keres",
+     "page": "spelare/viktor-gyokeres/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Newcastle",
+     "page": "lag/newcastle/"
+    },
+    {
+     "name": "Arsenal",
+     "page": "lag/arsenal/"
+    }
+   ],
+   "page": "match/newcastle-arsenal-21-nov/"
+  },
+  {
+   "id": "558831",
+   "sport": "Fotboll",
+   "competition": "Eredivisie",
+   "start": "2026-11-21T17:45:00Z",
+   "title": "Feyenoord – Excelsior",
+   "score": "2–3",
+   "swedes": [
+    {
+     "name": "Casper Widell",
+     "team": "Excelsior",
+     "url": "https://sv.wikipedia.org/wiki/Casper_Widell",
+     "page": "spelare/casper-widell/"
+    },
+    {
+     "name": "Yacqub Finey",
+     "team": "Excelsior",
+     "url": null,
+     "page": "spelare/yacqub-finey/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Feyenoord",
+     "page": "lag/feyenoord/"
+    },
+    {
+     "name": "Excelsior",
+     "page": "lag/excelsior/"
+    }
+   ],
+   "page": "match/feyenoord-excelsior-21-nov/"
+  },
+  {
+   "id": "nhl-2026020359",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-21T18:00:00Z",
+   "title": "Carolina Hurricanes – Edmonton Oilers",
+   "score": "7–4",
+   "swedes": [
+    {
+     "name": "Filip Hallander",
+     "team": "Oilers",
+     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 1,
+      "toi": "09:12"
+     },
+     "page": "spelare/filip-hallander/"
+    },
+    {
+     "name": "Mattias Ekholm",
+     "team": "Oilers",
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -2,
+      "points": 0,
+      "shots": 1,
+      "toi": "18:59"
+     },
+     "page": "spelare/mattias-ekholm/"
+    },
+    {
+     "name": "Mattias Janmark",
+     "team": "Oilers",
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark",
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/mattias-janmark/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Carolina Hurricanes",
+     "page": "lag/carolina-hurricanes/"
+    },
+    {
+     "name": "Edmonton Oilers",
+     "page": "lag/edmonton-oilers/"
+    }
+   ],
+   "page": "match/carolina-hurricanes-edmonton-oilers-21-nov/"
+  },
+  {
+   "id": "559623",
+   "sport": "Fotboll",
+   "competition": "Ligue 1",
+   "start": "2026-11-21T19:45:00Z",
+   "title": "RC Lens – Toulouse",
+   "score": "1–1",
+   "swedes": [
+    {
+     "name": "Sion Oppong",
+     "team": "Toulouse",
+     "url": "https://sv.wikipedia.org/wiki/Sion_Oppong",
+     "page": "spelare/sion-oppong/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "RC Lens",
+     "page": "lag/rc-lens/"
+    },
+    {
+     "name": "Toulouse",
+     "page": "lag/toulouse/"
+    }
+   ],
+   "page": "match/rc-lens-toulouse-21-nov/"
+  },
+  {
+   "id": "559627",
+   "sport": "Fotboll",
+   "competition": "Ligue 1",
+   "start": "2026-11-21T19:45:00Z",
+   "title": "Strasbourg – Brest",
+   "score": "0–1",
+   "swedes": [
+    {
+     "name": "Benjamin Brantlind",
+     "team": "Strasbourg",
+     "url": "https://sv.wikipedia.org/wiki/Benjamin_Brantlind",
+     "page": "spelare/benjamin-brantlind/"
+    },
+    {
+     "name": "Sebastian Nanasi",
+     "team": "Strasbourg",
+     "url": "https://sv.wikipedia.org/wiki/Sebastian_Nanasi",
+     "page": "spelare/sebastian-nanasi/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Strasbourg",
+     "page": "lag/strasbourg/"
+    },
+    {
+     "name": "Brest",
+     "page": "lag/brest/"
+    }
+   ],
+   "page": "match/strasbourg-brest-21-nov/"
+  },
+  {
+   "id": "558834",
+   "sport": "Fotboll",
+   "competition": "Eredivisie",
+   "start": "2026-11-21T20:00:00Z",
+   "title": "Groningen – Heerenveen",
+   "score": "1–3",
+   "swedes": [
+    {
+     "name": "Alvin Nordin",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Alvin_Nordin",
+     "page": "spelare/alvin-nordin/"
+    },
+    {
+     "name": "Elvis Van Der Laan",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Elvis_van_der_Laan",
+     "page": "spelare/elvis-van-der-laan/"
+    },
+    {
+     "name": "Jacob Ondrejka",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Ondrejka",
+     "page": "spelare/jacob-ondrejka/"
+    },
+    {
+     "name": "Malcolm Jeng",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Malcolm_Jeng",
+     "page": "spelare/malcolm-jeng/"
+    },
+    {
+     "name": "Marcus Linday",
+     "team": "Heerenveen",
+     "url": "https://sv.wikipedia.org/wiki/Marcus_Linday",
+     "page": "spelare/marcus-linday/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Groningen",
+     "page": "lag/groningen/"
+    },
+    {
+     "name": "Heerenveen",
+     "page": "lag/heerenveen/"
+    }
+   ],
+   "page": "match/groningen-heerenveen-21-nov/"
+  },
+  {
+   "id": "564754",
+   "sport": "Fotboll",
+   "competition": "La Liga",
+   "start": "2026-11-21T20:00:00Z",
+   "title": "Real Madrid – Celta",
+   "score": "2–1",
+   "swedes": [
+    {
+     "name": "Carl Starfelt",
+     "team": "Celta",
+     "url": "https://sv.wikipedia.org/wiki/Carl_Starfelt",
+     "page": "spelare/carl-starfelt/"
+    },
+    {
+     "name": "Williot Swedberg",
+     "team": "Celta",
+     "url": "https://sv.wikipedia.org/wiki/Williot_Swedberg",
+     "page": "spelare/williot-swedberg/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Real Madrid",
+     "page": "lag/real-madrid/"
+    },
+    {
+     "name": "Celta",
+     "page": "lag/celta/"
+    }
+   ],
+   "page": "match/real-madrid-celta-21-nov/"
+  },
+  {
+   "id": "nhl-2026020360",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-21T20:30:00Z",
+   "title": "Calgary Flames – Chicago Blackhawks",
+   "score": "3–4 efter förlängning",
+   "swedes": [
+    {
+     "name": "Mikael Backlund",
+     "team": "Flames",
+     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund",
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 2,
+      "toi": "19:39"
+     },
+     "page": "spelare/mikael-backlund/"
+    },
+    {
+     "name": "Anton Frondell",
+     "team": "Blackhawks",
+     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell",
      "stats": {
       "assists": 0,
       "goals": 0,
@@ -4840,7 +5337,457 @@
       "plusMinus": 0,
       "points": 0,
       "shots": 1,
-      "toi": "11:00"
+      "toi": "11:07"
+     },
+     "page": "spelare/anton-frondell/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Calgary Flames",
+     "page": "lag/calgary-flames/"
+    },
+    {
+     "name": "Chicago Blackhawks",
+     "page": "lag/chicago-blackhawks/"
+    }
+   ],
+   "page": "match/calgary-flames-chicago-blackhawks-21-nov/"
+  },
+  {
+   "id": "nhl-2026020361",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-21T23:00:00Z",
+   "title": "Florida Panthers – Buffalo Sabres",
+   "score": "4–3",
+   "swedes": [
+    {
+     "name": "Gustav Forsling",
+     "team": "Panthers",
+     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 4,
+      "toi": "22:01"
+     },
+     "page": "spelare/gustav-forsling/"
+    },
+    {
+     "name": "Jacob Markstrom",
+     "team": "Panthers",
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
+     "stats": {
+      "decision": "W",
+      "goalsAgainst": 3,
+      "kind": "goalie",
+      "savePctg": 0.842105,
+      "saves": 16,
+      "shotsAgainst": 19,
+      "toi": "60:00"
+     },
+     "page": "spelare/jacob-markstrom/"
+    },
+    {
+     "name": "Noah Ostlund",
+     "team": "Sabres",
+     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 1,
+      "toi": "14:18"
+     },
+     "page": "spelare/noah-ostlund/"
+    },
+    {
+     "name": "Rasmus Dahlin",
+     "team": "Sabres",
+     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 3,
+      "toi": "26:32"
+     },
+     "page": "spelare/rasmus-dahlin/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Florida Panthers",
+     "page": "lag/florida-panthers/"
+    },
+    {
+     "name": "Buffalo Sabres",
+     "page": "lag/buffalo-sabres/"
+    }
+   ],
+   "page": "match/florida-panthers-buffalo-sabres-21-nov/"
+  },
+  {
+   "id": "nhl-2026020362",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-21T23:00:00Z",
+   "title": "Nashville Predators – Pittsburgh Penguins",
+   "score": "4–3",
+   "swedes": [
+    {
+     "name": "Adam Edstrom",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 0,
+      "toi": "14:26"
+     },
+     "page": "spelare/adam-edstrom/"
+    },
+    {
+     "name": "Adam Wilsby",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Adam_Wilsby",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 1,
+      "toi": "19:25"
+     },
+     "page": "spelare/adam-wilsby/"
+    },
+    {
+     "name": "Filip Forsberg",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Filip_Forsberg",
+     "stats": {
+      "assists": 0,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 1,
+      "shots": 3,
+      "toi": "20:05"
+     },
+     "page": "spelare/filip-forsberg/"
+    },
+    {
+     "name": "Nils Hoglander",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 3,
+      "toi": "12:52"
+     },
+     "page": "spelare/nils-hoglander/"
+    },
+    {
+     "name": "Elmer Soderblom",
+     "team": "Penguins",
+     "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom",
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/elmer-soderblom/"
+    },
+    {
+     "name": "Erik Karlsson",
+     "team": "Penguins",
+     "url": null,
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 2,
+      "points": 0,
+      "shots": 3,
+      "toi": "23:29"
+     },
+     "page": "spelare/erik-karlsson/"
+    },
+    {
+     "name": "Rickard Rakell",
+     "team": "Penguins",
+     "url": "https://sv.wikipedia.org/wiki/Rickard_Rakell",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 5,
+      "toi": "20:53"
+     },
+     "page": "spelare/rickard-rakell/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Nashville Predators",
+     "page": "lag/nashville-predators/"
+    },
+    {
+     "name": "Pittsburgh Penguins",
+     "page": "lag/pittsburgh-penguins/"
+    }
+   ],
+   "page": "match/nashville-predators-pittsburgh-penguins-21-nov/"
+  },
+  {
+   "id": "nhl-2026020363",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-22T00:00:00Z",
+   "title": "Boston Bruins – Washington Capitals",
+   "score": "7–5",
+   "swedes": [
+    {
+     "name": "Elias Lindholm",
+     "team": "Bruins",
+     "url": "https://sv.wikipedia.org/wiki/Elias_Lindholm",
+     "stats": {
+      "assists": 1,
+      "goals": 4,
+      "kind": "skater",
+      "plusMinus": 3,
+      "points": 5,
+      "shots": 6,
+      "toi": "19:42"
+     },
+     "page": "spelare/elias-lindholm/"
+    },
+    {
+     "name": "Hampus Lindholm",
+     "team": "Bruins",
+     "url": "https://sv.wikipedia.org/wiki/Hampus_Lindholm",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 2,
+      "points": 0,
+      "shots": 1,
+      "toi": "21:35"
+     },
+     "page": "spelare/hampus-lindholm/"
+    },
+    {
+     "name": "Rasmus Sandin",
+     "team": "Capitals",
+     "url": "https://sv.wikipedia.org/wiki/Rasmus_Sandin",
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/rasmus-sandin/"
+    },
+    {
+     "name": "Timothy Liljegren",
+     "team": "Capitals",
+     "url": "https://sv.wikipedia.org/wiki/Timothy_Liljegren",
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/timothy-liljegren/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Boston Bruins",
+     "page": "lag/boston-bruins/"
+    },
+    {
+     "name": "Washington Capitals",
+     "page": "lag/washington-capitals/"
+    }
+   ],
+   "page": "match/boston-bruins-washington-capitals-21-nov/"
+  },
+  {
+   "id": "nhl-2026020367",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-22T00:00:00Z",
+   "title": "Detroit Red Wings – New York Islanders",
+   "score": "2–3",
+   "swedes": [
+    {
+     "name": "Albert Johansson",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)",
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 1,
+      "shots": 0,
+      "toi": "17:39"
+     },
+     "page": "spelare/albert-johansson/"
+    },
+    {
+     "name": "Andreas Englund",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Andreas_Englund",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 1,
+      "toi": "15:50"
+     },
+     "page": "spelare/andreas-englund/"
+    },
+    {
+     "name": "Anton Johansson",
+     "team": "Red Wings",
+     "url": null,
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 0,
+      "toi": "13:37"
+     },
+     "page": "spelare/anton-johansson/"
+    },
+    {
+     "name": "Lucas Raymond",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Lucas_Raymond",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 0,
+      "toi": "18:51"
+     },
+     "page": "spelare/lucas-raymond/"
+    },
+    {
+     "name": "Viktor Arvidsson",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 2,
+      "toi": "16:46"
+     },
+     "page": "spelare/viktor-arvidsson/"
+    },
+    {
+     "name": "William Wallinder",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/William_Wallinder",
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/william-wallinder/"
+    },
+    {
+     "name": "Emil Heineman",
+     "team": "Islanders",
+     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 0,
+      "toi": "15:36"
+     },
+     "page": "spelare/emil-heineman/"
+    },
+    {
+     "name": "Simon Holmstrom",
+     "team": "Islanders",
+     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m",
+     "stats": {
+      "assists": 0,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 2,
+      "toi": "18:06"
+     },
+     "page": "spelare/simon-holmstrom/"
+    },
+    {
+     "name": "Victor Eklund",
+     "team": "Islanders",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 0,
+      "toi": "14:40"
+     },
+     "page": "spelare/victor-eklund/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Detroit Red Wings",
+     "page": "lag/detroit-red-wings/"
+    },
+    {
+     "name": "New York Islanders",
+     "page": "lag/new-york-islanders/"
+    }
+   ],
+   "page": "match/detroit-red-wings-new-york-islanders-21-nov/"
+  },
+  {
+   "id": "nhl-2026020365",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-22T00:00:00Z",
+   "title": "Montréal Canadiens – Philadelphia Flyers",
+   "score": "3–4",
+   "swedes": [
+    {
+     "name": "Adam Engstrom",
+     "team": "Canadiens",
+     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
+     "stats": {
+      "kind": "dnp"
      },
      "page": "spelare/adam-engstrom/"
     },
@@ -4850,35 +5797,35 @@
      "url": null,
      "stats": {
       "assists": 0,
-      "goals": 0,
+      "goals": 1,
       "kind": "skater",
-      "plusMinus": 0,
-      "points": 0,
+      "plusMinus": 1,
+      "points": 1,
       "shots": 1,
-      "toi": "08:47"
+      "toi": "07:49"
      },
      "page": "spelare/oliver-kapanen/"
     }
    ],
    "teams": [
     {
-     "name": "Carolina Hurricanes",
-     "page": "lag/carolina-hurricanes/"
-    },
-    {
      "name": "Montréal Canadiens",
      "page": "lag/montreal-canadiens/"
+    },
+    {
+     "name": "Philadelphia Flyers",
+     "page": "lag/philadelphia-flyers/"
     }
    ],
-   "page": "match/carolina-hurricanes-montreal-canadiens-19-nov/"
+   "page": "match/montreal-canadiens-philadelphia-flyers-21-nov/"
   },
   {
-   "id": "nhl-2026020348",
+   "id": "nhl-2026020366",
    "sport": "Ishockey",
    "competition": "NHL",
-   "start": "2026-11-20T00:00:00Z",
-   "title": "Ottawa Senators – Philadelphia Flyers",
-   "score": "5–6 efter förlängning",
+   "start": "2026-11-22T00:00:00Z",
+   "title": "Ottawa Senators – Los Angeles Kings",
+   "score": "4–2",
    "swedes": [
     {
      "name": "Andre Burakovsky",
@@ -4899,8 +5846,8 @@
       "kind": "skater",
       "plusMinus": 1,
       "points": 1,
-      "shots": 4,
-      "toi": "13:49"
+      "shots": 0,
+      "toi": "10:34"
      },
      "page": "spelare/fabian-zetterlund/"
     },
@@ -4909,7 +5856,13 @@
      "team": "Senators",
      "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark",
      "stats": {
-      "kind": "dnp"
+      "decision": "W",
+      "goalsAgainst": 2,
+      "kind": "goalie",
+      "savePctg": 0.904762,
+      "saves": 19,
+      "shotsAgainst": 21,
+      "toi": "59:54"
      },
      "page": "spelare/linus-ullmark/"
     },
@@ -4918,13 +5871,7 @@
      "team": "Senators",
      "url": "https://sv.wikipedia.org/wiki/Samuel_Ersson",
      "stats": {
-      "decision": "O",
-      "goalsAgainst": 6,
-      "kind": "goalie",
-      "savePctg": 0.684211,
-      "saves": 13,
-      "shotsAgainst": 19,
-      "toi": "60:12"
+      "kind": "dnp"
      },
      "page": "spelare/samuel-ersson/"
     },
@@ -4936,6 +5883,66 @@
       "kind": "dnp"
      },
      "page": "spelare/william-eklund/"
+    },
+    {
+     "name": "Adrian Kempe",
+     "team": "Kings",
+     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 0,
+      "toi": "22:06"
+     },
+     "page": "spelare/adrian-kempe/"
+    },
+    {
+     "name": "Andre Lee",
+     "team": "Kings",
+     "url": "https://sv.wikipedia.org/wiki/Andre_Lee",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 0,
+      "toi": "12:06"
+     },
+     "page": "spelare/andre-lee/"
+    },
+    {
+     "name": "Anton Forsberg",
+     "team": "Kings",
+     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg",
+     "stats": {
+      "decision": "L",
+      "goalsAgainst": 4,
+      "kind": "goalie",
+      "savePctg": 0.857143,
+      "saves": 24,
+      "shotsAgainst": 28,
+      "toi": "57:18"
+     },
+     "page": "spelare/anton-forsberg/"
+    },
+    {
+     "name": "Erik Gustafsson",
+     "team": "Kings",
+     "url": null,
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 3,
+      "toi": "13:31"
+     },
+     "page": "spelare/erik-gustafsson/"
     }
    ],
    "teams": [
@@ -4944,59 +5951,20 @@
      "page": "lag/ottawa-senators/"
     },
     {
-     "name": "Philadelphia Flyers",
-     "page": "lag/philadelphia-flyers/"
+     "name": "Los Angeles Kings",
+     "page": "lag/los-angeles-kings/"
     }
    ],
-   "page": "match/ottawa-senators-philadelphia-flyers-19-nov/"
+   "page": "match/ottawa-senators-los-angeles-kings-21-nov/"
   },
   {
-   "id": "nhl-2026020350",
+   "id": "nhl-2026020368",
    "sport": "Ishockey",
    "competition": "NHL",
-   "start": "2026-11-20T00:00:00Z",
-   "title": "Pittsburgh Penguins – St. Louis Blues",
-   "score": "2–5",
+   "start": "2026-11-22T00:00:00Z",
+   "title": "St. Louis Blues – New Jersey Devils",
+   "score": "9–6",
    "swedes": [
-    {
-     "name": "Elmer Soderblom",
-     "team": "Penguins",
-     "url": "https://sv.wikipedia.org/wiki/Elmer_S%C3%B6derblom",
-     "stats": {
-      "kind": "dnp"
-     },
-     "page": "spelare/elmer-soderblom/"
-    },
-    {
-     "name": "Erik Karlsson",
-     "team": "Penguins",
-     "url": null,
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -3,
-      "points": 0,
-      "shots": 2,
-      "toi": "21:00"
-     },
-     "page": "spelare/erik-karlsson/"
-    },
-    {
-     "name": "Rickard Rakell",
-     "team": "Penguins",
-     "url": "https://sv.wikipedia.org/wiki/Rickard_Rakell",
-     "stats": {
-      "assists": 0,
-      "goals": 2,
-      "kind": "skater",
-      "plusMinus": -2,
-      "points": 2,
-      "shots": 7,
-      "toi": "19:00"
-     },
-     "page": "spelare/rickard-rakell/"
-    },
     {
      "name": "Calle Rosen",
      "team": "Blues",
@@ -5012,12 +5980,12 @@
      "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
      "stats": {
       "assists": 0,
-      "goals": 0,
+      "goals": 2,
       "kind": "skater",
-      "plusMinus": 0,
-      "points": 0,
-      "shots": 1,
-      "toi": "13:58"
+      "plusMinus": 3,
+      "points": 2,
+      "shots": 3,
+      "toi": "13:01"
      },
      "page": "spelare/jonatan-berggren/"
     },
@@ -5026,49 +5994,73 @@
      "team": "Blues",
      "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
      "stats": {
+      "assists": 2,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": 3,
+      "points": 3,
+      "shots": 2,
+      "toi": "24:14"
+     },
+     "page": "spelare/philip-broberg/"
+    },
+    {
+     "name": "Jesper Boqvist",
+     "team": "Devils",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist",
+     "stats": {
+      "assists": 1,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": 2,
+      "points": 2,
+      "shots": 3,
+      "toi": "12:14"
+     },
+     "page": "spelare/jesper-boqvist/"
+    },
+    {
+     "name": "Jesper Bratt",
+     "team": "Devils",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt",
+     "stats": {
       "assists": 0,
       "goals": 0,
       "kind": "skater",
-      "plusMinus": -1,
+      "plusMinus": -2,
       "points": 0,
-      "shots": 1,
-      "toi": "25:42"
+      "shots": 4,
+      "toi": "18:15"
      },
-     "page": "spelare/philip-broberg/"
+     "page": "spelare/jesper-bratt/"
     }
    ],
    "teams": [
     {
-     "name": "Pittsburgh Penguins",
-     "page": "lag/pittsburgh-penguins/"
-    },
-    {
      "name": "St. Louis Blues",
      "page": "lag/st-louis-blues/"
+    },
+    {
+     "name": "New Jersey Devils",
+     "page": "lag/new-jersey-devils/"
     }
    ],
-   "page": "match/pittsburgh-penguins-st-louis-blues-19-nov/"
+   "page": "match/st-louis-blues-new-jersey-devils-21-nov/"
   },
   {
-   "id": "nhl-2026020347",
+   "id": "nhl-2026020364",
    "sport": "Ishockey",
    "competition": "NHL",
-   "start": "2026-11-20T00:00:00Z",
-   "title": "Toronto Maple Leafs – Los Angeles Kings",
-   "score": "3–4 efter straffar",
+   "start": "2026-11-22T00:00:00Z",
+   "title": "Toronto Maple Leafs – Columbus Blue Jackets",
+   "score": "3–4",
    "swedes": [
     {
      "name": "Oliver Ekman-Larsson",
      "team": "Maple Leafs",
      "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson",
      "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 1,
-      "points": 0,
-      "shots": 0,
-      "toi": "19:10"
+      "kind": "dnp"
      },
      "page": "spelare/oliver-ekman-larsson/"
     },
@@ -5077,69 +6069,30 @@
      "team": "Maple Leafs",
      "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)",
      "stats": {
-      "assists": 2,
+      "assists": 1,
       "goals": 0,
       "kind": "skater",
       "plusMinus": 0,
-      "points": 2,
+      "points": 1,
       "shots": 1,
-      "toi": "22:22"
+      "toi": "19:33"
      },
      "page": "spelare/william-nylander/"
     },
     {
-     "name": "Adrian Kempe",
-     "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe",
-     "stats": {
-      "assists": 1,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -1,
-      "points": 1,
-      "shots": 2,
-      "toi": "17:21"
-     },
-     "page": "spelare/adrian-kempe/"
-    },
-    {
-     "name": "Andre Lee",
-     "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Andre_Lee",
+     "name": "Isac Lundeström",
+     "team": "Blue Jackets",
+     "url": "https://sv.wikipedia.org/wiki/Isac_Lundestr%C3%B6m",
      "stats": {
       "assists": 0,
       "goals": 0,
       "kind": "skater",
       "plusMinus": -1,
       "points": 0,
-      "shots": 1,
-      "toi": "15:24"
-     },
-     "page": "spelare/andre-lee/"
-    },
-    {
-     "name": "Anton Forsberg",
-     "team": "Kings",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg",
-     "stats": {
-      "kind": "dnp"
-     },
-     "page": "spelare/anton-forsberg/"
-    },
-    {
-     "name": "Erik Gustafsson",
-     "team": "Kings",
-     "url": null,
-     "stats": {
-      "assists": 1,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -1,
-      "points": 1,
       "shots": 0,
-      "toi": "20:48"
+      "toi": "04:44"
      },
-     "page": "spelare/erik-gustafsson/"
+     "page": "spelare/isac-lundestrom/"
     }
    ],
    "teams": [
@@ -5148,95 +6101,35 @@
      "page": "lag/toronto-maple-leafs/"
     },
     {
-     "name": "Los Angeles Kings",
-     "page": "lag/los-angeles-kings/"
+     "name": "Columbus Blue Jackets",
+     "page": "lag/columbus-blue-jackets/"
     }
    ],
-   "page": "match/toronto-maple-leafs-los-angeles-kings-19-nov/"
+   "page": "match/toronto-maple-leafs-columbus-blue-jackets-21-nov/"
   },
   {
-   "id": "nhl-2026020351",
+   "id": "nhl-2026020369",
    "sport": "Ishockey",
    "competition": "NHL",
-   "start": "2026-11-20T00:00:00Z",
-   "title": "Washington Capitals – Buffalo Sabres",
-   "score": "3–6",
+   "start": "2026-11-22T00:00:00Z",
+   "title": "Winnipeg Jets – Vegas Golden Knights",
+   "score": "4–5 efter straffar",
    "swedes": [
     {
-     "name": "Rasmus Sandin",
-     "team": "Capitals",
-     "url": "https://sv.wikipedia.org/wiki/Rasmus_Sandin",
-     "stats": {
-      "kind": "dnp"
-     },
-     "page": "spelare/rasmus-sandin/"
-    },
-    {
-     "name": "Timothy Liljegren",
-     "team": "Capitals",
-     "url": "https://sv.wikipedia.org/wiki/Timothy_Liljegren",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 1,
-      "points": 0,
-      "shots": 1,
-      "toi": "16:47"
-     },
-     "page": "spelare/timothy-liljegren/"
-    },
-    {
-     "name": "Noah Ostlund",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
+     "name": "Elias Salomonsson",
+     "team": "Jets",
+     "url": "https://sv.wikipedia.org/wiki/Elias_Salomonsson",
      "stats": {
       "assists": 1,
       "goals": 0,
       "kind": "skater",
-      "plusMinus": 1,
+      "plusMinus": 0,
       "points": 1,
-      "shots": 0,
-      "toi": "13:48"
-     },
-     "page": "spelare/noah-ostlund/"
-    },
-    {
-     "name": "Rasmus Dahlin",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
-     "stats": {
-      "assists": 1,
-      "goals": 1,
-      "kind": "skater",
-      "plusMinus": 2,
-      "points": 2,
       "shots": 2,
-      "toi": "22:36"
+      "toi": "17:55"
      },
-     "page": "spelare/rasmus-dahlin/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Washington Capitals",
-     "page": "lag/washington-capitals/"
+     "page": "spelare/elias-salomonsson/"
     },
-    {
-     "name": "Buffalo Sabres",
-     "page": "lag/buffalo-sabres/"
-    }
-   ],
-   "page": "match/washington-capitals-buffalo-sabres-19-nov/"
-  },
-  {
-   "id": "nhl-2026020354",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-20T00:00:00Z",
-   "title": "Winnipeg Jets – New York Islanders",
-   "score": "4–3 efter förlängning",
-   "swedes": [
     {
      "name": "Isak Rosen",
      "team": "Jets",
@@ -5252,49 +6145,34 @@
      "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck",
      "stats": {
       "assists": 0,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 4,
+      "toi": "18:32"
+     },
+     "page": "spelare/viggo-bjorck/"
+    },
+    {
+     "name": "Rasmus Andersson",
+     "team": "Golden Knights",
+     "url": null,
+     "stats": {
+      "assists": 0,
       "goals": 0,
       "kind": "skater",
       "plusMinus": 0,
       "points": 0,
       "shots": 0,
-      "toi": "14:45"
+      "toi": "23:42"
      },
-     "page": "spelare/viggo-bjorck/"
+     "page": "spelare/rasmus-andersson/"
     },
     {
-     "name": "Emil Heineman",
-     "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman",
-     "stats": {
-      "assists": 0,
-      "goals": 1,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 1,
-      "shots": 1,
-      "toi": "15:48"
-     },
-     "page": "spelare/emil-heineman/"
-    },
-    {
-     "name": "Simon Holmstrom",
-     "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m",
-     "stats": {
-      "assists": 1,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 1,
-      "shots": 1,
-      "toi": "18:49"
-     },
-     "page": "spelare/simon-holmstrom/"
-    },
-    {
-     "name": "Victor Eklund",
-     "team": "Islanders",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund",
+     "name": "Victor Olofsson",
+     "team": "Golden Knights",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson",
      "stats": {
       "assists": 0,
       "goals": 0,
@@ -5302,9 +6180,24 @@
       "plusMinus": 0,
       "points": 0,
       "shots": 1,
-      "toi": "16:51"
+      "toi": "15:44"
      },
-     "page": "spelare/victor-eklund/"
+     "page": "spelare/victor-olofsson/"
+    },
+    {
+     "name": "William Karlsson",
+     "team": "Golden Knights",
+     "url": "https://sv.wikipedia.org/wiki/William_Karlsson",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 2,
+      "toi": "20:31"
+     },
+     "page": "spelare/william-karlsson/"
     }
    ],
    "teams": [
@@ -5313,123 +6206,24 @@
      "page": "lag/winnipeg-jets/"
     },
     {
-     "name": "New York Islanders",
-     "page": "lag/new-york-islanders/"
+     "name": "Vegas Golden Knights",
+     "page": "lag/vegas-golden-knights/"
     }
    ],
-   "page": "match/winnipeg-jets-new-york-islanders-19-nov/"
+   "page": "match/winnipeg-jets-vegas-golden-knights-21-nov/"
   },
   {
-   "id": "nhl-2026020349",
+   "id": "nhl-2026020370",
    "sport": "Ishockey",
    "competition": "NHL",
-   "start": "2026-11-20T00:30:00Z",
-   "title": "Tampa Bay Lightning – Edmonton Oilers",
-   "score": "3–1",
+   "start": "2026-11-22T02:00:00Z",
+   "title": "Utah Mammoth – Anaheim Ducks",
+   "score": "3–2",
    "swedes": [
     {
-     "name": "Dennis Hildeby",
-     "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Dennis_Hildeby",
-     "stats": {
-      "kind": "dnp"
-     },
-     "page": "spelare/dennis-hildeby/"
-    },
-    {
-     "name": "Pontus Holmberg",
-     "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Pontus_Holmberg",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 0,
-      "shots": 1,
-      "toi": "16:23"
-     },
-     "page": "spelare/pontus-holmberg/"
-    },
-    {
-     "name": "Victor Hedman",
-     "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Hedman",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 0,
-      "shots": 1,
-      "toi": "18:32"
-     },
-     "page": "spelare/victor-hedman/"
-    },
-    {
-     "name": "Filip Hallander",
-     "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 0,
-      "shots": 0,
-      "toi": "12:58"
-     },
-     "page": "spelare/filip-hallander/"
-    },
-    {
-     "name": "Mattias Ekholm",
-     "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -2,
-      "points": 0,
-      "shots": 2,
-      "toi": "19:50"
-     },
-     "page": "spelare/mattias-ekholm/"
-    },
-    {
-     "name": "Mattias Janmark",
-     "team": "Oilers",
-     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark",
-     "stats": {
-      "kind": "dnp"
-     },
-     "page": "spelare/mattias-janmark/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Tampa Bay Lightning",
-     "page": "lag/tampa-bay-lightning/"
-    },
-    {
-     "name": "Edmonton Oilers",
-     "page": "lag/edmonton-oilers/"
-    }
-   ],
-   "page": "match/tampa-bay-lightning-edmonton-oilers-19-nov/"
-  },
-  {
-   "id": "nhl-2026020355",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-20T01:00:00Z",
-   "title": "Calgary Flames – Minnesota Wild",
-   "score": "1–4",
-   "swedes": [
-    {
-     "name": "Mikael Backlund",
-     "team": "Flames",
-     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund",
+     "name": "Kevin Stenlund",
+     "team": "Mammoth",
+     "url": "https://sv.wikipedia.org/wiki/Kevin_Stenlund",
      "stats": {
       "assists": 0,
       "goals": 0,
@@ -5437,9 +6231,195 @@
       "plusMinus": -1,
       "points": 0,
       "shots": 0,
-      "toi": "17:08"
+      "toi": "15:06"
      },
-     "page": "spelare/mikael-backlund/"
+     "page": "spelare/kevin-stenlund/"
+    },
+    {
+     "name": "Leo Carlsson",
+     "team": "Ducks",
+     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
+     "stats": {
+      "assists": 0,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 1,
+      "toi": "06:04"
+     },
+     "page": "spelare/leo-carlsson/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Utah Mammoth",
+     "page": "lag/utah-mammoth/"
+    },
+    {
+     "name": "Anaheim Ducks",
+     "page": "lag/anaheim-ducks/"
+    }
+   ],
+   "page": "match/utah-mammoth-anaheim-ducks-21-nov/"
+  },
+  {
+   "id": "nhl-2026020372",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-22T03:00:00Z",
+   "title": "San Jose Sharks – Seattle Kraken",
+   "score": "4–3",
+   "swedes": [
+    {
+     "name": "Alexander Wennberg",
+     "team": "Sharks",
+     "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 0,
+      "shots": 3,
+      "toi": "17:19"
+     },
+     "page": "spelare/alexander-wennberg/"
+    },
+    {
+     "name": "Ivar Stenberg",
+     "team": "Sharks",
+     "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg",
+     "stats": {
+      "assists": 1,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 2,
+      "shots": 2,
+      "toi": "16:36"
+     },
+     "page": "spelare/ivar-stenberg/"
+    },
+    {
+     "name": "Adam Larsson",
+     "team": "Kraken",
+     "url": null,
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 1,
+      "toi": "17:56"
+     },
+     "page": "spelare/adam-larsson/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "San Jose Sharks",
+     "page": "lag/san-jose-sharks/"
+    },
+    {
+     "name": "Seattle Kraken",
+     "page": "lag/seattle-kraken/"
+    }
+   ],
+   "page": "match/san-jose-sharks-seattle-kraken-21-nov/"
+  },
+  {
+   "id": "nhl-2026020371",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-22T03:00:00Z",
+   "title": "Vancouver Canucks – Minnesota Wild",
+   "score": "4–3 efter straffar",
+   "swedes": [
+    {
+     "name": "Elias Pettersson #25",
+     "team": "Canucks",
+     "url": null,
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -3,
+      "points": 0,
+      "shots": 0,
+      "toi": "14:08"
+     },
+     "page": "spelare/elias-pettersson-25/"
+    },
+    {
+     "name": "Elias Pettersson #40",
+     "team": "Canucks",
+     "url": null,
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/elias-pettersson-40/"
+    },
+    {
+     "name": "Jonathan Lekkerimäki",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 1,
+      "toi": "15:25"
+     },
+     "page": "spelare/jonathan-lekkerimaki/"
+    },
+    {
+     "name": "Liam Ohgren",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 4,
+      "toi": "14:29"
+     },
+     "page": "spelare/liam-ohgren/"
+    },
+    {
+     "name": "Linus Karlsson",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 0,
+      "toi": "12:15"
+     },
+     "page": "spelare/linus-karlsson/"
+    },
+    {
+     "name": "Tom Willander",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Tom_Willander",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 2,
+      "toi": "19:54"
+     },
+     "page": "spelare/tom-willander/"
     },
     {
      "name": "Filip Gustavsson",
@@ -5455,13 +6435,13 @@
      "team": "Wild",
      "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
      "stats": {
-      "decision": "W",
-      "goalsAgainst": 1,
+      "decision": "O",
+      "goalsAgainst": 3,
       "kind": "goalie",
-      "savePctg": 0.956522,
-      "saves": 22,
-      "shotsAgainst": 23,
-      "toi": "60:00"
+      "savePctg": 0.875,
+      "saves": 21,
+      "shotsAgainst": 24,
+      "toi": "64:53"
      },
      "page": "spelare/jesper-wallstedt/"
     },
@@ -5470,13 +6450,13 @@
      "team": "Wild",
      "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek",
      "stats": {
-      "assists": 1,
-      "goals": 1,
+      "assists": 0,
+      "goals": 0,
       "kind": "skater",
-      "plusMinus": 3,
-      "points": 2,
-      "shots": 2,
-      "toi": "18:46"
+      "plusMinus": 1,
+      "points": 0,
+      "shots": 3,
+      "toi": "22:24"
      },
      "page": "spelare/joel-eriksson-ek/"
     },
@@ -5488,343 +6468,25 @@
       "assists": 0,
       "goals": 0,
       "kind": "skater",
-      "plusMinus": 0,
+      "plusMinus": -1,
       "points": 0,
       "shots": 1,
-      "toi": "22:01"
+      "toi": "24:50"
      },
      "page": "spelare/jonas-brodin/"
     }
    ],
    "teams": [
     {
-     "name": "Calgary Flames",
-     "page": "lag/calgary-flames/"
+     "name": "Vancouver Canucks",
+     "page": "lag/vancouver-canucks/"
     },
     {
      "name": "Minnesota Wild",
      "page": "lag/minnesota-wild/"
     }
    ],
-   "page": "match/calgary-flames-minnesota-wild-19-nov/"
-  },
-  {
-   "id": "nhl-2026020353",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-20T01:00:00Z",
-   "title": "Chicago Blackhawks – Columbus Blue Jackets",
-   "score": "2–4",
-   "swedes": [
-    {
-     "name": "Anton Frondell",
-     "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 0,
-      "shots": 1,
-      "toi": "17:50"
-     },
-     "page": "spelare/anton-frondell/"
-    },
-    {
-     "name": "Isac Lundeström",
-     "team": "Blue Jackets",
-     "url": "https://sv.wikipedia.org/wiki/Isac_Lundestr%C3%B6m",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 0,
-      "shots": 0,
-      "toi": "08:54"
-     },
-     "page": "spelare/isac-lundestrom/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Chicago Blackhawks",
-     "page": "lag/chicago-blackhawks/"
-    },
-    {
-     "name": "Columbus Blue Jackets",
-     "page": "lag/columbus-blue-jackets/"
-    }
-   ],
-   "page": "match/chicago-blackhawks-columbus-blue-jackets-19-nov/"
-  },
-  {
-   "id": "nhl-2026020356",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-20T02:00:00Z",
-   "title": "Colorado Avalanche – Anaheim Ducks",
-   "score": "4–0",
-   "swedes": [
-    {
-     "name": "Gabriel Landeskog",
-     "team": "Avalanche",
-     "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog",
-     "stats": {
-      "assists": 1,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 1,
-      "points": 1,
-      "shots": 0,
-      "toi": "17:11"
-     },
-     "page": "spelare/gabriel-landeskog/"
-    },
-    {
-     "name": "Leo Carlsson",
-     "team": "Ducks",
-     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -1,
-      "points": 0,
-      "shots": 1,
-      "toi": "20:04"
-     },
-     "page": "spelare/leo-carlsson/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Colorado Avalanche",
-     "page": "lag/colorado-avalanche/"
-    },
-    {
-     "name": "Anaheim Ducks",
-     "page": "lag/anaheim-ducks/"
-    }
-   ],
-   "page": "match/colorado-avalanche-anaheim-ducks-19-nov/"
-  },
-  {
-   "id": "nhl-2026020357",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-20T02:40:00Z",
-   "title": "Seattle Kraken – Vancouver Canucks",
-   "score": "5–1",
-   "swedes": [
-    {
-     "name": "Adam Larsson",
-     "team": "Kraken",
-     "url": null,
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 2,
-      "points": 0,
-      "shots": 1,
-      "toi": "20:04"
-     },
-     "page": "spelare/adam-larsson/"
-    },
-    {
-     "name": "Elias Pettersson #25",
-     "team": "Canucks",
-     "url": null,
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -1,
-      "points": 0,
-      "shots": 3,
-      "toi": "19:36"
-     },
-     "page": "spelare/elias-pettersson-25/"
-    },
-    {
-     "name": "Elias Pettersson #40",
-     "team": "Canucks",
-     "url": null,
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -1,
-      "points": 0,
-      "shots": 3,
-      "toi": "22:23"
-     },
-     "page": "spelare/elias-pettersson-40/"
-    },
-    {
-     "name": "Jonathan Lekkerimäki",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -1,
-      "points": 0,
-      "shots": 2,
-      "toi": "17:46"
-     },
-     "page": "spelare/jonathan-lekkerimaki/"
-    },
-    {
-     "name": "Liam Ohgren",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -1,
-      "points": 0,
-      "shots": 3,
-      "toi": "13:35"
-     },
-     "page": "spelare/liam-ohgren/"
-    },
-    {
-     "name": "Linus Karlsson",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -1,
-      "points": 0,
-      "shots": 0,
-      "toi": "15:13"
-     },
-     "page": "spelare/linus-karlsson/"
-    },
-    {
-     "name": "Tom Willander",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Tom_Willander",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -1,
-      "points": 0,
-      "shots": 0,
-      "toi": "22:37"
-     },
-     "page": "spelare/tom-willander/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Seattle Kraken",
-     "page": "lag/seattle-kraken/"
-    },
-    {
-     "name": "Vancouver Canucks",
-     "page": "lag/vancouver-canucks/"
-    }
-   ],
-   "page": "match/seattle-kraken-vancouver-canucks-19-nov/"
-  },
-  {
-   "id": "nhl-2026020358",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-20T03:00:00Z",
-   "title": "Vegas Golden Knights – Dallas Stars",
-   "score": "3–4 efter straffar",
-   "swedes": [
-    {
-     "name": "Rasmus Andersson",
-     "team": "Golden Knights",
-     "url": null,
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -1,
-      "points": 0,
-      "shots": 2,
-      "toi": "21:59"
-     },
-     "page": "spelare/rasmus-andersson/"
-    },
-    {
-     "name": "Victor Olofsson",
-     "team": "Golden Knights",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson",
-     "stats": {
-      "assists": 0,
-      "goals": 1,
-      "kind": "skater",
-      "plusMinus": 1,
-      "points": 1,
-      "shots": 2,
-      "toi": "18:16"
-     },
-     "page": "spelare/victor-olofsson/"
-    },
-    {
-     "name": "William Karlsson",
-     "team": "Golden Knights",
-     "url": "https://sv.wikipedia.org/wiki/William_Karlsson",
-     "stats": {
-      "assists": 0,
-      "goals": 1,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 1,
-      "shots": 2,
-      "toi": "20:03"
-     },
-     "page": "spelare/william-karlsson/"
-    },
-    {
-     "name": "Nils Lundkvist",
-     "team": "Stars",
-     "url": "https://sv.wikipedia.org/wiki/Nils_Lundkvist",
-     "stats": {
-      "assists": 1,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 1,
-      "shots": 2,
-      "toi": "21:59"
-     },
-     "page": "spelare/nils-lundkvist/"
-    },
-    {
-     "name": "Oskar Bäck",
-     "team": "Stars",
-     "url": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck",
-     "stats": {
-      "kind": "dnp"
-     },
-     "page": "spelare/oskar-back/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Vegas Golden Knights",
-     "page": "lag/vegas-golden-knights/"
-    },
-    {
-     "name": "Dallas Stars",
-     "page": "lag/dallas-stars/"
-    }
-   ],
-   "page": "match/vegas-golden-knights-dallas-stars-19-nov/"
+   "page": "match/vancouver-canucks-minnesota-wild-21-nov/"
   }
  ]
 }

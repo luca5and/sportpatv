@@ -38,15 +38,14 @@ URL:https://patv.se/match/detroit-red-wings-boston-bruins-18-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020367@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T010000
 DTEND;TZID=Europe/Stockholm:20261122T040000
-SUMMARY:Detroit Red Wings – New York Islanders (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Albert Johansson\, Andreas Englund\, Anton Johansson\, Lucas Raymond\
- , Viktor Arvidsson\, William Wallinder\, Emil Heineman\, Simon Holmström\
- , Victor Eklund. https://patv.se/match/detroit-red-wings-new-york-islander
- s-21-nov/
+SUMMARY:Detroit Red Wings – New York Islanders 2–3
+DESCRIPTION:NHL. Slutresultat 2–3. Svenskar: Albert Johansson\, Andreas E
+ nglund\, Anton Johansson\, Lucas Raymond\, Viktor Arvidsson\, William Wall
+ inder\, Emil Heineman\, Simon Holmstrom\, Victor Eklund. https://patv.se/m
+ atch/detroit-red-wings-new-york-islanders-21-nov/
 URL:https://patv.se/match/detroit-red-wings-new-york-islanders-21-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -75,5 +74,18 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  on\, Lucas Raymond\, Viktor Arvidsson\, William Wallinder. https://patv.se
  /match/columbus-blue-jackets-detroit-red-wings-27-nov/
 URL:https://patv.se/match/columbus-blue-jackets-detroit-red-wings-27-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020417@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T010000
+DTEND;TZID=Europe/Stockholm:20261129T040000
+SUMMARY:Detroit Red Wings – Nashville Predators (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Albert Johansson\, Andreas Englund\, Anton Johansson\, Lucas Raymond\
+ , Viktor Arvidsson\, William Wallinder\, Adam Edström\, Adam Wilsby\, Fil
+ ip Forsberg\, Nils Höglander. https://patv.se/match/detroit-red-wings-nas
+ hville-predators-28-nov/
+URL:https://patv.se/match/detroit-red-wings-nashville-predators-28-nov/
 END:VEVENT
 END:VCALENDAR

@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:558526@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T180000
 DTEND;TZID=Europe/Stockholm:20261121T200000
-SUMMARY:Parma – Roma (TV4 Play)
-DESCRIPTION:Serie A. TV i Sverige: TV4 Play. Svenskar: Pontus Almqvist. htt
- ps://patv.se/match/parma-roma-21-nov/
+SUMMARY:Parma – Roma 1–5
+DESCRIPTION:Serie A. Slutresultat 1–5. Svenskar: Pontus Almqvist. https:/
+ /patv.se/match/parma-roma-21-nov/
 URL:https://patv.se/match/parma-roma-21-nov/
 END:VEVENT
 END:VCALENDAR

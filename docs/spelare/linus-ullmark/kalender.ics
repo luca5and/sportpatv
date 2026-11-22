@@ -37,14 +37,14 @@ URL:https://patv.se/match/ottawa-senators-philadelphia-flyers-19-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020366@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T010000
 DTEND;TZID=Europe/Stockholm:20261122T040000
-SUMMARY:Ottawa Senators – Los Angeles Kings (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: André Burakovsky\, Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson
- \, William Eklund\, Adrian Kempe\, Andre Lee\, Anton Forsberg\, Erik Gusta
- fsson. https://patv.se/match/ottawa-senators-los-angeles-kings-21-nov/
+SUMMARY:Ottawa Senators – Los Angeles Kings 4–2
+DESCRIPTION:NHL. Slutresultat 4–2. Svenskar: Andre Burakovsky\, Fabian Ze
+ tterlund\, Linus Ullmark\, Samuel Ersson\, William Eklund\, Adrian Kempe\,
+  Andre Lee\, Anton Forsberg\, Erik Gustafsson. https://patv.se/match/ottaw
+ a-senators-los-angeles-kings-21-nov/
 URL:https://patv.se/match/ottawa-senators-los-angeles-kings-21-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -82,5 +82,17 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  , Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson\, William Eklund. http
  s://patv.se/match/tampa-bay-lightning-ottawa-senators-27-nov/
 URL:https://patv.se/match/tampa-bay-lightning-ottawa-senators-27-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020421@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T010000
+DTEND;TZID=Europe/Stockholm:20261129T040000
+SUMMARY:Carolina Hurricanes – Ottawa Senators (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: André Burakovsky\, Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson
+ \, William Eklund. https://patv.se/match/carolina-hurricanes-ottawa-senato
+ rs-28-nov/
+URL:https://patv.se/match/carolina-hurricanes-ottawa-senators-28-nov/
 END:VEVENT
 END:VCALENDAR

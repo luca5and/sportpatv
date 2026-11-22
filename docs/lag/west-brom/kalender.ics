@@ -26,12 +26,22 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:561942@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T160000
 DTEND;TZID=Europe/Stockholm:20261121T180000
-SUMMARY:Swansea – West Brom (Viaplay)
-DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Melker Widell. h
- ttps://patv.se/match/swansea-west-brom-21-nov/
+SUMMARY:Swansea – West Brom 2–2
+DESCRIPTION:Championship. Slutresultat 2–2. Svenskar: Melker Widell. http
+ s://patv.se/match/swansea-west-brom-21-nov/
 URL:https://patv.se/match/swansea-west-brom-21-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:561975@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T160000
+DTEND;TZID=Europe/Stockholm:20261128T180000
+SUMMARY:West Brom – Bristol City (Viaplay)
+DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Noah Eile. https
+ ://patv.se/match/west-brom-bristol-city-28-nov/
+URL:https://patv.se/match/west-brom-bristol-city-28-nov/
 END:VEVENT
 END:VCALENDAR

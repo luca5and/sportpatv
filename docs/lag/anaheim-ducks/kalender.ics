@@ -36,13 +36,12 @@ URL:https://patv.se/match/colorado-avalanche-anaheim-ducks-19-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020370@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T030000
 DTEND;TZID=Europe/Stockholm:20261122T060000
-SUMMARY:Utah Mammoth – Anaheim Ducks (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Kevin Stenlund\, Leo Carlsson. https://patv.se/match/utah-mammoth-ana
- heim-ducks-21-nov/
+SUMMARY:Utah Mammoth – Anaheim Ducks 3–2
+DESCRIPTION:NHL. Slutresultat 3–2. Svenskar: Kevin Stenlund\, Leo Carlsso
+ n. https://patv.se/match/utah-mammoth-anaheim-ducks-21-nov/
 URL:https://patv.se/match/utah-mammoth-anaheim-ducks-21-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -77,5 +76,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Leo Carlsson\, Adrian Kempe\, Andre Lee\, Anton Forsberg\, Erik Gusta
  fsson. https://patv.se/match/anaheim-ducks-los-angeles-kings-27-nov/
 URL:https://patv.se/match/anaheim-ducks-los-angeles-kings-27-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020426@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T030000
+DTEND;TZID=Europe/Stockholm:20261129T060000
+SUMMARY:Los Angeles Kings – Anaheim Ducks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adrian Kempe\, Andre Lee\, Anton Forsberg\, Erik Gustafsson\, Leo Car
+ lsson. https://patv.se/match/los-angeles-kings-anaheim-ducks-28-nov/
+URL:https://patv.se/match/los-angeles-kings-anaheim-ducks-28-nov/
 END:VEVENT
 END:VCALENDAR

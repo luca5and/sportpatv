@@ -36,24 +36,23 @@ URL:https://patv.se/match/utah-mammoth-colorado-avalanche-18-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020370@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T030000
 DTEND;TZID=Europe/Stockholm:20261122T060000
-SUMMARY:Utah Mammoth – Anaheim Ducks (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Kevin Stenlund\, Leo Carlsson. https://patv.se/match/utah-mammoth-ana
- heim-ducks-21-nov/
+SUMMARY:Utah Mammoth – Anaheim Ducks 3–2
+DESCRIPTION:NHL. Slutresultat 3–2. Svenskar: Kevin Stenlund\, Leo Carlsso
+ n. https://patv.se/match/utah-mammoth-anaheim-ducks-21-nov/
 URL:https://patv.se/match/utah-mammoth-anaheim-ducks-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020382@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261124T013000
 DTEND;TZID=Europe/Stockholm:20261124T043000
 SUMMARY:Winnipeg Jets – Utah Mammoth (Viaplay eller Disney+?)
 DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Isak Rosén\, Viggo Björck\, Kevin Stenlund. https://patv.se/match/w
- innipeg-jets-utah-mammoth-23-nov/
+ kar: Elias Salomonsson\, Isak Rosén\, Viggo Björck\, Kevin Stenlund. htt
+ ps://patv.se/match/winnipeg-jets-utah-mammoth-23-nov/
 URL:https://patv.se/match/winnipeg-jets-utah-mammoth-23-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -78,5 +77,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Adam Edström\, Adam Wilsby\, Filip Forsberg\, Nils Höglander\, Kevi
  n Stenlund. https://patv.se/match/nashville-predators-utah-mammoth-27-nov/
 URL:https://patv.se/match/nashville-predators-utah-mammoth-27-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020424@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T020000
+DTEND;TZID=Europe/Stockholm:20261129T050000
+SUMMARY:Dallas Stars – Utah Mammoth (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Nils Lundkvist\, Oskar Bäck\, Kevin Stenlund. https://patv.se/match/
+ dallas-stars-utah-mammoth-28-nov/
+URL:https://patv.se/match/dallas-stars-utah-mammoth-28-nov/
 END:VEVENT
 END:VCALENDAR

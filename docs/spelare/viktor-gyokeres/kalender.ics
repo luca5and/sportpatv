@@ -26,13 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:560651@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T183000
 DTEND;TZID=Europe/Stockholm:20261121T203000
-SUMMARY:Newcastle – Arsenal (Viaplay)
-DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
-  Anthony Elanga\, Viktor Gyökeres. https://patv.se/match/newcastle-arsena
- l-21-nov/
+SUMMARY:Newcastle – Arsenal 2–2
+DESCRIPTION:Premier League. Slutresultat 2–2. Svenskar: Anthony Elanga\, 
+ Viktor Gyökeres. https://patv.se/match/newcastle-arsenal-21-nov/
 URL:https://patv.se/match/newcastle-arsenal-21-nov/
 END:VEVENT
 BEGIN:VEVENT

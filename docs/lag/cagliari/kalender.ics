@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:558525@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T150000
 DTEND;TZID=Europe/Stockholm:20261121T170000
-SUMMARY:Como 1907 – Cagliari (TV4 Play)
-DESCRIPTION:Serie A. TV i Sverige: TV4 Play. Svenskar: Adrian Lahdo. https:
- //patv.se/match/como-1907-cagliari-21-nov/
+SUMMARY:Como 1907 – Cagliari 2–0
+DESCRIPTION:Serie A. Slutresultat 2–0. Svenskar: Adrian Lahdo. https://pa
+ tv.se/match/como-1907-cagliari-21-nov/
 URL:https://patv.se/match/como-1907-cagliari-21-nov/
 END:VEVENT
 END:VCALENDAR

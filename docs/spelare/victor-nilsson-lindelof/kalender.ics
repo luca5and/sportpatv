@@ -26,13 +26,13 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:560644@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261121T160000
 DTEND;TZID=Europe/Stockholm:20261121T180000
-SUMMARY:Aston Villa – Sunderland (Viaplay)
-DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
-  Victor Nilsson Lindelöf\, Melker Ellborg. https://patv.se/match/aston-vi
- lla-sunderland-21-nov/
+SUMMARY:Aston Villa – Sunderland 0–0
+DESCRIPTION:Premier League. Slutresultat 0–0. Svenskar: Victor Nilsson-Li
+ ndelöf\, Melker Ellborg. https://patv.se/match/aston-villa-sunderland-21-
+ nov/
 URL:https://patv.se/match/aston-villa-sunderland-21-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -45,5 +45,16 @@ DESCRIPTION:Champions League. TV i Sverige: Viaplay. Svenskar: Deniz Gül\,
   Victor Nilsson Lindelöf. https://patv.se/match/galatasaray-aston-villa-2
  4-nov/
 URL:https://patv.se/match/galatasaray-aston-villa-24-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:560653@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T183000
+DTEND;TZID=Europe/Stockholm:20261128T203000
+SUMMARY:Ipswich Town – Aston Villa (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Victor Nilsson Lindelöf. https://patv.se/match/ipswic
+ h-town-aston-villa-28-nov/
+URL:https://patv.se/match/ipswich-town-aston-villa-28-nov/
 END:VEVENT
 END:VCALENDAR

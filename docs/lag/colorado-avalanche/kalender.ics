@@ -67,4 +67,15 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  che-27-nov/
 URL:https://patv.se/match/minnesota-wild-colorado-avalanche-27-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020425@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T030000
+DTEND;TZID=Europe/Stockholm:20261129T060000
+SUMMARY:Colorado Avalanche – San Jose Sharks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Gabriel Landeskog\, Alexander Wennberg\, Ivar Stenberg. https://patv.
+ se/match/colorado-avalanche-san-jose-sharks-28-nov/
+URL:https://patv.se/match/colorado-avalanche-san-jose-sharks-28-nov/
+END:VEVENT
 END:VCALENDAR

@@ -38,14 +38,13 @@ URL:https://patv.se/match/toronto-maple-leafs-los-angeles-kings-19-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020364@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T010000
 DTEND;TZID=Europe/Stockholm:20261122T040000
-SUMMARY:Toronto Maple Leafs – Columbus Blue Jackets (Viaplay eller Disney
- +?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Oliver Ekman Larsson\, William Nylander\, Isac Lundeström. https://p
- atv.se/match/toronto-maple-leafs-columbus-blue-jackets-21-nov/
+SUMMARY:Toronto Maple Leafs – Columbus Blue Jackets 3–4
+DESCRIPTION:NHL. Slutresultat 3–4. Svenskar: Oliver Ekman-Larsson\, Willi
+ am Nylander\, Isac Lundeström. https://patv.se/match/toronto-maple-leafs-
+ columbus-blue-jackets-21-nov/
 URL:https://patv.se/match/toronto-maple-leafs-columbus-blue-jackets-21-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -70,5 +69,18 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Elias Lindholm\, Hampus Lindholm\, Oliver Ekman Larsson\, William Nyl
  ander. https://patv.se/match/boston-bruins-toronto-maple-leafs-27-nov/
 URL:https://patv.se/match/boston-bruins-toronto-maple-leafs-27-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020420@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T010000
+DTEND;TZID=Europe/Stockholm:20261129T040000
+SUMMARY:Pittsburgh Penguins – Toronto Maple Leafs (Viaplay eller Disney+?
+ )
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Elmer Söderblom\, Erik Karlsson\, Rickard Rakell\, Oliver Ekman Lars
+ son\, William Nylander. https://patv.se/match/pittsburgh-penguins-toronto-
+ maple-leafs-28-nov/
+URL:https://patv.se/match/pittsburgh-penguins-toronto-maple-leafs-28-nov/
 END:VEVENT
 END:VCALENDAR

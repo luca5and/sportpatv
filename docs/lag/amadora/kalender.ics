@@ -24,4 +24,14 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:567356@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T213000
+DTEND;TZID=Europe/Stockholm:20261128T233000
+SUMMARY:Vitória SC – Amadora (kanal ej klar)
+DESCRIPTION:Primeira Liga. TV i Sverige: Ej bekräftat. Svenskar: Victor An
+ dersson. https://patv.se/match/vitoria-sc-amadora-28-nov/
+URL:https://patv.se/match/vitoria-sc-amadora-28-nov/
+END:VEVENT
 END:VCALENDAR

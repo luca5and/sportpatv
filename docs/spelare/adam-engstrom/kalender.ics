@@ -49,14 +49,12 @@ URL:https://patv.se/match/carolina-hurricanes-montreal-canadiens-19-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020365@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T010000
 DTEND;TZID=Europe/Stockholm:20261122T040000
-SUMMARY:Montréal Canadiens – Philadelphia Flyers (Viaplay eller Disney+?
- )
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Adam Engström\, Oliver Kapanen. https://patv.se/match/montreal-canad
- iens-philadelphia-flyers-21-nov/
+SUMMARY:Montréal Canadiens – Philadelphia Flyers 3–4
+DESCRIPTION:NHL. Slutresultat 3–4. Svenskar: Adam Engstrom\, Oliver Kapan
+ en. https://patv.se/match/montreal-canadiens-philadelphia-flyers-21-nov/
 URL:https://patv.se/match/montreal-canadiens-philadelphia-flyers-21-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -81,5 +79,18 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Gabriel Landeskog\, Adam Engström\, Oliver Kapanen. https://patv.se/
  match/colorado-avalanche-montreal-canadiens-25-nov/
 URL:https://patv.se/match/colorado-avalanche-montreal-canadiens-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020415@patv.se
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Stockholm:20261128T220000
+DTEND;TZID=Europe/Stockholm:20261129T010000
+SUMMARY:Vegas Golden Knights – Montréal Canadiens (Viaplay eller Disney+
+ ?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Rasmus Andersson\, Victor Olofsson\, William Karlsson\, Adam Engströ
+ m\, Oliver Kapanen. https://patv.se/match/vegas-golden-knights-montreal-ca
+ nadiens-28-nov/
+URL:https://patv.se/match/vegas-golden-knights-montreal-canadiens-28-nov/
 END:VEVENT
 END:VCALENDAR
