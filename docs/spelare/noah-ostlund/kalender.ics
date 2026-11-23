@@ -48,14 +48,13 @@ URL:https://patv.se/match/florida-panthers-buffalo-sabres-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020374@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T230000
 DTEND;TZID=Europe/Stockholm:20261123T020000
-SUMMARY:Tampa Bay Lightning – Buffalo Sabres (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Dennis Hildeby\, Pontus Holmberg\, Victor Hedman\, Noah Östlund\, Ra
- smus Dahlin. https://patv.se/match/tampa-bay-lightning-buffalo-sabres-22-n
- ov/
+SUMMARY:Tampa Bay Lightning – Buffalo Sabres 2–6
+DESCRIPTION:NHL. Slutresultat 2–6. Svenskar: Dennis Hildeby\, Pontus Holm
+ berg\, Victor Hedman\, Noah Ostlund\, Rasmus Dahlin. https://patv.se/match
+ /tampa-bay-lightning-buffalo-sabres-22-nov/
 URL:https://patv.se/match/tampa-bay-lightning-buffalo-sabres-22-nov/
 END:VEVENT
 BEGIN:VEVENT

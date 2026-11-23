@@ -34,4 +34,14 @@ DESCRIPTION:Ligue 1. Slutresultat 1–1. Svenskar: Sion Oppong. https://pat
  v.se/match/rc-lens-toulouse-21-nov/
 URL:https://patv.se/match/rc-lens-toulouse-21-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:559618@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T171500
+DTEND;TZID=Europe/Stockholm:20261129T191500
+SUMMARY:Toulouse – Stade Rennais (Viaplay)
+DESCRIPTION:Ligue 1. TV i Sverige: Viaplay. Svenskar: Sion Oppong. https://
+ patv.se/match/toulouse-stade-rennais-29-nov/
+URL:https://patv.se/match/toulouse-stade-rennais-29-nov/
+END:VEVENT
 END:VCALENDAR

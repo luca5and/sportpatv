@@ -37,14 +37,13 @@ URL:https://patv.se/match/vegas-golden-knights-dallas-stars-19-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020376@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Stockholm:20261123T010000
 DTEND;TZID=Europe/Stockholm:20261123T040000
-SUMMARY:Dallas Stars – Pittsburgh Penguins (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Nils Lundkvist\, Oskar Bäck\, Elmer Söderblom\, Erik Karlsson\, Ric
- kard Rakell. https://patv.se/match/dallas-stars-pittsburgh-penguins-22-nov
- /
+SUMMARY:Dallas Stars – Pittsburgh Penguins 1–0
+DESCRIPTION:NHL. Slutresultat 1–0. Svenskar: Nils Lundkvist\, Oskar Bäck
+ \, Elmer Soderblom\, Erik Karlsson\, Rickard Rakell. https://patv.se/match
+ /dallas-stars-pittsburgh-penguins-22-nov/
 URL:https://patv.se/match/dallas-stars-pittsburgh-penguins-22-nov/
 END:VEVENT
 BEGIN:VEVENT

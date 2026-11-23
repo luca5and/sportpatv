@@ -24,4 +24,14 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:567363@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T190000
+DTEND;TZID=Europe/Stockholm:20261129T210000
+SUMMARY:Gil Vicente – Estoril Praia (kanal ej klar)
+DESCRIPTION:Primeira Liga. TV i Sverige: Ej bekräftat. Svenskar: André Pi
+ cornell. https://patv.se/match/gil-vicente-estoril-praia-29-nov/
+URL:https://patv.se/match/gil-vicente-estoril-praia-29-nov/
+END:VEVENT
 END:VCALENDAR

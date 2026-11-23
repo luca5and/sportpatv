@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:564750@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T161500
 DTEND;TZID=Europe/Stockholm:20261122T181500
-SUMMARY:Santander – Real Sociedad (Disney+)
-DESCRIPTION:La Liga. TV i Sverige: Disney+. Svenskar: Simon Eriksson. https
- ://patv.se/match/santander-real-sociedad-22-nov/
+SUMMARY:Santander – Real Sociedad 3–2
+DESCRIPTION:La Liga. Slutresultat 3–2. Svenskar: Simon Eriksson. https://
+ patv.se/match/santander-real-sociedad-22-nov/
 URL:https://patv.se/match/santander-real-sociedad-22-nov/
 END:VEVENT
 BEGIN:VEVENT

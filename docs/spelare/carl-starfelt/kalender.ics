@@ -34,4 +34,14 @@ DESCRIPTION:La Liga. Slutresultat 2–1. Svenskar: Carl Starfelt\, Williot
  Swedberg. https://patv.se/match/real-madrid-celta-21-nov/
 URL:https://patv.se/match/real-madrid-celta-21-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:564758@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T183000
+DTEND;TZID=Europe/Stockholm:20261129T203000
+SUMMARY:Celta – Villarreal (Disney+)
+DESCRIPTION:La Liga. TV i Sverige: Disney+. Svenskar: Carl Starfelt\, Willi
+ ot Swedberg. https://patv.se/match/celta-villarreal-29-nov/
+URL:https://patv.se/match/celta-villarreal-29-nov/
+END:VEVENT
 END:VCALENDAR

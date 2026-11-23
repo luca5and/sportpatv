@@ -24,4 +24,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:560656@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T130000
+DTEND;TZID=Europe/Stockholm:20261129T150000
+SUMMARY:Everton – Liverpool (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Alexander Isak. https://patv.se/match/everton-liverpoo
+ l-29-nov/
+URL:https://patv.se/match/everton-liverpool-29-nov/
+END:VEVENT
 END:VCALENDAR

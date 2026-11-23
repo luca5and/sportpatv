@@ -49,13 +49,12 @@ URL:https://patv.se/match/carolina-hurricanes-edmonton-oilers-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020373@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T183000
 DTEND;TZID=Europe/Stockholm:20261122T213000
-SUMMARY:New York Rangers – Carolina Hurricanes (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Marcus Pettersson\, Mika Zibanejad. https://patv.se/match/new-york-ra
- ngers-carolina-hurricanes-22-nov/
+SUMMARY:New York Rangers – Carolina Hurricanes 2–5
+DESCRIPTION:NHL. Slutresultat 2–5. Svenskar: Marcus Pettersson\, Mika Zib
+ anejad. https://patv.se/match/new-york-rangers-carolina-hurricanes-22-nov/
 URL:https://patv.se/match/new-york-rangers-carolina-hurricanes-22-nov/
 END:VEVENT
 BEGIN:VEVENT

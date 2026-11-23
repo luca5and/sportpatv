@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:558522@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T150000
 DTEND;TZID=Europe/Stockholm:20261122T170000
-SUMMARY:Bologna – Udinese (TV4 Play)
-DESCRIPTION:Serie A. TV i Sverige: TV4 Play. Svenskar: Emil Holm\, Jesper K
- arlsson\, Jesper Karlström. https://patv.se/match/bologna-udinese-22-nov/
+SUMMARY:Bologna – Udinese 1–1
+DESCRIPTION:Serie A. Slutresultat 1–1. Svenskar: Emil Holm\, Jesper Karls
+ son\, Jesper Karlström. https://patv.se/match/bologna-udinese-22-nov/
 URL:https://patv.se/match/bologna-udinese-22-nov/
 END:VEVENT
 BEGIN:VEVENT

@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:561947@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T130000
 DTEND;TZID=Europe/Stockholm:20261122T150000
-SUMMARY:Burnley – Blackburn (Viaplay)
-DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Hjalmar Ekdal. h
- ttps://patv.se/match/burnley-blackburn-22-nov/
+SUMMARY:Burnley – Blackburn 2–2
+DESCRIPTION:Championship. Slutresultat 2–2. Svenskar: Hjalmar Ekdal. http
+ s://patv.se/match/burnley-blackburn-22-nov/
 URL:https://patv.se/match/burnley-blackburn-22-nov/
 END:VEVENT
 BEGIN:VEVENT

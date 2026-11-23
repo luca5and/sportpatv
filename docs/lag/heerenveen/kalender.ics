@@ -35,4 +35,14 @@ DESCRIPTION:Eredivisie. Slutresultat 1–3. Svenskar: Alvin Nordin\, Elvis
  .se/match/groningen-heerenveen-21-nov/
 URL:https://patv.se/match/groningen-heerenveen-21-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:558821@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T143000
+DTEND;TZID=Europe/Stockholm:20261129T163000
+SUMMARY:Sittard – Heerenveen (Viaplay)
+DESCRIPTION:Eredivisie. TV i Sverige: Viaplay. Svenskar: Kristoffer Peterso
+ n\, Marcus Linday. https://patv.se/match/sittard-heerenveen-29-nov/
+URL:https://patv.se/match/sittard-heerenveen-29-nov/
+END:VEVENT
 END:VCALENDAR

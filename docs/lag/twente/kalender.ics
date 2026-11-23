@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:558828@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T121500
 DTEND;TZID=Europe/Stockholm:20261122T141500
-SUMMARY:Twente – Willem II (Viaplay)
-DESCRIPTION:Eredivisie. TV i Sverige: Viaplay. Svenskar: Armin Ćulum. http
- s://patv.se/match/twente-willem-ii-22-nov/
+SUMMARY:Twente – Willem II 2–1
+DESCRIPTION:Eredivisie. Slutresultat 2–1. Svenskar: Armin Ćulum. https:/
+ /patv.se/match/twente-willem-ii-22-nov/
 URL:https://patv.se/match/twente-willem-ii-22-nov/
 END:VEVENT
 END:VCALENDAR

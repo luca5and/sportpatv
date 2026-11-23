@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:564749@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T140000
 DTEND;TZID=Europe/Stockholm:20261122T160000
-SUMMARY:Barça – Villarreal (Disney+)
-DESCRIPTION:La Liga. TV i Sverige: Disney+. Svenskar: Roony Bardghji. https
- ://patv.se/match/barca-villarreal-22-nov/
+SUMMARY:Barça – Villarreal 3–2
+DESCRIPTION:La Liga. Slutresultat 3–2. Svenskar: Roony Bardghji. https://
+ patv.se/match/barca-villarreal-22-nov/
 URL:https://patv.se/match/barca-villarreal-22-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -43,5 +43,15 @@ SUMMARY:Sabah FK – Barça (Viaplay)
 DESCRIPTION:Champions League. TV i Sverige: Viaplay. Svenskar: Roony Bardgh
  ji. https://patv.se/match/sabah-fk-barca-25-nov/
 URL:https://patv.se/match/sabah-fk-barca-25-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:564766@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T161500
+DTEND;TZID=Europe/Stockholm:20261129T181500
+SUMMARY:Deportivo – Barça (Disney+)
+DESCRIPTION:La Liga. TV i Sverige: Disney+. Svenskar: Roony Bardghji. https
+ ://patv.se/match/deportivo-barca-29-nov/
+URL:https://patv.se/match/deportivo-barca-29-nov/
 END:VEVENT
 END:VCALENDAR

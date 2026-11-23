@@ -34,4 +34,14 @@ DESCRIPTION:Serie A. Slutresultat 1–5. Svenskar: Pontus Almqvist. https:/
  /patv.se/match/parma-roma-21-nov/
 URL:https://patv.se/match/parma-roma-21-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:558512@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T180000
+DTEND;TZID=Europe/Stockholm:20261129T200000
+SUMMARY:Roma – Monza (TV4 Play)
+DESCRIPTION:Serie A. TV i Sverige: TV4 Play. Svenskar: Noel Törnqvist. htt
+ ps://patv.se/match/roma-monza-29-nov/
+URL:https://patv.se/match/roma-monza-29-nov/
+END:VEVENT
 END:VCALENDAR

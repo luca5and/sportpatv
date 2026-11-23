@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:564752@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T183000
 DTEND;TZID=Europe/Stockholm:20261122T203000
-SUMMARY:Osasuna – Málaga (Disney+)
-DESCRIPTION:La Liga. TV i Sverige: Disney+. Svenskar: Jens Cajuste. https:/
- /patv.se/match/osasuna-malaga-22-nov/
+SUMMARY:Osasuna – Málaga 1–0
+DESCRIPTION:La Liga. Slutresultat 1–0. Svenskar: Jens Cajuste. https://pa
+ tv.se/match/osasuna-malaga-22-nov/
 URL:https://patv.se/match/osasuna-malaga-22-nov/
 END:VEVENT
 BEGIN:VEVENT

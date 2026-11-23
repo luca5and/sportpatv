@@ -44,4 +44,14 @@ DESCRIPTION:Champions League. TV i Sverige: Viaplay. Svenskar: Viktor Gyök
  eres\, Daniel Svensson. https://patv.se/match/arsenal-dortmund-24-nov/
 URL:https://patv.se/match/arsenal-dortmund-24-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:565872@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T193000
+DTEND;TZID=Europe/Stockholm:20261129T213000
+SUMMARY:Dortmund – Leverkusen (Viaplay)
+DESCRIPTION:Bundesliga. TV i Sverige: Viaplay. Svenskar: Daniel Svensson. h
+ ttps://patv.se/match/dortmund-leverkusen-29-nov/
+URL:https://patv.se/match/dortmund-leverkusen-29-nov/
+END:VEVENT
 END:VCALENDAR

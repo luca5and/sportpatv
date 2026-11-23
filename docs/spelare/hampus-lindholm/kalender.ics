@@ -69,4 +69,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  ander. https://patv.se/match/boston-bruins-toronto-maple-leafs-27-nov/
 URL:https://patv.se/match/boston-bruins-toronto-maple-leafs-27-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020429@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T230000
+DTEND;TZID=Europe/Stockholm:20261130T020000
+SUMMARY:Boston Bruins – Vancouver Canucks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Elias Lindholm\, Hampus Lindholm\, Elias Pettersson #25\, Elias Pette
+ rsson #40\, Jonathan Lekkerimäki\, Liam Öhgren\, Linus Karlsson\, Tom Wi
+ llander. https://patv.se/match/boston-bruins-vancouver-canucks-29-nov/
+URL:https://patv.se/match/boston-bruins-vancouver-canucks-29-nov/
+END:VEVENT
 END:VCALENDAR

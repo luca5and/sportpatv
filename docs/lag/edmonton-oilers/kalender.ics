@@ -48,14 +48,14 @@ URL:https://patv.se/match/carolina-hurricanes-edmonton-oilers-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020375@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Stockholm:20261123T010000
 DTEND;TZID=Europe/Stockholm:20261123T040000
-SUMMARY:St. Louis Blues – Edmonton Oilers (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Calle Rosén\, Jonatan Berggren\, Philip Broberg\, Filip Hållander\,
-  Mattias Ekholm\, Mattias Janmark. https://patv.se/match/st-louis-blues-ed
- monton-oilers-22-nov/
+SUMMARY:St. Louis Blues – Edmonton Oilers 5–4 efter straffar
+DESCRIPTION:NHL. Slutresultat 5–4 efter straffar. Svenskar: Calle Rosen\,
+  Jonatan Berggren\, Philip Broberg\, Filip Hallander\, Mattias Ekholm\, Ma
+ ttias Janmark. https://patv.se/match/st-louis-blues-edmonton-oilers-22-nov
+ /
 URL:https://patv.se/match/st-louis-blues-edmonton-oilers-22-nov/
 END:VEVENT
 BEGIN:VEVENT

@@ -26,12 +26,22 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:564749@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T140000
 DTEND;TZID=Europe/Stockholm:20261122T160000
-SUMMARY:Barça – Villarreal (Disney+)
-DESCRIPTION:La Liga. TV i Sverige: Disney+. Svenskar: Roony Bardghji. https
- ://patv.se/match/barca-villarreal-22-nov/
+SUMMARY:Barça – Villarreal 3–2
+DESCRIPTION:La Liga. Slutresultat 3–2. Svenskar: Roony Bardghji. https://
+ patv.se/match/barca-villarreal-22-nov/
 URL:https://patv.se/match/barca-villarreal-22-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:564758@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T183000
+DTEND;TZID=Europe/Stockholm:20261129T203000
+SUMMARY:Celta – Villarreal (Disney+)
+DESCRIPTION:La Liga. TV i Sverige: Disney+. Svenskar: Carl Starfelt\, Willi
+ ot Swedberg. https://patv.se/match/celta-villarreal-29-nov/
+URL:https://patv.se/match/celta-villarreal-29-nov/
 END:VEVENT
 END:VCALENDAR

@@ -26,13 +26,23 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:560646@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T150000
 DTEND;TZID=Europe/Stockholm:20261122T170000
-SUMMARY:Hull City – Brighton Hove (Viaplay)
-DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
-  Elliot Stroud\, Yasin Ayari. https://patv.se/match/hull-city-brighton-hov
- e-22-nov/
+SUMMARY:Hull City – Brighton Hove 2–0
+DESCRIPTION:Premier League. Slutresultat 2–0. Svenskar: Elliot Stroud\, Y
+ asin Ayari. https://patv.se/match/hull-city-brighton-hove-22-nov/
 URL:https://patv.se/match/hull-city-brighton-hove-22-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:560659@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T150500
+DTEND;TZID=Europe/Stockholm:20261129T170500
+SUMMARY:Brighton Hove – Newcastle (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Yasin Ayari\, Anthony Elanga. https://patv.se/match/br
+ ighton-hove-newcastle-29-nov/
+URL:https://patv.se/match/brighton-hove-newcastle-29-nov/
 END:VEVENT
 END:VCALENDAR

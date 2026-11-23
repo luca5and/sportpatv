@@ -51,14 +51,14 @@ URL:https://patv.se/match/vancouver-canucks-minnesota-wild-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020377@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Stockholm:20261123T020000
 DTEND;TZID=Europe/Stockholm:20261123T050000
-SUMMARY:Vancouver Canucks – Chicago Blackhawks (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Elias Pettersson #25\, Elias Pettersson #40\, Jonathan Lekkerimäki\,
-  Liam Öhgren\, Linus Karlsson\, Tom Willander\, Anton Frondell. https://p
- atv.se/match/vancouver-canucks-chicago-blackhawks-22-nov/
+SUMMARY:Vancouver Canucks – Chicago Blackhawks 3–6
+DESCRIPTION:NHL. Slutresultat 3–6. Svenskar: Elias Pettersson #25\, Elias
+  Pettersson #40\, Jonathan Lekkerimäki\, Liam Ohgren\, Linus Karlsson\, T
+ om Willander\, Anton Frondell. https://patv.se/match/vancouver-canucks-chi
+ cago-blackhawks-22-nov/
 URL:https://patv.se/match/vancouver-canucks-chicago-blackhawks-22-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -86,5 +86,17 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
   Liam Öhgren\, Linus Karlsson\, Tom Willander. https://patv.se/match/phil
  adelphia-flyers-vancouver-canucks-27-nov/
 URL:https://patv.se/match/philadelphia-flyers-vancouver-canucks-27-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020429@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T230000
+DTEND;TZID=Europe/Stockholm:20261130T020000
+SUMMARY:Boston Bruins – Vancouver Canucks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Elias Lindholm\, Hampus Lindholm\, Elias Pettersson #25\, Elias Pette
+ rsson #40\, Jonathan Lekkerimäki\, Liam Öhgren\, Linus Karlsson\, Tom Wi
+ llander. https://patv.se/match/boston-bruins-vancouver-canucks-29-nov/
+URL:https://patv.se/match/boston-bruins-vancouver-canucks-29-nov/
 END:VEVENT
 END:VCALENDAR

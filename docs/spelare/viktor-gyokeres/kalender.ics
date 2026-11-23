@@ -44,4 +44,15 @@ DESCRIPTION:Champions League. TV i Sverige: Viaplay. Svenskar: Viktor Gyök
  eres\, Daniel Svensson. https://patv.se/match/arsenal-dortmund-24-nov/
 URL:https://patv.se/match/arsenal-dortmund-24-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:560654@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T173000
+DTEND;TZID=Europe/Stockholm:20261129T193000
+SUMMARY:Arsenal – Man City (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Viktor Gyökeres. https://patv.se/match/arsenal-man-ci
+ ty-29-nov/
+URL:https://patv.se/match/arsenal-man-city-29-nov/
+END:VEVENT
 END:VCALENDAR

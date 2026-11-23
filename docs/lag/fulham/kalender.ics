@@ -34,4 +34,15 @@ DESCRIPTION:Premier League. Slutresultat 1–1. Svenskar: Hugo Larsson\, Jo
  nah Kusi-Asare. https://patv.se/match/man-city-fulham-21-nov/
 URL:https://patv.se/match/man-city-fulham-21-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:560657@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T150500
+DTEND;TZID=Europe/Stockholm:20261129T170500
+SUMMARY:Fulham – Bournemouth (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Hugo Larsson\, Jonah Kusi-Asare. https://patv.se/match
+ /fulham-bournemouth-29-nov/
+URL:https://patv.se/match/fulham-bournemouth-29-nov/
+END:VEVENT
 END:VCALENDAR

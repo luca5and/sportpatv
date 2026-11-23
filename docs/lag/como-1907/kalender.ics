@@ -44,4 +44,14 @@ DESCRIPTION:Champions League. TV i Sverige: Viaplay. Svenskar: Adrian Lahdo
  . https://patv.se/match/como-1907-pae-aek-24-nov/
 URL:https://patv.se/match/como-1907-pae-aek-24-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:558511@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T204500
+DTEND;TZID=Europe/Stockholm:20261129T224500
+SUMMARY:Como 1907 – Juventus (TV4 Play)
+DESCRIPTION:Serie A. TV i Sverige: TV4 Play. Svenskar: Adrian Lahdo. https:
+ //patv.se/match/como-1907-juventus-29-nov/
+URL:https://patv.se/match/como-1907-juventus-29-nov/
+END:VEVENT
 END:VCALENDAR

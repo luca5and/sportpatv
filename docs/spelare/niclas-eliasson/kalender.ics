@@ -44,4 +44,14 @@ DESCRIPTION:Brasileirão. TV i Sverige: Ej bekräftat. Svenskar: Niclas Eli
  asson. https://patv.se/match/internacional-vitoria-23-nov/
 URL:https://patv.se/match/internacional-vitoria-23-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:555106@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T223000
+DTEND;TZID=Europe/Stockholm:20261130T003000
+SUMMARY:Internacional – Bragantino (kanal ej klar)
+DESCRIPTION:Brasileirão. TV i Sverige: Ej bekräftat. Svenskar: Niclas Eli
+ asson. https://patv.se/match/internacional-bragantino-29-nov/
+URL:https://patv.se/match/internacional-bragantino-29-nov/
+END:VEVENT
 END:VCALENDAR

@@ -44,4 +44,14 @@ DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Melker Widell. h
  ttps://patv.se/match/middlesbrough-swansea-24-nov/
 URL:https://patv.se/match/middlesbrough-swansea-24-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:561976@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T130000
+DTEND;TZID=Europe/Stockholm:20261129T150000
+SUMMARY:Swansea – Cardiff (Viaplay)
+DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Melker Widell. h
+ ttps://patv.se/match/swansea-cardiff-29-nov/
+URL:https://patv.se/match/swansea-cardiff-29-nov/
+END:VEVENT
 END:VCALENDAR

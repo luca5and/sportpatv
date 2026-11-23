@@ -34,4 +34,15 @@ DESCRIPTION:Premier League. Slutresultat 2–0. Svenskar: Dejan Kulusevski\
  , Lucas Bergvall. https://patv.se/match/tottenham-ipswich-town-21-nov/
 URL:https://patv.se/match/tottenham-ipswich-town-21-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:560660@patv.se
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Stockholm:20261129T150500
+DTEND;TZID=Europe/Stockholm:20261129T170500
+SUMMARY:Sunderland – Tottenham (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Melker Ellborg\, Dejan Kulusevski\, Lucas Bergvall. ht
+ tps://patv.se/match/sunderland-tottenham-29-nov/
+URL:https://patv.se/match/sunderland-tottenham-29-nov/
+END:VEVENT
 END:VCALENDAR

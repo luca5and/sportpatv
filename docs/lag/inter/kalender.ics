@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:558520@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Stockholm:20261122T204500
 DTEND;TZID=Europe/Stockholm:20261122T224500
-SUMMARY:Atalanta – Inter (TV4 Play)
-DESCRIPTION:Serie A. TV i Sverige: TV4 Play. Svenskar: Isak Hien. https://p
- atv.se/match/atalanta-inter-22-nov/
+SUMMARY:Atalanta – Inter 4–4
+DESCRIPTION:Serie A. Slutresultat 4–4. Svenskar: Isak Hien. https://patv.
+ se/match/atalanta-inter-22-nov/
 URL:https://patv.se/match/atalanta-inter-22-nov/
 END:VEVENT
 END:VCALENDAR
