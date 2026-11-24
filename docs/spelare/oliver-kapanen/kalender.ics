@@ -59,14 +59,13 @@ URL:https://patv.se/match/montreal-canadiens-philadelphia-flyers-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020379@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Stockholm:20261124T013000
 DTEND;TZID=Europe/Stockholm:20261124T043000
-SUMMARY:Montréal Canadiens – Los Angeles Kings (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Adam Engström\, Oliver Kapanen\, Adrian Kempe\, Andre Lee\, Anton Fo
- rsberg\, Erik Gustafsson. https://patv.se/match/montreal-canadiens-los-ang
- eles-kings-23-nov/
+SUMMARY:Montréal Canadiens – Los Angeles Kings 1–2
+DESCRIPTION:NHL. Slutresultat 1–2. Svenskar: Adam Engstrom\, Oliver Kapan
+ en\, Adrian Kempe\, Andre Lee\, Anton Forsberg\, Erik Gustafsson. https://
+ patv.se/match/montreal-canadiens-los-angeles-kings-23-nov/
 URL:https://patv.se/match/montreal-canadiens-los-angeles-kings-23-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -92,5 +91,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  m\, Oliver Kapanen. https://patv.se/match/vegas-golden-knights-montreal-ca
  nadiens-28-nov/
 URL:https://patv.se/match/vegas-golden-knights-montreal-canadiens-28-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020435@patv.se
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Stockholm:20261201T033000
+DTEND;TZID=Europe/Stockholm:20261201T063000
+SUMMARY:Utah Mammoth – Montréal Canadiens (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Kevin Stenlund\, Adam Engström\, Oliver Kapanen. https://patv.se/mat
+ ch/utah-mammoth-montreal-canadiens-30-nov/
+URL:https://patv.se/match/utah-mammoth-montreal-canadiens-30-nov/
 END:VEVENT
 END:VCALENDAR

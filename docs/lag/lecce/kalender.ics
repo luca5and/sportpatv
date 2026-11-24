@@ -24,4 +24,14 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:558516@patv.se
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Stockholm:20261130T183000
+DTEND;TZID=Europe/Stockholm:20261130T203000
+SUMMARY:Lecce – Atalanta (TV4 Play)
+DESCRIPTION:Serie A. TV i Sverige: TV4 Play. Svenskar: Isak Hien. https://p
+ atv.se/match/lecce-atalanta-30-nov/
+URL:https://patv.se/match/lecce-atalanta-30-nov/
+END:VEVENT
 END:VCALENDAR

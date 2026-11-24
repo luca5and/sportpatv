@@ -49,14 +49,13 @@ URL:https://patv.se/match/ottawa-senators-los-angeles-kings-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020380@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Stockholm:20261124T013000
 DTEND;TZID=Europe/Stockholm:20261124T043000
-SUMMARY:Ottawa Senators – Calgary Flames (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: André Burakovsky\, Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson
- \, William Eklund\, Mikael Backlund. https://patv.se/match/ottawa-senators
- -calgary-flames-23-nov/
+SUMMARY:Ottawa Senators – Calgary Flames 2–1
+DESCRIPTION:NHL. Slutresultat 2–1. Svenskar: Andre Burakovsky\, Fabian Ze
+ tterlund\, Linus Ullmark\, Samuel Ersson\, William Eklund\, Mikael Backlun
+ d. https://patv.se/match/ottawa-senators-calgary-flames-23-nov/
 URL:https://patv.se/match/ottawa-senators-calgary-flames-23-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -94,5 +93,18 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  \, William Eklund. https://patv.se/match/carolina-hurricanes-ottawa-senato
  rs-28-nov/
 URL:https://patv.se/match/carolina-hurricanes-ottawa-senators-28-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020430@patv.se
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Stockholm:20261130T190000
+DTEND;TZID=Europe/Stockholm:20261130T220000
+SUMMARY:Nashville Predators – Ottawa Senators (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adam Edström\, Adam Wilsby\, Filip Forsberg\, Nils Höglander\, Andr
+ é Burakovsky\, Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson\, Willia
+ m Eklund. https://patv.se/match/nashville-predators-ottawa-senators-30-nov
+ /
+URL:https://patv.se/match/nashville-predators-ottawa-senators-30-nov/
 END:VEVENT
 END:VCALENDAR

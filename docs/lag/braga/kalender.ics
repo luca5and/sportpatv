@@ -24,4 +24,14 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:567359@patv.se
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Stockholm:20261130T211500
+DTEND;TZID=Europe/Stockholm:20261130T231500
+SUMMARY:Casa Pia – Braga (kanal ej klar)
+DESCRIPTION:Primeira Liga. TV i Sverige: Ej bekräftat. Svenskar: Gustaf La
+ gerbielke. https://patv.se/match/casa-pia-braga-30-nov/
+URL:https://patv.se/match/casa-pia-braga-30-nov/
+END:VEVENT
 END:VCALENDAR

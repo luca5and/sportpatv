@@ -72,4 +72,17 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  hville-predators-28-nov/
 URL:https://patv.se/match/detroit-red-wings-nashville-predators-28-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020430@patv.se
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Stockholm:20261130T190000
+DTEND;TZID=Europe/Stockholm:20261130T220000
+SUMMARY:Nashville Predators – Ottawa Senators (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adam Edström\, Adam Wilsby\, Filip Forsberg\, Nils Höglander\, Andr
+ é Burakovsky\, Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson\, Willia
+ m Eklund. https://patv.se/match/nashville-predators-ottawa-senators-30-nov
+ /
+URL:https://patv.se/match/nashville-predators-ottawa-senators-30-nov/
+END:VEVENT
 END:VCALENDAR

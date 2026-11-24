@@ -1,4839 +1,5 @@
 {
  "boxscores": {
-  "2026020359": {
-   "8473533": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "16:26"
-   },
-   "8475218": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "18:59"
-   },
-   "8475786": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "08:48"
-   },
-   "8475791": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 2,
-    "shots": 2,
-    "toi": "12:52"
-   },
-   "8476473": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "18:49"
-   },
-   "8476873": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 2,
-    "toi": "10:19"
-   },
-   "8476906": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 2,
-    "shots": 0,
-    "toi": "18:14"
-   },
-   "8476921": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "14:41"
-   },
-   "8476958": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 0,
-    "shots": 1,
-    "toi": "20:53"
-   },
-   "8477450": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 0,
-    "toi": "12:52"
-   },
-   "8477478": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 3,
-    "toi": "12:43"
-   },
-   "8477934": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 2,
-    "shots": 4,
-    "toi": "24:33"
-   },
-   "8477940": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "11:22"
-   },
-   "8477953": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 0,
-    "toi": "19:49"
-   },
-   "8478402": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 2,
-    "shots": 0,
-    "toi": "25:04"
-   },
-   "8478427": {
-    "assists": 2,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 3,
-    "shots": 4,
-    "toi": "20:40"
-   },
-   "8478472": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "10:50"
-   },
-   "8478854": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 0,
-    "toi": "22:02"
-   },
-   "8478970": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 1,
-    "toi": "18:10"
-   },
-   "8479365": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 1,
-    "toi": "10:00"
-   },
-   "8480029": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 1,
-    "toi": "10:16"
-   },
-   "8480336": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 5,
-    "toi": "20:25"
-   },
-   "8480762": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "06:47"
-   },
-   "8480803": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -3,
-    "points": 1,
-    "shots": 1,
-    "toi": "25:40"
-   },
-   "8480817": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 3,
-    "toi": "17:44"
-   },
-   "8480830": {
-    "assists": 0,
-    "goals": 2,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 2,
-    "shots": 2,
-    "toi": "17:00"
-   },
-   "8480834": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "12:44"
-   },
-   "8480842": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "09:12"
-   },
-   "8481611": {
-    "decision": "W",
-    "goalsAgainst": 4,
-    "kind": "goalie",
-    "savePctg": 0.733333,
-    "saves": 11,
-    "shotsAgainst": 15,
-    "toi": "60:00"
-   },
-   "8481617": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 1,
-    "shots": 3,
-    "toi": "21:46"
-   },
-   "8482093": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 2,
-    "toi": "20:22"
-   },
-   "8482100": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 2,
-    "toi": "17:25"
-   },
-   "8482166": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 0,
-    "toi": "16:00"
-   },
-   "8482221": {
-    "decision": "L",
-    "goalsAgainst": 7,
-    "kind": "goalie",
-    "savePctg": 0.805556,
-    "saves": 29,
-    "shotsAgainst": 36,
-    "toi": "59:56"
-   },
-   "8482702": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 2,
-    "shots": 3,
-    "toi": "16:38"
-   },
-   "8482703": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "10:53"
-   },
-   "8482809": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "17:46"
-   },
-   "8486161": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "10:39"
-   }
-  },
-  "2026020360": {
-   "8474013": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "23:17"
-   },
-   "8474141": {
-    "assists": 2,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 3,
-    "shots": 7,
-    "toi": "19:26"
-   },
-   "8474150": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 2,
-    "toi": "19:39"
-   },
-   "8476458": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 2,
-    "shots": 2,
-    "toi": "18:37"
-   },
-   "8476882": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "13:29"
-   },
-   "8477479": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "17:39"
-   },
-   "8477810": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "14:10"
-   },
-   "8477987": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 3,
-    "toi": "15:27"
-   },
-   "8478136": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "19:34"
-   },
-   "8478233": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "11:07"
-   },
-   "8480028": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "14:57"
-   },
-   "8480727": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "21:39"
-   },
-   "8480797": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 5,
-    "toi": "21:48"
-   },
-   "8481028": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 1,
-    "toi": "07:57"
-   },
-   "8481068": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 1,
-    "shots": 5,
-    "toi": "17:21"
-   },
-   "8481519": {
-    "decision": "W",
-    "goalsAgainst": 3,
-    "kind": "goalie",
-    "savePctg": 0.916667,
-    "saves": 33,
-    "shotsAgainst": 36,
-    "toi": "64:21"
-   },
-   "8481568": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 1,
-    "toi": "28:28"
-   },
-   "8481692": {
-    "decision": "O",
-    "goalsAgainst": 4,
-    "kind": "goalie",
-    "savePctg": 0.878788,
-    "saves": 29,
-    "shotsAgainst": 33,
-    "toi": "63:48"
-   },
-   "8482062": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "15:04"
-   },
-   "8482165": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 0,
-    "toi": "19:07"
-   },
-   "8482176": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "13:46"
-   },
-   "8482679": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 4,
-    "toi": "23:34"
-   },
-   "8482807": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "14:01"
-   },
-   "8483450": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "16:04"
-   },
-   "8483493": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 4,
-    "toi": "22:21"
-   },
-   "8483495": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 0,
-    "toi": "24:03"
-   },
-   "8483506": {
-    "assists": 2,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 3,
-    "shots": 6,
-    "toi": "26:15"
-   },
-   "8483609": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "12:26"
-   },
-   "8484154": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "12:00"
-   },
-   "8484197": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "14:51"
-   },
-   "8484234": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "12:47"
-   },
-   "8484390": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 2,
-    "shots": 4,
-    "toi": "19:13"
-   },
-   "8484768": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 3,
-    "toi": "21:40"
-   },
-   "8484783": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "18:21"
-   },
-   "8484860": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 4,
-    "toi": "20:23"
-   },
-   "8484958": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "10:51"
-   },
-   "8485391": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "11:07"
-   },
-   "8485554": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "07:47"
-   }
-  },
-  "2026020361": {
-   "8474189": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "17:13"
-   },
-   "8474593": {
-    "decision": "W",
-    "goalsAgainst": 3,
-    "kind": "goalie",
-    "savePctg": 0.842105,
-    "saves": 16,
-    "shotsAgainst": 19,
-    "toi": "60:00"
-   },
-   "8475179": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "14:58"
-   },
-   "8475462": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "13:55"
-   },
-   "8475722": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "11:14"
-   },
-   "8475842": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 0,
-    "toi": "10:12"
-   },
-   "8477409": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 3,
-    "toi": "18:33"
-   },
-   "8477495": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 2,
-    "shots": 0,
-    "toi": "22:16"
-   },
-   "8477903": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "07:52"
-   },
-   "8477932": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 2,
-    "toi": "21:03"
-   },
-   "8477933": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 1,
-    "toi": "19:19"
-   },
-   "8477935": {
-    "assists": 1,
-    "goals": 3,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 4,
-    "shots": 4,
-    "toi": "18:59"
-   },
-   "8478055": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 4,
-    "toi": "22:01"
-   },
-   "8478147": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "05:35"
-   },
-   "8478859": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 0,
-    "shots": 1,
-    "toi": "21:16"
-   },
-   "8479312": {
-    "decision": "L",
-    "goalsAgainst": 4,
-    "kind": "goalie",
-    "savePctg": 0.866667,
-    "saves": 26,
-    "shotsAgainst": 30,
-    "toi": "57:37"
-   },
-   "8479314": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 7,
-    "toi": "18:13"
-   },
-   "8479359": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "11:35"
-   },
-   "8479420": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 2,
-    "shots": 1,
-    "toi": "22:27"
-   },
-   "8479982": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "19:53"
-   },
-   "8480064": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "11:17"
-   },
-   "8480185": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 1,
-    "shots": 3,
-    "toi": "19:15"
-   },
-   "8480801": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "17:12"
-   },
-   "8480807": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 0,
-    "toi": "23:02"
-   },
-   "8480839": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 3,
-    "toi": "26:32"
-   },
-   "8481522": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "12:01"
-   },
-   "8481655": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "05:46"
-   },
-   "8482097": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "17:37"
-   },
-   "8482113": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "16:37"
-   },
-   "8482659": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "12:56"
-   },
-   "8482671": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "23:20"
-   },
-   "8482803": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 0,
-    "toi": "12:44"
-   },
-   "8482896": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 0,
-    "toi": "09:55"
-   },
-   "8483468": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 6,
-    "toi": "21:38"
-   },
-   "8483500": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "14:18"
-   },
-   "8483771": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 2,
-    "shots": 2,
-    "toi": "15:57"
-   },
-   "8484145": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 3,
-    "toi": "23:31"
-   },
-   "8484305": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 0,
-    "toi": "12:11"
-   }
-  },
-  "2026020362": {
-   "8471675": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "20:48"
-   },
-   "8471724": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "17:47"
-   },
-   "8474564": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 3,
-    "toi": "17:20"
-   },
-   "8474578": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 0,
-    "shots": 3,
-    "toi": "23:29"
-   },
-   "8474600": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "24:44"
-   },
-   "8475158": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 0,
-    "toi": "17:32"
-   },
-   "8476483": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 5,
-    "toi": "20:53"
-   },
-   "8476539": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 2,
-    "shots": 5,
-    "toi": "15:19"
-   },
-   "8476869": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 2,
-    "shots": 0,
-    "toi": "22:31"
-   },
-   "8476887": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 3,
-    "toi": "20:05"
-   },
-   "8477021": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 0,
-    "shots": 0,
-    "toi": "15:39"
-   },
-   "8477424": {
-    "decision": "W",
-    "goalsAgainst": 3,
-    "kind": "goalie",
-    "savePctg": 0.875,
-    "saves": 21,
-    "shotsAgainst": 24,
-    "toi": "57:53"
-   },
-   "8477845": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -3,
-    "points": 0,
-    "shots": 1,
-    "toi": "19:10"
-   },
-   "8478438": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "20:19"
-   },
-   "8479398": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 1,
-    "toi": "18:23"
-   },
-   "8479525": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 4,
-    "toi": "13:00"
-   },
-   "8479980": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 1,
-    "toi": "14:30"
-   },
-   "8480246": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 0,
-    "toi": "19:16"
-   },
-   "8480835": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "15:57"
-   },
-   "8480980": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "11:24"
-   },
-   "8481020": {
-    "decision": null,
-    "goalsAgainst": 0,
-    "kind": "goalie",
-    "savePctg": 1.0,
-    "saves": 2,
-    "shotsAgainst": 2,
-    "toi": "02:07"
-   },
-   "8481481": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "13:04"
-   },
-   "8481527": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 0,
-    "toi": "18:52"
-   },
-   "8481535": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 3,
-    "toi": "12:52"
-   },
-   "8481593": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 2,
-    "shots": 4,
-    "toi": "16:14"
-   },
-   "8481726": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "14:26"
-   },
-   "8482145": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "13:23"
-   },
-   "8482148": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 3,
-    "toi": "12:31"
-   },
-   "8482475": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 0,
-    "toi": "14:34"
-   },
-   "8482482": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "19:25"
-   },
-   "8482758": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 0,
-    "toi": "13:18"
-   },
-   "8482993": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "10:49"
-   },
-   "8483398": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "18:55"
-   },
-   "8483487": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 2,
-    "toi": "12:51"
-   },
-   "8483513": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 2,
-    "toi": "12:37"
-   },
-   "8483524": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "13:10"
-   },
-   "8483703": {
-    "decision": "L",
-    "goalsAgainst": 4,
-    "kind": "goalie",
-    "savePctg": 0.862069,
-    "saves": 25,
-    "shotsAgainst": 29,
-    "toi": "57:02"
-   },
-   "8483808": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 2,
-    "toi": "12:57"
-   },
-   "8485414": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "18:54"
-   }
-  },
-  "2026020363": {
-   "8471214": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 1,
-    "toi": "14:35"
-   },
-   "8475718": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "11:46"
-   },
-   "8476374": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 0,
-    "toi": "10:17"
-   },
-   "8476432": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "14:48"
-   },
-   "8476854": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 0,
-    "shots": 1,
-    "toi": "21:35"
-   },
-   "8476880": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "16:47"
-   },
-   "8477365": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 1,
-    "toi": "14:29"
-   },
-   "8477496": {
-    "assists": 1,
-    "goals": 4,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 5,
-    "shots": 6,
-    "toi": "19:42"
-   },
-   "8477507": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 1,
-    "toi": "20:35"
-   },
-   "8477949": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 5,
-    "toi": "20:41"
-   },
-   "8477956": {
-    "assists": 2,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 3,
-    "shots": 4,
-    "toi": "20:00"
-   },
-   "8478401": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "20:22"
-   },
-   "8478440": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 2,
-    "shots": 4,
-    "toi": "15:19"
-   },
-   "8478840": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "18:57"
-   },
-   "8478911": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 1,
-    "toi": "23:16"
-   },
-   "8479292": {
-    "decision": "L",
-    "goalsAgainst": 6,
-    "kind": "goalie",
-    "savePctg": 0.727273,
-    "saves": 16,
-    "shotsAgainst": 22,
-    "toi": "58:02"
-   },
-   "8479325": {
-    "assists": 3,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 3,
-    "shots": 0,
-    "toi": "25:29"
-   },
-   "8479345": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 2,
-    "shots": 3,
-    "toi": "23:12"
-   },
-   "8479385": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 0,
-    "toi": "11:21"
-   },
-   "8479400": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 5,
-    "toi": "19:17"
-   },
-   "8479661": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 2,
-    "toi": "08:34"
-   },
-   "8479987": {
-    "assists": 3,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 3,
-    "shots": 3,
-    "toi": "18:23"
-   },
-   "8479999": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "15:23"
-   },
-   "8480280": {
-    "decision": "W",
-    "goalsAgainst": 5,
-    "kind": "goalie",
-    "savePctg": 0.857143,
-    "saves": 30,
-    "shotsAgainst": 35,
-    "toi": "60:00"
-   },
-   "8480355": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 1,
-    "toi": "10:47"
-   },
-   "8480796": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "22:02"
-   },
-   "8481030": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "11:56"
-   },
-   "8481656": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 3,
-    "toi": "19:02"
-   },
-   "8482088": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "11:46"
-   },
-   "8482175": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "19:05"
-   },
-   "8482177": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "12:26"
-   },
-   "8482511": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 0,
-    "toi": "13:37"
-   },
-   "8483489": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 1,
-    "toi": "13:50"
-   },
-   "8483491": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "09:11"
-   },
-   "8483505": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "08:31"
-   },
-   "8484186": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 1,
-    "shots": 2,
-    "toi": "15:00"
-   },
-   "8484873": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 3,
-    "toi": "21:43"
-   },
-   "8484999": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 1,
-    "shots": 1,
-    "toi": "12:11"
-   }
-  },
-  "2026020364": {
-   "8475166": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 1,
-    "toi": "18:25"
-   },
-   "8475660": {
-    "decision": "W",
-    "goalsAgainst": 3,
-    "kind": "goalie",
-    "savePctg": 0.884615,
-    "saves": 23,
-    "shotsAgainst": 26,
-    "toi": "59:50"
-   },
-   "8475690": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "20:15"
-   },
-   "8475745": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "19:22"
-   },
-   "8475790": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "11:02"
-   },
-   "8476853": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "19:36"
-   },
-   "8476923": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 1,
-    "shots": 2,
-    "toi": "24:36"
-   },
-   "8476927": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 2,
-    "toi": "14:30"
-   },
-   "8476931": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 3,
-    "toi": "21:04"
-   },
-   "8476932": {
-    "decision": "L",
-    "goalsAgainst": 4,
-    "kind": "goalie",
-    "savePctg": 0.885714,
-    "saves": 31,
-    "shotsAgainst": 35,
-    "toi": "58:08"
-   },
-   "8477426": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "14:22"
-   },
-   "8477501": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "16:30"
-   },
-   "8477541": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "12:50"
-   },
-   "8477939": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "19:33"
-   },
-   "8478057": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "12:33"
-   },
-   "8478178": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 5,
-    "toi": "24:19"
-   },
-   "8478458": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 0,
-    "toi": "15:04"
-   },
-   "8478460": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 2,
-    "shots": 4,
-    "toi": "31:58"
-   },
-   "8478500": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 2,
-    "toi": "20:05"
-   },
-   "8478904": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "05:12"
-   },
-   "8479318": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 4,
-    "toi": "23:07"
-   },
-   "8479371": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 0,
-    "toi": "16:16"
-   },
-   "8479442": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "14:56"
-   },
-   "8479520": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "14:51"
-   },
-   "8479671": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "16:39"
-   },
-   "8479772": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "06:35"
-   },
-   "8480806": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "04:44"
-   },
-   "8481161": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "11:55"
-   },
-   "8481716": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "04:55"
-   },
-   "8482525": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "09:52"
-   },
-   "8482660": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 3,
-    "toi": "21:02"
-   },
-   "8482705": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "15:36"
-   },
-   "8482720": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 2,
-    "shots": 5,
-    "toi": "21:30"
-   },
-   "8483432": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 1,
-    "toi": "17:58"
-   },
-   "8484158": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "19:03"
-   },
-   "8484166": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 2,
-    "shots": 8,
-    "toi": "20:50"
-   },
-   "8485469": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "14:48"
-   },
-   "8486067": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "15:51"
-   }
-  },
-  "2026020365": {
-   "8476372": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "16:24"
-   },
-   "8476461": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 2,
-    "toi": "15:44"
-   },
-   "8476479": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "16:19"
-   },
-   "8477499": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 3,
-    "toi": "22:37"
-   },
-   "8477948": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 1,
-    "toi": "21:19"
-   },
-   "8477989": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 2,
-    "toi": "18:27"
-   },
-   "8478133": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "18:57"
-   },
-   "8478435": {
-    "decision": "W",
-    "goalsAgainst": 3,
-    "kind": "goalie",
-    "savePctg": 0.869565,
-    "saves": 20,
-    "shotsAgainst": 23,
-    "toi": "60:00"
-   },
-   "8478439": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "18:48"
-   },
-   "8478569": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "09:18"
-   },
-   "8478851": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 0,
-    "toi": "21:24"
-   },
-   "8480015": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 2,
-    "shots": 1,
-    "toi": "15:16"
-   },
-   "8480018": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "19:56"
-   },
-   "8480074": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 4,
-    "toi": "17:18"
-   },
-   "8480220": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 2,
-    "toi": "11:07"
-   },
-   "8480865": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 2,
-    "toi": "21:07"
-   },
-   "8481523": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 1,
-    "toi": "12:55"
-   },
-   "8481533": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "18:09"
-   },
-   "8481540": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 3,
-    "toi": "18:41"
-   },
-   "8481546": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "20:19"
-   },
-   "8481618": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 0,
-    "toi": "18:31"
-   },
-   "8482087": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 0,
-    "toi": "20:52"
-   },
-   "8482132": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 0,
-    "toi": "07:10"
-   },
-   "8482142": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 0,
-    "toi": "21:13"
-   },
-   "8482159": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 3,
-    "toi": "20:02"
-   },
-   "8482737": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 3,
-    "toi": "13:59"
-   },
-   "8482775": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "07:49"
-   },
-   "8482964": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 1,
-    "toi": "14:41"
-   },
-   "8483424": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "07:26"
-   },
-   "8483457": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "29:07"
-   },
-   "8483515": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "20:17"
-   },
-   "8483787": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 0,
-    "toi": "10:23"
-   },
-   "8484142": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 2,
-    "shots": 1,
-    "toi": "15:19"
-   },
-   "8484148": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "16:16"
-   },
-   "8484170": {
-    "decision": "L",
-    "goalsAgainst": 4,
-    "kind": "goalie",
-    "savePctg": 0.8,
-    "saves": 16,
-    "shotsAgainst": 20,
-    "toi": "58:41"
-   },
-   "8484220": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 0,
-    "shots": 2,
-    "toi": "10:50"
-   },
-   "8484387": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "13:41"
-   },
-   "8485406": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 0,
-    "shots": 1,
-    "toi": "11:50"
-   }
-  },
-  "2026020366": {
-   "8470621": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "10:56"
-   },
-   "8473512": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "16:35"
-   },
-   "8474563": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 1,
-    "toi": "19:03"
-   },
-   "8475208": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "18:17"
-   },
-   "8475287": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "13:45"
-   },
-   "8475692": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 3,
-    "toi": "19:24"
-   },
-   "8476341": {
-    "decision": "L",
-    "goalsAgainst": 4,
-    "kind": "goalie",
-    "savePctg": 0.857143,
-    "saves": 24,
-    "shotsAgainst": 28,
-    "toi": "57:18"
-   },
-   "8476393": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 2,
-    "toi": "11:22"
-   },
-   "8476441": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "17:59"
-   },
-   "8476469": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "13:46"
-   },
-   "8476872": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "11:51"
-   },
-   "8476979": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 3,
-    "toi": "13:31"
-   },
-   "8476999": {
-    "decision": "W",
-    "goalsAgainst": 2,
-    "kind": "goalie",
-    "savePctg": 0.904762,
-    "saves": 19,
-    "shotsAgainst": 21,
-    "toi": "59:54"
-   },
-   "8477942": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "17:47"
-   },
-   "8477960": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "22:06"
-   },
-   "8478020": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "16:54"
-   },
-   "8478104": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 0,
-    "toi": "08:29"
-   },
-   "8478469": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "22:31"
-   },
-   "8479998": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "19:08"
-   },
-   "8480188": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 0,
-    "toi": "10:34"
-   },
-   "8480208": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "13:50"
-   },
-   "8481528": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 2,
-    "shots": 0,
-    "toi": "16:53"
-   },
-   "8481532": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 1,
-    "toi": "08:57"
-   },
-   "8481577": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "05:54"
-   },
-   "8481596": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "21:38"
-   },
-   "8481606": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "18:45"
-   },
-   "8481732": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "12:06"
-   },
-   "8482092": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 10,
-    "toi": "21:13"
-   },
-   "8482095": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 2,
-    "toi": "17:46"
-   },
-   "8482105": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 2,
-    "shots": 0,
-    "toi": "24:12"
-   },
-   "8482116": {
-    "assists": 1,
-    "goals": 2,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 3,
-    "shots": 2,
-    "toi": "19:25"
-   },
-   "8482124": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 2,
-    "toi": "21:14"
-   },
-   "8482155": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "23:19"
-   },
-   "8482245": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "18:06"
-   },
-   "8482726": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "09:58"
-   },
-   "8482730": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "22:58"
-   },
-   "8483676": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "12:30"
-   },
-   "8484321": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 0,
-    "shots": 1,
-    "toi": "15:29"
-   }
-  },
-  "2026020367": {
-   "8475151": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "14:31"
-   },
-   "8475170": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "14:26"
-   },
-   "8475231": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 0,
-    "toi": "14:56"
-   },
-   "8475279": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "19:50"
-   },
-   "8475753": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 0,
-    "toi": "23:49"
-   },
-   "8476292": {
-    "assists": 0,
-    "goals": 2,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 2,
-    "shots": 5,
-    "toi": "11:49"
-   },
-   "8476419": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 0,
-    "shots": 0,
-    "toi": "14:07"
-   },
-   "8476434": {
-    "decision": "L",
-    "goalsAgainst": 3,
-    "kind": "goalie",
-    "savePctg": 0.857143,
-    "saves": 18,
-    "shotsAgainst": 21,
-    "toi": "57:47"
-   },
-   "8476917": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "20:40"
-   },
-   "8477018": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "14:07"
-   },
-   "8477407": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "13:39"
-   },
-   "8477429": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "20:11"
-   },
-   "8477456": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "14:23"
-   },
-   "8477500": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "20:24"
-   },
-   "8477950": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 3,
-    "toi": "21:09"
-   },
-   "8477971": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "15:50"
-   },
-   "8478009": {
-    "decision": "W",
-    "goalsAgainst": 2,
-    "kind": "goalie",
-    "savePctg": 0.9,
-    "saves": 18,
-    "shotsAgainst": 20,
-    "toi": "59:27"
-   },
-   "8478042": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "16:46"
-   },
-   "8478434": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "12:37"
-   },
-   "8478445": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "14:08"
-   },
-   "8478891": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "13:28"
-   },
-   "8479337": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 6,
-    "toi": "20:42"
-   },
-   "8479378": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 0,
-    "shots": 1,
-    "toi": "20:47"
-   },
-   "8479992": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "12:15"
-   },
-   "8481542": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "27:30"
-   },
-   "8481601": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 2,
-    "toi": "18:06"
-   },
-   "8481607": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 0,
-    "toi": "17:39"
-   },
-   "8481711": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 0,
-    "toi": "13:54"
-   },
-   "8482078": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "18:51"
-   },
-   "8482476": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "15:36"
-   },
-   "8482516": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "15:48"
-   },
-   "8482802": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "10:39"
-   },
-   "8483464": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "13:59"
-   },
-   "8483679": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 0,
-    "toi": "13:37"
-   },
-   "8484471": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "15:25"
-   },
-   "8484794": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 2,
-    "toi": "12:42"
-   },
-   "8485366": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 2,
-    "shots": 2,
-    "toi": "25:46"
-   },
-   "8485388": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "14:40"
-   }
-  },
-  "2026020368": {
-   "8474596": {
-    "decision": "L",
-    "goalsAgainst": 4,
-    "kind": "goalie",
-    "savePctg": 0.75,
-    "saves": 12,
-    "shotsAgainst": 16,
-    "toi": "50:15"
-   },
-   "8475455": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "15:46"
-   },
-   "8475764": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 0,
-    "toi": "22:04"
-   },
-   "8476412": {
-    "decision": "W",
-    "goalsAgainst": 6,
-    "kind": "goalie",
-    "savePctg": 0.860465,
-    "saves": 37,
-    "shotsAgainst": 43,
-    "toi": "60:00"
-   },
-   "8476462": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 8,
-    "toi": "20:46"
-   },
-   "8476892": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 1,
-    "shots": 1,
-    "toi": "17:20"
-   },
-   "8476945": {
-    "decision": null,
-    "goalsAgainst": 4,
-    "kind": "goalie",
-    "savePctg": 0.333333,
-    "saves": 2,
-    "shotsAgainst": 6,
-    "toi": "09:03"
-   },
-   "8477015": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 2,
-    "toi": "15:05"
-   },
-   "8477402": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 1,
-    "shots": 1,
-    "toi": "17:34"
-   },
-   "8477488": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 2,
-    "shots": 0,
-    "toi": "18:47"
-   },
-   "8477527": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -3,
-    "points": 0,
-    "shots": 1,
-    "toi": "11:01"
-   },
-   "8478399": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "17:59"
-   },
-   "8478414": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -3,
-    "points": 1,
-    "shots": 3,
-    "toi": "18:21"
-   },
-   "8478443": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 2,
-    "shots": 3,
-    "toi": "22:36"
-   },
-   "8478542": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 2,
-    "shots": 2,
-    "toi": "15:30"
-   },
-   "8479407": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 4,
-    "toi": "18:15"
-   },
-   "8479996": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 3,
-    "toi": "12:17"
-   },
-   "8480002": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -4,
-    "points": 1,
-    "shots": 1,
-    "toi": "17:07"
-   },
-   "8480003": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 2,
-    "shots": 3,
-    "toi": "12:14"
-   },
-   "8480023": {
-    "assists": 2,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 3,
-    "shots": 2,
-    "toi": "16:48"
-   },
-   "8480281": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -3,
-    "points": 0,
-    "shots": 1,
-    "toi": "15:39"
-   },
-   "8480459": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -3,
-    "points": 0,
-    "shots": 2,
-    "toi": "16:07"
-   },
-   "8480990": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 2,
-    "toi": "16:15"
-   },
-   "8481013": {
-    "assists": 0,
-    "goals": 2,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 2,
-    "shots": 3,
-    "toi": "13:01"
-   },
-   "8481559": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 2,
-    "shots": 2,
-    "toi": "20:25"
-   },
-   "8481598": {
-    "assists": 2,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 3,
-    "shots": 2,
-    "toi": "24:14"
-   },
-   "8481721": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "14:10"
-   },
-   "8482077": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "12:39"
-   },
-   "8482089": {
-    "assists": 5,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 5,
-    "shots": 0,
-    "toi": "13:51"
-   },
-   "8482111": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 0,
-    "toi": "13:40"
-   },
-   "8482146": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 4,
-    "toi": "20:47"
-   },
-   "8482684": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 5,
-    "toi": "23:02"
-   },
-   "8482733": {
-    "assists": 2,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 3,
-    "shots": 1,
-    "toi": "19:11"
-   },
-   "8482745": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "14:05"
-   },
-   "8483463": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 1,
-    "shots": 0,
-    "toi": "16:55"
-   },
-   "8483516": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 2,
-    "toi": "14:20"
-   },
-   "8483695": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 2,
-    "shots": 0,
-    "toi": "10:58"
-   },
-   "8484164": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "12:21"
-   },
-   "8484177": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 0,
-    "toi": "11:53"
-   }
-  },
-  "2026020369": {
-   "8475188": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "22:26"
-   },
-   "8475343": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "11:09"
-   },
-   "8475913": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 1,
-    "shots": 2,
-    "toi": "18:42"
-   },
-   "8476392": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "17:32"
-   },
-   "8476448": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "20:31"
-   },
-   "8476460": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 3,
-    "toi": "25:02"
-   },
-   "8476881": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 2,
-    "shots": 4,
-    "toi": "13:44"
-   },
-   "8477447": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 2,
-    "toi": "23:43"
-   },
-   "8477504": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 6,
-    "toi": "26:56"
-   },
-   "8477964": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "12:57"
-   },
-   "8478109": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "15:44"
-   },
-   "8478397": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "23:42"
-   },
-   "8478398": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 2,
-    "shots": 2,
-    "toi": "22:52"
-   },
-   "8478403": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 2,
-    "shots": 4,
-    "toi": "21:37"
-   },
-   "8478450": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 2,
-    "toi": "17:55"
-   },
-   "8478468": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "19:44"
-   },
-   "8478483": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 4,
-    "toi": "23:18"
-   },
-   "8479353": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 2,
-    "shots": 3,
-    "toi": "14:43"
-   },
-   "8479394": {
-    "decision": "W",
-    "goalsAgainst": 4,
-    "kind": "goalie",
-    "savePctg": 0.866667,
-    "saves": 26,
-    "shotsAgainst": 30,
-    "toi": "65:00"
-   },
-   "8479639": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 1,
-    "toi": "13:17"
-   },
-   "8479973": {
-    "decision": "O",
-    "goalsAgainst": 4,
-    "kind": "goalie",
-    "savePctg": 0.878788,
-    "saves": 29,
-    "shotsAgainst": 33,
-    "toi": "65:00"
-   },
-   "8479983": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "16:25"
-   },
-   "8480014": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 3,
-    "toi": "23:50"
-   },
-   "8480049": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "19:47"
-   },
-   "8480113": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "13:35"
-   },
-   "8480145": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "25:15"
-   },
-   "8480289": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 2,
-    "shots": 2,
-    "toi": "19:18"
-   },
-   "8481567": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 0,
-    "toi": "14:56"
-   },
-   "8482110": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "14:15"
-   },
-   "8482149": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "15:03"
-   },
-   "8482459": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "03:12"
-   },
-   "8483510": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "17:55"
-   },
-   "8483526": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "08:50"
-   },
-   "8483553": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "08:41"
-   },
-   "8483890": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "10:47"
-   },
-   "8484242": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "09:31"
-   },
-   "8484803": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 3,
-    "toi": "18:20"
-   },
-   "8486025": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 4,
-    "toi": "18:32"
-   }
-  },
-  "2026020370": {
-   "8473986": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "14:41"
-   },
-   "8475314": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 3,
-    "toi": "14:19"
-   },
-   "8475798": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 3,
-    "toi": "22:05"
-   },
-   "8476389": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 1,
-    "toi": "19:45"
-   },
-   "8477070": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "10:35"
-   },
-   "8477346": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "19:49"
-   },
-   "8478024": {
-    "decision": "L",
-    "goalsAgainst": 2,
-    "kind": "goalie",
-    "savePctg": 0.818182,
-    "saves": 9,
-    "shotsAgainst": 11,
-    "toi": "58:38"
-   },
-   "8478366": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "14:01"
-   },
-   "8478474": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "16:03"
-   },
-   "8478831": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "15:06"
-   },
-   "8478873": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "14:57"
-   },
-   "8479369": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "22:42"
-   },
-   "8479410": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 0,
-    "toi": "25:52"
-   },
-   "8479619": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "09:58"
-   },
-   "8479977": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 1,
-    "toi": "18:08"
-   },
-   "8480084": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "15:40"
-   },
-   "8480849": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "17:55"
-   },
-   "8480855": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "14:51"
-   },
-   "8481538": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 2,
-    "toi": "17:59"
-   },
-   "8481563": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 3,
-    "toi": "15:15"
-   },
-   "8481605": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "25:36"
-   },
-   "8481708": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 0,
-    "toi": "16:19"
-   },
-   "8481754": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "13:03"
-   },
-   "8481827": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "08:47"
-   },
-   "8482178": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 2,
-    "toi": "18:49"
-   },
-   "8482408": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 3,
-    "toi": "11:56"
-   },
-   "8482657": {
-    "decision": "W",
-    "goalsAgainst": 2,
-    "kind": "goalie",
-    "savePctg": 0.935484,
-    "saves": 29,
-    "shotsAgainst": 31,
-    "toi": "59:58"
-   },
-   "8483431": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 2,
-    "shots": 1,
-    "toi": "19:40"
-   },
-   "8483445": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "18:11"
-   },
-   "8483482": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 5,
-    "toi": "24:41"
-   },
-   "8483490": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "15:50"
-   },
-   "8484153": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "06:04"
-   },
-   "8484201": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 0,
-    "shots": 0,
-    "toi": "14:12"
-   },
-   "8484386": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "18:15"
-   },
-   "8484388": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 0,
-    "toi": "12:18"
-   },
-   "8484859": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 2,
-    "toi": "18:41"
-   },
-   "8485400": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "16:13"
-   },
-   "8485512": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 1,
-    "toi": "15:08"
-   }
-  },
-  "2026020371": {
-   "8473422": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 3,
-    "toi": "11:02"
-   },
-   "8474567": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 1,
-    "toi": "14:23"
-   },
-   "8474568": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "09:22"
-   },
-   "8474716": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 2,
-    "toi": "21:10"
-   },
-   "8475220": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 0,
-    "toi": "08:49"
-   },
-   "8476399": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 3,
-    "toi": "15:04"
-   },
-   "8476463": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "24:50"
-   },
-   "8476467": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "20:19"
-   },
-   "8477446": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "14:32"
-   },
-   "8477451": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 0,
-    "toi": "10:31"
-   },
-   "8478444": {
-    "assists": 3,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 3,
-    "shots": 2,
-    "toi": "24:09"
-   },
-   "8478493": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 3,
-    "toi": "22:24"
-   },
-   "8478498": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "20:45"
-   },
-   "8478508": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "12:26"
-   },
-   "8478864": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 2,
-    "shots": 1,
-    "toi": "24:51"
-   },
-   "8479425": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "30:32"
-   },
-   "8480078": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 2,
-    "toi": "21:24"
-   },
-   "8481024": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "12:15"
-   },
-   "8481032": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "12:12"
-   },
-   "8481553": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "12:45"
-   },
-   "8481557": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 2,
-    "shots": 2,
-    "toi": "24:13"
-   },
-   "8482055": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "14:39"
-   },
-   "8482079": {
-    "assists": 0,
-    "goals": 2,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 2,
-    "shots": 3,
-    "toi": "19:30"
-   },
-   "8482122": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "29:14"
-   },
-   "8482447": {
-    "decision": "W",
-    "goalsAgainst": 3,
-    "kind": "goalie",
-    "savePctg": 0.88,
-    "saves": 22,
-    "shotsAgainst": 25,
-    "toi": "64:36"
-   },
-   "8482641": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 0,
-    "toi": "18:47"
-   },
-   "8482661": {
-    "decision": "O",
-    "goalsAgainst": 3,
-    "kind": "goalie",
-    "savePctg": 0.875,
-    "saves": 21,
-    "shotsAgainst": 24,
-    "toi": "64:53"
-   },
-   "8483395": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "11:59"
-   },
-   "8483476": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "15:25"
-   },
-   "8483499": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 4,
-    "toi": "14:29"
-   },
-   "8483525": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "16:53"
-   },
-   "8483678": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -3,
-    "points": 0,
-    "shots": 0,
-    "toi": "14:08"
-   },
-   "8483766": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 2,
-    "toi": "14:46"
-   },
-   "8484240": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "19:54"
-   },
-   "8484406": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "13:49"
-   },
-   "8484798": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 5,
-    "toi": "27:41"
-   },
-   "8484901": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 0,
-    "toi": "10:52"
-   },
-   "8485702": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "15:26"
-   }
-  },
-  "2026020372": {
-   "8474586": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "18:16"
-   },
-   "8475200": {
-    "assists": 3,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 3,
-    "shots": 1,
-    "toi": "17:20"
-   },
-   "8475726": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 2,
-    "toi": "12:13"
-   },
-   "8475831": {
-    "decision": "L",
-    "goalsAgainst": 4,
-    "kind": "goalie",
-    "savePctg": 0.862069,
-    "saves": 25,
-    "shotsAgainst": 29,
-    "toi": "59:26"
-   },
-   "8476457": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "17:56"
-   },
-   "8476624": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "13:36"
-   },
-   "8476885": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 3,
-    "toi": "22:25"
-   },
-   "8476905": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "16:50"
-   },
-   "8477498": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "23:49"
-   },
-   "8477505": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 3,
-    "toi": "17:19"
-   },
-   "8477919": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "12:32"
-   },
-   "8477968": {
-    "decision": "W",
-    "goalsAgainst": 3,
-    "kind": "goalie",
-    "savePctg": 0.9,
-    "saves": 27,
-    "shotsAgainst": 30,
-    "toi": "60:00"
-   },
-   "8477986": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 2,
-    "toi": "27:30"
-   },
-   "8478407": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 3,
-    "toi": "21:07"
-   },
-   "8478874": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "15:13"
-   },
-   "8478975": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 3,
-    "toi": "13:53"
-   },
-   "8479324": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 2,
-    "toi": "14:38"
-   },
-   "8479372": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "13:06"
-   },
-   "8480848": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "16:58"
-   },
-   "8481517": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "11:22"
-   },
-   "8481554": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 2,
-    "shots": 4,
-    "toi": "16:07"
-   },
-   "8482259": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "19:00"
-   },
-   "8482665": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 3,
-    "toi": "18:54"
-   },
-   "8482700": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "14:20"
-   },
-   "8482713": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 4,
-    "toi": "16:55"
-   },
-   "8482751": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 1,
-    "toi": "13:09"
-   },
-   "8482858": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "22:12"
-   },
-   "8482859": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "12:13"
-   },
-   "8482874": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 0,
-    "toi": "09:31"
-   },
-   "8483570": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 3,
-    "toi": "09:09"
-   },
-   "8484227": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "17:12"
-   },
-   "8484241": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 3,
-    "toi": "11:26"
-   },
-   "8484421": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "19:42"
-   },
-   "8484800": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "18:16"
-   },
-   "8484801": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 2,
-    "shots": 3,
-    "toi": "19:29"
-   },
-   "8484806": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "18:23"
-   },
-   "8485402": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 5,
-    "toi": "14:00"
-   },
-   "8486103": {
-    "assists": 1,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 2,
-    "shots": 2,
-    "toi": "16:36"
-   }
-  },
   "2026020373": {
    "8473533": {
     "assists": 1,
@@ -6562,303 +1728,2417 @@
     "shots": 1,
     "toi": "12:55"
    }
+  },
+  "2026020378": {
+   "8475455": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 1,
+    "toi": "13:45"
+   },
+   "8475660": {
+    "decision": "L",
+    "goalsAgainst": 3,
+    "kind": "goalie",
+    "savePctg": 0.9,
+    "saves": 27,
+    "shotsAgainst": 30,
+    "toi": "58:02"
+   },
+   "8475745": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 2,
+    "toi": "22:52"
+   },
+   "8476462": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 2,
+    "points": 1,
+    "shots": 4,
+    "toi": "20:37"
+   },
+   "8476474": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "08:42"
+   },
+   "8476923": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 1,
+    "toi": "23:55"
+   },
+   "8476945": {
+    "decision": "W",
+    "goalsAgainst": 2,
+    "kind": "goalie",
+    "savePctg": 0.904762,
+    "saves": 19,
+    "shotsAgainst": 21,
+    "toi": "60:00"
+   },
+   "8477015": {
+    "assists": 1,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 2,
+    "points": 2,
+    "shots": 4,
+    "toi": "20:20"
+   },
+   "8477488": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 1,
+    "toi": "22:46"
+   },
+   "8477501": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 0,
+    "toi": "18:22"
+   },
+   "8478399": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 2,
+    "points": 1,
+    "shots": 2,
+    "toi": "19:42"
+   },
+   "8478414": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 5,
+    "toi": "18:15"
+   },
+   "8478460": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 6,
+    "toi": "30:53"
+   },
+   "8478500": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "23:17"
+   },
+   "8478542": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "16:04"
+   },
+   "8479066": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "05:29"
+   },
+   "8479371": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 2,
+    "toi": "12:29"
+   },
+   "8479407": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -2,
+    "points": 0,
+    "shots": 0,
+    "toi": "17:20"
+   },
+   "8479671": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -2,
+    "points": 0,
+    "shots": 0,
+    "toi": "10:01"
+   },
+   "8479996": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "11:11"
+   },
+   "8480002": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 2,
+    "toi": "17:19"
+   },
+   "8480003": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "08:36"
+   },
+   "8480806": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "06:58"
+   },
+   "8480990": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 1,
+    "toi": "13:49"
+   },
+   "8481161": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "10:25"
+   },
+   "8481559": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 2,
+    "points": 1,
+    "shots": 0,
+    "toi": "21:58"
+   },
+   "8481721": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 4,
+    "toi": "14:44"
+   },
+   "8482146": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 3,
+    "toi": "15:41"
+   },
+   "8482451": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 2,
+    "toi": "08:38"
+   },
+   "8482660": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "20:55"
+   },
+   "8482684": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -2,
+    "points": 0,
+    "shots": 1,
+    "toi": "24:15"
+   },
+   "8482705": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -2,
+    "points": 0,
+    "shots": 0,
+    "toi": "12:35"
+   },
+   "8482720": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "21:23"
+   },
+   "8483432": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "15:36"
+   },
+   "8483485": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "16:01"
+   },
+   "8483695": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 0,
+    "toi": "10:56"
+   },
+   "8484166": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 1,
+    "toi": "21:44"
+   },
+   "8485469": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 1,
+    "shots": 1,
+    "toi": "14:25"
+   }
+  },
+  "2026020379": {
+   "8470621": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "06:18"
+   },
+   "8474563": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "22:29"
+   },
+   "8475208": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "21:35"
+   },
+   "8475287": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 0,
+    "toi": "15:54"
+   },
+   "8475311": {
+    "decision": "W",
+    "goalsAgainst": 1,
+    "kind": "goalie",
+    "savePctg": 0.966667,
+    "saves": 29,
+    "shotsAgainst": 30,
+    "toi": "60:00"
+   },
+   "8475692": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "14:33"
+   },
+   "8476441": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 0,
+    "toi": "17:13"
+   },
+   "8476469": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 0,
+    "toi": "12:59"
+   },
+   "8476479": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "14:46"
+   },
+   "8476879": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 0,
+    "toi": "16:22"
+   },
+   "8477942": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 1,
+    "toi": "13:12"
+   },
+   "8477946": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 3,
+    "toi": "19:57"
+   },
+   "8477960": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 3,
+    "toi": "19:31"
+   },
+   "8478133": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "14:36"
+   },
+   "8478550": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 1,
+    "toi": "19:46"
+   },
+   "8478851": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "17:46"
+   },
+   "8479675": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 6,
+    "toi": "12:28"
+   },
+   "8479998": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "23:32"
+   },
+   "8480018": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "21:16"
+   },
+   "8480074": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 1,
+    "toi": "14:32"
+   },
+   "8480865": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 1,
+    "toi": "21:39"
+   },
+   "8481532": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "06:29"
+   },
+   "8481540": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "19:51"
+   },
+   "8481618": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 2,
+    "toi": "17:31"
+   },
+   "8481732": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "10:58"
+   },
+   "8482087": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 0,
+    "toi": "18:51"
+   },
+   "8482124": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 1,
+    "shots": 1,
+    "toi": "20:10"
+   },
+   "8482155": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 4,
+    "toi": "21:19"
+   },
+   "8482487": {
+    "decision": "L",
+    "goalsAgainst": 2,
+    "kind": "goalie",
+    "savePctg": 0.909091,
+    "saves": 20,
+    "shotsAgainst": 22,
+    "toi": "58:07"
+   },
+   "8482730": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 2,
+    "toi": "18:12"
+   },
+   "8482737": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 3,
+    "toi": "15:37"
+   },
+   "8482775": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "09:20"
+   },
+   "8482964": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "12:38"
+   },
+   "8483424": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "08:23"
+   },
+   "8483457": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 5,
+    "toi": "29:31"
+   },
+   "8483515": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "20:43"
+   },
+   "8483686": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 1,
+    "toi": "14:03"
+   },
+   "8484403": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "07:56"
+   }
+  },
+  "2026020380": {
+   "8473512": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "15:00"
+   },
+   "8474150": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 4,
+    "toi": "20:13"
+   },
+   "8476393": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 1,
+    "toi": "10:10"
+   },
+   "8476458": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "15:52"
+   },
+   "8476999": {
+    "decision": "W",
+    "goalsAgainst": 1,
+    "kind": "goalie",
+    "savePctg": 0.972222,
+    "saves": 35,
+    "shotsAgainst": 36,
+    "toi": "60:00"
+   },
+   "8477810": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "15:54"
+   },
+   "8478020": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 3,
+    "toi": "20:05"
+   },
+   "8478104": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "06:35"
+   },
+   "8478136": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 1,
+    "toi": "18:16"
+   },
+   "8478469": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 3,
+    "toi": "24:27"
+   },
+   "8480028": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 1,
+    "toi": "08:53"
+   },
+   "8480188": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 4,
+    "toi": "14:28"
+   },
+   "8480208": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 2,
+    "toi": "15:50"
+   },
+   "8480727": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 1,
+    "toi": "19:42"
+   },
+   "8480797": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 1,
+    "shots": 1,
+    "toi": "17:47"
+   },
+   "8481068": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "23:53"
+   },
+   "8481528": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "16:00"
+   },
+   "8481577": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "06:43"
+   },
+   "8481596": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 4,
+    "toi": "19:51"
+   },
+   "8481606": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 1,
+    "toi": "20:53"
+   },
+   "8482092": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 2,
+    "toi": "20:01"
+   },
+   "8482095": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 2,
+    "toi": "13:09"
+   },
+   "8482105": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "24:02"
+   },
+   "8482116": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "21:14"
+   },
+   "8482165": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 1,
+    "toi": "17:07"
+   },
+   "8482245": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "19:48"
+   },
+   "8482445": {
+    "decision": "L",
+    "goalsAgainst": 2,
+    "kind": "goalie",
+    "savePctg": 0.935484,
+    "saves": 29,
+    "shotsAgainst": 31,
+    "toi": "58:25"
+   },
+   "8482679": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 1,
+    "shots": 7,
+    "toi": "21:16"
+   },
+   "8483495": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 3,
+    "toi": "20:16"
+   },
+   "8483609": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 5,
+    "toi": "14:00"
+   },
+   "8483676": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 0,
+    "toi": "09:51"
+   },
+   "8484154": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "11:25"
+   },
+   "8484234": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 3,
+    "toi": "13:08"
+   },
+   "8484321": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 0,
+    "toi": "14:00"
+   },
+   "8484768": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 2,
+    "toi": "23:07"
+   },
+   "8484821": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "07:26"
+   },
+   "8484860": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 1,
+    "toi": "17:22"
+   },
+   "8484958": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 3,
+    "toi": "09:58"
+   }
+  },
+  "2026020381": {
+   "8475151": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "08:12"
+   },
+   "8475166": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 4,
+    "toi": "15:09"
+   },
+   "8475170": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 1,
+    "shots": 2,
+    "toi": "16:38"
+   },
+   "8475171": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 1,
+    "toi": "21:04"
+   },
+   "8475231": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "11:52"
+   },
+   "8475690": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 1,
+    "toi": "16:29"
+   },
+   "8476292": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 0,
+    "toi": "12:41"
+   },
+   "8476419": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "14:56"
+   },
+   "8476853": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -2,
+    "points": 0,
+    "shots": 1,
+    "toi": "17:49"
+   },
+   "8476917": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 1,
+    "toi": "18:10"
+   },
+   "8476927": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 2,
+    "toi": "16:11"
+   },
+   "8476931": {
+    "assists": 2,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 3,
+    "points": 2,
+    "shots": 1,
+    "toi": "21:46"
+   },
+   "8476932": {
+    "decision": "W",
+    "goalsAgainst": 2,
+    "kind": "goalie",
+    "savePctg": 0.909091,
+    "saves": 20,
+    "shotsAgainst": 22,
+    "toi": "59:10"
+   },
+   "8477018": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 1,
+    "toi": "14:53"
+   },
+   "8477407": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 2,
+    "toi": "14:32"
+   },
+   "8477426": {
+    "assists": 2,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 2,
+    "points": 2,
+    "shots": 2,
+    "toi": "16:56"
+   },
+   "8477500": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 2,
+    "toi": "18:48"
+   },
+   "8477939": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 2,
+    "points": 0,
+    "shots": 0,
+    "toi": "18:21"
+   },
+   "8477950": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "20:15"
+   },
+   "8478009": {
+    "decision": "L",
+    "goalsAgainst": 3,
+    "kind": "goalie",
+    "savePctg": 0.903226,
+    "saves": 28,
+    "shotsAgainst": 31,
+    "toi": "59:26"
+   },
+   "8478057": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 2,
+    "toi": "14:25"
+   },
+   "8478178": {
+    "assists": 2,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 3,
+    "points": 2,
+    "shots": 7,
+    "toi": "23:12"
+   },
+   "8478445": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": -2,
+    "points": 1,
+    "shots": 2,
+    "toi": "18:14"
+   },
+   "8479318": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 3,
+    "points": 1,
+    "shots": 1,
+    "toi": "20:21"
+   },
+   "8479378": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 1,
+    "toi": "24:31"
+   },
+   "8479442": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -2,
+    "points": 0,
+    "shots": 0,
+    "toi": "18:56"
+   },
+   "8479520": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 3,
+    "toi": "13:05"
+   },
+   "8479772": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "10:59"
+   },
+   "8481601": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 1,
+    "toi": "16:35"
+   },
+   "8481711": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 3,
+    "toi": "15:32"
+   },
+   "8482476": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "15:24"
+   },
+   "8482516": {
+    "assists": 2,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 2,
+    "shots": 1,
+    "toi": "16:10"
+   },
+   "8482525": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "07:24"
+   },
+   "8482691": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "15:32"
+   },
+   "8484158": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 1,
+    "toi": "18:23"
+   },
+   "8485366": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -2,
+    "points": 0,
+    "shots": 1,
+    "toi": "25:13"
+   },
+   "8485388": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 3,
+    "toi": "15:58"
+   },
+   "8486067": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 3,
+    "toi": "12:48"
+   }
+  },
+  "2026020382": {
+   "8475314": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 3,
+    "toi": "14:29"
+   },
+   "8476389": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 1,
+    "shots": 3,
+    "toi": "21:18"
+   },
+   "8476392": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 1,
+    "toi": "14:46"
+   },
+   "8476460": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 3,
+    "points": 1,
+    "shots": 2,
+    "toi": "19:58"
+   },
+   "8477070": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 1,
+    "toi": "10:53"
+   },
+   "8477346": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 5,
+    "toi": "22:55"
+   },
+   "8477504": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 0,
+    "toi": "23:55"
+   },
+   "8478398": {
+    "assists": 2,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 3,
+    "points": 2,
+    "shots": 2,
+    "toi": "20:38"
+   },
+   "8478474": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 3,
+    "toi": "15:41"
+   },
+   "8478831": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 1,
+    "toi": "11:46"
+   },
+   "8479343": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -3,
+    "points": 0,
+    "shots": 0,
+    "toi": "16:59"
+   },
+   "8479369": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 3,
+    "toi": "20:52"
+   },
+   "8479410": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 3,
+    "toi": "26:06"
+   },
+   "8479973": {
+    "decision": "W",
+    "goalsAgainst": 2,
+    "kind": "goalie",
+    "savePctg": 0.944444,
+    "saves": 34,
+    "shotsAgainst": 36,
+    "toi": "60:00"
+   },
+   "8479977": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "16:30"
+   },
+   "8479983": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 1,
+    "toi": "18:44"
+   },
+   "8480014": {
+    "assists": 0,
+    "goals": 3,
+    "kind": "skater",
+    "plusMinus": 3,
+    "points": 3,
+    "shots": 3,
+    "toi": "19:10"
+   },
+   "8480049": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 2,
+    "points": 1,
+    "shots": 2,
+    "toi": "20:13"
+   },
+   "8480084": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -3,
+    "points": 0,
+    "shots": 0,
+    "toi": "09:26"
+   },
+   "8480113": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 2,
+    "toi": "09:59"
+   },
+   "8480145": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 0,
+    "toi": "21:12"
+   },
+   "8480289": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 2,
+    "toi": "17:24"
+   },
+   "8480849": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 4,
+    "toi": "16:23"
+   },
+   "8480855": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -2,
+    "points": 0,
+    "shots": 0,
+    "toi": "10:40"
+   },
+   "8481567": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "16:02"
+   },
+   "8481708": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 2,
+    "toi": "15:15"
+   },
+   "8482110": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "15:41"
+   },
+   "8482149": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "16:53"
+   },
+   "8482459": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "05:46"
+   },
+   "8482657": {
+    "decision": "L",
+    "goalsAgainst": 3,
+    "kind": "goalie",
+    "savePctg": 0.785714,
+    "saves": 11,
+    "shotsAgainst": 14,
+    "toi": "57:50"
+   },
+   "8482699": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -3,
+    "points": 0,
+    "shots": 3,
+    "toi": "17:54"
+   },
+   "8483431": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 1,
+    "shots": 1,
+    "toi": "21:57"
+   },
+   "8483510": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "18:24"
+   },
+   "8483526": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "08:33"
+   },
+   "8484242": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "14:00"
+   },
+   "8484386": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 1,
+    "toi": "19:57"
+   },
+   "8484388": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 2,
+    "toi": "11:02"
+   },
+   "8486025": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 0,
+    "toi": "14:42"
+   }
+  },
+  "2026020383": {
+   "8473986": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "16:18"
+   },
+   "8474586": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 1,
+    "toi": "16:32"
+   },
+   "8475798": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 4,
+    "toi": "21:28"
+   },
+   "8476457": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 1,
+    "toi": "22:39"
+   },
+   "8476905": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 1,
+    "toi": "18:11"
+   },
+   "8477919": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "15:31"
+   },
+   "8477986": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 1,
+    "toi": "22:54"
+   },
+   "8478366": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 0,
+    "toi": "09:56"
+   },
+   "8478407": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 2,
+    "toi": "21:04"
+   },
+   "8478873": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "20:37"
+   },
+   "8478916": {
+    "decision": "W",
+    "goalsAgainst": 2,
+    "kind": "goalie",
+    "savePctg": 0.923077,
+    "saves": 24,
+    "shotsAgainst": 26,
+    "toi": "60:00"
+   },
+   "8479324": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 1,
+    "toi": "15:45"
+   },
+   "8479372": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "13:24"
+   },
+   "8480843": {
+    "decision": "L",
+    "goalsAgainst": 3,
+    "kind": "goalie",
+    "savePctg": 0.857143,
+    "saves": 18,
+    "shotsAgainst": 21,
+    "toi": "58:30"
+   },
+   "8481538": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "17:05"
+   },
+   "8481554": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 3,
+    "toi": "14:29"
+   },
+   "8481563": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "15:58"
+   },
+   "8481605": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 1,
+    "shots": 1,
+    "toi": "25:32"
+   },
+   "8481754": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 3,
+    "toi": "08:29"
+   },
+   "8482118": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 2,
+    "toi": "08:05"
+   },
+   "8482178": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 2,
+    "toi": "18:47"
+   },
+   "8482259": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 1,
+    "toi": "16:57"
+   },
+   "8482408": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 1,
+    "toi": "12:22"
+   },
+   "8482665": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 1,
+    "toi": "18:08"
+   },
+   "8482713": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 2,
+    "toi": "15:58"
+   },
+   "8482751": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 3,
+    "toi": "13:42"
+   },
+   "8482858": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "22:31"
+   },
+   "8482874": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "08:32"
+   },
+   "8483445": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 4,
+    "toi": "20:21"
+   },
+   "8483482": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "21:46"
+   },
+   "8483490": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 0,
+    "toi": "15:52"
+   },
+   "8483570": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 1,
+    "toi": "10:57"
+   },
+   "8484201": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 3,
+    "toi": "11:54"
+   },
+   "8484241": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 3,
+    "toi": "10:31"
+   },
+   "8484800": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "14:15"
+   },
+   "8484859": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 1,
+    "toi": "19:28"
+   },
+   "8485400": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 0,
+    "toi": "14:11"
+   },
+   "8485512": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -2,
+    "points": 0,
+    "shots": 1,
+    "toi": "17:21"
+   }
+  },
+  "2026020384": {
+   "8473422": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "10:40"
+   },
+   "8474567": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 2,
+    "toi": "15:04"
+   },
+   "8474716": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 2,
+    "points": 1,
+    "shots": 0,
+    "toi": "20:45"
+   },
+   "8475200": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 0,
+    "shots": 2,
+    "toi": "20:39"
+   },
+   "8475220": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "08:45"
+   },
+   "8475726": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 2,
+    "toi": "13:29"
+   },
+   "8476399": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 1,
+    "shots": 2,
+    "toi": "17:56"
+   },
+   "8476463": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 3,
+    "toi": "23:00"
+   },
+   "8476624": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "14:28"
+   },
+   "8477446": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "15:43"
+   },
+   "8477451": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "11:35"
+   },
+   "8477498": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -2,
+    "points": 0,
+    "shots": 4,
+    "toi": "21:29"
+   },
+   "8477505": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": -1,
+    "points": 1,
+    "shots": 2,
+    "toi": "23:12"
+   },
+   "8478493": {
+    "assists": 1,
+    "goals": 2,
+    "kind": "skater",
+    "plusMinus": 3,
+    "points": 3,
+    "shots": 4,
+    "toi": "19:04"
+   },
+   "8478508": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "12:53"
+   },
+   "8478864": {
+    "assists": 3,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 3,
+    "points": 4,
+    "shots": 1,
+    "toi": "19:05"
+   },
+   "8478874": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "11:24"
+   },
+   "8478975": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -2,
+    "points": 1,
+    "shots": 3,
+    "toi": "13:31"
+   },
+   "8479406": {
+    "decision": "W",
+    "goalsAgainst": 2,
+    "kind": "goalie",
+    "savePctg": 0.916667,
+    "saves": 22,
+    "shotsAgainst": 24,
+    "toi": "59:31"
+   },
+   "8480848": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "12:25"
+   },
+   "8480891": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -2,
+    "points": 0,
+    "shots": 1,
+    "toi": "16:49"
+   },
+   "8481517": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "10:03"
+   },
+   "8481553": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "11:08"
+   },
+   "8481557": {
+    "assists": 3,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 3,
+    "points": 3,
+    "shots": 5,
+    "toi": "21:18"
+   },
+   "8482122": {
+    "assists": 0,
+    "goals": 1,
+    "kind": "skater",
+    "plusMinus": 2,
+    "points": 1,
+    "shots": 2,
+    "toi": "23:54"
+   },
+   "8482137": {
+    "decision": "L",
+    "goalsAgainst": 3,
+    "kind": "goalie",
+    "savePctg": 0.892857,
+    "saves": 25,
+    "shotsAgainst": 28,
+    "toi": "59:21"
+   },
+   "8482641": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 2,
+    "points": 1,
+    "shots": 3,
+    "toi": "19:39"
+   },
+   "8482700": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "17:18"
+   },
+   "8482859": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "11:35"
+   },
+   "8483525": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 2,
+    "toi": "15:56"
+   },
+   "8483766": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "12:33"
+   },
+   "8484227": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -4,
+    "points": 0,
+    "shots": 1,
+    "toi": "19:40"
+   },
+   "8484421": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 0,
+    "shots": 2,
+    "toi": "17:56"
+   },
+   "8484801": {
+    "assists": 2,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -3,
+    "points": 2,
+    "shots": 1,
+    "toi": "22:28"
+   },
+   "8484806": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 1,
+    "toi": "17:51"
+   },
+   "8485402": {
+    "assists": 1,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 1,
+    "points": 1,
+    "shots": 1,
+    "toi": "14:22"
+   },
+   "8485702": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": 0,
+    "points": 0,
+    "shots": 0,
+    "toi": "14:15"
+   },
+   "8486103": {
+    "assists": 0,
+    "goals": 0,
+    "kind": "skater",
+    "plusMinus": -4,
+    "points": 0,
+    "shots": 1,
+    "toi": "16:49"
+   }
   }
  },
  "games": [
-  {
-   "away": {
-    "abbrev": "EDM",
-    "name": "Edmonton Oilers",
-    "short": "Oilers"
-   },
-   "home": {
-    "abbrev": "CAR",
-    "name": "Carolina Hurricanes",
-    "short": "Hurricanes"
-   },
-   "id": "2026020359",
-   "score": {
-    "away": 4,
-    "home": 7,
-    "period": "REG"
-   },
-   "start": "2026-11-21T18:00:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "CHI",
-    "name": "Chicago Blackhawks",
-    "short": "Blackhawks"
-   },
-   "home": {
-    "abbrev": "CGY",
-    "name": "Calgary Flames",
-    "short": "Flames"
-   },
-   "id": "2026020360",
-   "score": {
-    "away": 4,
-    "home": 3,
-    "period": "OT"
-   },
-   "start": "2026-11-21T20:30:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "BUF",
-    "name": "Buffalo Sabres",
-    "short": "Sabres"
-   },
-   "home": {
-    "abbrev": "FLA",
-    "name": "Florida Panthers",
-    "short": "Panthers"
-   },
-   "id": "2026020361",
-   "score": {
-    "away": 3,
-    "home": 4,
-    "period": "REG"
-   },
-   "start": "2026-11-21T23:00:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "PIT",
-    "name": "Pittsburgh Penguins",
-    "short": "Penguins"
-   },
-   "home": {
-    "abbrev": "NSH",
-    "name": "Nashville Predators",
-    "short": "Predators"
-   },
-   "id": "2026020362",
-   "score": {
-    "away": 3,
-    "home": 4,
-    "period": "REG"
-   },
-   "start": "2026-11-21T23:00:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "WSH",
-    "name": "Washington Capitals",
-    "short": "Capitals"
-   },
-   "home": {
-    "abbrev": "BOS",
-    "name": "Boston Bruins",
-    "short": "Bruins"
-   },
-   "id": "2026020363",
-   "score": {
-    "away": 5,
-    "home": 7,
-    "period": "REG"
-   },
-   "start": "2026-11-22T00:00:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "CBJ",
-    "name": "Columbus Blue Jackets",
-    "short": "Blue Jackets"
-   },
-   "home": {
-    "abbrev": "TOR",
-    "name": "Toronto Maple Leafs",
-    "short": "Maple Leafs"
-   },
-   "id": "2026020364",
-   "score": {
-    "away": 4,
-    "home": 3,
-    "period": "REG"
-   },
-   "start": "2026-11-22T00:00:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "PHI",
-    "name": "Philadelphia Flyers",
-    "short": "Flyers"
-   },
-   "home": {
-    "abbrev": "MTL",
-    "name": "Montréal Canadiens",
-    "short": "Canadiens"
-   },
-   "id": "2026020365",
-   "score": {
-    "away": 4,
-    "home": 3,
-    "period": "REG"
-   },
-   "start": "2026-11-22T00:00:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "LAK",
-    "name": "Los Angeles Kings",
-    "short": "Kings"
-   },
-   "home": {
-    "abbrev": "OTT",
-    "name": "Ottawa Senators",
-    "short": "Senators"
-   },
-   "id": "2026020366",
-   "score": {
-    "away": 2,
-    "home": 4,
-    "period": "REG"
-   },
-   "start": "2026-11-22T00:00:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "NYI",
-    "name": "New York Islanders",
-    "short": "Islanders"
-   },
-   "home": {
-    "abbrev": "DET",
-    "name": "Detroit Red Wings",
-    "short": "Red Wings"
-   },
-   "id": "2026020367",
-   "score": {
-    "away": 3,
-    "home": 2,
-    "period": "REG"
-   },
-   "start": "2026-11-22T00:00:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "NJD",
-    "name": "New Jersey Devils",
-    "short": "Devils"
-   },
-   "home": {
-    "abbrev": "STL",
-    "name": "St. Louis Blues",
-    "short": "Blues"
-   },
-   "id": "2026020368",
-   "score": {
-    "away": 6,
-    "home": 9,
-    "period": "REG"
-   },
-   "start": "2026-11-22T00:00:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "VGK",
-    "name": "Vegas Golden Knights",
-    "short": "Golden Knights"
-   },
-   "home": {
-    "abbrev": "WPG",
-    "name": "Winnipeg Jets",
-    "short": "Jets"
-   },
-   "id": "2026020369",
-   "score": {
-    "away": 5,
-    "home": 4,
-    "period": "SO"
-   },
-   "start": "2026-11-22T00:00:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "ANA",
-    "name": "Anaheim Ducks",
-    "short": "Ducks"
-   },
-   "home": {
-    "abbrev": "UTA",
-    "name": "Utah Mammoth",
-    "short": "Mammoth"
-   },
-   "id": "2026020370",
-   "score": {
-    "away": 2,
-    "home": 3,
-    "period": "REG"
-   },
-   "start": "2026-11-22T02:00:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "MIN",
-    "name": "Minnesota Wild",
-    "short": "Wild"
-   },
-   "home": {
-    "abbrev": "VAN",
-    "name": "Vancouver Canucks",
-    "short": "Canucks"
-   },
-   "id": "2026020371",
-   "score": {
-    "away": 3,
-    "home": 4,
-    "period": "SO"
-   },
-   "start": "2026-11-22T03:00:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
-    "abbrev": "SEA",
-    "name": "Seattle Kraken",
-    "short": "Kraken"
-   },
-   "home": {
-    "abbrev": "SJS",
-    "name": "San Jose Sharks",
-    "short": "Sharks"
-   },
-   "id": "2026020372",
-   "score": {
-    "away": 3,
-    "home": 4,
-    "period": "REG"
-   },
-   "start": "2026-11-22T03:00:00Z",
-   "state": "OFF",
-   "type": 2
-  },
   {
    "away": {
     "abbrev": "CAR",
@@ -6976,9 +4256,13 @@
     "short": "Devils"
    },
    "id": "2026020378",
-   "score": null,
+   "score": {
+    "away": 2,
+    "home": 3,
+    "period": "REG"
+   },
    "start": "2026-11-24T00:00:00Z",
-   "state": "FUT",
+   "state": "OFF",
    "type": 2
   },
   {
@@ -6993,9 +4277,13 @@
     "short": "Canadiens"
    },
    "id": "2026020379",
-   "score": null,
+   "score": {
+    "away": 2,
+    "home": 1,
+    "period": "REG"
+   },
    "start": "2026-11-24T00:30:00Z",
-   "state": "FUT",
+   "state": "OFF",
    "type": 2
   },
   {
@@ -7010,9 +4298,13 @@
     "short": "Senators"
    },
    "id": "2026020380",
-   "score": null,
+   "score": {
+    "away": 1,
+    "home": 2,
+    "period": "REG"
+   },
    "start": "2026-11-24T00:30:00Z",
-   "state": "FUT",
+   "state": "OFF",
    "type": 2
   },
   {
@@ -7027,9 +4319,13 @@
     "short": "Islanders"
    },
    "id": "2026020381",
-   "score": null,
+   "score": {
+    "away": 4,
+    "home": 2,
+    "period": "REG"
+   },
    "start": "2026-11-24T00:30:00Z",
-   "state": "FUT",
+   "state": "OFF",
    "type": 2
   },
   {
@@ -7044,9 +4340,13 @@
     "short": "Jets"
    },
    "id": "2026020382",
-   "score": null,
+   "score": {
+    "away": 2,
+    "home": 4,
+    "period": "REG"
+   },
    "start": "2026-11-24T00:30:00Z",
-   "state": "FUT",
+   "state": "OFF",
    "type": 2
   },
   {
@@ -7061,9 +4361,13 @@
     "short": "Kraken"
    },
    "id": "2026020383",
-   "score": null,
+   "score": {
+    "away": 2,
+    "home": 3,
+    "period": "REG"
+   },
    "start": "2026-11-24T02:40:00Z",
-   "state": "FUT",
+   "state": "OFF",
    "type": 2
   },
   {
@@ -7078,9 +4382,13 @@
     "short": "Sharks"
    },
    "id": "2026020384",
-   "score": null,
+   "score": {
+    "away": 5,
+    "home": 2,
+    "period": "REG"
+   },
    "start": "2026-11-24T03:00:00Z",
-   "state": "FUT",
+   "state": "OFF",
    "type": 2
   },
   {
@@ -7847,6 +5155,108 @@
    "start": "2026-11-29T22:00:00Z",
    "state": "FUT",
    "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "OTT",
+    "name": "Ottawa Senators",
+    "short": "Senators"
+   },
+   "home": {
+    "abbrev": "NSH",
+    "name": "Nashville Predators",
+    "short": "Predators"
+   },
+   "id": "2026020430",
+   "score": null,
+   "start": "2026-11-30T18:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "CAR",
+    "name": "Carolina Hurricanes",
+    "short": "Hurricanes"
+   },
+   "home": {
+    "abbrev": "NYR",
+    "name": "New York Rangers",
+    "short": "Rangers"
+   },
+   "id": "2026020431",
+   "score": null,
+   "start": "2026-12-01T00:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "CBJ",
+    "name": "Columbus Blue Jackets",
+    "short": "Blue Jackets"
+   },
+   "home": {
+    "abbrev": "PIT",
+    "name": "Pittsburgh Penguins",
+    "short": "Penguins"
+   },
+   "id": "2026020432",
+   "score": null,
+   "start": "2026-12-01T00:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "PHI",
+    "name": "Philadelphia Flyers",
+    "short": "Flyers"
+   },
+   "home": {
+    "abbrev": "TOR",
+    "name": "Toronto Maple Leafs",
+    "short": "Maple Leafs"
+   },
+   "id": "2026020433",
+   "score": null,
+   "start": "2026-12-01T00:30:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "CHI",
+    "name": "Chicago Blackhawks",
+    "short": "Blackhawks"
+   },
+   "home": {
+    "abbrev": "WPG",
+    "name": "Winnipeg Jets",
+    "short": "Jets"
+   },
+   "id": "2026020434",
+   "score": null,
+   "start": "2026-12-01T00:30:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "MTL",
+    "name": "Montréal Canadiens",
+    "short": "Canadiens"
+   },
+   "home": {
+    "abbrev": "UTA",
+    "name": "Utah Mammoth",
+    "short": "Mammoth"
+   },
+   "id": "2026020435",
+   "score": null,
+   "start": "2026-12-01T02:30:00Z",
+   "state": "FUT",
+   "type": 2
   }
  ],
  "rosters": {
@@ -8580,6 +5990,12 @@
     "name": "Matthew Knies"
    },
    {
+    "born": "2001-12-17",
+    "country": "FIN",
+    "id": 8482451,
+    "name": "Mikael Pyyhtia"
+   },
+   {
     "born": "1994-12-09",
     "country": "CAN",
     "id": 8479066,
@@ -8718,6 +6134,12 @@
     "country": "CAN",
     "id": 8476458,
     "name": "Ryan Strome"
+   },
+   {
+    "born": "1999-07-28",
+    "country": "USA",
+    "id": 8484821,
+    "name": "Sam Morton"
    },
    {
     "born": "2004-02-15",
@@ -9292,6 +6714,12 @@
     "name": "Keegan Kolesar"
    },
    {
+    "born": "2001-01-21",
+    "country": "CAN",
+    "id": 8481523,
+    "name": "Kirby Dach"
+   },
+   {
     "born": "2002-03-28",
     "country": "SWE",
     "id": 8482078,
@@ -9328,10 +6756,10 @@
     "name": "Moritz Seider"
    },
    {
-    "born": "1994-04-23",
-    "country": "USA",
-    "id": 8480326,
-    "name": "Sheldon Dries"
+    "born": "1996-10-30",
+    "country": "CAN",
+    "id": 8478470,
+    "name": "Samuel Montembeault"
    },
    {
     "born": "1993-04-08",
@@ -9558,12 +6986,6 @@
     "country": "CAN",
     "id": 8477409,
     "name": "Carter Verhaeghe"
-   },
-   {
-    "born": "2000-02-01",
-    "country": "CAN",
-    "id": 8481133,
-    "name": "Cole Reinhardt"
    },
    {
     "born": "2001-04-25",
@@ -9992,6 +7414,12 @@
     "name": "Cole Caufield"
    },
    {
+    "born": "1996-07-30",
+    "country": "USA",
+    "id": 8477946,
+    "name": "Dylan Larkin"
+   },
+   {
     "born": "2004-06-27",
     "country": "CAN",
     "id": 8484403,
@@ -10080,12 +7508,6 @@
     "country": "CAN",
     "id": 8476479,
     "name": "Phillip Danault"
-   },
-   {
-    "born": "1996-10-30",
-    "country": "CAN",
-    "id": 8478470,
-    "name": "Samuel Montembeault"
    },
    {
     "born": "2003-02-24",
@@ -11390,6 +8812,12 @@
     "name": "Kiefer Sherwood"
    },
    {
+    "born": "1998-02-04",
+    "country": "CZE",
+    "id": 8479333,
+    "name": "Libor Hajek"
+   },
+   {
     "born": "2006-06-13",
     "country": "CAN",
     "id": 8484801,
@@ -11688,12 +9116,6 @@
     "name": "Jake Guentzel"
    },
    {
-    "born": "1997-05-23",
-    "country": "USA",
-    "id": 8478424,
-    "name": "Jansen Harkins"
-   },
-   {
     "born": "1997-01-28",
     "country": "CAN",
     "id": 8479705,
@@ -11784,12 +9206,6 @@
     "country": "USA",
     "id": 8479318,
     "name": "Auston Matthews"
-   },
-   {
-    "born": "2000-02-06",
-    "country": "FRA",
-    "id": 8480870,
-    "name": "Bo Groulx"
    },
    {
     "born": "1997-05-22",
@@ -12144,6 +9560,12 @@
     "name": "Cameron Crotty"
    },
    {
+    "born": "2000-02-01",
+    "country": "CAN",
+    "id": 8481133,
+    "name": "Cole Reinhardt"
+   },
+   {
     "born": "1998-06-09",
     "country": "USA",
     "id": 8482055,
@@ -12238,12 +9660,6 @@
     "country": "AUT",
     "id": 8482079,
     "name": "Marco Rossi"
-   },
-   {
-    "born": "2000-04-06",
-    "country": "BLR",
-    "id": 8484268,
-    "name": "Nikita Tolopilo"
    },
    {
     "born": "1999-11-16",

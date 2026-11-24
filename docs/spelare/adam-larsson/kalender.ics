@@ -49,13 +49,12 @@ URL:https://patv.se/match/san-jose-sharks-seattle-kraken-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020383@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Stockholm:20261124T034000
 DTEND;TZID=Europe/Stockholm:20261124T064000
-SUMMARY:Seattle Kraken – Anaheim Ducks (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Adam Larsson\, Leo Carlsson. https://patv.se/match/seattle-kraken-ana
- heim-ducks-23-nov/
+SUMMARY:Seattle Kraken – Anaheim Ducks 3–2
+DESCRIPTION:NHL. Slutresultat 3–2. Svenskar: Adam Larsson\, Leo Carlsson.
+  https://patv.se/match/seattle-kraken-anaheim-ducks-23-nov/
 URL:https://patv.se/match/seattle-kraken-anaheim-ducks-23-nov/
 END:VEVENT
 BEGIN:VEVENT

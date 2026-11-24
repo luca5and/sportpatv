@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:555097@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Stockholm:20261123T233000
 DTEND;TZID=Europe/Stockholm:20261124T013000
-SUMMARY:Internacional – Vitória (kanal ej klar)
-DESCRIPTION:Brasileirão. TV i Sverige: Ej bekräftat. Svenskar: Niclas Eli
- asson. https://patv.se/match/internacional-vitoria-23-nov/
+SUMMARY:Internacional – Vitória 2–5
+DESCRIPTION:Brasileirão. Slutresultat 2–5. Svenskar: Niclas Eliasson. ht
+ tps://patv.se/match/internacional-vitoria-23-nov/
 URL:https://patv.se/match/internacional-vitoria-23-nov/
 END:VEVENT
 END:VCALENDAR

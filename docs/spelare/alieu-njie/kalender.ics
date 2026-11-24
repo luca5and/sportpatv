@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:558519@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Stockholm:20261123T204500
 DTEND;TZID=Europe/Stockholm:20261123T224500
-SUMMARY:Monza – Fiorentina (TV4 Play)
-DESCRIPTION:Serie A. TV i Sverige: TV4 Play. Svenskar: Noel Törnqvist\, Al
- ieu Njie. https://patv.se/match/monza-fiorentina-23-nov/
+SUMMARY:Monza – Fiorentina 3–0
+DESCRIPTION:Serie A. Slutresultat 3–0. Svenskar: Noel Törnqvist\, Alieu 
+ Njie. https://patv.se/match/monza-fiorentina-23-nov/
 URL:https://patv.se/match/monza-fiorentina-23-nov/
 END:VEVENT
 BEGIN:VEVENT

@@ -67,4 +67,15 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  /match/new-york-rangers-calgary-flames-28-nov/
 URL:https://patv.se/match/new-york-rangers-calgary-flames-28-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020431@patv.se
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Stockholm:20261201T010000
+DTEND;TZID=Europe/Stockholm:20261201T040000
+SUMMARY:New York Rangers – Carolina Hurricanes (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Marcus Pettersson\, Mika Zibanejad. https://patv.se/match/new-york-ra
+ ngers-carolina-hurricanes-30-nov/
+URL:https://patv.se/match/new-york-rangers-carolina-hurricanes-30-nov/
+END:VEVENT
 END:VCALENDAR

@@ -94,4 +94,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  maple-leafs-28-nov/
 URL:https://patv.se/match/pittsburgh-penguins-toronto-maple-leafs-28-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020432@patv.se
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Stockholm:20261201T010000
+DTEND;TZID=Europe/Stockholm:20261201T040000
+SUMMARY:Pittsburgh Penguins – Columbus Blue Jackets (Viaplay eller Disney
+ +?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Elmer Söderblom\, Erik Karlsson\, Rickard Rakell\, Isac Lundeström.
+  https://patv.se/match/pittsburgh-penguins-columbus-blue-jackets-30-nov/
+URL:https://patv.se/match/pittsburgh-penguins-columbus-blue-jackets-30-nov/
+END:VEVENT
 END:VCALENDAR

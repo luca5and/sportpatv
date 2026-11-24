@@ -80,4 +80,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  ch/philadelphia-flyers-new-york-islanders-28-nov/
 URL:https://patv.se/match/philadelphia-flyers-new-york-islanders-28-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020433@patv.se
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Stockholm:20261201T013000
+DTEND;TZID=Europe/Stockholm:20261201T043000
+SUMMARY:Toronto Maple Leafs – Philadelphia Flyers (Viaplay eller Disney+?
+ )
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Oliver Ekman Larsson\, William Nylander. https://patv.se/match/toront
+ o-maple-leafs-philadelphia-flyers-30-nov/
+URL:https://patv.se/match/toronto-maple-leafs-philadelphia-flyers-30-nov/
+END:VEVENT
 END:VCALENDAR

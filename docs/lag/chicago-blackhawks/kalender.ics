@@ -92,4 +92,15 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  -29-nov/
 URL:https://patv.se/match/chicago-blackhawks-minnesota-wild-29-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020434@patv.se
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Stockholm:20261201T013000
+DTEND;TZID=Europe/Stockholm:20261201T043000
+SUMMARY:Winnipeg Jets – Chicago Blackhawks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Elias Salomonsson\, Isak Rosén\, Viggo Björck\, Anton Frondell. htt
+ ps://patv.se/match/winnipeg-jets-chicago-blackhawks-30-nov/
+URL:https://patv.se/match/winnipeg-jets-chicago-blackhawks-30-nov/
+END:VEVENT
 END:VCALENDAR

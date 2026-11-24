@@ -38,13 +38,13 @@ URL:https://patv.se/match/winnipeg-jets-vegas-golden-knights-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020382@patv.se
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Stockholm:20261124T013000
 DTEND;TZID=Europe/Stockholm:20261124T043000
-SUMMARY:Winnipeg Jets – Utah Mammoth (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Elias Salomonsson\, Isak Rosén\, Viggo Björck\, Kevin Stenlund. htt
- ps://patv.se/match/winnipeg-jets-utah-mammoth-23-nov/
+SUMMARY:Winnipeg Jets – Utah Mammoth 4–2
+DESCRIPTION:NHL. Slutresultat 4–2. Svenskar: Elias Salomonsson\, Isak Ros
+ en\, Viggo Björck\, Kevin Stenlund. https://patv.se/match/winnipeg-jets-u
+ tah-mammoth-23-nov/
 URL:https://patv.se/match/winnipeg-jets-utah-mammoth-23-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -80,5 +80,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Jesper Boqvist\, Jesper Bratt\, Elias Salomonsson\, Isak Rosén\, Vig
  go Björck. https://patv.se/match/new-jersey-devils-winnipeg-jets-28-nov/
 URL:https://patv.se/match/new-jersey-devils-winnipeg-jets-28-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020434@patv.se
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Stockholm:20261201T013000
+DTEND;TZID=Europe/Stockholm:20261201T043000
+SUMMARY:Winnipeg Jets – Chicago Blackhawks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Elias Salomonsson\, Isak Rosén\, Viggo Björck\, Anton Frondell. htt
+ ps://patv.se/match/winnipeg-jets-chicago-blackhawks-30-nov/
+URL:https://patv.se/match/winnipeg-jets-chicago-blackhawks-30-nov/
 END:VEVENT
 END:VCALENDAR
