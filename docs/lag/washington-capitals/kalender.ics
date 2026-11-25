@@ -71,14 +71,27 @@ URL:https://patv.se/match/washington-capitals-florida-panthers-27-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020422@patv.se
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Stockholm:20261129T010000
 DTEND;TZID=Europe/Stockholm:20261129T040000
 SUMMARY:St. Louis Blues – Washington Capitals (Viaplay eller Disney+?)
 DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Calle Rosén\, Jonatan Berggren\, Philip Broberg\, Rasmus Sandin\, Ti
- mothy Liljegren. https://patv.se/match/st-louis-blues-washington-capitals-
- 28-nov/
+ kar: Calle Rosén\, Jonatan Berggren\, Otto Stenberg\, Philip Broberg\, Ra
+ smus Sandin\, Timothy Liljegren. https://patv.se/match/st-louis-blues-wash
+ ington-capitals-28-nov/
 URL:https://patv.se/match/st-louis-blues-washington-capitals-28-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020439@patv.se
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T010000
+DTEND;TZID=Europe/Stockholm:20261202T040000
+SUMMARY:Washington Capitals – Vancouver Canucks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Rasmus Sandin\, Timothy Liljegren\, Elias Pettersson #25\, Elias Pett
+ ersson #40\, Jonathan Lekkerimäki\, Liam Öhgren\, Linus Karlsson\, Tom W
+ illander. https://patv.se/match/washington-capitals-vancouver-canucks-1-de
+ c/
+URL:https://patv.se/match/washington-capitals-vancouver-canucks-1-dec/
 END:VEVENT
 END:VCALENDAR

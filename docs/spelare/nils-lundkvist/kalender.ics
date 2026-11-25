@@ -60,13 +60,14 @@ URL:https://patv.se/match/dallas-stars-nashville-predators-25-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020403@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Stockholm:20261127T200000
 DTEND;TZID=Europe/Stockholm:20261127T230000
 SUMMARY:St. Louis Blues – Dallas Stars (Viaplay eller Disney+?)
 DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Calle Rosén\, Jonatan Berggren\, Philip Broberg\, Nils Lundkvist\, O
- skar Bäck. https://patv.se/match/st-louis-blues-dallas-stars-27-nov/
+ kar: Calle Rosén\, Jonatan Berggren\, Otto Stenberg\, Philip Broberg\, Ni
+ ls Lundkvist\, Oskar Bäck. https://patv.se/match/st-louis-blues-dallas-st
+ ars-27-nov/
 URL:https://patv.se/match/st-louis-blues-dallas-stars-27-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -79,5 +80,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Nils Lundkvist\, Oskar Bäck\, Kevin Stenlund. https://patv.se/match/
  dallas-stars-utah-mammoth-28-nov/
 URL:https://patv.se/match/dallas-stars-utah-mammoth-28-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020442@patv.se
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T034000
+DTEND;TZID=Europe/Stockholm:20261202T064000
+SUMMARY:Seattle Kraken – Dallas Stars (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adam Larsson\, Nils Lundkvist\, Oskar Bäck. https://patv.se/match/se
+ attle-kraken-dallas-stars-1-dec/
+URL:https://patv.se/match/seattle-kraken-dallas-stars-1-dec/
 END:VEVENT
 END:VCALENDAR

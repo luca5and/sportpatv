@@ -36,12 +36,12 @@ URL:https://patv.se/match/m-gladbach-dortmund-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:575399@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Stockholm:20261124T210000
 DTEND;TZID=Europe/Stockholm:20261124T230000
-SUMMARY:Arsenal – Dortmund (Viaplay)
-DESCRIPTION:Champions League. TV i Sverige: Viaplay. Svenskar: Viktor Gyök
- eres\, Daniel Svensson. https://patv.se/match/arsenal-dortmund-24-nov/
+SUMMARY:Arsenal – Dortmund 1–1
+DESCRIPTION:Champions League. Slutresultat 1–1. Svenskar: Viktor Gyökere
+ s\, Daniel Svensson. https://patv.se/match/arsenal-dortmund-24-nov/
 URL:https://patv.se/match/arsenal-dortmund-24-nov/
 END:VEVENT
 BEGIN:VEVENT

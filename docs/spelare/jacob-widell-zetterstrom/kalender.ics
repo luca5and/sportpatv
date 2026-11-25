@@ -36,12 +36,12 @@ URL:https://patv.se/match/southampton-derby-county-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:561957@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Stockholm:20261124T210000
 DTEND;TZID=Europe/Stockholm:20261124T230000
-SUMMARY:Wolverhampton – Derby County (Viaplay)
-DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Jacob Widell Zet
- terström. https://patv.se/match/wolverhampton-derby-county-24-nov/
+SUMMARY:Wolverhampton – Derby County 3–0
+DESCRIPTION:Championship. Slutresultat 3–0. Svenskar: Jacob Widell Zetter
+ ström. https://patv.se/match/wolverhampton-derby-county-24-nov/
 URL:https://patv.se/match/wolverhampton-derby-county-24-nov/
 END:VEVENT
 BEGIN:VEVENT

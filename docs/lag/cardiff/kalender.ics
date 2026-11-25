@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:561953@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Stockholm:20261124T204500
 DTEND;TZID=Europe/Stockholm:20261124T224500
-SUMMARY:Cardiff – Preston NE (Viaplay)
-DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Jusef Erabi. htt
- ps://patv.se/match/cardiff-preston-ne-24-nov/
+SUMMARY:Cardiff – Preston NE 0–4
+DESCRIPTION:Championship. Slutresultat 0–4. Svenskar: Jusef Erabi. https:
+ //patv.se/match/cardiff-preston-ne-24-nov/
 URL:https://patv.se/match/cardiff-preston-ne-24-nov/
 END:VEVENT
 BEGIN:VEVENT

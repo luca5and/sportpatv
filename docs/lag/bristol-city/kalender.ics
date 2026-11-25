@@ -36,12 +36,12 @@ URL:https://patv.se/match/middlesbrough-bristol-city-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:561959@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Stockholm:20261124T204500
 DTEND;TZID=Europe/Stockholm:20261124T224500
-SUMMARY:Bristol City – Wrexham (Viaplay)
-DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Noah Eile. https
- ://patv.se/match/bristol-city-wrexham-24-nov/
+SUMMARY:Bristol City – Wrexham 1–1
+DESCRIPTION:Championship. Slutresultat 1–1. Svenskar: Noah Eile. https://
+ patv.se/match/bristol-city-wrexham-24-nov/
 URL:https://patv.se/match/bristol-city-wrexham-24-nov/
 END:VEVENT
 BEGIN:VEVENT

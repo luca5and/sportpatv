@@ -95,4 +95,15 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  -29-nov/
 URL:https://patv.se/match/chicago-blackhawks-minnesota-wild-29-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020443@patv.se
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T040000
+DTEND;TZID=Europe/Stockholm:20261202T070000
+SUMMARY:Anaheim Ducks – Minnesota Wild (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Leo Carlsson\, Filip Gustavsson\, Jesper Wallstedt\, Joel Eriksson Ek
+ \, Jonas Brodin. https://patv.se/match/anaheim-ducks-minnesota-wild-1-dec/
+URL:https://patv.se/match/anaheim-ducks-minnesota-wild-1-dec/
+END:VEVENT
 END:VCALENDAR

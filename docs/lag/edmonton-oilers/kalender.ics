@@ -60,14 +60,13 @@ URL:https://patv.se/match/st-louis-blues-edmonton-oilers-22-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020385@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Stockholm:20261125T020000
 DTEND;TZID=Europe/Stockholm:20261125T050000
-SUMMARY:Edmonton Oilers – Vegas Golden Knights (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Filip Hållander\, Mattias Ekholm\, Mattias Janmark\, Rasmus Andersso
- n\, Victor Olofsson\, William Karlsson. https://patv.se/match/edmonton-oil
- ers-vegas-golden-knights-24-nov/
+SUMMARY:Edmonton Oilers – Vegas Golden Knights 3–5
+DESCRIPTION:NHL. Slutresultat 3–5. Svenskar: Filip Hallander\, Mattias Ek
+ holm\, Mattias Janmark\, Rasmus Andersson\, Victor Olofsson\, William Karl
+ sson. https://patv.se/match/edmonton-oilers-vegas-golden-knights-24-nov/
 URL:https://patv.se/match/edmonton-oilers-vegas-golden-knights-24-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -91,5 +90,17 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Adam Larsson\, Filip Hållander\, Mattias Ekholm\, Mattias Janmark. h
  ttps://patv.se/match/seattle-kraken-edmonton-oilers-28-nov/
 URL:https://patv.se/match/seattle-kraken-edmonton-oilers-28-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020441@patv.se
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T020000
+DTEND;TZID=Europe/Stockholm:20261202T050000
+SUMMARY:Edmonton Oilers – Buffalo Sabres (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Filip Hållander\, Mattias Ekholm\, Mattias Janmark\, Noah Östlund\,
+  Rasmus Dahlin. https://patv.se/match/edmonton-oilers-buffalo-sabres-1-dec
+ /
+URL:https://patv.se/match/edmonton-oilers-buffalo-sabres-1-dec/
 END:VEVENT
 END:VCALENDAR

@@ -37,13 +37,13 @@ URL:https://patv.se/match/aston-villa-sunderland-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:575395@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Stockholm:20261124T184500
 DTEND;TZID=Europe/Stockholm:20261124T204500
-SUMMARY:Galatasaray – Aston Villa (Viaplay)
-DESCRIPTION:Champions League. TV i Sverige: Viaplay. Svenskar: Deniz Gül\,
-  Victor Nilsson Lindelöf. https://patv.se/match/galatasaray-aston-villa-2
- 4-nov/
+SUMMARY:Galatasaray – Aston Villa 1–0
+DESCRIPTION:Champions League. Slutresultat 1–0. Svenskar: Deniz Gul\, Vic
+ tor Nilsson-Lindelöf. https://patv.se/match/galatasaray-aston-villa-24-no
+ v/
 URL:https://patv.se/match/galatasaray-aston-villa-24-nov/
 END:VEVENT
 BEGIN:VEVENT

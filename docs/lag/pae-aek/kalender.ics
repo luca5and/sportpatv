@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:575403@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Stockholm:20261124T210000
 DTEND;TZID=Europe/Stockholm:20261124T230000
-SUMMARY:Como 1907 – PAE AEK (Viaplay)
-DESCRIPTION:Champions League. TV i Sverige: Viaplay. Svenskar: Adrian Lahdo
- . https://patv.se/match/como-1907-pae-aek-24-nov/
+SUMMARY:Como 1907 – PAE AEK 1–0
+DESCRIPTION:Champions League. Slutresultat 1–0. Svenskar: Adrian Lahdo. h
+ ttps://patv.se/match/como-1907-pae-aek-24-nov/
 URL:https://patv.se/match/como-1907-pae-aek-24-nov/
 END:VEVENT
 END:VCALENDAR

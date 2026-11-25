@@ -99,4 +99,17 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  llander. https://patv.se/match/boston-bruins-vancouver-canucks-29-nov/
 URL:https://patv.se/match/boston-bruins-vancouver-canucks-29-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020439@patv.se
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T010000
+DTEND;TZID=Europe/Stockholm:20261202T040000
+SUMMARY:Washington Capitals – Vancouver Canucks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Rasmus Sandin\, Timothy Liljegren\, Elias Pettersson #25\, Elias Pett
+ ersson #40\, Jonathan Lekkerimäki\, Liam Öhgren\, Linus Karlsson\, Tom W
+ illander. https://patv.se/match/washington-capitals-vancouver-canucks-1-de
+ c/
+URL:https://patv.se/match/washington-capitals-vancouver-canucks-1-dec/
+END:VEVENT
 END:VCALENDAR

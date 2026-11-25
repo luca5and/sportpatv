@@ -70,4 +70,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  ng-28-nov/
 URL:https://patv.se/match/florida-panthers-tampa-bay-lightning-28-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020438@patv.se
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T010000
+DTEND;TZID=Europe/Stockholm:20261202T040000
+SUMMARY:New York Islanders – Florida Panthers (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Emil Heineman\, Simon Holmström\, Victor Eklund\, Gustav Forsling\, 
+ Jacob Markström. https://patv.se/match/new-york-islanders-florida-panther
+ s-1-dec/
+URL:https://patv.se/match/new-york-islanders-florida-panthers-1-dec/
+END:VEVENT
 END:VCALENDAR

@@ -88,4 +88,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  hville-predators-28-nov/
 URL:https://patv.se/match/detroit-red-wings-nashville-predators-28-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020436@patv.se
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T010000
+DTEND;TZID=Europe/Stockholm:20261202T040000
+SUMMARY:Detroit Red Wings – Calgary Flames (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Albert Johansson\, Andreas Englund\, Anton Johansson\, Lucas Raymond\
+ , Viktor Arvidsson\, William Wallinder\, Mikael Backlund. https://patv.se/
+ match/detroit-red-wings-calgary-flames-1-dec/
+URL:https://patv.se/match/detroit-red-wings-calgary-flames-1-dec/
+END:VEVENT
 END:VCALENDAR

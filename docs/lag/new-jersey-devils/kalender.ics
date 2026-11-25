@@ -91,4 +91,15 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  go Björck. https://patv.se/match/new-jersey-devils-winnipeg-jets-28-nov/
 URL:https://patv.se/match/new-jersey-devils-winnipeg-jets-28-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020437@patv.se
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T013000
+DTEND;TZID=Europe/Stockholm:20261202T043000
+SUMMARY:New Jersey Devils – San Jose Sharks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Jesper Boqvist\, Jesper Bratt\, Alexander Wennberg\, Ivar Stenberg. h
+ ttps://patv.se/match/new-jersey-devils-san-jose-sharks-1-dec/
+URL:https://patv.se/match/new-jersey-devils-san-jose-sharks-1-dec/
+END:VEVENT
 END:VCALENDAR

@@ -80,4 +80,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  nov/
 URL:https://patv.se/match/buffalo-sabres-pittsburgh-penguins-27-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020441@patv.se
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T020000
+DTEND;TZID=Europe/Stockholm:20261202T050000
+SUMMARY:Edmonton Oilers – Buffalo Sabres (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Filip Hållander\, Mattias Ekholm\, Mattias Janmark\, Noah Östlund\,
+  Rasmus Dahlin. https://patv.se/match/edmonton-oilers-buffalo-sabres-1-dec
+ /
+URL:https://patv.se/match/edmonton-oilers-buffalo-sabres-1-dec/
+END:VEVENT
 END:VCALENDAR
