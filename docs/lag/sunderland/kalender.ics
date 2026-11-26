@@ -46,4 +46,15 @@ DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
  /sunderland-tottenham-29-nov/
 URL:https://patv.se/match/sunderland-tottenham-29-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:560663@patv.se
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T203000
+DTEND;TZID=Europe/Stockholm:20261202T223000
+SUMMARY:Liverpool – Sunderland (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Alexander Isak\, Melker Ellborg. https://patv.se/match
+ /liverpool-sunderland-2-dec/
+URL:https://patv.se/match/liverpool-sunderland-2-dec/
+END:VEVENT
 END:VCALENDAR

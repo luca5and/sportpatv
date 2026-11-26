@@ -45,4 +45,15 @@ DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
  nov/
 URL:https://patv.se/match/leeds-united-coventry-city-28-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:560669@patv.se
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T203000
+DTEND;TZID=Europe/Stockholm:20261202T223000
+SUMMARY:Man City – Leeds United (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Gabriel Gudmundsson. https://patv.se/match/man-city-le
+ eds-united-2-dec/
+URL:https://patv.se/match/man-city-leeds-united-2-dec/
+END:VEVENT
 END:VCALENDAR

@@ -36,12 +36,12 @@ URL:https://patv.se/match/burnley-blackburn-22-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:561964@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261125T204500
 DTEND;TZID=Europe/Stockholm:20261125T224500
-SUMMARY:Burnley – Birmingham (Viaplay)
-DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Hjalmar Ekdal. h
- ttps://patv.se/match/burnley-birmingham-25-nov/
+SUMMARY:Burnley – Birmingham 0–2
+DESCRIPTION:Championship. Slutresultat 0–2. Svenskar: Hjalmar Ekdal. http
+ s://patv.se/match/burnley-birmingham-25-nov/
 URL:https://patv.se/match/burnley-birmingham-25-nov/
 END:VEVENT
 BEGIN:VEVENT

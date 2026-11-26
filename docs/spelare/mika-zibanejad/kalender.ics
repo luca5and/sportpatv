@@ -36,13 +36,13 @@ URL:https://patv.se/match/new-york-rangers-carolina-hurricanes-22-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020387@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261126T010000
 DTEND;TZID=Europe/Stockholm:20261126T040000
-SUMMARY:Buffalo Sabres – New York Rangers (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Noah Östlund\, Rasmus Dahlin\, Marcus Pettersson\, Mika Zibanejad. h
- ttps://patv.se/match/buffalo-sabres-new-york-rangers-25-nov/
+SUMMARY:Buffalo Sabres – New York Rangers 5–1
+DESCRIPTION:NHL. Slutresultat 5–1. Svenskar: Noah Ostlund\, Rasmus Dahlin
+ \, Marcus Pettersson\, Mika Zibanejad. https://patv.se/match/buffalo-sabre
+ s-new-york-rangers-25-nov/
 URL:https://patv.se/match/buffalo-sabres-new-york-rangers-25-nov/
 END:VEVENT
 BEGIN:VEVENT

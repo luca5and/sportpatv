@@ -45,4 +45,15 @@ DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
  le-29-nov/
 URL:https://patv.se/match/brighton-hove-newcastle-29-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:560670@patv.se
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T211500
+DTEND;TZID=Europe/Stockholm:20261202T231500
+SUMMARY:Newcastle – Man United (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Anthony Elanga. https://patv.se/match/newcastle-man-un
+ ited-2-dec/
+URL:https://patv.se/match/newcastle-man-united-2-dec/
+END:VEVENT
 END:VCALENDAR

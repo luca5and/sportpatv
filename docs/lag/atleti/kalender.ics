@@ -24,4 +24,14 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:564857@patv.se
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T213000
+DTEND;TZID=Europe/Stockholm:20261202T233000
+SUMMARY:Barça – Atleti (Disney+)
+DESCRIPTION:La Liga. TV i Sverige: Disney+. Svenskar: Roony Bardghji. https
+ ://patv.se/match/barca-atleti-2-dec/
+URL:https://patv.se/match/barca-atleti-2-dec/
+END:VEVENT
 END:VCALENDAR

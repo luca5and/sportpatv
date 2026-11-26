@@ -24,4 +24,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:560667@patv.se
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T211500
+DTEND;TZID=Europe/Stockholm:20261202T231500
+SUMMARY:Brentford – Arsenal (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Viktor Gyökeres. https://patv.se/match/brentford-arse
+ nal-2-dec/
+URL:https://patv.se/match/brentford-arsenal-2-dec/
+END:VEVENT
 END:VCALENDAR

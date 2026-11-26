@@ -57,14 +57,13 @@ URL:https://patv.se/match/winnipeg-jets-utah-mammoth-23-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020396@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261126T020000
 DTEND;TZID=Europe/Stockholm:20261126T050000
-SUMMARY:Minnesota Wild – Utah Mammoth (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Filip Gustavsson\, Jesper Wallstedt\, Joel Eriksson Ek\, Jonas Brodin
- \, Kevin Stenlund. https://patv.se/match/minnesota-wild-utah-mammoth-25-no
- v/
+SUMMARY:Minnesota Wild – Utah Mammoth 3–4
+DESCRIPTION:NHL. Slutresultat 3–4. Svenskar: Filip Gustavsson\, Jesper Wa
+ llstedt\, Joel Eriksson Ek\, Jonas Brodin\, Kevin Stenlund. https://patv.s
+ e/match/minnesota-wild-utah-mammoth-25-nov/
 URL:https://patv.se/match/minnesota-wild-utah-mammoth-25-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -99,5 +98,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Kevin Stenlund\, Adam Engström\, Oliver Kapanen. https://patv.se/mat
  ch/utah-mammoth-montreal-canadiens-30-nov/
 URL:https://patv.se/match/utah-mammoth-montreal-canadiens-30-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020447@patv.se
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Stockholm:20261203T033000
+DTEND;TZID=Europe/Stockholm:20261203T063000
+SUMMARY:Utah Mammoth – Winnipeg Jets (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Kevin Stenlund\, Elias Salomonsson\, Isak Rosén\, Viggo Björck. htt
+ ps://patv.se/match/utah-mammoth-winnipeg-jets-2-dec/
+URL:https://patv.se/match/utah-mammoth-winnipeg-jets-2-dec/
 END:VEVENT
 END:VCALENDAR

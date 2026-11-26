@@ -50,16 +50,15 @@ URL:https://patv.se/match/detroit-red-wings-new-york-islanders-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020394@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261126T013000
 DTEND;TZID=Europe/Stockholm:20261126T043000
-SUMMARY:Detroit Red Wings – Vancouver Canucks (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Albert Johansson\, Andreas Englund\, Anton Johansson\, Lucas Raymond\
- , Viktor Arvidsson\, William Wallinder\, Elias Pettersson #25\, Elias Pett
- ersson #40\, Jonathan Lekkerimäki\, Liam Öhgren\, Linus Karlsson\, Tom W
- illander. https://patv.se/match/detroit-red-wings-vancouver-canucks-25-nov
- /
+SUMMARY:Detroit Red Wings – Vancouver Canucks 5–1
+DESCRIPTION:NHL. Slutresultat 5–1. Svenskar: Albert Johansson\, Andreas E
+ nglund\, Anton Johansson\, Lucas Raymond\, Viktor Arvidsson\, William Wall
+ inder\, Elias Pettersson #25\, Elias Pettersson #40\, Jonathan Lekkerimäk
+ i\, Liam Ohgren\, Linus Karlsson\, Tom Willander. https://patv.se/match/de
+ troit-red-wings-vancouver-canucks-25-nov/
 URL:https://patv.se/match/detroit-red-wings-vancouver-canucks-25-nov/
 END:VEVENT
 BEGIN:VEVENT

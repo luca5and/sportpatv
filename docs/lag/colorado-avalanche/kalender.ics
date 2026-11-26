@@ -46,13 +46,13 @@ URL:https://patv.se/match/colorado-avalanche-anaheim-ducks-19-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020397@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261126T033000
 DTEND;TZID=Europe/Stockholm:20261126T063000
-SUMMARY:Colorado Avalanche – Montréal Canadiens (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Gabriel Landeskog\, Adam Engström\, Oliver Kapanen. https://patv.se/
- match/colorado-avalanche-montreal-canadiens-25-nov/
+SUMMARY:Colorado Avalanche – Montréal Canadiens 6–0
+DESCRIPTION:NHL. Slutresultat 6–0. Svenskar: Gabriel Landeskog\, Adam Eng
+ strom\, Oliver Kapanen. https://patv.se/match/colorado-avalanche-montreal-
+ canadiens-25-nov/
 URL:https://patv.se/match/colorado-avalanche-montreal-canadiens-25-nov/
 END:VEVENT
 BEGIN:VEVENT

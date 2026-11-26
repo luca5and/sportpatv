@@ -60,14 +60,14 @@ URL:https://patv.se/match/st-louis-blues-edmonton-oilers-22-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020390@patv.se
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261126T010000
 DTEND;TZID=Europe/Stockholm:20261126T040000
-SUMMARY:New York Islanders – St. Louis Blues (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Emil Heineman\, Simon Holmström\, Victor Eklund\, Calle Rosén\, Jon
- atan Berggren\, Otto Stenberg\, Philip Broberg. https://patv.se/match/new-
- york-islanders-st-louis-blues-25-nov/
+SUMMARY:New York Islanders – St. Louis Blues 3–2 efter straffar
+DESCRIPTION:NHL. Slutresultat 3–2 efter straffar. Svenskar: Emil Heineman
+ \, Simon Holmstrom\, Victor Eklund\, Calle Rosen\, Jonatan Berggren\, Otto
+  Stenberg\, Philip Broberg. https://patv.se/match/new-york-islanders-st-lo
+ uis-blues-25-nov/
 URL:https://patv.se/match/new-york-islanders-st-louis-blues-25-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -93,5 +93,17 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  smus Sandin\, Timothy Liljegren. https://patv.se/match/st-louis-blues-wash
  ington-capitals-28-nov/
 URL:https://patv.se/match/st-louis-blues-washington-capitals-28-nov/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020446@patv.se
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Stockholm:20261203T020000
+DTEND;TZID=Europe/Stockholm:20261203T050000
+SUMMARY:St. Louis Blues – Pittsburgh Penguins (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Calle Rosén\, Jonatan Berggren\, Otto Stenberg\, Philip Broberg\, El
+ mer Söderblom\, Erik Karlsson\, Rickard Rakell. https://patv.se/match/st-
+ louis-blues-pittsburgh-penguins-2-dec/
+URL:https://patv.se/match/st-louis-blues-pittsburgh-penguins-2-dec/
 END:VEVENT
 END:VCALENDAR

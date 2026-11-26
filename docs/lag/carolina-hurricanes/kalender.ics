@@ -59,14 +59,13 @@ URL:https://patv.se/match/new-york-rangers-carolina-hurricanes-22-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020388@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261126T010000
 DTEND;TZID=Europe/Stockholm:20261126T040000
-SUMMARY:Tampa Bay Lightning – Carolina Hurricanes (Viaplay eller Disney+?
- )
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Dennis Hildeby\, Pontus Holmberg\, Victor Hedman. https://patv.se/mat
- ch/tampa-bay-lightning-carolina-hurricanes-25-nov/
+SUMMARY:Tampa Bay Lightning – Carolina Hurricanes 1–3
+DESCRIPTION:NHL. Slutresultat 1–3. Svenskar: Dennis Hildeby\, Pontus Holm
+ berg\, Victor Hedman. https://patv.se/match/tampa-bay-lightning-carolina-h
+ urricanes-25-nov/
 URL:https://patv.se/match/tampa-bay-lightning-carolina-hurricanes-25-nov/
 END:VEVENT
 BEGIN:VEVENT

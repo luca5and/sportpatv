@@ -38,14 +38,13 @@ URL:https://patv.se/match/nashville-predators-pittsburgh-penguins-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020395@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261126T020000
 DTEND;TZID=Europe/Stockholm:20261126T050000
-SUMMARY:Dallas Stars – Nashville Predators (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Nils Lundkvist\, Oskar Bäck\, Adam Edström\, Adam Wilsby\, Filip Fo
- rsberg\, Nils Höglander. https://patv.se/match/dallas-stars-nashville-pre
- dators-25-nov/
+SUMMARY:Dallas Stars – Nashville Predators 1–3
+DESCRIPTION:NHL. Slutresultat 1–3. Svenskar: Nils Lundkvist\, Oskar Bäck
+ \, Adam Edstrom\, Adam Wilsby\, Filip Forsberg\, Nils Hoglander. https://p
+ atv.se/match/dallas-stars-nashville-predators-25-nov/
 URL:https://patv.se/match/dallas-stars-nashville-predators-25-nov/
 END:VEVENT
 BEGIN:VEVENT

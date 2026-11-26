@@ -61,14 +61,13 @@ URL:https://patv.se/match/san-jose-sharks-minnesota-wild-23-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020396@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261126T020000
 DTEND;TZID=Europe/Stockholm:20261126T050000
-SUMMARY:Minnesota Wild – Utah Mammoth (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Filip Gustavsson\, Jesper Wallstedt\, Joel Eriksson Ek\, Jonas Brodin
- \, Kevin Stenlund. https://patv.se/match/minnesota-wild-utah-mammoth-25-no
- v/
+SUMMARY:Minnesota Wild – Utah Mammoth 3–4
+DESCRIPTION:NHL. Slutresultat 3–4. Svenskar: Filip Gustavsson\, Jesper Wa
+ llstedt\, Joel Eriksson Ek\, Jonas Brodin\, Kevin Stenlund. https://patv.s
+ e/match/minnesota-wild-utah-mammoth-25-nov/
 URL:https://patv.se/match/minnesota-wild-utah-mammoth-25-nov/
 END:VEVENT
 BEGIN:VEVENT

@@ -59,14 +59,13 @@ URL:https://patv.se/match/new-jersey-devils-columbus-blue-jackets-23-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020393@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261126T010000
 DTEND;TZID=Europe/Stockholm:20261126T040000
-SUMMARY:Columbus Blue Jackets – New Jersey Devils (Viaplay eller Disney+?
- )
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Isac Lundeström\, Jesper Boqvist\, Jesper Bratt. https://patv.se/mat
- ch/columbus-blue-jackets-new-jersey-devils-25-nov/
+SUMMARY:Columbus Blue Jackets – New Jersey Devils 2–3 efter straffar
+DESCRIPTION:NHL. Slutresultat 2–3 efter straffar. Svenskar: Isac Lundestr
+ öm\, Jesper Boqvist\, Jesper Bratt. https://patv.se/match/columbus-blue-j
+ ackets-new-jersey-devils-25-nov/
 URL:https://patv.se/match/columbus-blue-jackets-new-jersey-devils-25-nov/
 END:VEVENT
 BEGIN:VEVENT

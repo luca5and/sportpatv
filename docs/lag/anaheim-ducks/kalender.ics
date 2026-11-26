@@ -56,13 +56,13 @@ URL:https://patv.se/match/seattle-kraken-anaheim-ducks-23-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020398@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261126T040000
 DTEND;TZID=Europe/Stockholm:20261126T070000
-SUMMARY:Anaheim Ducks – San Jose Sharks (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Leo Carlsson\, Alexander Wennberg\, Ivar Stenberg. https://patv.se/ma
- tch/anaheim-ducks-san-jose-sharks-25-nov/
+SUMMARY:Anaheim Ducks – San Jose Sharks 7–0
+DESCRIPTION:NHL. Slutresultat 7–0. Svenskar: Leo Carlsson\, Alexander Wen
+ nberg\, Ivar Stenberg. https://patv.se/match/anaheim-ducks-san-jose-sharks
+ -25-nov/
 URL:https://patv.se/match/anaheim-ducks-san-jose-sharks-25-nov/
 END:VEVENT
 BEGIN:VEVENT

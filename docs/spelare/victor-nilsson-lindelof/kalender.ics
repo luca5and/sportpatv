@@ -57,4 +57,15 @@ DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
  28-nov/
 URL:https://patv.se/match/ipswich-town-aston-villa-28-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:560666@patv.se
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T211500
+DTEND;TZID=Europe/Stockholm:20261202T231500
+SUMMARY:Aston Villa – Everton (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Victor Nilsson Lindelöf. https://patv.se/match/aston-
+ villa-everton-2-dec/
+URL:https://patv.se/match/aston-villa-everton-2-dec/
+END:VEVENT
 END:VCALENDAR

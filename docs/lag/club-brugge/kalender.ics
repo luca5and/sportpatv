@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:575409@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261125T210000
 DTEND;TZID=Europe/Stockholm:20261125T230000
-SUMMARY:Club Brugge – Liverpool (Viaplay)
-DESCRIPTION:Champions League. TV i Sverige: Viaplay. Svenskar: Alexander Is
- ak. https://patv.se/match/club-brugge-liverpool-25-nov/
+SUMMARY:Club Brugge – Liverpool 0–3
+DESCRIPTION:Champions League. Slutresultat 0–3. Svenskar: Alexander Isak.
+  https://patv.se/match/club-brugge-liverpool-25-nov/
 URL:https://patv.se/match/club-brugge-liverpool-25-nov/
 END:VEVENT
 END:VCALENDAR

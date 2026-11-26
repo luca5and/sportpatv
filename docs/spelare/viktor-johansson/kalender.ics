@@ -36,12 +36,12 @@ URL:https://patv.se/match/stoke-birmingham-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:561962@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261125T210000
 DTEND;TZID=Europe/Stockholm:20261125T230000
-SUMMARY:Stoke – Millwall (Viaplay)
-DESCRIPTION:Championship. TV i Sverige: Viaplay. Svenskar: Svante Ingelsson
- \, Viktor Johansson. https://patv.se/match/stoke-millwall-25-nov/
+SUMMARY:Stoke – Millwall 2–1
+DESCRIPTION:Championship. Slutresultat 2–1. Svenskar: Svante Ingelsson\, 
+ Viktor Johansson. https://patv.se/match/stoke-millwall-25-nov/
 URL:https://patv.se/match/stoke-millwall-25-nov/
 END:VEVENT
 BEGIN:VEVENT

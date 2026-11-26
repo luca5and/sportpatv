@@ -47,14 +47,13 @@ URL:https://patv.se/match/montreal-canadiens-philadelphia-flyers-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020392@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261126T010000
 DTEND;TZID=Europe/Stockholm:20261126T040000
-SUMMARY:Washington Capitals – Philadelphia Flyers (Viaplay eller Disney+?
- )
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Rasmus Sandin\, Timothy Liljegren. https://patv.se/match/washington-c
- apitals-philadelphia-flyers-25-nov/
+SUMMARY:Washington Capitals – Philadelphia Flyers 7–3
+DESCRIPTION:NHL. Slutresultat 7–3. Svenskar: Rasmus Sandin\, Timothy Lilj
+ egren. https://patv.se/match/washington-capitals-philadelphia-flyers-25-no
+ v/
 URL:https://patv.se/match/washington-capitals-philadelphia-flyers-25-nov/
 END:VEVENT
 BEGIN:VEVENT

@@ -59,13 +59,13 @@ URL:https://patv.se/match/ottawa-senators-calgary-flames-23-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020391@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261126T010000
 DTEND;TZID=Europe/Stockholm:20261126T040000
-SUMMARY:Pittsburgh Penguins – Calgary Flames (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Elmer Söderblom\, Erik Karlsson\, Rickard Rakell\, Mikael Backlund. 
- https://patv.se/match/pittsburgh-penguins-calgary-flames-25-nov/
+SUMMARY:Pittsburgh Penguins – Calgary Flames 3–6
+DESCRIPTION:NHL. Slutresultat 3–6. Svenskar: Elmer Soderblom\, Erik Karls
+ son\, Rickard Rakell\, Mikael Backlund. https://patv.se/match/pittsburgh-p
+ enguins-calgary-flames-25-nov/
 URL:https://patv.se/match/pittsburgh-penguins-calgary-flames-25-nov/
 END:VEVENT
 BEGIN:VEVENT

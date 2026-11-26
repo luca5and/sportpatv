@@ -35,4 +35,15 @@ DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
  -29-nov/
 URL:https://patv.se/match/fulham-bournemouth-29-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:560671@patv.se
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T211500
+DTEND;TZID=Europe/Stockholm:20261202T231500
+SUMMARY:Bournemouth – Brighton Hove (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Yasin Ayari. https://patv.se/match/bournemouth-brighto
+ n-hove-2-dec/
+URL:https://patv.se/match/bournemouth-brighton-hove-2-dec/
+END:VEVENT
 END:VCALENDAR

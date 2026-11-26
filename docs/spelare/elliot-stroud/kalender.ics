@@ -44,4 +44,15 @@ DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
   Elliot Stroud. https://patv.se/match/crystal-palace-hull-city-29-nov/
 URL:https://patv.se/match/crystal-palace-hull-city-29-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:560664@patv.se
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Stockholm:20261202T203000
+DTEND;TZID=Europe/Stockholm:20261202T223000
+SUMMARY:Hull City – Nottingham (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Elliot Stroud. https://patv.se/match/hull-city-notting
+ ham-2-dec/
+URL:https://patv.se/match/hull-city-nottingham-2-dec/
+END:VEVENT
 END:VCALENDAR

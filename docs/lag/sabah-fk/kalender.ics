@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:575404@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261125T184500
 DTEND;TZID=Europe/Stockholm:20261125T204500
-SUMMARY:Sabah FK – Barça (Viaplay)
-DESCRIPTION:Champions League. TV i Sverige: Viaplay. Svenskar: Roony Bardgh
- ji. https://patv.se/match/sabah-fk-barca-25-nov/
+SUMMARY:Sabah FK – Barça 1–4
+DESCRIPTION:Champions League. Slutresultat 1–4. Svenskar: Roony Bardghji.
+  https://patv.se/match/sabah-fk-barca-25-nov/
 URL:https://patv.se/match/sabah-fk-barca-25-nov/
 END:VEVENT
 END:VCALENDAR

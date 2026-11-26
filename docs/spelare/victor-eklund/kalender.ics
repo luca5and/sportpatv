@@ -60,14 +60,14 @@ URL:https://patv.se/match/new-york-islanders-toronto-maple-leafs-23-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020390@patv.se
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261126T010000
 DTEND;TZID=Europe/Stockholm:20261126T040000
-SUMMARY:New York Islanders – St. Louis Blues (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Emil Heineman\, Simon Holmström\, Victor Eklund\, Calle Rosén\, Jon
- atan Berggren\, Otto Stenberg\, Philip Broberg. https://patv.se/match/new-
- york-islanders-st-louis-blues-25-nov/
+SUMMARY:New York Islanders – St. Louis Blues 3–2 efter straffar
+DESCRIPTION:NHL. Slutresultat 3–2 efter straffar. Svenskar: Emil Heineman
+ \, Simon Holmstrom\, Victor Eklund\, Calle Rosen\, Jonatan Berggren\, Otto
+  Stenberg\, Philip Broberg. https://patv.se/match/new-york-islanders-st-lo
+ uis-blues-25-nov/
 URL:https://patv.se/match/new-york-islanders-st-louis-blues-25-nov/
 END:VEVENT
 BEGIN:VEVENT

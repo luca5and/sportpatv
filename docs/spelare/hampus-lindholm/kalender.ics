@@ -49,13 +49,13 @@ URL:https://patv.se/match/boston-bruins-washington-capitals-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020386@patv.se
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261126T010000
 DTEND;TZID=Europe/Stockholm:20261126T040000
-SUMMARY:Boston Bruins – Winnipeg Jets (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Elias Lindholm\, Hampus Lindholm\, Elias Salomonsson\, Isak Rosén\, 
- Viggo Björck. https://patv.se/match/boston-bruins-winnipeg-jets-25-nov/
+SUMMARY:Boston Bruins – Winnipeg Jets 2–4
+DESCRIPTION:NHL. Slutresultat 2–4. Svenskar: Elias Lindholm\, Hampus Lind
+ holm\, Elias Salomonsson\, Isak Rosen\, Viggo Björck. https://patv.se/mat
+ ch/boston-bruins-winnipeg-jets-25-nov/
 URL:https://patv.se/match/boston-bruins-winnipeg-jets-25-nov/
 END:VEVENT
 BEGIN:VEVENT
