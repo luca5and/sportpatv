@@ -26,13 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:560661@patv.se
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261129T150500
 DTEND;TZID=Europe/Stockholm:20261129T170500
-SUMMARY:Crystal Palace – Hull City (Viaplay eller Prime Video?)
-DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
- räftat). Svenskar: Elliot Stroud. https://patv.se/match/crystal-palace-hu
- ll-city-29-nov/
+SUMMARY:Crystal Palace – Hull City (Viaplay)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
+  Elliot Stroud. https://patv.se/match/crystal-palace-hull-city-29-nov/
 URL:https://patv.se/match/crystal-palace-hull-city-29-nov/
 END:VEVENT
 END:VCALENDAR

@@ -263,6 +263,17 @@
       "competition": "PL",
       "matchday": 11,
       "checked": "2026-11-21"
+    },
+    "560656": {
+      "title": "Everton – Liverpool, 29 nov 13.00",
+      "service": "Prime Video",
+      "channel": null,
+      "source": "https://www.tvsporten.nu/liga/premier-league",
+      "single_source": true,
+      "note": "tvmatchen.nu anger också Prime Video men delar data med tvsporten; hurbra.se: kanal ej bekräftad 26 nov.",
+      "competition": "PL",
+      "matchday": 12,
+      "checked": "2026-11-26"
     }
   }
 }
