@@ -36,13 +36,13 @@ URL:https://patv.se/match/newcastle-arsenal-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:560659@patv.se
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Stockholm:20261129T150500
 DTEND;TZID=Europe/Stockholm:20261129T170500
-SUMMARY:Brighton Hove – Newcastle (Viaplay eller Prime Video?)
-DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
- räftat). Svenskar: Yasin Ayari\, Anthony Elanga. https://patv.se/match/br
- ighton-hove-newcastle-29-nov/
+SUMMARY:Brighton Hove – Newcastle (Viaplay)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
+  Yasin Ayari\, Anthony Elanga. https://patv.se/match/brighton-hove-newcast
+ le-29-nov/
 URL:https://patv.se/match/brighton-hove-newcastle-29-nov/
 END:VEVENT
 END:VCALENDAR
