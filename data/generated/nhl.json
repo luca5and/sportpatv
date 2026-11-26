@@ -5441,7 +5441,7 @@
     "period": "REG"
    },
    "start": "2026-11-26T02:30:00Z",
-   "state": "FINAL",
+   "state": "OFF",
    "type": 2
   },
   {
@@ -5483,7 +5483,7 @@
     "period": "REG"
    },
    "start": "2026-11-26T03:00:00Z",
-   "state": "FINAL",
+   "state": "OFF",
    "type": 2
   },
   {
