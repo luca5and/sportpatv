@@ -99,4 +99,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  match/detroit-red-wings-calgary-flames-1-dec/
 URL:https://patv.se/match/detroit-red-wings-calgary-flames-1-dec/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020450@patv.se
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Stockholm:20261204T010000
+DTEND;TZID=Europe/Stockholm:20261204T040000
+SUMMARY:Detroit Red Wings – Colorado Avalanche (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Albert Johansson\, Andreas Englund\, Anton Johansson\, Lucas Raymond\
+ , Viktor Arvidsson\, William Wallinder\, Gabriel Landeskog. https://patv.s
+ e/match/detroit-red-wings-colorado-avalanche-3-dec/
+URL:https://patv.se/match/detroit-red-wings-colorado-avalanche-3-dec/
+END:VEVENT
 END:VCALENDAR

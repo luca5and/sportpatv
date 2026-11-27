@@ -82,4 +82,15 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  s-1-dec/
 URL:https://patv.se/match/new-york-islanders-florida-panthers-1-dec/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020448@patv.se
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Stockholm:20261204T010000
+DTEND;TZID=Europe/Stockholm:20261204T040000
+SUMMARY:Toronto Maple Leafs – Florida Panthers (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Oliver Ekman Larsson\, William Nylander\, Gustav Forsling\, Jacob Mar
+ kström. https://patv.se/match/toronto-maple-leafs-florida-panthers-3-dec/
+URL:https://patv.se/match/toronto-maple-leafs-florida-panthers-3-dec/
+END:VEVENT
 END:VCALENDAR

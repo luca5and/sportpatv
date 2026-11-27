@@ -84,4 +84,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  /
 URL:https://patv.se/match/nashville-predators-ottawa-senators-30-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020454@patv.se
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Stockholm:20261204T020000
+DTEND;TZID=Europe/Stockholm:20261204T050000
+SUMMARY:Nashville Predators – Chicago Blackhawks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adam Edström\, Adam Wilsby\, Filip Forsberg\, Nils Höglander\, Anto
+ n Frondell. https://patv.se/match/nashville-predators-chicago-blackhawks-3
+ -dec/
+URL:https://patv.se/match/nashville-predators-chicago-blackhawks-3-dec/
+END:VEVENT
 END:VCALENDAR

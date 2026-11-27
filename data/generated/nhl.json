@@ -1,358 +1,5 @@
 {
  "boxscores": {
-  "2026020385": {
-   "8475188": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 2,
-    "toi": "25:31"
-   },
-   "8475218": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "19:35"
-   },
-   "8475343": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "10:14"
-   },
-   "8475913": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "18:17"
-   },
-   "8476448": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 1,
-    "shots": 1,
-    "toi": "21:52"
-   },
-   "8476454": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "19:47"
-   },
-   "8476473": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 1,
-    "toi": "19:16"
-   },
-   "8476881": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "11:11"
-   },
-   "8477447": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 0,
-    "toi": "23:52"
-   },
-   "8477450": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 2,
-    "toi": "12:15"
-   },
-   "8477934": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "23:53"
-   },
-   "8477953": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 1,
-    "shots": 0,
-    "toi": "20:43"
-   },
-   "8477964": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "13:42"
-   },
-   "8478013": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "15:20"
-   },
-   "8478109": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 1,
-    "shots": 1,
-    "toi": "12:58"
-   },
-   "8478397": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "19:21"
-   },
-   "8478402": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 4,
-    "toi": "23:14"
-   },
-   "8478403": {
-    "assists": 0,
-    "goals": 2,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 2,
-    "shots": 4,
-    "toi": "19:48"
-   },
-   "8478450": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "14:45"
-   },
-   "8478468": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 1,
-    "toi": "20:02"
-   },
-   "8478472": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 0,
-    "toi": "15:22"
-   },
-   "8478483": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 2,
-    "points": 2,
-    "shots": 4,
-    "toi": "21:17"
-   },
-   "8478499": {
-    "decision": null,
-    "goalsAgainst": 0,
-    "kind": "goalie",
-    "savePctg": null,
-    "saves": 0,
-    "shotsAgainst": 0,
-    "toi": "00:19"
-   },
-   "8478854": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 2,
-    "toi": "21:06"
-   },
-   "8479353": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 1,
-    "toi": "17:31"
-   },
-   "8479365": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "06:50"
-   },
-   "8479394": {
-    "decision": "W",
-    "goalsAgainst": 3,
-    "kind": "goalie",
-    "savePctg": 0.875,
-    "saves": 21,
-    "shotsAgainst": 24,
-    "toi": "59:37"
-   },
-   "8479639": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 1,
-    "toi": "10:57"
-   },
-   "8480029": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "11:48"
-   },
-   "8480803": {
-    "assists": 2,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 2,
-    "shots": 3,
-    "toi": "28:45"
-   },
-   "8480842": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 0,
-    "points": 0,
-    "shots": 0,
-    "toi": "03:06"
-   },
-   "8481617": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 1,
-    "shots": 2,
-    "toi": "21:22"
-   },
-   "8482166": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -2,
-    "points": 0,
-    "shots": 1,
-    "toi": "14:18"
-   },
-   "8482221": {
-    "decision": "L",
-    "goalsAgainst": 4,
-    "kind": "goalie",
-    "savePctg": 0.846154,
-    "saves": 22,
-    "shotsAgainst": 26,
-    "toi": "58:05"
-   },
-   "8482703": {
-    "assists": 0,
-    "goals": 1,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 6,
-    "toi": "12:41"
-   },
-   "8483553": {
-    "assists": 1,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 1,
-    "shots": 2,
-    "toi": "07:20"
-   },
-   "8483890": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": 1,
-    "points": 0,
-    "shots": 0,
-    "toi": "11:21"
-   },
-   "8484803": {
-    "assists": 1,
-    "goals": 2,
-    "kind": "skater",
-    "plusMinus": 3,
-    "points": 3,
-    "shots": 5,
-    "toi": "18:05"
-   },
-   "8486161": {
-    "assists": 0,
-    "goals": 0,
-    "kind": "skater",
-    "plusMinus": -1,
-    "points": 0,
-    "shots": 0,
-    "toi": "08:14"
-   }
-  },
   "2026020386": {
    "8476374": {
     "assists": 0,
@@ -5173,27 +4820,6 @@
  "games": [
   {
    "away": {
-    "abbrev": "VGK",
-    "name": "Vegas Golden Knights",
-    "short": "Golden Knights"
-   },
-   "home": {
-    "abbrev": "EDM",
-    "name": "Edmonton Oilers",
-    "short": "Oilers"
-   },
-   "id": "2026020385",
-   "score": {
-    "away": 5,
-    "home": 3,
-    "period": "REG"
-   },
-   "start": "2026-11-25T01:00:00Z",
-   "state": "OFF",
-   "type": 2
-  },
-  {
-   "away": {
     "abbrev": "WPG",
     "name": "Winnipeg Jets",
     "short": "Jets"
@@ -6299,6 +5925,210 @@
    "id": "2026020447",
    "score": null,
    "start": "2026-12-03T02:30:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "FLA",
+    "name": "Florida Panthers",
+    "short": "Panthers"
+   },
+   "home": {
+    "abbrev": "TOR",
+    "name": "Toronto Maple Leafs",
+    "short": "Maple Leafs"
+   },
+   "id": "2026020448",
+   "score": null,
+   "start": "2026-12-04T00:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "NJD",
+    "name": "New Jersey Devils",
+    "short": "Devils"
+   },
+   "home": {
+    "abbrev": "OTT",
+    "name": "Ottawa Senators",
+    "short": "Senators"
+   },
+   "id": "2026020449",
+   "score": null,
+   "start": "2026-12-04T00:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "COL",
+    "name": "Colorado Avalanche",
+    "short": "Avalanche"
+   },
+   "home": {
+    "abbrev": "DET",
+    "name": "Detroit Red Wings",
+    "short": "Red Wings"
+   },
+   "id": "2026020450",
+   "score": null,
+   "start": "2026-12-04T00:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "SJS",
+    "name": "San Jose Sharks",
+    "short": "Sharks"
+   },
+   "home": {
+    "abbrev": "NYR",
+    "name": "New York Rangers",
+    "short": "Rangers"
+   },
+   "id": "2026020451",
+   "score": null,
+   "start": "2026-12-04T00:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "CBJ",
+    "name": "Columbus Blue Jackets",
+    "short": "Blue Jackets"
+   },
+   "home": {
+    "abbrev": "CAR",
+    "name": "Carolina Hurricanes",
+    "short": "Hurricanes"
+   },
+   "id": "2026020453",
+   "score": null,
+   "start": "2026-12-04T00:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "NYI",
+    "name": "New York Islanders",
+    "short": "Islanders"
+   },
+   "home": {
+    "abbrev": "PHI",
+    "name": "Philadelphia Flyers",
+    "short": "Flyers"
+   },
+   "id": "2026020452",
+   "score": null,
+   "start": "2026-12-04T00:30:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "CHI",
+    "name": "Chicago Blackhawks",
+    "short": "Blackhawks"
+   },
+   "home": {
+    "abbrev": "NSH",
+    "name": "Nashville Predators",
+    "short": "Predators"
+   },
+   "id": "2026020454",
+   "score": null,
+   "start": "2026-12-04T01:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "BUF",
+    "name": "Buffalo Sabres",
+    "short": "Sabres"
+   },
+   "home": {
+    "abbrev": "CGY",
+    "name": "Calgary Flames",
+    "short": "Flames"
+   },
+   "id": "2026020455",
+   "score": null,
+   "start": "2026-12-04T01:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "WSH",
+    "name": "Washington Capitals",
+    "short": "Capitals"
+   },
+   "home": {
+    "abbrev": "EDM",
+    "name": "Edmonton Oilers",
+    "short": "Oilers"
+   },
+   "id": "2026020456",
+   "score": null,
+   "start": "2026-12-04T01:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "DAL",
+    "name": "Dallas Stars",
+    "short": "Stars"
+   },
+   "home": {
+    "abbrev": "SEA",
+    "name": "Seattle Kraken",
+    "short": "Kraken"
+   },
+   "id": "2026020457",
+   "score": null,
+   "start": "2026-12-04T03:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "UTA",
+    "name": "Utah Mammoth",
+    "short": "Mammoth"
+   },
+   "home": {
+    "abbrev": "VGK",
+    "name": "Vegas Golden Knights",
+    "short": "Golden Knights"
+   },
+   "id": "2026020458",
+   "score": null,
+   "start": "2026-12-04T03:00:00Z",
+   "state": "FUT",
+   "type": 2
+  },
+  {
+   "away": {
+    "abbrev": "MIN",
+    "name": "Minnesota Wild",
+    "short": "Wild"
+   },
+   "home": {
+    "abbrev": "LAK",
+    "name": "Los Angeles Kings",
+    "short": "Kings"
+   },
+   "id": "2026020459",
+   "score": null,
+   "start": "2026-12-04T03:00:00Z",
    "state": "FUT",
    "type": 2
   }
@@ -7500,6 +7330,12 @@
     "country": "CAN",
     "id": 8486171,
     "name": "T.J. Hughes"
+   },
+   {
+    "born": "2001-03-13",
+    "country": "CAN",
+    "id": 8482953,
+    "name": "Taylor Makar"
    },
    {
     "born": "2003-05-15",
@@ -9096,6 +8932,12 @@
     "name": "Joseph Veleno"
    },
    {
+    "born": "2001-02-01",
+    "country": "FIN",
+    "id": 8481704,
+    "name": "Juuso Parssinen"
+   },
+   {
     "born": "1996-05-08",
     "country": "SWE",
     "id": 8477969,
@@ -9814,10 +9656,10 @@
     "name": "Barclay Goodrow"
    },
    {
-    "born": "1999-04-30",
-    "country": "CAN",
-    "id": 8481517,
-    "name": "Brett Leason"
+    "born": "2004-06-07",
+    "country": "USA",
+    "id": 8483481,
+    "name": "Cam Lund"
    },
    {
     "born": "2002-09-21",
@@ -9868,10 +9710,10 @@
     "name": "Kiefer Sherwood"
    },
    {
-    "born": "1998-02-04",
-    "country": "CZE",
-    "id": 8479333,
-    "name": "Libor Hajek"
+    "born": "2004-12-21",
+    "country": "CAN",
+    "id": 8484152,
+    "name": "Luca Cagnoni"
    },
    {
     "born": "2006-06-13",
@@ -10452,12 +10294,6 @@
     "name": "Barrett Hayton"
    },
    {
-    "born": "2001-07-13",
-    "country": "CAN",
-    "id": 8481827,
-    "name": "Ben McCartney"
-   },
-   {
     "born": "1998-07-29",
     "country": "USA",
     "id": 8479343,
@@ -10588,6 +10424,12 @@
     "country": "USA",
     "id": 8476389,
     "name": "Vincent Trocheck"
+   },
+   {
+    "born": "2005-08-28",
+    "country": "BLR",
+    "id": 8485594,
+    "name": "Yegor Borikov"
    },
    {
     "born": "2000-10-18",

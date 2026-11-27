@@ -101,4 +101,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  ttps://patv.se/match/new-jersey-devils-san-jose-sharks-1-dec/
 URL:https://patv.se/match/new-jersey-devils-san-jose-sharks-1-dec/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020449@patv.se
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Stockholm:20261204T010000
+DTEND;TZID=Europe/Stockholm:20261204T040000
+SUMMARY:Ottawa Senators – New Jersey Devils (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: André Burakovsky\, Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson
+ \, William Eklund\, Jesper Boqvist\, Jesper Bratt. https://patv.se/match/o
+ ttawa-senators-new-jersey-devils-3-dec/
+URL:https://patv.se/match/ottawa-senators-new-jersey-devils-3-dec/
+END:VEVENT
 END:VCALENDAR

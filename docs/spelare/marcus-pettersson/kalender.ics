@@ -78,4 +78,15 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  ngers-carolina-hurricanes-30-nov/
 URL:https://patv.se/match/new-york-rangers-carolina-hurricanes-30-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020451@patv.se
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Stockholm:20261204T010000
+DTEND;TZID=Europe/Stockholm:20261204T040000
+SUMMARY:New York Rangers – San Jose Sharks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Marcus Pettersson\, Mika Zibanejad\, Alexander Wennberg\, Ivar Stenbe
+ rg. https://patv.se/match/new-york-rangers-san-jose-sharks-3-dec/
+URL:https://patv.se/match/new-york-rangers-san-jose-sharks-3-dec/
+END:VEVENT
 END:VCALENDAR

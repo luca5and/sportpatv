@@ -91,4 +91,15 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  attle-kraken-dallas-stars-1-dec/
 URL:https://patv.se/match/seattle-kraken-dallas-stars-1-dec/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020457@patv.se
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Stockholm:20261204T040000
+DTEND;TZID=Europe/Stockholm:20261204T070000
+SUMMARY:Seattle Kraken – Dallas Stars (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adam Larsson\, Nils Lundkvist\, Oskar Bäck. https://patv.se/match/se
+ attle-kraken-dallas-stars-3-dec/
+URL:https://patv.se/match/seattle-kraken-dallas-stars-3-dec/
+END:VEVENT
 END:VCALENDAR

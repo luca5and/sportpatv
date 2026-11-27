@@ -45,4 +45,15 @@ DESCRIPTION:Premier League. TV i Sverige: Viaplay (bör sändas). Svenskar:
  -29-nov/
 URL:https://patv.se/match/fulham-bournemouth-29-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:560662@patv.se
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Stockholm:20261203T210000
+DTEND;TZID=Europe/Stockholm:20261203T230000
+SUMMARY:Tottenham – Fulham (Viaplay eller Prime Video?)
+DESCRIPTION:Premier League. TV i Sverige: Viaplay eller Prime Video (ej bek
+ räftat). Svenskar: Dejan Kulusevski\, Lucas Bergvall\, Hugo Larsson\, Jon
+ ah Kusi-Asare. https://patv.se/match/tottenham-fulham-3-dec/
+URL:https://patv.se/match/tottenham-fulham-3-dec/
+END:VEVENT
 END:VCALENDAR

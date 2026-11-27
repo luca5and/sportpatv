@@ -105,4 +105,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  \, Jonas Brodin. https://patv.se/match/anaheim-ducks-minnesota-wild-1-dec/
 URL:https://patv.se/match/anaheim-ducks-minnesota-wild-1-dec/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020459@patv.se
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Stockholm:20261204T040000
+DTEND;TZID=Europe/Stockholm:20261204T070000
+SUMMARY:Los Angeles Kings – Minnesota Wild (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Adrian Kempe\, Andre Lee\, Anton Forsberg\, Erik Gustafsson\, Filip G
+ ustavsson\, Jesper Wallstedt\, Joel Eriksson Ek\, Jonas Brodin. https://pa
+ tv.se/match/los-angeles-kings-minnesota-wild-3-dec/
+URL:https://patv.se/match/los-angeles-kings-minnesota-wild-3-dec/
+END:VEVENT
 END:VCALENDAR

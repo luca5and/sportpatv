@@ -110,4 +110,15 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  ps://patv.se/match/utah-mammoth-winnipeg-jets-2-dec/
 URL:https://patv.se/match/utah-mammoth-winnipeg-jets-2-dec/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020458@patv.se
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Stockholm:20261204T040000
+DTEND;TZID=Europe/Stockholm:20261204T070000
+SUMMARY:Vegas Golden Knights – Utah Mammoth (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Rasmus Andersson\, Victor Olofsson\, William Karlsson\, Kevin Stenlun
+ d. https://patv.se/match/vegas-golden-knights-utah-mammoth-3-dec/
+URL:https://patv.se/match/vegas-golden-knights-utah-mammoth-3-dec/
+END:VEVENT
 END:VCALENDAR

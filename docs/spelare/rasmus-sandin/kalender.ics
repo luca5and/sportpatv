@@ -93,4 +93,16 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  c/
 URL:https://patv.se/match/washington-capitals-vancouver-canucks-1-dec/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020456@patv.se
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Stockholm:20261204T020000
+DTEND;TZID=Europe/Stockholm:20261204T050000
+SUMMARY:Edmonton Oilers – Washington Capitals (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Filip Hållander\, Mattias Ekholm\, Mattias Janmark\, Rasmus Sandin\,
+  Timothy Liljegren. https://patv.se/match/edmonton-oilers-washington-capit
+ als-3-dec/
+URL:https://patv.se/match/edmonton-oilers-washington-capitals-3-dec/
+END:VEVENT
 END:VCALENDAR

@@ -54,4 +54,14 @@ DESCRIPTION:Brasileirão. TV i Sverige: Ej bekräftat. Svenskar: Niclas Eli
  asson. https://patv.se/match/internacional-bragantino-29-nov/
 URL:https://patv.se/match/internacional-bragantino-29-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:555113@patv.se
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Stockholm:20261203T013000
+DTEND;TZID=Europe/Stockholm:20261203T033000
+SUMMARY:Cruzeiro – Internacional (kanal ej klar)
+DESCRIPTION:Brasileirão. TV i Sverige: Ej bekräftat. Svenskar: Niclas Eli
+ asson. https://patv.se/match/cruzeiro-internacional-2-dec/
+URL:https://patv.se/match/cruzeiro-internacional-2-dec/
+END:VEVENT
 END:VCALENDAR

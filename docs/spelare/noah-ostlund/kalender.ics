@@ -92,4 +92,15 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  /
 URL:https://patv.se/match/edmonton-oilers-buffalo-sabres-1-dec/
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020455@patv.se
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Stockholm:20261204T020000
+DTEND;TZID=Europe/Stockholm:20261204T050000
+SUMMARY:Calgary Flames – Buffalo Sabres (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Mikael Backlund\, Noah Östlund\, Rasmus Dahlin. https://patv.se/matc
+ h/calgary-flames-buffalo-sabres-3-dec/
+URL:https://patv.se/match/calgary-flames-buffalo-sabres-3-dec/
+END:VEVENT
 END:VCALENDAR
