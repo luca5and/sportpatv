@@ -58,14 +58,14 @@ URL:https://patv.se/match/washington-capitals-philadelphia-flyers-25-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020405@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261127T210000
 DTEND;TZID=Europe/Stockholm:20261128T000000
-SUMMARY:Philadelphia Flyers – Vancouver Canucks (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Elias Pettersson #25\, Elias Pettersson #40\, Jonathan Lekkerimäki\,
-  Liam Öhgren\, Linus Karlsson\, Tom Willander. https://patv.se/match/phil
- adelphia-flyers-vancouver-canucks-27-nov/
+SUMMARY:Philadelphia Flyers – Vancouver Canucks 5–2
+DESCRIPTION:NHL. Slutresultat 5–2. Svenskar: Elias Pettersson #25\, Elias
+  Pettersson #40\, Jonathan Lekkerimäki\, Liam Ohgren\, Linus Karlsson\, T
+ om Willander. https://patv.se/match/philadelphia-flyers-vancouver-canucks-
+ 27-nov/
 URL:https://patv.se/match/philadelphia-flyers-vancouver-canucks-27-nov/
 END:VEVENT
 BEGIN:VEVENT

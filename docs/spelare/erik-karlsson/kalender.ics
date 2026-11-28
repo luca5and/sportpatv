@@ -71,14 +71,13 @@ URL:https://patv.se/match/pittsburgh-penguins-calgary-flames-25-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020413@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261128T020000
 DTEND;TZID=Europe/Stockholm:20261128T050000
-SUMMARY:Buffalo Sabres – Pittsburgh Penguins (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Noah Östlund\, Rasmus Dahlin\, Elmer Söderblom\, Erik Karlsson\, Ri
- ckard Rakell. https://patv.se/match/buffalo-sabres-pittsburgh-penguins-27-
- nov/
+SUMMARY:Buffalo Sabres – Pittsburgh Penguins 3–6
+DESCRIPTION:NHL. Slutresultat 3–6. Svenskar: Noah Ostlund\, Rasmus Dahlin
+ \, Elmer Soderblom\, Erik Karlsson\, Rickard Rakell. https://patv.se/match
+ /buffalo-sabres-pittsburgh-penguins-27-nov/
 URL:https://patv.se/match/buffalo-sabres-pittsburgh-penguins-27-nov/
 END:VEVENT
 BEGIN:VEVENT

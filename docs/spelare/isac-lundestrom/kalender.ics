@@ -70,15 +70,14 @@ URL:https://patv.se/match/columbus-blue-jackets-new-jersey-devils-25-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020407@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261127T210000
 DTEND;TZID=Europe/Stockholm:20261128T000000
-SUMMARY:Columbus Blue Jackets – Detroit Red Wings (Viaplay eller Disney+?
- )
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Isac Lundeström\, Albert Johansson\, Andreas Englund\, Anton Johanss
- on\, Lucas Raymond\, Viktor Arvidsson\, William Wallinder. https://patv.se
- /match/columbus-blue-jackets-detroit-red-wings-27-nov/
+SUMMARY:Columbus Blue Jackets – Detroit Red Wings 0–2
+DESCRIPTION:NHL. Slutresultat 0–2. Svenskar: Isac Lundeström\, Albert Jo
+ hansson\, Andreas Englund\, Anton Johansson\, Lucas Raymond\, Viktor Arvid
+ sson\, William Wallinder. https://patv.se/match/columbus-blue-jackets-detr
+ oit-red-wings-27-nov/
 URL:https://patv.se/match/columbus-blue-jackets-detroit-red-wings-27-nov/
 END:VEVENT
 BEGIN:VEVENT

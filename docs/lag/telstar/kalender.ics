@@ -34,4 +34,15 @@ DESCRIPTION:Eredivisie. TV i Sverige: Viaplay. Svenskar: Casper Widell\, Ya
  cqub Finey. https://patv.se/match/excelsior-telstar-28-nov/
 URL:https://patv.se/match/excelsior-telstar-28-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:558812@patv.se
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Stockholm:20261204T200000
+DTEND;TZID=Europe/Stockholm:20261204T220000
+SUMMARY:Telstar – Groningen (Viaplay)
+DESCRIPTION:Eredivisie. TV i Sverige: Viaplay. Svenskar: Alvin Nordin\, Elv
+ is van der Laan\, Jacob Ondrejka\, Malcolm Jeng. https://patv.se/match/tel
+ star-groningen-4-dec/
+URL:https://patv.se/match/telstar-groningen-4-dec/
+END:VEVENT
 END:VCALENDAR

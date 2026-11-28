@@ -36,12 +36,12 @@ URL:https://patv.se/match/m-gladbach-dortmund-21-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:565869@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261127T203000
 DTEND;TZID=Europe/Stockholm:20261127T223000
-SUMMARY:Bremen – M'gladbach (Viaplay)
-DESCRIPTION:Bundesliga. TV i Sverige: Viaplay. Svenskar: Hugo Bolin\, Isac 
- Lidberg. https://patv.se/match/bremen-m-gladbach-27-nov/
+SUMMARY:Bremen – M'gladbach 3–3
+DESCRIPTION:Bundesliga. Slutresultat 3–3. Svenskar: Hugo Bolin\, Isac Lid
+ berg. https://patv.se/match/bremen-m-gladbach-27-nov/
 URL:https://patv.se/match/bremen-m-gladbach-27-nov/
 END:VEVENT
 END:VCALENDAR

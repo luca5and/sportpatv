@@ -70,13 +70,13 @@ URL:https://patv.se/match/pittsburgh-penguins-calgary-flames-25-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020401@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261127T190000
 DTEND;TZID=Europe/Stockholm:20261127T220000
-SUMMARY:New Jersey Devils – Calgary Flames (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Jesper Boqvist\, Jesper Bratt\, Mikael Backlund. https://patv.se/matc
- h/new-jersey-devils-calgary-flames-27-nov/
+SUMMARY:New Jersey Devils – Calgary Flames 5–3
+DESCRIPTION:NHL. Slutresultat 5–3. Svenskar: Jesper Boqvist\, Jesper Brat
+ t\, Mikael Backlund. https://patv.se/match/new-jersey-devils-calgary-flame
+ s-27-nov/
 URL:https://patv.se/match/new-jersey-devils-calgary-flames-27-nov/
 END:VEVENT
 BEGIN:VEVENT

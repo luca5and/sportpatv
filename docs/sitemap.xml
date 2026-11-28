@@ -7,7 +7,7 @@
   <url><loc>https://patv.se/liga/serie-a/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/liga/bundesliga/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/liga/la-liga/</loc><lastmod>2026-11-28</lastmod></url>
-  <url><loc>https://patv.se/liga/ligue-1/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://patv.se/liga/ligue-1/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/liga/eredivisie/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/liga/champions-league/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/liga/primeira-liga/</loc><lastmod>2026-11-24</lastmod></url>
@@ -138,7 +138,7 @@
   <url><loc>https://patv.se/spelare/sebastian-nanasi/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/spelare/simon-eriksson/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/spelare/simon-holmstrom/</loc><lastmod>2026-11-28</lastmod></url>
-  <url><loc>https://patv.se/spelare/sion-oppong/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://patv.se/spelare/sion-oppong/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/spelare/svante-ingelsson/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/spelare/theo-lindstein/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://patv.se/spelare/timothy-liljegren/</loc><lastmod>2026-11-28</lastmod></url>
@@ -297,7 +297,7 @@
   <url><loc>https://patv.se/lag/porto/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://patv.se/lag/portsmouth/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://patv.se/lag/preston-ne/</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://patv.se/lag/psg/</loc><lastmod>2026-11-22</lastmod></url>
+  <url><loc>https://patv.se/lag/psg/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/lag/psv/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/lag/qpr/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://patv.se/lag/rayo-vallecano/</loc><lastmod>2026-11-21</lastmod></url>
@@ -307,7 +307,7 @@
   <url><loc>https://patv.se/lag/real-madrid/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/lag/real-sociedad/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/lag/rio-ave/</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://patv.se/lag/roma/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://patv.se/lag/roma/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/lag/sabah-fk/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/lag/san-jose-sharks/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/lag/santa-clara/</loc><lastmod>2026-11-21</lastmod></url>
@@ -330,11 +330,11 @@
   <url><loc>https://patv.se/lag/sunderland/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/lag/swansea/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://patv.se/lag/tampa-bay-lightning/</loc><lastmod>2026-11-28</lastmod></url>
-  <url><loc>https://patv.se/lag/telstar/</loc><lastmod>2026-11-22</lastmod></url>
+  <url><loc>https://patv.se/lag/telstar/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/lag/torino/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://patv.se/lag/toronto-maple-leafs/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/lag/tottenham/</loc><lastmod>2026-11-27</lastmod></url>
-  <url><loc>https://patv.se/lag/toulouse/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://patv.se/lag/toulouse/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/lag/troyes/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/lag/twente/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/lag/udinese/</loc><lastmod>2026-11-23</lastmod></url>
@@ -359,9 +359,10 @@
   <url><loc>https://patv.se/lag/wolverhampton/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://patv.se/lag/wrexham/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://patv.se/lag/zwolle/</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://patv.se/match/anaheim-ducks-los-angeles-kings-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/anaheim-ducks-los-angeles-kings-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/anaheim-ducks-minnesota-wild-1-dec/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://patv.se/match/anaheim-ducks-san-jose-sharks-25-nov/</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://patv.se/match/anaheim-ducks-seattle-kraken-4-dec/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/arsenal-dortmund-24-nov/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://patv.se/match/arsenal-man-city-29-nov/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/aston-villa-everton-2-dec/</loc><lastmod>2026-11-26</lastmod></url>
@@ -369,19 +370,20 @@
   <url><loc>https://patv.se/match/atalanta-inter-22-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/barca-atleti-2-dec/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/barca-villarreal-22-nov/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://patv.se/match/bologna-roma-4-dec/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/bologna-udinese-22-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/boston-bruins-colorado-avalanche-1-dec/</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://patv.se/match/boston-bruins-toronto-maple-leafs-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/boston-bruins-toronto-maple-leafs-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/boston-bruins-vancouver-canucks-29-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/boston-bruins-washington-capitals-21-nov/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/match/boston-bruins-winnipeg-jets-25-nov/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/bournemouth-brighton-hove-2-dec/</loc><lastmod>2026-11-26</lastmod></url>
-  <url><loc>https://patv.se/match/bremen-m-gladbach-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/bremen-m-gladbach-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/brentford-arsenal-2-dec/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/brighton-hove-newcastle-29-nov/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/bristol-city-wrexham-24-nov/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://patv.se/match/buffalo-sabres-new-york-rangers-25-nov/</loc><lastmod>2026-11-26</lastmod></url>
-  <url><loc>https://patv.se/match/buffalo-sabres-pittsburgh-penguins-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/buffalo-sabres-pittsburgh-penguins-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/burnley-birmingham-25-nov/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/burnley-blackburn-22-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/calgary-flames-buffalo-sabres-3-dec/</loc><lastmod>2026-11-27</lastmod></url>
@@ -397,12 +399,12 @@
   <url><loc>https://patv.se/match/chelsea-leeds-united-21-nov/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/match/chicago-blackhawks-columbus-blue-jackets-19-nov/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://patv.se/match/chicago-blackhawks-minnesota-wild-29-nov/</loc><lastmod>2026-11-23</lastmod></url>
-  <url><loc>https://patv.se/match/chicago-blackhawks-new-york-rangers-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/chicago-blackhawks-new-york-rangers-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/club-brugge-liverpool-25-nov/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/colorado-avalanche-anaheim-ducks-19-nov/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://patv.se/match/colorado-avalanche-montreal-canadiens-25-nov/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/colorado-avalanche-san-jose-sharks-28-nov/</loc><lastmod>2026-11-22</lastmod></url>
-  <url><loc>https://patv.se/match/columbus-blue-jackets-detroit-red-wings-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/columbus-blue-jackets-detroit-red-wings-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/columbus-blue-jackets-new-jersey-devils-25-nov/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/como-1907-cagliari-21-nov/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/match/como-1907-juventus-29-nov/</loc><lastmod>2026-11-23</lastmod></url>
@@ -422,7 +424,7 @@
   <url><loc>https://patv.se/match/detroit-red-wings-vancouver-canucks-25-nov/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/dortmund-leverkusen-29-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/edmonton-oilers-buffalo-sabres-1-dec/</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://patv.se/match/edmonton-oilers-seattle-kraken-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/edmonton-oilers-seattle-kraken-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/edmonton-oilers-vegas-golden-knights-24-nov/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://patv.se/match/edmonton-oilers-washington-capitals-3-dec/</loc><lastmod>2026-11-27</lastmod></url>
   <url><loc>https://patv.se/match/everton-liverpool-29-nov/</loc><lastmod>2026-11-28</lastmod></url>
@@ -438,7 +440,7 @@
   <url><loc>https://patv.se/match/gil-vicente-estoril-praia-29-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/go-ahead-sittard-22-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/groningen-heerenveen-21-nov/</loc><lastmod>2026-11-22</lastmod></url>
-  <url><loc>https://patv.se/match/groningen-willem-ii-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/groningen-willem-ii-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/hull-city-brighton-hove-22-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/hull-city-nottingham-2-dec/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/internacional-bragantino-29-nov/</loc><lastmod>2026-11-23</lastmod></url>
@@ -447,7 +449,7 @@
   <url><loc>https://patv.se/match/le-havre-strasbourg-28-nov/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/match/lecce-atalanta-30-nov/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://patv.se/match/leeds-united-coventry-city-28-nov/</loc><lastmod>2026-11-26</lastmod></url>
-  <url><loc>https://patv.se/match/levante-santander-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/levante-santander-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/liverpool-man-united-22-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/liverpool-sunderland-2-dec/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/los-angeles-kings-anaheim-ducks-28-nov/</loc><lastmod>2026-11-22</lastmod></url>
@@ -460,7 +462,7 @@
   <url><loc>https://patv.se/match/middlesbrough-bristol-city-21-nov/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/match/middlesbrough-swansea-24-nov/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://patv.se/match/millwall-burnley-28-nov/</loc><lastmod>2026-11-22</lastmod></url>
-  <url><loc>https://patv.se/match/minnesota-wild-colorado-avalanche-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/minnesota-wild-colorado-avalanche-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/minnesota-wild-utah-mammoth-25-nov/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/montreal-canadiens-los-angeles-kings-23-nov/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://patv.se/match/montreal-canadiens-philadelphia-flyers-21-nov/</loc><lastmod>2026-11-22</lastmod></url>
@@ -469,16 +471,17 @@
   <url><loc>https://patv.se/match/nashville-predators-chicago-blackhawks-3-dec/</loc><lastmod>2026-11-27</lastmod></url>
   <url><loc>https://patv.se/match/nashville-predators-ottawa-senators-30-nov/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://patv.se/match/nashville-predators-pittsburgh-penguins-21-nov/</loc><lastmod>2026-11-22</lastmod></url>
-  <url><loc>https://patv.se/match/nashville-predators-utah-mammoth-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://patv.se/match/new-jersey-devils-calgary-flames-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/nashville-predators-utah-mammoth-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
+  <url><loc>https://patv.se/match/new-jersey-devils-calgary-flames-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/new-jersey-devils-columbus-blue-jackets-23-nov/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://patv.se/match/new-jersey-devils-montreal-canadiens-18-nov/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://patv.se/match/new-jersey-devils-san-jose-sharks-1-dec/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://patv.se/match/new-jersey-devils-winnipeg-jets-28-nov/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/match/new-york-islanders-florida-panthers-1-dec/</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://patv.se/match/new-york-islanders-san-jose-sharks-4-dec/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/new-york-islanders-st-louis-blues-25-nov/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/new-york-islanders-toronto-maple-leafs-23-nov/</loc><lastmod>2026-11-24</lastmod></url>
-  <url><loc>https://patv.se/match/new-york-islanders-winnipeg-jets-27-nov/</loc><lastmod>2026-11-22</lastmod></url>
+  <url><loc>https://patv.se/match/new-york-islanders-winnipeg-jets-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/new-york-rangers-calgary-flames-28-nov/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/match/new-york-rangers-carolina-hurricanes-22-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/new-york-rangers-carolina-hurricanes-30-nov/</loc><lastmod>2026-11-24</lastmod></url>
@@ -495,7 +498,7 @@
   <url><loc>https://patv.se/match/parma-roma-21-nov/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/match/philadelphia-flyers-new-york-islanders-28-nov/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/match/philadelphia-flyers-new-york-islanders-3-dec/</loc><lastmod>2026-11-27</lastmod></url>
-  <url><loc>https://patv.se/match/philadelphia-flyers-vancouver-canucks-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/philadelphia-flyers-vancouver-canucks-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/pittsburgh-penguins-calgary-flames-25-nov/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/pittsburgh-penguins-columbus-blue-jackets-30-nov/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://patv.se/match/pittsburgh-penguins-st-louis-blues-19-nov/</loc><lastmod>2026-11-21</lastmod></url>
@@ -508,7 +511,7 @@
   <url><loc>https://patv.se/match/sabah-fk-barca-25-nov/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/san-jose-sharks-minnesota-wild-23-nov/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://patv.se/match/san-jose-sharks-seattle-kraken-21-nov/</loc><lastmod>2026-11-22</lastmod></url>
-  <url><loc>https://patv.se/match/san-jose-sharks-vegas-golden-knights-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/san-jose-sharks-vegas-golden-knights-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/santander-real-sociedad-22-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/seattle-kraken-anaheim-ducks-23-nov/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://patv.se/match/seattle-kraken-chicago-blackhawks-25-nov/</loc><lastmod>2026-11-26</lastmod></url>
@@ -519,7 +522,8 @@
   <url><loc>https://patv.se/match/sittard-heerenveen-29-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/sl-benfica-famalicao-30-nov/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://patv.se/match/southampton-derby-county-21-nov/</loc><lastmod>2026-11-22</lastmod></url>
-  <url><loc>https://patv.se/match/st-louis-blues-dallas-stars-27-nov/</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://patv.se/match/st-louis-blues-chicago-blackhawks-4-dec/</loc><lastmod>2026-11-28</lastmod></url>
+  <url><loc>https://patv.se/match/st-louis-blues-dallas-stars-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/st-louis-blues-edmonton-oilers-22-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/st-louis-blues-new-jersey-devils-21-nov/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/match/st-louis-blues-pittsburgh-penguins-2-dec/</loc><lastmod>2026-11-26</lastmod></url>
@@ -534,13 +538,15 @@
   <url><loc>https://patv.se/match/tampa-bay-lightning-buffalo-sabres-22-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/tampa-bay-lightning-carolina-hurricanes-25-nov/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/tampa-bay-lightning-edmonton-oilers-19-nov/</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://patv.se/match/tampa-bay-lightning-ottawa-senators-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/tampa-bay-lightning-ottawa-senators-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
+  <url><loc>https://patv.se/match/telstar-groningen-4-dec/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/toronto-maple-leafs-columbus-blue-jackets-21-nov/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/match/toronto-maple-leafs-florida-panthers-3-dec/</loc><lastmod>2026-11-27</lastmod></url>
   <url><loc>https://patv.se/match/toronto-maple-leafs-los-angeles-kings-19-nov/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://patv.se/match/toronto-maple-leafs-philadelphia-flyers-30-nov/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://patv.se/match/tottenham-fulham-3-dec/</loc><lastmod>2026-11-27</lastmod></url>
   <url><loc>https://patv.se/match/tottenham-ipswich-town-21-nov/</loc><lastmod>2026-11-22</lastmod></url>
+  <url><loc>https://patv.se/match/toulouse-psg-4-dec/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/toulouse-stade-rennais-29-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/twente-willem-ii-22-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/udinese-fiorentina-29-nov/</loc><lastmod>2026-11-23</lastmod></url>
@@ -548,16 +554,17 @@
   <url><loc>https://patv.se/match/utah-mammoth-colorado-avalanche-18-nov/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://patv.se/match/utah-mammoth-montreal-canadiens-30-nov/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://patv.se/match/utah-mammoth-winnipeg-jets-2-dec/</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://patv.se/match/vancouver-canucks-buffalo-sabres-4-dec/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/vancouver-canucks-chicago-blackhawks-22-nov/</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://patv.se/match/vancouver-canucks-minnesota-wild-21-nov/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/match/vasco-da-gama-internacional-19-nov/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://patv.se/match/vegas-golden-knights-dallas-stars-19-nov/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://patv.se/match/vegas-golden-knights-montreal-canadiens-28-nov/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/match/vegas-golden-knights-utah-mammoth-3-dec/</loc><lastmod>2026-11-27</lastmod></url>
-  <url><loc>https://patv.se/match/venezia-fc-bologna-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/venezia-fc-bologna-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/vitoria-sc-amadora-28-nov/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://patv.se/match/washington-capitals-buffalo-sabres-19-nov/</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://patv.se/match/washington-capitals-florida-panthers-27-nov/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://patv.se/match/washington-capitals-florida-panthers-27-nov/</loc><lastmod>2026-11-28</lastmod></url>
   <url><loc>https://patv.se/match/washington-capitals-philadelphia-flyers-25-nov/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://patv.se/match/washington-capitals-vancouver-canucks-1-dec/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://patv.se/match/west-brom-bristol-city-28-nov/</loc><lastmod>2026-11-22</lastmod></url>

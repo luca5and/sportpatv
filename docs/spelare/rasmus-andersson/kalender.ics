@@ -60,14 +60,13 @@ URL:https://patv.se/match/edmonton-oilers-vegas-golden-knights-24-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020410@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261127T220000
 DTEND;TZID=Europe/Stockholm:20261128T010000
-SUMMARY:San Jose Sharks – Vegas Golden Knights (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Alexander Wennberg\, Ivar Stenberg\, Rasmus Andersson\, Victor Olofss
- on\, William Karlsson. https://patv.se/match/san-jose-sharks-vegas-golden-
- knights-27-nov/
+SUMMARY:San Jose Sharks – Vegas Golden Knights 4–1
+DESCRIPTION:NHL. Slutresultat 4–1. Svenskar: Alexander Wennberg\, Ivar St
+ enberg\, Rasmus Andersson\, Victor Olofsson\, William Karlsson. https://pa
+ tv.se/match/san-jose-sharks-vegas-golden-knights-27-nov/
 URL:https://patv.se/match/san-jose-sharks-vegas-golden-knights-27-nov/
 END:VEVENT
 BEGIN:VEVENT

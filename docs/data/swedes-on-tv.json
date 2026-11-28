@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T06:54+00:00",
+ "generated": "2026-11-28T06:56+00:00",
  "events": [
   {
    "id": "561973",
@@ -4139,130 +4139,371 @@
     }
    ],
    "page": "match/vegas-golden-knights-utah-mammoth-3-dec/"
+  },
+  {
+   "id": "558812",
+   "sport": "Fotboll",
+   "competition": "Eredivisie",
+   "start": "2026-12-04T19:00:00Z",
+   "title": "Telstar – Groningen",
+   "swedes": [
+    {
+     "name": "Alvin Nordin",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Alvin_Nordin",
+     "page": "spelare/alvin-nordin/"
+    },
+    {
+     "name": "Elvis van der Laan",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Elvis_van_der_Laan",
+     "page": "spelare/elvis-van-der-laan/"
+    },
+    {
+     "name": "Jacob Ondrejka",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Ondrejka",
+     "page": "spelare/jacob-ondrejka/"
+    },
+    {
+     "name": "Malcolm Jeng",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Malcolm_Jeng",
+     "page": "spelare/malcolm-jeng/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://cybernews.com/stream-online/how-to-watch-dutch-eredivisie-2026-27/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Telstar",
+     "page": "lag/telstar/"
+    },
+    {
+     "name": "Groningen",
+     "page": "lag/groningen/"
+    }
+   ],
+   "page": "match/telstar-groningen-4-dec/"
+  },
+  {
+   "id": "558502",
+   "sport": "Fotboll",
+   "competition": "Serie A",
+   "start": "2026-12-04T19:45:00Z",
+   "title": "Bologna – Roma",
+   "swedes": [
+    {
+     "name": "Emil Holm",
+     "team": "Bologna",
+     "url": "https://sv.wikipedia.org/wiki/Emil_Holm",
+     "page": "spelare/emil-holm/"
+    },
+    {
+     "name": "Jesper Karlsson",
+     "team": "Bologna",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Karlsson",
+     "page": "spelare/jesper-karlsson/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "TV4 Play",
+    "channel": null,
+    "source": "https://www.sportbusiness.com/news/swedens-tv4-retains-serie-a-after-laliga-loss/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Bologna",
+     "page": "lag/bologna/"
+    },
+    {
+     "name": "Roma",
+     "page": "lag/roma/"
+    }
+   ],
+   "page": "match/bologna-roma-4-dec/"
+  },
+  {
+   "id": "559609",
+   "sport": "Fotboll",
+   "competition": "Ligue 1",
+   "start": "2026-12-04T19:45:00Z",
+   "title": "Toulouse – PSG",
+   "swedes": [
+    {
+     "name": "Sion Oppong",
+     "team": "Toulouse",
+     "url": "https://sv.wikipedia.org/wiki/Sion_Oppong",
+     "page": "spelare/sion-oppong/"
+    }
+   ],
+   "tv": {
+    "status": "confirmed",
+    "service": "Viaplay",
+    "channel": null,
+    "source": "https://www.livesoccertv.com/channels/viaplay-sweden/",
+    "note": "Alla matcher i turneringen sänds här"
+   },
+   "teams": [
+    {
+     "name": "Toulouse",
+     "page": "lag/toulouse/"
+    },
+    {
+     "name": "PSG",
+     "page": "lag/psg/"
+    }
+   ],
+   "page": "match/toulouse-psg-4-dec/"
+  },
+  {
+   "id": "nhl-2026020460",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-12-05T00:00:00Z",
+   "title": "New York Islanders – San Jose Sharks",
+   "swedes": [
+    {
+     "name": "Emil Heineman",
+     "team": "Islanders",
+     "url": "https://sv.wikipedia.org/wiki/Emil_Heineman",
+     "page": "spelare/emil-heineman/"
+    },
+    {
+     "name": "Simon Holmström",
+     "team": "Islanders",
+     "url": "https://sv.wikipedia.org/wiki/Simon_Holmstr%C3%B6m",
+     "page": "spelare/simon-holmstrom/"
+    },
+    {
+     "name": "Victor Eklund",
+     "team": "Islanders",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Eklund",
+     "page": "spelare/victor-eklund/"
+    },
+    {
+     "name": "Alexander Wennberg",
+     "team": "Sharks",
+     "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg",
+     "page": "spelare/alexander-wennberg/"
+    },
+    {
+     "name": "Ivar Stenberg",
+     "team": "Sharks",
+     "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg",
+     "page": "spelare/ivar-stenberg/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "New York Islanders",
+     "page": "lag/new-york-islanders/"
+    },
+    {
+     "name": "San Jose Sharks",
+     "page": "lag/san-jose-sharks/"
+    }
+   ],
+   "page": "match/new-york-islanders-san-jose-sharks-4-dec/"
+  },
+  {
+   "id": "nhl-2026020461",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-12-05T01:00:00Z",
+   "title": "St. Louis Blues – Chicago Blackhawks",
+   "swedes": [
+    {
+     "name": "Calle Rosén",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Calle_Ros%C3%A9n",
+     "page": "spelare/calle-rosen/"
+    },
+    {
+     "name": "Jonatan Berggren",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
+     "page": "spelare/jonatan-berggren/"
+    },
+    {
+     "name": "Otto Stenberg",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Otto_Stenberg",
+     "page": "spelare/otto-stenberg/"
+    },
+    {
+     "name": "Philip Broberg",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
+     "page": "spelare/philip-broberg/"
+    },
+    {
+     "name": "Anton Frondell",
+     "team": "Blackhawks",
+     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell",
+     "page": "spelare/anton-frondell/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "St. Louis Blues",
+     "page": "lag/st-louis-blues/"
+    },
+    {
+     "name": "Chicago Blackhawks",
+     "page": "lag/chicago-blackhawks/"
+    }
+   ],
+   "page": "match/st-louis-blues-chicago-blackhawks-4-dec/"
+  },
+  {
+   "id": "nhl-2026020462",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-12-05T02:00:00Z",
+   "title": "Vancouver Canucks – Buffalo Sabres",
+   "swedes": [
+    {
+     "name": "Elias Pettersson #25",
+     "team": "Canucks",
+     "url": null,
+     "page": "spelare/elias-pettersson-25/"
+    },
+    {
+     "name": "Elias Pettersson #40",
+     "team": "Canucks",
+     "url": null,
+     "page": "spelare/elias-pettersson-40/"
+    },
+    {
+     "name": "Jonathan Lekkerimäki",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
+     "page": "spelare/jonathan-lekkerimaki/"
+    },
+    {
+     "name": "Liam Öhgren",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
+     "page": "spelare/liam-ohgren/"
+    },
+    {
+     "name": "Linus Karlsson",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
+     "page": "spelare/linus-karlsson/"
+    },
+    {
+     "name": "Tom Willander",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Tom_Willander",
+     "page": "spelare/tom-willander/"
+    },
+    {
+     "name": "Noah Östlund",
+     "team": "Sabres",
+     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
+     "page": "spelare/noah-ostlund/"
+    },
+    {
+     "name": "Rasmus Dahlin",
+     "team": "Sabres",
+     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
+     "page": "spelare/rasmus-dahlin/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Vancouver Canucks",
+     "page": "lag/vancouver-canucks/"
+    },
+    {
+     "name": "Buffalo Sabres",
+     "page": "lag/buffalo-sabres/"
+    }
+   ],
+   "page": "match/vancouver-canucks-buffalo-sabres-4-dec/"
+  },
+  {
+   "id": "nhl-2026020463",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-12-05T03:00:00Z",
+   "title": "Anaheim Ducks – Seattle Kraken",
+   "swedes": [
+    {
+     "name": "Leo Carlsson",
+     "team": "Ducks",
+     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
+     "page": "spelare/leo-carlsson/"
+    },
+    {
+     "name": "Adam Larsson",
+     "team": "Kraken",
+     "url": null,
+     "page": "spelare/adam-larsson/"
+    }
+   ],
+   "tv": {
+    "status": "unknown",
+    "service": null,
+    "channel": null,
+    "source": null,
+    "note": "Kolla närmare matchen",
+    "label": "Viaplay eller Disney+"
+   },
+   "teams": [
+    {
+     "name": "Anaheim Ducks",
+     "page": "lag/anaheim-ducks/"
+    },
+    {
+     "name": "Seattle Kraken",
+     "page": "lag/seattle-kraken/"
+    }
+   ],
+   "page": "match/anaheim-ducks-seattle-kraken-4-dec/"
   }
  ],
  "results": [
   {
-   "id": "575404",
-   "sport": "Fotboll",
-   "competition": "Champions League",
-   "start": "2026-11-25T17:45:00Z",
-   "title": "Sabah FK – Barça",
-   "score": "1–4",
-   "swedes": [
-    {
-     "name": "Roony Bardghji",
-     "team": "Barça",
-     "url": "https://sv.wikipedia.org/wiki/Roony_Bardghji",
-     "page": "spelare/roony-bardghji/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Sabah FK",
-     "page": "lag/sabah-fk/"
-    },
-    {
-     "name": "Barça",
-     "page": "lag/barca/"
-    }
-   ],
-   "page": "match/sabah-fk-barca-25-nov/"
-  },
-  {
-   "id": "561964",
-   "sport": "Fotboll",
-   "competition": "Championship",
-   "start": "2026-11-25T19:45:00Z",
-   "title": "Burnley – Birmingham",
-   "score": "0–2",
-   "swedes": [
-    {
-     "name": "Hjalmar Ekdal",
-     "team": "Burnley",
-     "url": "https://sv.wikipedia.org/wiki/Hjalmar_Ekdal",
-     "page": "spelare/hjalmar-ekdal/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Burnley",
-     "page": "lag/burnley/"
-    },
-    {
-     "name": "Birmingham",
-     "page": "lag/birmingham/"
-    }
-   ],
-   "page": "match/burnley-birmingham-25-nov/"
-  },
-  {
-   "id": "575409",
-   "sport": "Fotboll",
-   "competition": "Champions League",
-   "start": "2026-11-25T20:00:00Z",
-   "title": "Club Brugge – Liverpool",
-   "score": "0–3",
-   "swedes": [
-    {
-     "name": "Alexander Isak",
-     "team": "Liverpool",
-     "url": "https://sv.wikipedia.org/wiki/Alexander_Isak",
-     "page": "spelare/alexander-isak/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Club Brugge",
-     "page": "lag/club-brugge/"
-    },
-    {
-     "name": "Liverpool",
-     "page": "lag/liverpool/"
-    }
-   ],
-   "page": "match/club-brugge-liverpool-25-nov/"
-  },
-  {
-   "id": "561962",
-   "sport": "Fotboll",
-   "competition": "Championship",
-   "start": "2026-11-25T20:00:00Z",
-   "title": "Stoke – Millwall",
-   "score": "2–1",
-   "swedes": [
-    {
-     "name": "Svante Ingelsson",
-     "team": "Stoke",
-     "url": "https://sv.wikipedia.org/wiki/Svante_Ingelsson",
-     "page": "spelare/svante-ingelsson/"
-    },
-    {
-     "name": "Viktor Johansson",
-     "team": "Stoke",
-     "url": "https://sv.wikipedia.org/wiki/Viktor_Johansson_(fotbollsspelare)",
-     "page": "spelare/viktor-johansson/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Stoke",
-     "page": "lag/stoke/"
-    },
-    {
-     "name": "Millwall",
-     "page": "lag/millwall/"
-    }
-   ],
-   "page": "match/stoke-millwall-25-nov/"
-  },
-  {
-   "id": "nhl-2026020386",
+   "id": "nhl-2026020400",
    "sport": "Ishockey",
    "competition": "NHL",
-   "start": "2026-11-26T00:00:00Z",
-   "title": "Boston Bruins – Winnipeg Jets",
-   "score": "2–4",
+   "start": "2026-11-27T18:00:00Z",
+   "title": "Boston Bruins – Toronto Maple Leafs",
+   "score": "1–3",
    "swedes": [
     {
      "name": "Elias Lindholm",
@@ -4272,10 +4513,10 @@
       "assists": 0,
       "goals": 0,
       "kind": "skater",
-      "plusMinus": -4,
+      "plusMinus": -1,
       "points": 0,
-      "shots": 3,
-      "toi": "17:53"
+      "shots": 4,
+      "toi": "20:38"
      },
      "page": "spelare/elias-lindholm/"
     },
@@ -4284,20 +4525,20 @@
      "team": "Bruins",
      "url": "https://sv.wikipedia.org/wiki/Hampus_Lindholm",
      "stats": {
-      "assists": 1,
+      "assists": 0,
       "goals": 0,
       "kind": "skater",
-      "plusMinus": 0,
-      "points": 1,
-      "shots": 4,
-      "toi": "22:04"
+      "plusMinus": -2,
+      "points": 0,
+      "shots": 0,
+      "toi": "18:16"
      },
      "page": "spelare/hampus-lindholm/"
     },
     {
-     "name": "Elias Salomonsson",
-     "team": "Jets",
-     "url": "https://sv.wikipedia.org/wiki/Elias_Salomonsson",
+     "name": "Oliver Ekman-Larsson",
+     "team": "Maple Leafs",
+     "url": "https://sv.wikipedia.org/wiki/Oliver_Ekman_Larsson",
      "stats": {
       "assists": 0,
       "goals": 0,
@@ -4305,33 +4546,24 @@
       "plusMinus": 0,
       "points": 0,
       "shots": 1,
-      "toi": "17:39"
+      "toi": "22:21"
      },
-     "page": "spelare/elias-salomonsson/"
+     "page": "spelare/oliver-ekman-larsson/"
     },
     {
-     "name": "Isak Rosen",
-     "team": "Jets",
-     "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
-     "stats": {
-      "kind": "dnp"
-     },
-     "page": "spelare/isak-rosen/"
-    },
-    {
-     "name": "Viggo Björck",
-     "team": "Jets",
-     "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck",
+     "name": "William Nylander",
+     "team": "Maple Leafs",
+     "url": "https://sv.wikipedia.org/wiki/William_Nylander_(ishockeyspelare)",
      "stats": {
       "assists": 0,
       "goals": 0,
       "kind": "skater",
       "plusMinus": 1,
       "points": 0,
-      "shots": 0,
-      "toi": "18:17"
+      "shots": 3,
+      "toi": "14:48"
      },
-     "page": "spelare/viggo-bjorck/"
+     "page": "spelare/william-nylander/"
     }
    ],
    "teams": [
@@ -4340,100 +4572,397 @@
      "page": "lag/boston-bruins/"
     },
     {
-     "name": "Winnipeg Jets",
-     "page": "lag/winnipeg-jets/"
+     "name": "Toronto Maple Leafs",
+     "page": "lag/toronto-maple-leafs/"
     }
    ],
-   "page": "match/boston-bruins-winnipeg-jets-25-nov/"
+   "page": "match/boston-bruins-toronto-maple-leafs-27-nov/"
   },
   {
-   "id": "nhl-2026020387",
+   "id": "nhl-2026020402",
    "sport": "Ishockey",
    "competition": "NHL",
-   "start": "2026-11-26T00:00:00Z",
-   "title": "Buffalo Sabres – New York Rangers",
-   "score": "5–1",
+   "start": "2026-11-27T18:00:00Z",
+   "title": "Nashville Predators – Utah Mammoth",
+   "score": "5–6 efter straffar",
    "swedes": [
     {
-     "name": "Noah Ostlund",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
+     "name": "Adam Edstrom",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
      "stats": {
       "assists": 1,
       "goals": 0,
       "kind": "skater",
-      "plusMinus": 1,
+      "plusMinus": 0,
       "points": 1,
       "shots": 0,
-      "toi": "14:29"
+      "toi": "14:41"
      },
-     "page": "spelare/noah-ostlund/"
+     "page": "spelare/adam-edstrom/"
     },
     {
-     "name": "Rasmus Dahlin",
-     "team": "Sabres",
-     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
+     "name": "Adam Wilsby",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Adam_Wilsby",
      "stats": {
       "assists": 1,
-      "goals": 1,
+      "goals": 0,
       "kind": "skater",
-      "plusMinus": 3,
-      "points": 2,
-      "shots": 2,
-      "toi": "23:00"
+      "plusMinus": 0,
+      "points": 1,
+      "shots": 1,
+      "toi": "22:25"
      },
-     "page": "spelare/rasmus-dahlin/"
+     "page": "spelare/adam-wilsby/"
     },
     {
-     "name": "Marcus Pettersson",
-     "team": "Rangers",
-     "url": "https://sv.wikipedia.org/wiki/Marcus_Pettersson",
+     "name": "Filip Forsberg",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Filip_Forsberg",
+     "stats": {
+      "assists": 0,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 1,
+      "shots": 3,
+      "toi": "18:28"
+     },
+     "page": "spelare/filip-forsberg/"
+    },
+    {
+     "name": "Nils Hoglander",
+     "team": "Predators",
+     "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 1,
+      "shots": 1,
+      "toi": "11:35"
+     },
+     "page": "spelare/nils-hoglander/"
+    },
+    {
+     "name": "Kevin Stenlund",
+     "team": "Mammoth",
+     "url": "https://sv.wikipedia.org/wiki/Kevin_Stenlund",
      "stats": {
       "assists": 0,
       "goals": 0,
       "kind": "skater",
       "plusMinus": -1,
       "points": 0,
-      "shots": 1,
-      "toi": "22:09"
+      "shots": 3,
+      "toi": "12:19"
      },
-     "page": "spelare/marcus-pettersson/"
+     "page": "spelare/kevin-stenlund/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Nashville Predators",
+     "page": "lag/nashville-predators/"
     },
     {
-     "name": "Mika Zibanejad",
-     "team": "Rangers",
-     "url": "https://sv.wikipedia.org/wiki/Mika_Zibanejad",
+     "name": "Utah Mammoth",
+     "page": "lag/utah-mammoth/"
+    }
+   ],
+   "page": "match/nashville-predators-utah-mammoth-27-nov/"
+  },
+  {
+   "id": "nhl-2026020401",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-27T18:00:00Z",
+   "title": "New Jersey Devils – Calgary Flames",
+   "score": "5–3",
+   "swedes": [
+    {
+     "name": "Jesper Boqvist",
+     "team": "Devils",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist",
      "stats": {
       "assists": 0,
       "goals": 0,
       "kind": "skater",
       "plusMinus": 0,
       "points": 0,
-      "shots": 1,
-      "toi": "19:49"
+      "shots": 0,
+      "toi": "12:04"
      },
-     "page": "spelare/mika-zibanejad/"
+     "page": "spelare/jesper-boqvist/"
+    },
+    {
+     "name": "Jesper Bratt",
+     "team": "Devils",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 2,
+      "toi": "16:17"
+     },
+     "page": "spelare/jesper-bratt/"
+    },
+    {
+     "name": "Mikael Backlund",
+     "team": "Flames",
+     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 2,
+      "toi": "18:07"
+     },
+     "page": "spelare/mikael-backlund/"
     }
    ],
    "teams": [
     {
-     "name": "Buffalo Sabres",
-     "page": "lag/buffalo-sabres/"
+     "name": "New Jersey Devils",
+     "page": "lag/new-jersey-devils/"
     },
     {
-     "name": "New York Rangers",
-     "page": "lag/new-york-rangers/"
+     "name": "Calgary Flames",
+     "page": "lag/calgary-flames/"
     }
    ],
-   "page": "match/buffalo-sabres-new-york-rangers-25-nov/"
+   "page": "match/new-jersey-devils-calgary-flames-27-nov/"
   },
   {
-   "id": "nhl-2026020393",
+   "id": "558820",
+   "sport": "Fotboll",
+   "competition": "Eredivisie",
+   "start": "2026-11-27T19:00:00Z",
+   "title": "Groningen – Willem II",
+   "score": "1–1",
+   "swedes": [
+    {
+     "name": "Alvin Nordin",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Alvin_Nordin",
+     "page": "spelare/alvin-nordin/"
+    },
+    {
+     "name": "Elvis Van Der Laan",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Elvis_van_der_Laan",
+     "page": "spelare/elvis-van-der-laan/"
+    },
+    {
+     "name": "Jacob Ondrejka",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Ondrejka",
+     "page": "spelare/jacob-ondrejka/"
+    },
+    {
+     "name": "Malcolm Jeng",
+     "team": "Groningen",
+     "url": "https://sv.wikipedia.org/wiki/Malcolm_Jeng",
+     "page": "spelare/malcolm-jeng/"
+    },
+    {
+     "name": "Armin Ćulum",
+     "team": "Willem II",
+     "url": "https://en.wikipedia.org/wiki/Armin_%C4%86ulum",
+     "page": "spelare/armin-culum/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Groningen",
+     "page": "lag/groningen/"
+    },
+    {
+     "name": "Willem II",
+     "page": "lag/willem-ii/"
+    }
+   ],
+   "page": "match/groningen-willem-ii-27-nov/"
+  },
+  {
+   "id": "nhl-2026020403",
    "sport": "Ishockey",
    "competition": "NHL",
-   "start": "2026-11-26T00:00:00Z",
-   "title": "Columbus Blue Jackets – New Jersey Devils",
-   "score": "2–3 efter straffar",
+   "start": "2026-11-27T19:00:00Z",
+   "title": "St. Louis Blues – Dallas Stars",
+   "score": "5–3",
+   "swedes": [
+    {
+     "name": "Calle Rosen",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Calle_Ros%C3%A9n",
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/calle-rosen/"
+    },
+    {
+     "name": "Jonatan Berggren",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 2,
+      "points": 1,
+      "shots": 0,
+      "toi": "11:14"
+     },
+     "page": "spelare/jonatan-berggren/"
+    },
+    {
+     "name": "Otto Stenberg",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Otto_Stenberg",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 0,
+      "toi": "11:12"
+     },
+     "page": "spelare/otto-stenberg/"
+    },
+    {
+     "name": "Philip Broberg",
+     "team": "Blues",
+     "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
+     "stats": {
+      "assists": 0,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 3,
+      "toi": "28:47"
+     },
+     "page": "spelare/philip-broberg/"
+    },
+    {
+     "name": "Nils Lundkvist",
+     "team": "Stars",
+     "url": "https://sv.wikipedia.org/wiki/Nils_Lundkvist",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 0,
+      "toi": "17:47"
+     },
+     "page": "spelare/nils-lundkvist/"
+    },
+    {
+     "name": "Oskar Bäck",
+     "team": "Stars",
+     "url": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck",
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/oskar-back/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "St. Louis Blues",
+     "page": "lag/st-louis-blues/"
+    },
+    {
+     "name": "Dallas Stars",
+     "page": "lag/dallas-stars/"
+    }
+   ],
+   "page": "match/st-louis-blues-dallas-stars-27-nov/"
+  },
+  {
+   "id": "565869",
+   "sport": "Fotboll",
+   "competition": "Bundesliga",
+   "start": "2026-11-27T19:30:00Z",
+   "title": "Bremen – M'gladbach",
+   "score": "3–3",
+   "swedes": [
+    {
+     "name": "Hugo Bolin",
+     "team": "M'gladbach",
+     "url": "https://sv.wikipedia.org/wiki/Hugo_Bolin",
+     "page": "spelare/hugo-bolin/"
+    },
+    {
+     "name": "Isac Lidberg",
+     "team": "M'gladbach",
+     "url": "https://sv.wikipedia.org/wiki/Isac_Lidberg",
+     "page": "spelare/isac-lidberg/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Bremen",
+     "page": "lag/bremen/"
+    },
+    {
+     "name": "M'gladbach",
+     "page": "lag/m-gladbach/"
+    }
+   ],
+   "page": "match/bremen-m-gladbach-27-nov/"
+  },
+  {
+   "id": "558515",
+   "sport": "Fotboll",
+   "competition": "Serie A",
+   "start": "2026-11-27T19:45:00Z",
+   "title": "Venezia FC – Bologna",
+   "score": "0–0",
+   "swedes": [
+    {
+     "name": "Emil Holm",
+     "team": "Bologna",
+     "url": "https://sv.wikipedia.org/wiki/Emil_Holm",
+     "page": "spelare/emil-holm/"
+    },
+    {
+     "name": "Jesper Karlsson",
+     "team": "Bologna",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Karlsson",
+     "page": "spelare/jesper-karlsson/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Venezia FC",
+     "page": "lag/venezia-fc/"
+    },
+    {
+     "name": "Bologna",
+     "page": "lag/bologna/"
+    }
+   ],
+   "page": "match/venezia-fc-bologna-27-nov/"
+  },
+  {
+   "id": "nhl-2026020407",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-27T20:00:00Z",
+   "title": "Columbus Blue Jackets – Detroit Red Wings",
+   "score": "0–2",
    "swedes": [
     {
      "name": "Isac Lundeström",
@@ -4446,39 +4975,93 @@
       "plusMinus": 0,
       "points": 0,
       "shots": 0,
-      "toi": "06:01"
+      "toi": "08:08"
      },
      "page": "spelare/isac-lundestrom/"
     },
     {
-     "name": "Jesper Boqvist",
-     "team": "Devils",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Boqvist",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -1,
-      "points": 0,
-      "shots": 0,
-      "toi": "08:32"
-     },
-     "page": "spelare/jesper-boqvist/"
-    },
-    {
-     "name": "Jesper Bratt",
-     "team": "Devils",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Bratt",
+     "name": "Albert Johansson",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)",
      "stats": {
       "assists": 1,
       "goals": 0,
       "kind": "skater",
       "plusMinus": 1,
       "points": 1,
-      "shots": 1,
-      "toi": "16:56"
+      "shots": 2,
+      "toi": "20:25"
      },
-     "page": "spelare/jesper-bratt/"
+     "page": "spelare/albert-johansson/"
+    },
+    {
+     "name": "Andreas Englund",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Andreas_Englund",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 0,
+      "toi": "14:05"
+     },
+     "page": "spelare/andreas-englund/"
+    },
+    {
+     "name": "Anton Johansson",
+     "team": "Red Wings",
+     "url": null,
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 2,
+      "toi": "14:08"
+     },
+     "page": "spelare/anton-johansson/"
+    },
+    {
+     "name": "Lucas Raymond",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Lucas_Raymond",
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 0,
+      "toi": "17:39"
+     },
+     "page": "spelare/lucas-raymond/"
+    },
+    {
+     "name": "Viktor Arvidsson",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 1,
+      "toi": "15:32"
+     },
+     "page": "spelare/viktor-arvidsson/"
+    },
+    {
+     "name": "William Wallinder",
+     "team": "Red Wings",
+     "url": "https://sv.wikipedia.org/wiki/William_Wallinder",
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/william-wallinder/"
     }
    ],
    "teams": [
@@ -4487,56 +5070,203 @@
      "page": "lag/columbus-blue-jackets/"
     },
     {
-     "name": "New Jersey Devils",
-     "page": "lag/new-jersey-devils/"
+     "name": "Detroit Red Wings",
+     "page": "lag/detroit-red-wings/"
     }
    ],
-   "page": "match/columbus-blue-jackets-new-jersey-devils-25-nov/"
+   "page": "match/columbus-blue-jackets-detroit-red-wings-27-nov/"
   },
   {
-   "id": "nhl-2026020389",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-26T00:00:00Z",
-   "title": "Florida Panthers – Ottawa Senators",
-   "score": "5–3",
+   "id": "564765",
+   "sport": "Fotboll",
+   "competition": "La Liga",
+   "start": "2026-11-27T20:00:00Z",
+   "title": "Levante – Santander",
+   "score": "1–3",
    "swedes": [
     {
-     "name": "Gustav Forsling",
-     "team": "Panthers",
-     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling",
+     "name": "Simon Eriksson",
+     "team": "Santander",
+     "url": null,
+     "page": "spelare/simon-eriksson/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Levante",
+     "page": "lag/levante/"
+    },
+    {
+     "name": "Santander",
+     "page": "lag/santander/"
+    }
+   ],
+   "page": "match/levante-santander-27-nov/"
+  },
+  {
+   "id": "nhl-2026020405",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-27T20:00:00Z",
+   "title": "Philadelphia Flyers – Vancouver Canucks",
+   "score": "5–2",
+   "swedes": [
+    {
+     "name": "Elias Pettersson #25",
+     "team": "Canucks",
+     "url": null,
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 0,
+      "toi": "15:17"
+     },
+     "page": "spelare/elias-pettersson-25/"
+    },
+    {
+     "name": "Elias Pettersson #40",
+     "team": "Canucks",
+     "url": null,
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/elias-pettersson-40/"
+    },
+    {
+     "name": "Jonathan Lekkerimäki",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
      "stats": {
       "assists": 1,
       "goals": 0,
       "kind": "skater",
-      "plusMinus": 0,
+      "plusMinus": -1,
       "points": 1,
-      "shots": 0,
-      "toi": "18:46"
+      "shots": 1,
+      "toi": "14:34"
      },
-     "page": "spelare/gustav-forsling/"
+     "page": "spelare/jonathan-lekkerimaki/"
     },
     {
-     "name": "Jacob Markstrom",
-     "team": "Panthers",
-     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
+     "name": "Liam Ohgren",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
      "stats": {
-      "decision": "W",
-      "goalsAgainst": 3,
-      "kind": "goalie",
-      "savePctg": 0.892857,
-      "saves": 25,
-      "shotsAgainst": 28,
-      "toi": "59:28"
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 2,
+      "toi": "13:50"
      },
-     "page": "spelare/jacob-markstrom/"
+     "page": "spelare/liam-ohgren/"
+    },
+    {
+     "name": "Linus Karlsson",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 2,
+      "toi": "14:54"
+     },
+     "page": "spelare/linus-karlsson/"
+    },
+    {
+     "name": "Tom Willander",
+     "team": "Canucks",
+     "url": "https://sv.wikipedia.org/wiki/Tom_Willander",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 0,
+      "toi": "17:12"
+     },
+     "page": "spelare/tom-willander/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Philadelphia Flyers",
+     "page": "lag/philadelphia-flyers/"
+    },
+    {
+     "name": "Vancouver Canucks",
+     "page": "lag/vancouver-canucks/"
+    }
+   ],
+   "page": "match/philadelphia-flyers-vancouver-canucks-27-nov/"
+  },
+  {
+   "id": "nhl-2026020404",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-27T20:00:00Z",
+   "title": "Tampa Bay Lightning – Ottawa Senators",
+   "score": "2–6",
+   "swedes": [
+    {
+     "name": "Dennis Hildeby",
+     "team": "Lightning",
+     "url": "https://sv.wikipedia.org/wiki/Dennis_Hildeby",
+     "stats": {
+      "decision": "L",
+      "goalsAgainst": 6,
+      "kind": "goalie",
+      "savePctg": 0.714286,
+      "saves": 15,
+      "shotsAgainst": 21,
+      "toi": "60:00"
+     },
+     "page": "spelare/dennis-hildeby/"
+    },
+    {
+     "name": "Pontus Holmberg",
+     "team": "Lightning",
+     "url": "https://sv.wikipedia.org/wiki/Pontus_Holmberg",
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/pontus-holmberg/"
+    },
+    {
+     "name": "Victor Hedman",
+     "team": "Lightning",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Hedman",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 0,
+      "toi": "03:43"
+     },
+     "page": "spelare/victor-hedman/"
     },
     {
      "name": "Andre Burakovsky",
      "team": "Senators",
      "url": "https://sv.wikipedia.org/wiki/Andr%C3%A9_Burakovsky",
      "stats": {
-      "kind": "dnp"
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 1,
+      "toi": "10:54"
      },
      "page": "spelare/andre-burakovsky/"
     },
@@ -4545,13 +5275,13 @@
      "team": "Senators",
      "url": "https://sv.wikipedia.org/wiki/Fabian_Zetterlund",
      "stats": {
-      "assists": 0,
+      "assists": 1,
       "goals": 0,
       "kind": "skater",
-      "plusMinus": 2,
-      "points": 0,
+      "plusMinus": 0,
+      "points": 1,
       "shots": 1,
-      "toi": "10:56"
+      "toi": "15:12"
      },
      "page": "spelare/fabian-zetterlund/"
     },
@@ -4560,13 +5290,13 @@
      "team": "Senators",
      "url": "https://sv.wikipedia.org/wiki/Linus_Ullmark",
      "stats": {
-      "decision": "L",
-      "goalsAgainst": 4,
+      "decision": "W",
+      "goalsAgainst": 2,
       "kind": "goalie",
-      "savePctg": 0.870968,
-      "saves": 27,
-      "shotsAgainst": 31,
-      "toi": "56:39"
+      "savePctg": 0.9,
+      "saves": 18,
+      "shotsAgainst": 20,
+      "toi": "60:00"
      },
      "page": "spelare/linus-ullmark/"
     },
@@ -4591,23 +5321,428 @@
    ],
    "teams": [
     {
-     "name": "Florida Panthers",
-     "page": "lag/florida-panthers/"
+     "name": "Tampa Bay Lightning",
+     "page": "lag/tampa-bay-lightning/"
     },
     {
      "name": "Ottawa Senators",
      "page": "lag/ottawa-senators/"
     }
    ],
-   "page": "match/florida-panthers-ottawa-senators-25-nov/"
+   "page": "match/tampa-bay-lightning-ottawa-senators-27-nov/"
   },
   {
-   "id": "nhl-2026020390",
+   "id": "nhl-2026020406",
    "sport": "Ishockey",
    "competition": "NHL",
-   "start": "2026-11-26T00:00:00Z",
-   "title": "New York Islanders – St. Louis Blues",
-   "score": "3–2 efter straffar",
+   "start": "2026-11-27T20:00:00Z",
+   "title": "Washington Capitals – Florida Panthers",
+   "score": "2–3",
+   "swedes": [
+    {
+     "name": "Rasmus Sandin",
+     "team": "Capitals",
+     "url": "https://sv.wikipedia.org/wiki/Rasmus_Sandin",
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/rasmus-sandin/"
+    },
+    {
+     "name": "Timothy Liljegren",
+     "team": "Capitals",
+     "url": "https://sv.wikipedia.org/wiki/Timothy_Liljegren",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 0,
+      "toi": "15:11"
+     },
+     "page": "spelare/timothy-liljegren/"
+    },
+    {
+     "name": "Gustav Forsling",
+     "team": "Panthers",
+     "url": "https://sv.wikipedia.org/wiki/Gustav_Forsling",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 0,
+      "shots": 2,
+      "toi": "23:41"
+     },
+     "page": "spelare/gustav-forsling/"
+    },
+    {
+     "name": "Jacob Markstrom",
+     "team": "Panthers",
+     "url": "https://sv.wikipedia.org/wiki/Jacob_Markstr%C3%B6m",
+     "stats": {
+      "decision": "W",
+      "goalsAgainst": 2,
+      "kind": "goalie",
+      "savePctg": 0.923077,
+      "saves": 24,
+      "shotsAgainst": 26,
+      "toi": "60:00"
+     },
+     "page": "spelare/jacob-markstrom/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Washington Capitals",
+     "page": "lag/washington-capitals/"
+    },
+    {
+     "name": "Florida Panthers",
+     "page": "lag/florida-panthers/"
+    }
+   ],
+   "page": "match/washington-capitals-florida-panthers-27-nov/"
+  },
+  {
+   "id": "nhl-2026020409",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-27T21:00:00Z",
+   "title": "Anaheim Ducks – Los Angeles Kings",
+   "score": "3–5",
+   "swedes": [
+    {
+     "name": "Leo Carlsson",
+     "team": "Ducks",
+     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/leo-carlsson/"
+    },
+    {
+     "name": "Adrian Kempe",
+     "team": "Kings",
+     "url": "https://sv.wikipedia.org/wiki/Adrian_Kempe",
+     "stats": {
+      "assists": 0,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 4,
+      "toi": "17:38"
+     },
+     "page": "spelare/adrian-kempe/"
+    },
+    {
+     "name": "Andre Lee",
+     "team": "Kings",
+     "url": "https://sv.wikipedia.org/wiki/Andre_Lee",
+     "stats": {
+      "assists": 0,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 1,
+      "toi": "08:57"
+     },
+     "page": "spelare/andre-lee/"
+    },
+    {
+     "name": "Anton Forsberg",
+     "team": "Kings",
+     "url": "https://sv.wikipedia.org/wiki/Anton_Forsberg",
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/anton-forsberg/"
+    },
+    {
+     "name": "Erik Gustafsson",
+     "team": "Kings",
+     "url": null,
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/erik-gustafsson/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Anaheim Ducks",
+     "page": "lag/anaheim-ducks/"
+    },
+    {
+     "name": "Los Angeles Kings",
+     "page": "lag/los-angeles-kings/"
+    }
+   ],
+   "page": "match/anaheim-ducks-los-angeles-kings-27-nov/"
+  },
+  {
+   "id": "nhl-2026020408",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-27T21:00:00Z",
+   "title": "Minnesota Wild – Colorado Avalanche",
+   "score": "3–4 efter straffar",
+   "swedes": [
+    {
+     "name": "Filip Gustavsson",
+     "team": "Wild",
+     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson",
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/filip-gustavsson/"
+    },
+    {
+     "name": "Jesper Wallstedt",
+     "team": "Wild",
+     "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
+     "stats": {
+      "decision": "O",
+      "goalsAgainst": 3,
+      "kind": "goalie",
+      "savePctg": 0.903226,
+      "saves": 28,
+      "shotsAgainst": 31,
+      "toi": "65:00"
+     },
+     "page": "spelare/jesper-wallstedt/"
+    },
+    {
+     "name": "Joel Eriksson Ek",
+     "team": "Wild",
+     "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek",
+     "stats": {
+      "assists": 0,
+      "goals": 2,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 2,
+      "shots": 5,
+      "toi": "22:47"
+     },
+     "page": "spelare/joel-eriksson-ek/"
+    },
+    {
+     "name": "Jonas Brodin",
+     "team": "Wild",
+     "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin",
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -2,
+      "points": 1,
+      "shots": 0,
+      "toi": "25:20"
+     },
+     "page": "spelare/jonas-brodin/"
+    },
+    {
+     "name": "Gabriel Landeskog",
+     "team": "Avalanche",
+     "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 0,
+      "shots": 2,
+      "toi": "18:45"
+     },
+     "page": "spelare/gabriel-landeskog/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Minnesota Wild",
+     "page": "lag/minnesota-wild/"
+    },
+    {
+     "name": "Colorado Avalanche",
+     "page": "lag/colorado-avalanche/"
+    }
+   ],
+   "page": "match/minnesota-wild-colorado-avalanche-27-nov/"
+  },
+  {
+   "id": "nhl-2026020410",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-27T21:00:00Z",
+   "title": "San Jose Sharks – Vegas Golden Knights",
+   "score": "4–1",
+   "swedes": [
+    {
+     "name": "Alexander Wennberg",
+     "team": "Sharks",
+     "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg",
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 4,
+      "toi": "16:12"
+     },
+     "page": "spelare/alexander-wennberg/"
+    },
+    {
+     "name": "Ivar Stenberg",
+     "team": "Sharks",
+     "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg",
+     "stats": {
+      "assists": 1,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 1,
+      "points": 1,
+      "shots": 2,
+      "toi": "18:51"
+     },
+     "page": "spelare/ivar-stenberg/"
+    },
+    {
+     "name": "Rasmus Andersson",
+     "team": "Golden Knights",
+     "url": null,
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 0,
+      "toi": "18:01"
+     },
+     "page": "spelare/rasmus-andersson/"
+    },
+    {
+     "name": "Victor Olofsson",
+     "team": "Golden Knights",
+     "url": "https://sv.wikipedia.org/wiki/Victor_Olofsson",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 6,
+      "toi": "17:51"
+     },
+     "page": "spelare/victor-olofsson/"
+    },
+    {
+     "name": "William Karlsson",
+     "team": "Golden Knights",
+     "url": "https://sv.wikipedia.org/wiki/William_Karlsson",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": -2,
+      "points": 0,
+      "shots": 1,
+      "toi": "14:39"
+     },
+     "page": "spelare/william-karlsson/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "San Jose Sharks",
+     "page": "lag/san-jose-sharks/"
+    },
+    {
+     "name": "Vegas Golden Knights",
+     "page": "lag/vegas-golden-knights/"
+    }
+   ],
+   "page": "match/san-jose-sharks-vegas-golden-knights-27-nov/"
+  },
+  {
+   "id": "nhl-2026020411",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-27T22:30:00Z",
+   "title": "Chicago Blackhawks – New York Rangers",
+   "score": "2–1",
+   "swedes": [
+    {
+     "name": "Anton Frondell",
+     "team": "Blackhawks",
+     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 1,
+      "toi": "18:16"
+     },
+     "page": "spelare/anton-frondell/"
+    },
+    {
+     "name": "Marcus Pettersson",
+     "team": "Rangers",
+     "url": "https://sv.wikipedia.org/wiki/Marcus_Pettersson",
+     "stats": {
+      "assists": 0,
+      "goals": 0,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 0,
+      "toi": "20:05"
+     },
+     "page": "spelare/marcus-pettersson/"
+    },
+    {
+     "name": "Mika Zibanejad",
+     "team": "Rangers",
+     "url": "https://sv.wikipedia.org/wiki/Mika_Zibanejad",
+     "stats": {
+      "assists": 0,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": 0,
+      "points": 1,
+      "shots": 4,
+      "toi": "21:56"
+     },
+     "page": "spelare/mika-zibanejad/"
+    }
+   ],
+   "teams": [
+    {
+     "name": "Chicago Blackhawks",
+     "page": "lag/chicago-blackhawks/"
+    },
+    {
+     "name": "New York Rangers",
+     "page": "lag/new-york-rangers/"
+    }
+   ],
+   "page": "match/chicago-blackhawks-new-york-rangers-27-nov/"
+  },
+  {
+   "id": "nhl-2026020412",
+   "sport": "Ishockey",
+   "competition": "NHL",
+   "start": "2026-11-28T00:30:00Z",
+   "title": "New York Islanders – Winnipeg Jets",
+   "score": "1–3",
    "swedes": [
     {
      "name": "Emil Heineman",
@@ -4619,8 +5754,8 @@
       "kind": "skater",
       "plusMinus": 0,
       "points": 0,
-      "shots": 0,
-      "toi": "15:08"
+      "shots": 2,
+      "toi": "14:57"
      },
      "page": "spelare/emil-heineman/"
     },
@@ -4632,10 +5767,10 @@
       "assists": 0,
       "goals": 0,
       "kind": "skater",
-      "plusMinus": 0,
+      "plusMinus": -1,
       "points": 0,
-      "shots": 0,
-      "toi": "21:56"
+      "shots": 1,
+      "toi": "19:04"
      },
      "page": "spelare/simon-holmstrom/"
     },
@@ -4645,68 +5780,53 @@
      "url": "https://sv.wikipedia.org/wiki/Victor_Eklund",
      "stats": {
       "assists": 0,
-      "goals": 1,
+      "goals": 0,
       "kind": "skater",
-      "plusMinus": 1,
-      "points": 1,
-      "shots": 3,
-      "toi": "15:06"
+      "plusMinus": 0,
+      "points": 0,
+      "shots": 0,
+      "toi": "17:40"
      },
      "page": "spelare/victor-eklund/"
     },
     {
-     "name": "Calle Rosen",
-     "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Calle_Ros%C3%A9n",
-     "stats": {
-      "kind": "dnp"
-     },
-     "page": "spelare/calle-rosen/"
-    },
-    {
-     "name": "Jonatan Berggren",
-     "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Jonatan_Berggren",
+     "name": "Elias Salomonsson",
+     "team": "Jets",
+     "url": "https://sv.wikipedia.org/wiki/Elias_Salomonsson",
      "stats": {
       "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 0,
-      "shots": 1,
-      "toi": "15:01"
-     },
-     "page": "spelare/jonatan-berggren/"
-    },
-    {
-     "name": "Otto Stenberg",
-     "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Otto_Stenberg",
-     "stats": {
-      "assists": 1,
       "goals": 0,
       "kind": "skater",
       "plusMinus": 1,
-      "points": 1,
-      "shots": 3,
-      "toi": "11:55"
+      "points": 0,
+      "shots": 1,
+      "toi": "17:01"
      },
-     "page": "spelare/otto-stenberg/"
+     "page": "spelare/elias-salomonsson/"
     },
     {
-     "name": "Philip Broberg",
-     "team": "Blues",
-     "url": "https://sv.wikipedia.org/wiki/Philip_Broberg",
+     "name": "Isak Rosen",
+     "team": "Jets",
+     "url": "https://sv.wikipedia.org/wiki/Isak_Ros%C3%A9n",
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/isak-rosen/"
+    },
+    {
+     "name": "Viggo Björck",
+     "team": "Jets",
+     "url": "https://sv.wikipedia.org/wiki/Viggo_Bj%C3%B6rck",
      "stats": {
       "assists": 0,
       "goals": 0,
       "kind": "skater",
-      "plusMinus": 0,
+      "plusMinus": -1,
       "points": 0,
-      "shots": 2,
-      "toi": "27:31"
+      "shots": 1,
+      "toi": "14:32"
      },
-     "page": "spelare/philip-broberg/"
+     "page": "spelare/viggo-bjorck/"
     }
    ],
    "teams": [
@@ -4715,20 +5835,44 @@
      "page": "lag/new-york-islanders/"
     },
     {
-     "name": "St. Louis Blues",
-     "page": "lag/st-louis-blues/"
+     "name": "Winnipeg Jets",
+     "page": "lag/winnipeg-jets/"
     }
    ],
-   "page": "match/new-york-islanders-st-louis-blues-25-nov/"
+   "page": "match/new-york-islanders-winnipeg-jets-27-nov/"
   },
   {
-   "id": "nhl-2026020391",
+   "id": "nhl-2026020413",
    "sport": "Ishockey",
    "competition": "NHL",
-   "start": "2026-11-26T00:00:00Z",
-   "title": "Pittsburgh Penguins – Calgary Flames",
+   "start": "2026-11-28T01:00:00Z",
+   "title": "Buffalo Sabres – Pittsburgh Penguins",
    "score": "3–6",
    "swedes": [
+    {
+     "name": "Noah Ostlund",
+     "team": "Sabres",
+     "url": "https://sv.wikipedia.org/wiki/Noah_%C3%96stlund",
+     "stats": {
+      "kind": "dnp"
+     },
+     "page": "spelare/noah-ostlund/"
+    },
+    {
+     "name": "Rasmus Dahlin",
+     "team": "Sabres",
+     "url": "https://sv.wikipedia.org/wiki/Rasmus_Dahlin",
+     "stats": {
+      "assists": 1,
+      "goals": 1,
+      "kind": "skater",
+      "plusMinus": -1,
+      "points": 2,
+      "shots": 1,
+      "toi": "27:07"
+     },
+     "page": "spelare/rasmus-dahlin/"
+    },
     {
      "name": "Elmer Soderblom",
      "team": "Penguins",
@@ -4746,10 +5890,10 @@
       "assists": 1,
       "goals": 0,
       "kind": "skater",
-      "plusMinus": -4,
+      "plusMinus": 3,
       "points": 1,
-      "shots": 2,
-      "toi": "21:13"
+      "shots": 1,
+      "toi": "21:00"
      },
      "page": "spelare/erik-karlsson/"
     },
@@ -4758,601 +5902,70 @@
      "team": "Penguins",
      "url": "https://sv.wikipedia.org/wiki/Rickard_Rakell",
      "stats": {
-      "assists": 1,
-      "goals": 1,
-      "kind": "skater",
-      "plusMinus": -4,
-      "points": 2,
-      "shots": 5,
-      "toi": "20:27"
-     },
-     "page": "spelare/rickard-rakell/"
-    },
-    {
-     "name": "Mikael Backlund",
-     "team": "Flames",
-     "url": "https://sv.wikipedia.org/wiki/Mikael_Backlund",
-     "stats": {
-      "assists": 1,
+      "assists": 0,
       "goals": 0,
       "kind": "skater",
-      "plusMinus": 2,
-      "points": 1,
-      "shots": 2,
-      "toi": "20:00"
+      "plusMinus": -1,
+      "points": 0,
+      "shots": 0,
+      "toi": "17:28"
      },
-     "page": "spelare/mikael-backlund/"
+     "page": "spelare/rickard-rakell/"
     }
    ],
    "teams": [
+    {
+     "name": "Buffalo Sabres",
+     "page": "lag/buffalo-sabres/"
+    },
     {
      "name": "Pittsburgh Penguins",
      "page": "lag/pittsburgh-penguins/"
-    },
-    {
-     "name": "Calgary Flames",
-     "page": "lag/calgary-flames/"
     }
    ],
-   "page": "match/pittsburgh-penguins-calgary-flames-25-nov/"
+   "page": "match/buffalo-sabres-pittsburgh-penguins-27-nov/"
   },
   {
-   "id": "nhl-2026020388",
+   "id": "nhl-2026020414",
    "sport": "Ishockey",
    "competition": "NHL",
-   "start": "2026-11-26T00:00:00Z",
-   "title": "Tampa Bay Lightning – Carolina Hurricanes",
-   "score": "1–3",
+   "start": "2026-11-28T01:00:00Z",
+   "title": "Edmonton Oilers – Seattle Kraken",
+   "score": "2–4",
    "swedes": [
     {
-     "name": "Dennis Hildeby",
-     "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Dennis_Hildeby",
+     "name": "Filip Hallander",
+     "team": "Oilers",
+     "url": "https://sv.wikipedia.org/wiki/Filip_H%C3%A5llander",
      "stats": {
       "kind": "dnp"
      },
-     "page": "spelare/dennis-hildeby/"
+     "page": "spelare/filip-hallander/"
     },
     {
-     "name": "Pontus Holmberg",
-     "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Pontus_Holmberg",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 0,
-      "shots": 2,
-      "toi": "06:34"
-     },
-     "page": "spelare/pontus-holmberg/"
-    },
-    {
-     "name": "Victor Hedman",
-     "team": "Lightning",
-     "url": "https://sv.wikipedia.org/wiki/Victor_Hedman",
-     "stats": {
-      "kind": "dnp"
-     },
-     "page": "spelare/victor-hedman/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Tampa Bay Lightning",
-     "page": "lag/tampa-bay-lightning/"
-    },
-    {
-     "name": "Carolina Hurricanes",
-     "page": "lag/carolina-hurricanes/"
-    }
-   ],
-   "page": "match/tampa-bay-lightning-carolina-hurricanes-25-nov/"
-  },
-  {
-   "id": "nhl-2026020392",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-26T00:00:00Z",
-   "title": "Washington Capitals – Philadelphia Flyers",
-   "score": "7–3",
-   "swedes": [
-    {
-     "name": "Rasmus Sandin",
-     "team": "Capitals",
-     "url": "https://sv.wikipedia.org/wiki/Rasmus_Sandin",
-     "stats": {
-      "kind": "dnp"
-     },
-     "page": "spelare/rasmus-sandin/"
-    },
-    {
-     "name": "Timothy Liljegren",
-     "team": "Capitals",
-     "url": "https://sv.wikipedia.org/wiki/Timothy_Liljegren",
+     "name": "Mattias Ekholm",
+     "team": "Oilers",
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Ekholm",
      "stats": {
       "assists": 1,
       "goals": 0,
       "kind": "skater",
-      "plusMinus": 2,
+      "plusMinus": -2,
       "points": 1,
-      "shots": 0,
-      "toi": "15:29"
+      "shots": 1,
+      "toi": "16:03"
      },
-     "page": "spelare/timothy-liljegren/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Washington Capitals",
-     "page": "lag/washington-capitals/"
+     "page": "spelare/mattias-ekholm/"
     },
     {
-     "name": "Philadelphia Flyers",
-     "page": "lag/philadelphia-flyers/"
-    }
-   ],
-   "page": "match/washington-capitals-philadelphia-flyers-25-nov/"
-  },
-  {
-   "id": "nhl-2026020394",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-26T00:30:00Z",
-   "title": "Detroit Red Wings – Vancouver Canucks",
-   "score": "5–1",
-   "swedes": [
-    {
-     "name": "Albert Johansson",
-     "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Albert_Johansson_(ishockeyspelare)",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 1,
-      "points": 0,
-      "shots": 2,
-      "toi": "20:49"
-     },
-     "page": "spelare/albert-johansson/"
-    },
-    {
-     "name": "Andreas Englund",
-     "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Andreas_Englund",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 0,
-      "shots": 0,
-      "toi": "15:09"
-     },
-     "page": "spelare/andreas-englund/"
-    },
-    {
-     "name": "Anton Johansson",
-     "team": "Red Wings",
-     "url": null,
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 0,
-      "shots": 0,
-      "toi": "13:58"
-     },
-     "page": "spelare/anton-johansson/"
-    },
-    {
-     "name": "Lucas Raymond",
-     "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Lucas_Raymond",
-     "stats": {
-      "assists": 0,
-      "goals": 1,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 1,
-      "shots": 3,
-      "toi": "16:47"
-     },
-     "page": "spelare/lucas-raymond/"
-    },
-    {
-     "name": "Viktor Arvidsson",
-     "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/Viktor_Arvidsson",
-     "stats": {
-      "assists": 2,
-      "goals": 1,
-      "kind": "skater",
-      "plusMinus": 3,
-      "points": 3,
-      "shots": 2,
-      "toi": "11:36"
-     },
-     "page": "spelare/viktor-arvidsson/"
-    },
-    {
-     "name": "William Wallinder",
-     "team": "Red Wings",
-     "url": "https://sv.wikipedia.org/wiki/William_Wallinder",
+     "name": "Mattias Janmark",
+     "team": "Oilers",
+     "url": "https://sv.wikipedia.org/wiki/Mattias_Janmark",
      "stats": {
       "kind": "dnp"
      },
-     "page": "spelare/william-wallinder/"
+     "page": "spelare/mattias-janmark/"
     },
-    {
-     "name": "Elias Pettersson #25",
-     "team": "Canucks",
-     "url": null,
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -2,
-      "points": 0,
-      "shots": 2,
-      "toi": "13:46"
-     },
-     "page": "spelare/elias-pettersson-25/"
-    },
-    {
-     "name": "Elias Pettersson #40",
-     "team": "Canucks",
-     "url": null,
-     "stats": {
-      "kind": "dnp"
-     },
-     "page": "spelare/elias-pettersson-40/"
-    },
-    {
-     "name": "Jonathan Lekkerimäki",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Jonathan_Lekkerim%C3%A4ki",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -2,
-      "points": 0,
-      "shots": 1,
-      "toi": "12:54"
-     },
-     "page": "spelare/jonathan-lekkerimaki/"
-    },
-    {
-     "name": "Liam Ohgren",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Liam_%C3%96hgren",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -2,
-      "points": 0,
-      "shots": 3,
-      "toi": "13:00"
-     },
-     "page": "spelare/liam-ohgren/"
-    },
-    {
-     "name": "Linus Karlsson",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Linus_Karlsson",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -2,
-      "points": 0,
-      "shots": 4,
-      "toi": "16:35"
-     },
-     "page": "spelare/linus-karlsson/"
-    },
-    {
-     "name": "Tom Willander",
-     "team": "Canucks",
-     "url": "https://sv.wikipedia.org/wiki/Tom_Willander",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -2,
-      "points": 0,
-      "shots": 2,
-      "toi": "19:37"
-     },
-     "page": "spelare/tom-willander/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Detroit Red Wings",
-     "page": "lag/detroit-red-wings/"
-    },
-    {
-     "name": "Vancouver Canucks",
-     "page": "lag/vancouver-canucks/"
-    }
-   ],
-   "page": "match/detroit-red-wings-vancouver-canucks-25-nov/"
-  },
-  {
-   "id": "nhl-2026020395",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-26T01:00:00Z",
-   "title": "Dallas Stars – Nashville Predators",
-   "score": "1–3",
-   "swedes": [
-    {
-     "name": "Nils Lundkvist",
-     "team": "Stars",
-     "url": "https://sv.wikipedia.org/wiki/Nils_Lundkvist",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -1,
-      "points": 0,
-      "shots": 2,
-      "toi": "19:05"
-     },
-     "page": "spelare/nils-lundkvist/"
-    },
-    {
-     "name": "Oskar Bäck",
-     "team": "Stars",
-     "url": "https://sv.wikipedia.org/wiki/Oskar_B%C3%A4ck",
-     "stats": {
-      "kind": "dnp"
-     },
-     "page": "spelare/oskar-back/"
-    },
-    {
-     "name": "Adam Edstrom",
-     "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Edstr%C3%B6m",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 0,
-      "shots": 2,
-      "toi": "13:06"
-     },
-     "page": "spelare/adam-edstrom/"
-    },
-    {
-     "name": "Adam Wilsby",
-     "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Wilsby",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 1,
-      "points": 0,
-      "shots": 0,
-      "toi": "18:16"
-     },
-     "page": "spelare/adam-wilsby/"
-    },
-    {
-     "name": "Filip Forsberg",
-     "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Forsberg",
-     "stats": {
-      "assists": 1,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 2,
-      "points": 1,
-      "shots": 3,
-      "toi": "18:01"
-     },
-     "page": "spelare/filip-forsberg/"
-    },
-    {
-     "name": "Nils Hoglander",
-     "team": "Predators",
-     "url": "https://sv.wikipedia.org/wiki/Nils_H%C3%B6glander",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 0,
-      "shots": 0,
-      "toi": "10:01"
-     },
-     "page": "spelare/nils-hoglander/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Dallas Stars",
-     "page": "lag/dallas-stars/"
-    },
-    {
-     "name": "Nashville Predators",
-     "page": "lag/nashville-predators/"
-    }
-   ],
-   "page": "match/dallas-stars-nashville-predators-25-nov/"
-  },
-  {
-   "id": "nhl-2026020396",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-26T01:00:00Z",
-   "title": "Minnesota Wild – Utah Mammoth",
-   "score": "3–4",
-   "swedes": [
-    {
-     "name": "Filip Gustavsson",
-     "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Filip_Gustavsson",
-     "stats": {
-      "kind": "dnp"
-     },
-     "page": "spelare/filip-gustavsson/"
-    },
-    {
-     "name": "Jesper Wallstedt",
-     "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Jesper_Wallstedt",
-     "stats": {
-      "decision": "L",
-      "goalsAgainst": 4,
-      "kind": "goalie",
-      "savePctg": 0.8,
-      "saves": 16,
-      "shotsAgainst": 20,
-      "toi": "58:36"
-     },
-     "page": "spelare/jesper-wallstedt/"
-    },
-    {
-     "name": "Joel Eriksson Ek",
-     "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Joel_Eriksson_Ek",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -1,
-      "points": 0,
-      "shots": 5,
-      "toi": "21:44"
-     },
-     "page": "spelare/joel-eriksson-ek/"
-    },
-    {
-     "name": "Jonas Brodin",
-     "team": "Wild",
-     "url": "https://sv.wikipedia.org/wiki/Jonas_Brodin",
-     "stats": {
-      "assists": 1,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 1,
-      "points": 1,
-      "shots": 1,
-      "toi": "21:51"
-     },
-     "page": "spelare/jonas-brodin/"
-    },
-    {
-     "name": "Kevin Stenlund",
-     "team": "Mammoth",
-     "url": "https://sv.wikipedia.org/wiki/Kevin_Stenlund",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 1,
-      "points": 0,
-      "shots": 0,
-      "toi": "14:14"
-     },
-     "page": "spelare/kevin-stenlund/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Minnesota Wild",
-     "page": "lag/minnesota-wild/"
-    },
-    {
-     "name": "Utah Mammoth",
-     "page": "lag/utah-mammoth/"
-    }
-   ],
-   "page": "match/minnesota-wild-utah-mammoth-25-nov/"
-  },
-  {
-   "id": "nhl-2026020397",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-26T02:30:00Z",
-   "title": "Colorado Avalanche – Montréal Canadiens",
-   "score": "6–0",
-   "swedes": [
-    {
-     "name": "Gabriel Landeskog",
-     "team": "Avalanche",
-     "url": "https://sv.wikipedia.org/wiki/Gabriel_Landeskog",
-     "stats": {
-      "assists": 0,
-      "goals": 1,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 1,
-      "shots": 2,
-      "toi": "17:07"
-     },
-     "page": "spelare/gabriel-landeskog/"
-    },
-    {
-     "name": "Adam Engstrom",
-     "team": "Canadiens",
-     "url": "https://sv.wikipedia.org/wiki/Adam_Engstr%C3%B6m",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -1,
-      "points": 0,
-      "shots": 1,
-      "toi": "19:16"
-     },
-     "page": "spelare/adam-engstrom/"
-    },
-    {
-     "name": "Oliver Kapanen",
-     "team": "Canadiens",
-     "url": null,
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 0,
-      "shots": 1,
-      "toi": "11:11"
-     },
-     "page": "spelare/oliver-kapanen/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Colorado Avalanche",
-     "page": "lag/colorado-avalanche/"
-    },
-    {
-     "name": "Montréal Canadiens",
-     "page": "lag/montreal-canadiens/"
-    }
-   ],
-   "page": "match/colorado-avalanche-montreal-canadiens-25-nov/"
-  },
-  {
-   "id": "nhl-2026020399",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-26T02:40:00Z",
-   "title": "Seattle Kraken – Chicago Blackhawks",
-   "score": "1–3",
-   "swedes": [
     {
      "name": "Adam Larsson",
      "team": "Kraken",
@@ -5361,100 +5974,25 @@
       "assists": 0,
       "goals": 0,
       "kind": "skater",
-      "plusMinus": 0,
+      "plusMinus": 3,
       "points": 0,
       "shots": 1,
-      "toi": "16:59"
+      "toi": "20:33"
      },
      "page": "spelare/adam-larsson/"
-    },
-    {
-     "name": "Anton Frondell",
-     "team": "Blackhawks",
-     "url": "https://sv.wikipedia.org/wiki/Anton_Frondell",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": 0,
-      "points": 0,
-      "shots": 2,
-      "toi": "14:25"
-     },
-     "page": "spelare/anton-frondell/"
     }
    ],
    "teams": [
+    {
+     "name": "Edmonton Oilers",
+     "page": "lag/edmonton-oilers/"
+    },
     {
      "name": "Seattle Kraken",
      "page": "lag/seattle-kraken/"
-    },
-    {
-     "name": "Chicago Blackhawks",
-     "page": "lag/chicago-blackhawks/"
     }
    ],
-   "page": "match/seattle-kraken-chicago-blackhawks-25-nov/"
-  },
-  {
-   "id": "nhl-2026020398",
-   "sport": "Ishockey",
-   "competition": "NHL",
-   "start": "2026-11-26T03:00:00Z",
-   "title": "Anaheim Ducks – San Jose Sharks",
-   "score": "7–0",
-   "swedes": [
-    {
-     "name": "Leo Carlsson",
-     "team": "Ducks",
-     "url": "https://sv.wikipedia.org/wiki/Leo_Carlsson",
-     "stats": {
-      "kind": "dnp"
-     },
-     "page": "spelare/leo-carlsson/"
-    },
-    {
-     "name": "Alexander Wennberg",
-     "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Alexander_Wennberg",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -1,
-      "points": 0,
-      "shots": 1,
-      "toi": "15:13"
-     },
-     "page": "spelare/alexander-wennberg/"
-    },
-    {
-     "name": "Ivar Stenberg",
-     "team": "Sharks",
-     "url": "https://sv.wikipedia.org/wiki/Ivar_Stenberg",
-     "stats": {
-      "assists": 0,
-      "goals": 0,
-      "kind": "skater",
-      "plusMinus": -2,
-      "points": 0,
-      "shots": 1,
-      "toi": "15:38"
-     },
-     "page": "spelare/ivar-stenberg/"
-    }
-   ],
-   "teams": [
-    {
-     "name": "Anaheim Ducks",
-     "page": "lag/anaheim-ducks/"
-    },
-    {
-     "name": "San Jose Sharks",
-     "page": "lag/san-jose-sharks/"
-    }
-   ],
-   "page": "match/anaheim-ducks-san-jose-sharks-25-nov/"
+   "page": "match/edmonton-oilers-seattle-kraken-27-nov/"
   }
  ]
 }

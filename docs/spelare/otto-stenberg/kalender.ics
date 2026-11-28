@@ -38,14 +38,13 @@ URL:https://patv.se/match/new-york-islanders-st-louis-blues-25-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020403@patv.se
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261127T200000
 DTEND;TZID=Europe/Stockholm:20261127T230000
-SUMMARY:St. Louis Blues – Dallas Stars (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Calle Rosén\, Jonatan Berggren\, Otto Stenberg\, Philip Broberg\, Ni
- ls Lundkvist\, Oskar Bäck. https://patv.se/match/st-louis-blues-dallas-st
- ars-27-nov/
+SUMMARY:St. Louis Blues – Dallas Stars 5–3
+DESCRIPTION:NHL. Slutresultat 5–3. Svenskar: Calle Rosen\, Jonatan Berggr
+ en\, Otto Stenberg\, Philip Broberg\, Nils Lundkvist\, Oskar Bäck. https:
+ //patv.se/match/st-louis-blues-dallas-stars-27-nov/
 URL:https://patv.se/match/st-louis-blues-dallas-stars-27-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -71,5 +70,17 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  mer Söderblom\, Erik Karlsson\, Rickard Rakell. https://patv.se/match/st-
  louis-blues-pittsburgh-penguins-2-dec/
 URL:https://patv.se/match/st-louis-blues-pittsburgh-penguins-2-dec/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020461@patv.se
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Stockholm:20261205T020000
+DTEND;TZID=Europe/Stockholm:20261205T050000
+SUMMARY:St. Louis Blues – Chicago Blackhawks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Calle Rosén\, Jonatan Berggren\, Otto Stenberg\, Philip Broberg\, An
+ ton Frondell. https://patv.se/match/st-louis-blues-chicago-blackhawks-4-de
+ c/
+URL:https://patv.se/match/st-louis-blues-chicago-blackhawks-4-dec/
 END:VEVENT
 END:VCALENDAR

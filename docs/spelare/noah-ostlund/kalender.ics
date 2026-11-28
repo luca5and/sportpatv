@@ -70,14 +70,13 @@ URL:https://patv.se/match/buffalo-sabres-new-york-rangers-25-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020413@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261128T020000
 DTEND;TZID=Europe/Stockholm:20261128T050000
-SUMMARY:Buffalo Sabres – Pittsburgh Penguins (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Noah Östlund\, Rasmus Dahlin\, Elmer Söderblom\, Erik Karlsson\, Ri
- ckard Rakell. https://patv.se/match/buffalo-sabres-pittsburgh-penguins-27-
- nov/
+SUMMARY:Buffalo Sabres – Pittsburgh Penguins 3–6
+DESCRIPTION:NHL. Slutresultat 3–6. Svenskar: Noah Ostlund\, Rasmus Dahlin
+ \, Elmer Soderblom\, Erik Karlsson\, Rickard Rakell. https://patv.se/match
+ /buffalo-sabres-pittsburgh-penguins-27-nov/
 URL:https://patv.se/match/buffalo-sabres-pittsburgh-penguins-27-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -102,5 +101,17 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  kar: Mikael Backlund\, Noah Östlund\, Rasmus Dahlin. https://patv.se/matc
  h/calgary-flames-buffalo-sabres-3-dec/
 URL:https://patv.se/match/calgary-flames-buffalo-sabres-3-dec/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020462@patv.se
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Stockholm:20261205T030000
+DTEND;TZID=Europe/Stockholm:20261205T060000
+SUMMARY:Vancouver Canucks – Buffalo Sabres (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Elias Pettersson #25\, Elias Pettersson #40\, Jonathan Lekkerimäki\,
+  Liam Öhgren\, Linus Karlsson\, Tom Willander\, Noah Östlund\, Rasmus Da
+ hlin. https://patv.se/match/vancouver-canucks-buffalo-sabres-4-dec/
+URL:https://patv.se/match/vancouver-canucks-buffalo-sabres-4-dec/
 END:VEVENT
 END:VCALENDAR

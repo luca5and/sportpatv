@@ -34,4 +34,14 @@ DESCRIPTION:Ligue 1. Slutresultat 2–3. Svenskar: Isak Jansson. https://pa
  tv.se/match/nice-psg-21-nov/
 URL:https://patv.se/match/nice-psg-21-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:559609@patv.se
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Stockholm:20261204T204500
+DTEND;TZID=Europe/Stockholm:20261204T224500
+SUMMARY:Toulouse – PSG (Viaplay)
+DESCRIPTION:Ligue 1. TV i Sverige: Viaplay. Svenskar: Sion Oppong. https://
+ patv.se/match/toulouse-psg-4-dec/
+URL:https://patv.se/match/toulouse-psg-4-dec/
+END:VEVENT
 END:VCALENDAR

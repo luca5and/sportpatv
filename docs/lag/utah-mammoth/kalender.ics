@@ -68,13 +68,13 @@ URL:https://patv.se/match/minnesota-wild-utah-mammoth-25-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020402@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261127T190000
 DTEND;TZID=Europe/Stockholm:20261127T220000
-SUMMARY:Nashville Predators – Utah Mammoth (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Adam Edström\, Adam Wilsby\, Filip Forsberg\, Nils Höglander\, Kevi
- n Stenlund. https://patv.se/match/nashville-predators-utah-mammoth-27-nov/
+SUMMARY:Nashville Predators – Utah Mammoth 5–6 efter straffar
+DESCRIPTION:NHL. Slutresultat 5–6 efter straffar. Svenskar: Adam Edstrom\
+ , Adam Wilsby\, Filip Forsberg\, Nils Hoglander\, Kevin Stenlund. https://
+ patv.se/match/nashville-predators-utah-mammoth-27-nov/
 URL:https://patv.se/match/nashville-predators-utah-mammoth-27-nov/
 END:VEVENT
 BEGIN:VEVENT

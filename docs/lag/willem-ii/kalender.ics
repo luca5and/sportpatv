@@ -36,13 +36,13 @@ URL:https://patv.se/match/twente-willem-ii-22-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:558820@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261127T200000
 DTEND;TZID=Europe/Stockholm:20261127T220000
-SUMMARY:Groningen – Willem II (Viaplay)
-DESCRIPTION:Eredivisie. TV i Sverige: Viaplay. Svenskar: Alvin Nordin\, Elv
- is van der Laan\, Jacob Ondrejka\, Malcolm Jeng\, Armin Ćulum. https://pa
- tv.se/match/groningen-willem-ii-27-nov/
+SUMMARY:Groningen – Willem II 1–1
+DESCRIPTION:Eredivisie. Slutresultat 1–1. Svenskar: Alvin Nordin\, Elvis 
+ Van Der Laan\, Jacob Ondrejka\, Malcolm Jeng\, Armin Ćulum. https://patv.
+ se/match/groningen-willem-ii-27-nov/
 URL:https://patv.se/match/groningen-willem-ii-27-nov/
 END:VEVENT
 END:VCALENDAR

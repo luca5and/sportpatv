@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:558515@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261127T204500
 DTEND;TZID=Europe/Stockholm:20261127T224500
-SUMMARY:Venezia FC – Bologna (TV4 Play)
-DESCRIPTION:Serie A. TV i Sverige: TV4 Play. Svenskar: Emil Holm\, Jesper K
- arlsson. https://patv.se/match/venezia-fc-bologna-27-nov/
+SUMMARY:Venezia FC – Bologna 0–0
+DESCRIPTION:Serie A. Slutresultat 0–0. Svenskar: Emil Holm\, Jesper Karls
+ son. https://patv.se/match/venezia-fc-bologna-27-nov/
 URL:https://patv.se/match/venezia-fc-bologna-27-nov/
 END:VEVENT
 END:VCALENDAR

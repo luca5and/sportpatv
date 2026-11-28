@@ -59,14 +59,14 @@ URL:https://patv.se/match/tampa-bay-lightning-carolina-hurricanes-25-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020404@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261127T210000
 DTEND;TZID=Europe/Stockholm:20261128T000000
-SUMMARY:Tampa Bay Lightning – Ottawa Senators (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Dennis Hildeby\, Pontus Holmberg\, Victor Hedman\, André Burakovsky\
- , Fabian Zetterlund\, Linus Ullmark\, Samuel Ersson\, William Eklund. http
- s://patv.se/match/tampa-bay-lightning-ottawa-senators-27-nov/
+SUMMARY:Tampa Bay Lightning – Ottawa Senators 2–6
+DESCRIPTION:NHL. Slutresultat 2–6. Svenskar: Dennis Hildeby\, Pontus Holm
+ berg\, Victor Hedman\, Andre Burakovsky\, Fabian Zetterlund\, Linus Ullmar
+ k\, Samuel Ersson\, William Eklund. https://patv.se/match/tampa-bay-lightn
+ ing-ottawa-senators-27-nov/
 URL:https://patv.se/match/tampa-bay-lightning-ottawa-senators-27-nov/
 END:VEVENT
 BEGIN:VEVENT

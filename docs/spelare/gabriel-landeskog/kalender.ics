@@ -57,14 +57,13 @@ URL:https://patv.se/match/colorado-avalanche-montreal-canadiens-25-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020408@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261127T220000
 DTEND;TZID=Europe/Stockholm:20261128T010000
-SUMMARY:Minnesota Wild – Colorado Avalanche (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Filip Gustavsson\, Jesper Wallstedt\, Joel Eriksson Ek\, Jonas Brodin
- \, Gabriel Landeskog. https://patv.se/match/minnesota-wild-colorado-avalan
- che-27-nov/
+SUMMARY:Minnesota Wild – Colorado Avalanche 3–4 efter straffar
+DESCRIPTION:NHL. Slutresultat 3–4 efter straffar. Svenskar: Filip Gustavs
+ son\, Jesper Wallstedt\, Joel Eriksson Ek\, Jonas Brodin\, Gabriel Landesk
+ og. https://patv.se/match/minnesota-wild-colorado-avalanche-27-nov/
 URL:https://patv.se/match/minnesota-wild-colorado-avalanche-27-nov/
 END:VEVENT
 BEGIN:VEVENT

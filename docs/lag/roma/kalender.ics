@@ -44,4 +44,14 @@ DESCRIPTION:Serie A. TV i Sverige: TV4 Play. Svenskar: Noel Törnqvist. htt
  ps://patv.se/match/roma-monza-29-nov/
 URL:https://patv.se/match/roma-monza-29-nov/
 END:VEVENT
+BEGIN:VEVENT
+UID:558502@patv.se
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Stockholm:20261204T204500
+DTEND;TZID=Europe/Stockholm:20261204T224500
+SUMMARY:Bologna – Roma (TV4 Play)
+DESCRIPTION:Serie A. TV i Sverige: TV4 Play. Svenskar: Emil Holm\, Jesper K
+ arlsson. https://patv.se/match/bologna-roma-4-dec/
+URL:https://patv.se/match/bologna-roma-4-dec/
+END:VEVENT
 END:VCALENDAR

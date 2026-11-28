@@ -71,13 +71,13 @@ URL:https://patv.se/match/edmonton-oilers-vegas-golden-knights-24-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020414@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261128T020000
 DTEND;TZID=Europe/Stockholm:20261128T050000
-SUMMARY:Edmonton Oilers – Seattle Kraken (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Filip Hållander\, Mattias Ekholm\, Mattias Janmark\, Adam Larsson. h
- ttps://patv.se/match/edmonton-oilers-seattle-kraken-27-nov/
+SUMMARY:Edmonton Oilers – Seattle Kraken 2–4
+DESCRIPTION:NHL. Slutresultat 2–4. Svenskar: Filip Hallander\, Mattias Ek
+ holm\, Mattias Janmark\, Adam Larsson. https://patv.se/match/edmonton-oile
+ rs-seattle-kraken-27-nov/
 URL:https://patv.se/match/edmonton-oilers-seattle-kraken-27-nov/
 END:VEVENT
 BEGIN:VEVENT

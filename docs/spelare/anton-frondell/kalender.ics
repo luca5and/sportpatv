@@ -70,13 +70,13 @@ URL:https://patv.se/match/seattle-kraken-chicago-blackhawks-25-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020411@patv.se
-DTSTAMP:20261121T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261127T233000
 DTEND;TZID=Europe/Stockholm:20261128T023000
-SUMMARY:Chicago Blackhawks – New York Rangers (Viaplay eller Disney+?)
-DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
- kar: Anton Frondell\, Marcus Pettersson\, Mika Zibanejad. https://patv.se/
- match/chicago-blackhawks-new-york-rangers-27-nov/
+SUMMARY:Chicago Blackhawks – New York Rangers 2–1
+DESCRIPTION:NHL. Slutresultat 2–1. Svenskar: Anton Frondell\, Marcus Pett
+ ersson\, Mika Zibanejad. https://patv.se/match/chicago-blackhawks-new-york
+ -rangers-27-nov/
 URL:https://patv.se/match/chicago-blackhawks-new-york-rangers-27-nov/
 END:VEVENT
 BEGIN:VEVENT
@@ -113,5 +113,17 @@ DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
  n Frondell. https://patv.se/match/nashville-predators-chicago-blackhawks-3
  -dec/
 URL:https://patv.se/match/nashville-predators-chicago-blackhawks-3-dec/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020461@patv.se
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Stockholm:20261205T020000
+DTEND;TZID=Europe/Stockholm:20261205T050000
+SUMMARY:St. Louis Blues – Chicago Blackhawks (Viaplay eller Disney+?)
+DESCRIPTION:NHL. TV i Sverige: Viaplay eller Disney+ (ej bekräftat). Svens
+ kar: Calle Rosén\, Jonatan Berggren\, Otto Stenberg\, Philip Broberg\, An
+ ton Frondell. https://patv.se/match/st-louis-blues-chicago-blackhawks-4-de
+ c/
+URL:https://patv.se/match/st-louis-blues-chicago-blackhawks-4-dec/
 END:VEVENT
 END:VCALENDAR
