@@ -46,12 +46,12 @@ URL:https://patv.se/match/club-brugge-liverpool-25-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:560656@patv.se
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Stockholm:20261129T130000
 DTEND;TZID=Europe/Stockholm:20261129T150000
 SUMMARY:Everton – Liverpool (Prime Video)
-DESCRIPTION:Premier League. TV i Sverige: Prime Video (bör sändas). Svens
- kar: Alexander Isak. https://patv.se/match/everton-liverpool-29-nov/
+DESCRIPTION:Premier League. TV i Sverige: Prime Video. Svenskar: Alexander 
+ Isak. https://patv.se/match/everton-liverpool-29-nov/
 URL:https://patv.se/match/everton-liverpool-29-nov/
 END:VEVENT
 BEGIN:VEVENT

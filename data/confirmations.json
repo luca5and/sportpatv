@@ -269,11 +269,11 @@
       "service": "Prime Video",
       "channel": null,
       "source": "https://www.tvsporten.nu/liga/premier-league",
-      "single_source": true,
-      "note": "tvmatchen.nu anger också Prime Video men delar data med tvsporten; hurbra.se: kanal ej bekräftad 26 nov.",
+      "note": "hurbra.se dagsguide 29 nov anger Prime Video (veckoguiden hade ej bekräftat); tvmatchen.nu delar data med tvsporten.",
       "competition": "PL",
       "matchday": 12,
-      "checked": "2026-11-26"
+      "checked": "2026-11-28",
+      "source_2": "https://hurbra.se/sport-pa-tv-29-november-2026/"
     }
   }
 }
